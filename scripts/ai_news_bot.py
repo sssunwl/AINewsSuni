@@ -66,7 +66,8 @@ def get_pub_date(entry):
 # ── 翻譯 ─────────────────────────────────────────────────────────────
 _cache = {}
 _NAME_FIXES = {
-    "克勞德":"Claude","寓言 5":"Fable 5","寓言5":"Fable 5","寓言":"Fable",
+    "克勞德":"Claude",
+    "法布爾":"Fable","寓言 5":"Fable 5","寓言5":"Fable 5","寓言":"Fable",
     "開放人工智慧":"OpenAI","開放AI":"OpenAI",
     "聊天GPT":"ChatGPT","聊天 GPT":"ChatGPT",
     "雙子座":"Gemini","美達":"Meta","格羅克":"Grok",
@@ -102,7 +103,9 @@ def translate_items(news, tools):
         item["title"]   = translate(item["title"])
         item["summary"] = translate(item["summary"])
     for item in tools:
-        item["title"] = translate(item["title"])
+        item["title_en"] = item["title"]          # 保留英文原名
+        zh = translate(item["title"])
+        item["title"] = f"{zh} ({item['title_en']})" if zh != item["title_en"] else zh
         item["desc"]  = translate(item.get("desc",""))
     print("  done")
 
@@ -201,7 +204,7 @@ def build_tg(news, tools, sun_news, sun_tools, major, pick):
     lines = [
         "🤖 <b>Steve's Daily AI Brief</b>",
         f"<i>{today} {weekday}</i>","",
-        "━━━━━━━━━━━━━━","🔥 <b>今日 AI 熱聞</b>","",
+        "🔥 <b>今日 AI 熱聞</b>","",
     ]
     if news:
         for i,item in enumerate(news[:5],1):
@@ -210,7 +213,8 @@ def build_tg(news, tools, sun_news, sun_tools, major, pick):
             lines.append("")
     else:
         lines += ["<i>今日暫無新聞</i>",""]
-    lines += ["━━━━━━━━━━━━━━","🛠️ <b>新 AI 工具</b>",""]
+
+    lines += ["🛠️ <b>新 AI 工具</b>",""]
     if tools:
         for item in tools[:4]:
             lines.append(f'• <a href="{item["link"]}">{esc(item["title"])}</a>')
@@ -218,8 +222,9 @@ def build_tg(news, tools, sun_news, sun_tools, major, pick):
             lines.append("")
     else:
         lines += ["<i>今日無新工具</i>",""]
+
     if sun_news or sun_tools:
-        lines += ["━━━━━━━━━━━━━━","🚩 <b>Suniverse 應用機會</b>",""]
+        lines += ["🚩 <b>Suniverse 應用機會</b>",""]
         for item in sun_news:
             lines.append(f'🚩 <a href="{item["link"]}">{esc(item["title"])}</a>')
             if item.get("summary"): lines.append(f'   <i>{esc(item["summary"])}</i>')
@@ -228,20 +233,23 @@ def build_tg(news, tools, sun_news, sun_tools, major, pick):
             lines.append(f'🚩 <a href="{item["link"]}">{esc(item["title"])}</a>')
             if item.get("desc"): lines.append(f'   <i>{esc(item["desc"])}</i>')
             lines.append("")
+
     if major:
-        lines += ["━━━━━━━━━━━━━━","📊 <b>大廠動態</b>",""]
+        lines += ["📊 <b>大廠動態</b>",""]
         for item in major:
             lines.append(f'• <a href="{item["link"]}">{esc(item["title"])}</a>')
             lines.append("")
+
     if pick:
         lines += [
-            "━━━━━━━━━━━━━━","💡 <b>Steve 精選</b>","",
+            "💡 <b>Steve 精選</b>","",
             f'<a href="{pick["link"]}">{esc(pick["title"])}</a>',
             f'<i>{esc(pick["summary"])}</i>' if pick.get("summary") else "","",
         ]
-    lines += ["━━━━━━━━━━━━━━","",
-              f'🌐 <a href="https://sssunwl.github.io/AINewsSuni/">AINewsSuni</a>'
+
+    lines += [f'🌐 <a href="https://sssunwl.github.io/AINewsSuni/">AINewsSuni</a>'
               f'  ·  <a href="https://sssunwl.github.io/AIofficeSuni/">Suniverse</a>']
+
     text = "\n".join(lines)
     if len(text) > 4000:
         text = text[:3970] + "\n…\n\n🌐 <a href=\"https://sssunwl.github.io/AINewsSuni/\">AINewsSuni</a>"
