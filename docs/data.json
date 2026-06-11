@@ -1,12 +1,6 @@
 {
-  "updated": "2026-06-11 17:31 HKT",
+  "updated": "2026-06-11 17:35 HKT",
   "news": [
-    {
-      "title": "Deezer 推出適用於其他串流媒體服務的 AI 音樂偵測器",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "summary": "Deezer 現在將掃描其他串流平台上的播放列表，以偵測人工智慧產生的音樂。 Deezer 是第一個…",
-      "source": "The Verge"
-    },
     {
       "title": "Claude Fable不會回答基本的生物學問題",
       "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
@@ -48,27 +42,15 @@
       "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
       "summary": "這項決定是在印度成為全球最大的海灣合作委員會市場之際做出的。",
       "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic 的 Dario Amodei 只有一個直接下屬",
+      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "summary": "如果你懷疑他的天才，就不要再懷疑了。",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
-    {
-      "title": "配線室 (Patchrooms)",
-      "link": "https://www.producthunt.com/products/patchrooms",
-      "desc": "將 AI 應用回饋轉換為代理就緒的補丁上下文。討論 |關聯",
-      "title_en": "Patchrooms"
-    },
-    {
-      "title": "Onpilot",
-      "link": "https://www.producthunt.com/products/onpilot-ai",
-      "desc": "為您的業務量身定制的人工智慧勞動力關聯",
-      "title_en": "Onpilot"
-    },
-    {
-      "title": "立即出發 (Journey Now)",
-      "link": "https://www.producthunt.com/products/journey-now",
-      "desc": "透過逐步計畫學習人類抱負的副駕駛 討論 |關聯",
-      "title_en": "Journey Now"
-    },
     {
       "title": "噴槍工作室 (Airbrush Studio)",
       "link": "https://www.producthunt.com/products/airbrush-studio",
@@ -80,6 +62,24 @@
       "link": "https://www.producthunt.com/products/easybilling",
       "desc": "基於使用的人工智慧產品的人工智慧原生計費和支付討論 |關聯",
       "title_en": "Easybilling"
+    },
+    {
+      "title": "修身按扣 (SlimSnap)",
+      "link": "https://www.producthunt.com/products/slimsnap",
+      "desc": "你的人工智慧不知道你指的是哪個按鈕 討論 |關聯",
+      "title_en": "SlimSnap"
+    },
+    {
+      "title": "立即出發 (Journey Now)",
+      "link": "https://www.producthunt.com/products/journey-now",
+      "desc": "透過逐步計畫學習人類抱負的副駕駛 討論 |關聯",
+      "title_en": "Journey Now"
+    },
+    {
+      "title": "銳雯 (Riven)",
+      "link": "https://www.producthunt.com/products/riven-reach-muscle-failure",
+      "desc": "您的 Apple Watch 知道您何時會真正出現肌肉衰竭關聯",
+      "title_en": "Riven"
     }
   ],
   "suniverse_news": [
@@ -103,6 +103,12 @@
       "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
       "summary": "Anthropic 昨天發布了其首個 Mythos 級 AI 型號 Claude Fable，已經引起了 Mic 內部的擔憂…",
       "source": "The Verge"
+    },
+    {
+      "title": "Anthropic 的 Dario Amodei 只有一個直接下屬",
+      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "summary": "如果你懷疑他的天才，就不要再懷疑了。",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
