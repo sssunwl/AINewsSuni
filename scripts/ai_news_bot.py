@@ -183,6 +183,26 @@ def steve_pick(news, exclude=None):
 
 # ── 寫入 data.json ────────────────────────────────────────────────────
 def write_data_json(news, tools, sun_news, sun_tools, major, pick):
+    # Load existing history to preserve calendar data
+    history = {}
+    if os.path.exists(DATA_JSON):
+        try:
+            with open(DATA_JSON, "r", encoding="utf-8") as f:
+                existing = json.load(f)
+            history = existing.get("history", {})
+        except Exception:
+            pass
+
+    today_key = NOW_HKT.strftime("%Y-%m-%d")
+    history[today_key] = {
+        "news":          news,
+        "tools":         tools,
+        "suniverse_news":  sun_news,
+        "suniverse_tools": sun_tools,
+        "major": major,
+        "pick":  pick,
+    }
+
     data = {
         "updated": NOW_HKT.strftime("%Y-%m-%d %H:%M HKT"),
         "news":          news,
@@ -191,6 +211,7 @@ def write_data_json(news, tools, sun_news, sun_tools, major, pick):
         "suniverse_tools": sun_tools,
         "major": major,
         "pick":  pick,
+        "history": history,
     }
     os.makedirs("docs", exist_ok=True)
     with open(DATA_JSON, "w", encoding="utf-8") as f:

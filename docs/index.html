@@ -10,7 +10,7 @@
   --bg:#070B14;--bg2:#0D1321;
   --surf:rgba(255,255,255,.04);--surf-h:rgba(255,255,255,.08);
   --bdr:rgba(0,212,255,.14);--bdr-h:rgba(0,212,255,.38);
-  --cyan:#00D4FF;--purple:#8B5CF6;--gold:#F59E0B;--green:#10B981;
+  --cyan:#00D4FF;--purple:#8B5CF6;--gold:#F59E0B;--green:#10B981;--red:#EF4444;
   --text:#E2E8F0;--muted:#64748B;--sub:#94A3B8;
   --glow:0 0 22px rgba(0,212,255,.22);
   --glow2:0 0 22px rgba(139,92,246,.22);
@@ -76,16 +76,19 @@ a:hover{text-decoration:underline}
 .pane.on{display:block}
 
 /* Section header */
-.sh{display:flex;align-items:center;gap:10px;margin-bottom:18px}
+.sh{display:flex;align-items:center;gap:10px;margin-bottom:18px;margin-top:28px}
+.sh:first-child{margin-top:0}
 .sh h2{font-size:15px;font-weight:600}
 .cnt{
   background:rgba(0,212,255,.09);border:1px solid rgba(0,212,255,.18);
   border-radius:10px;padding:1px 9px;font-size:11px;color:var(--cyan);
 }
+.section-divider{border:none;border-top:1px solid var(--bdr);margin:28px 0 0}
 
 /* ── CARD GRID ── */
 .grid{display:grid;gap:12px}
 @media(min-width:680px){.grid.two{grid-template-columns:repeat(2,1fr)}}
+@media(min-width:900px){.grid.three{grid-template-columns:repeat(3,1fr)}}
 
 /* Card */
 .card{
@@ -164,6 +167,135 @@ a:hover{text-decoration:underline}
 }
 .plink-gh:hover{background:rgba(139,92,246,.16);border-color:rgba(139,92,246,.4);text-decoration:none}
 
+/* ── SUB-TABS (Suniverse) ── */
+.stabs{display:flex;gap:8px;margin-bottom:24px;flex-wrap:wrap}
+.stab{
+  background:var(--surf);border:1px solid var(--bdr);
+  border-radius:20px;padding:6px 18px;font-size:13px;color:var(--sub);
+  cursor:pointer;transition:all .18s;
+}
+.stab:hover{color:var(--text);border-color:var(--bdr-h)}
+.stab.on{
+  background:rgba(0,212,255,.1);border-color:rgba(0,212,255,.35);color:var(--cyan);
+}
+.spane{display:none}
+.spane.on{display:block}
+
+/* ── CALENDAR ── */
+.cal-wrap{max-width:620px;margin:0 auto}
+.cal-nav-bar{
+  display:flex;align-items:center;justify-content:space-between;
+  margin-bottom:20px;
+}
+.cal-title{font-size:16px;font-weight:600;color:var(--text)}
+.cal-btn{
+  background:var(--surf);border:1px solid var(--bdr);color:var(--sub);
+  border-radius:8px;padding:6px 14px;cursor:pointer;font-size:16px;
+  transition:all .15s;
+}
+.cal-btn:hover{border-color:var(--bdr-h);color:var(--cyan)}
+.cal-grid{
+  display:grid;grid-template-columns:repeat(7,1fr);gap:4px;
+  margin-bottom:16px;
+}
+.cal-dow{
+  text-align:center;font-size:11px;color:var(--muted);
+  padding:6px 0;font-weight:600;letter-spacing:.5px;
+}
+.cal-cell{
+  aspect-ratio:1;display:flex;flex-direction:column;align-items:center;
+  justify-content:center;border-radius:8px;font-size:13px;color:var(--sub);
+  cursor:default;position:relative;transition:all .15s;
+  border:1px solid transparent;
+}
+.cal-cell.has-data{color:var(--text);cursor:pointer}
+.cal-cell.has-data:hover{background:var(--surf-h);border-color:var(--bdr)}
+.cal-cell.today{color:var(--cyan);font-weight:700}
+.cal-cell.today::after{
+  content:'';position:absolute;bottom:4px;left:50%;transform:translateX(-50%);
+  width:4px;height:4px;border-radius:50%;background:var(--cyan);
+}
+.cal-cell.selected{background:rgba(0,212,255,.12);border-color:rgba(0,212,255,.35);color:var(--cyan)}
+.cal-dot{
+  position:absolute;bottom:3px;left:50%;transform:translateX(-50%);
+  width:5px;height:5px;border-radius:50%;background:var(--cyan);
+  box-shadow:0 0 6px var(--cyan);
+}
+.cal-cell.today .cal-dot{background:var(--gold);box-shadow:0 0 6px var(--gold)}
+
+.cal-panel{
+  background:var(--surf);border:1px solid var(--bdr);border-radius:12px;
+  padding:20px;margin-top:16px;
+}
+.cal-panel-date{font-size:13px;color:var(--cyan);margin-bottom:16px;font-weight:600}
+.cal-item{
+  padding:10px 0;border-bottom:1px solid rgba(255,255,255,.05);
+}
+.cal-item:last-child{border-bottom:none}
+.cal-item a{color:var(--text);font-size:13px;font-weight:500;line-height:1.4}
+.cal-item a:hover{color:var(--cyan);text-decoration:none}
+.cal-item .cal-src{font-size:11px;color:var(--muted);margin-top:2px}
+.cal-placeholder{
+  text-align:center;padding:40px 24px;color:var(--muted);font-size:13px;
+}
+
+/* ── AI工具 ── */
+.tools-filter{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:24px}
+.tfbtn{
+  background:var(--surf);border:1px solid var(--bdr);
+  border-radius:20px;padding:5px 14px;font-size:12px;color:var(--sub);
+  cursor:pointer;transition:all .15s;
+}
+.tfbtn:hover{color:var(--text);border-color:var(--bdr-h)}
+.tfbtn.on{background:rgba(0,212,255,.1);border-color:rgba(0,212,255,.35);color:var(--cyan)}
+
+.tool-card{
+  background:var(--surf);border:1px solid var(--bdr);border-radius:12px;
+  padding:16px;transition:all .18s;position:relative;overflow:hidden;
+}
+.tool-card::before{
+  content:'';position:absolute;top:0;left:0;width:3px;height:100%;
+  opacity:.6;transition:opacity .18s;
+}
+.tool-card:hover{background:var(--surf-h);border-color:var(--bdr-h);box-shadow:var(--glow);transform:translateY(-2px)}
+.tool-card:hover::before{opacity:1}
+.tool-name-en{font-size:14px;font-weight:700;color:var(--text);margin-bottom:2px}
+.tool-name-zh{font-size:11px;color:var(--sub);margin-bottom:8px}
+.tool-desc{font-size:12px;color:var(--sub);line-height:1.55;margin-bottom:12px}
+.tool-footer{display:flex;align-items:center;justify-content:space-between;gap:8px}
+.tool-cat{font-size:10px;font-weight:600;letter-spacing:.4px;padding:2px 8px;border-radius:4px}
+.tool-link{
+  font-size:11px;color:var(--cyan);border:1px solid rgba(0,212,255,.2);
+  border-radius:6px;padding:3px 10px;transition:all .15s;
+}
+.tool-link:hover{background:rgba(0,212,255,.1);border-color:rgba(0,212,255,.4);text-decoration:none}
+
+/* Category accent colors */
+.cat-write::before,.tool-card[data-cat="write"]::before{background:linear-gradient(180deg,#60A5FA,#3B82F6)}
+.cat-write{background:rgba(96,165,250,.1);color:#93C5FD;border:1px solid rgba(96,165,250,.2)}
+.cat-image::before,.tool-card[data-cat="image"]::before{background:linear-gradient(180deg,#F472B6,#EC4899)}
+.cat-image{background:rgba(244,114,182,.1);color:#F9A8D4;border:1px solid rgba(244,114,182,.2)}
+.cat-video::before,.tool-card[data-cat="video"]::before{background:linear-gradient(180deg,#FB923C,#F97316)}
+.cat-video{background:rgba(251,146,60,.1);color:#FCA59A;border:1px solid rgba(251,146,60,.2)}
+.cat-audio::before,.tool-card[data-cat="audio"]::before{background:linear-gradient(180deg,#A78BFA,#8B5CF6)}
+.cat-audio{background:rgba(167,139,250,.1);color:#C4B5FD;border:1px solid rgba(167,139,250,.2)}
+.cat-code::before,.tool-card[data-cat="code"]::before{background:linear-gradient(180deg,#34D399,#10B981)}
+.cat-code{background:rgba(52,211,153,.1);color:#6EE7B7;border:1px solid rgba(52,211,153,.2)}
+.cat-search::before,.tool-card[data-cat="search"]::before{background:linear-gradient(180deg,#FCD34D,#F59E0B)}
+.cat-search{background:rgba(252,211,77,.1);color:#FDE68A;border:1px solid rgba(252,211,77,.2)}
+.cat-social::before,.tool-card[data-cat="social"]::before{background:linear-gradient(180deg,#F87171,#EF4444)}
+.cat-social{background:rgba(248,113,113,.1);color:#FCA5A5;border:1px solid rgba(248,113,113,.2)}
+.cat-productivity::before,.tool-card[data-cat="productivity"]::before{background:linear-gradient(180deg,#00D4FF,#0EA5E9)}
+.cat-productivity{background:rgba(0,212,255,.09);color:var(--cyan);border:1px solid rgba(0,212,255,.2)}
+
+/* Coming soon */
+.coming-soon{
+  text-align:center;padding:64px 24px;color:var(--muted);
+}
+.coming-soon .cs-icon{font-size:40px;margin-bottom:16px}
+.coming-soon h3{font-size:15px;color:var(--sub);margin-bottom:8px}
+.coming-soon p{font-size:12px}
+
 /* ── FOOTER ── */
 .footer{
   text-align:center;padding:32px 24px;
@@ -188,45 +320,78 @@ a:hover{text-decoration:underline}
 
 <div class="nav-wrap">
   <nav class="nav">
-    <button class="ntab on" data-tab="news">🔥 AI 熱聞</button>
-    <button class="ntab" data-tab="tools">🛠️ 新工具</button>
-    <button class="ntab" data-tab="suniverse">🚩 Suniverse</button>
-    <button class="ntab" data-tab="major">📊 大廠動態</button>
-    <button class="ntab" data-tab="pick">💡 Steve 精選</button>
-    <button class="ntab" data-tab="projects">🗂️ 所有專案</button>
+    <button class="ntab on" data-tab="hot">🔥 AI熱議</button>
+    <button class="ntab" data-tab="cal">📅 年曆</button>
+    <button class="ntab" data-tab="aitools">🛠️ AI工具</button>
+    <button class="ntab" data-tab="suniverse">🌌 Suniverse</button>
   </nav>
 </div>
 
 <main class="wrap">
 
-  <div class="pane on" id="tab-news">
-    <div class="sh"><h2>🔥 今日 AI 熱聞</h2><span class="cnt" id="cNews">—</span></div>
+  <!-- ── AI熱議 ── -->
+  <div class="pane on" id="tab-hot">
+
+    <div class="sh">
+      <h2>🔥 今日 AI 熱聞</h2><span class="cnt" id="cNews">—</span>
+    </div>
     <div class="grid" id="listNews"></div>
-  </div>
 
-  <div class="pane" id="tab-tools">
-    <div class="sh"><h2>🛠️ 新 AI 工具</h2><span class="cnt" id="cTools">—</span></div>
+    <hr class="section-divider">
+    <div class="sh"><h2>🏢 大廠動態</h2><span class="cnt" id="cMajor">—</span></div>
+    <div class="grid two" id="listMajor"></div>
+
+    <hr class="section-divider">
+    <div class="sh"><h2>🛠️ 新工具速報</h2><span class="cnt" id="cTools">—</span></div>
     <div class="grid two" id="listTools"></div>
-  </div>
 
-  <div class="pane" id="tab-suniverse">
+    <hr class="section-divider">
     <div class="sh"><h2>🚩 Suniverse 應用機會</h2><span class="cnt" id="cSun">—</span></div>
     <div class="grid" id="listSun"></div>
-  </div>
 
-  <div class="pane" id="tab-major">
-    <div class="sh"><h2>📊 大廠動態</h2><span class="cnt" id="cMajor">—</span></div>
-    <div class="grid two" id="listMajor"></div>
-  </div>
-
-  <div class="pane" id="tab-pick">
+    <hr class="section-divider">
     <div class="sh"><h2>💡 Steve 精選</h2></div>
     <div id="pickWrap"></div>
+
   </div>
 
-  <div class="pane" id="tab-projects">
-    <div class="sh"><h2>🗂️ Suniverse 公開專案</h2></div>
-    <div id="listProjects"></div>
+  <!-- ── 年曆 ── -->
+  <div class="pane" id="tab-cal">
+    <div class="cal-wrap">
+      <div class="cal-nav-bar">
+        <button class="cal-btn" id="calPrev">‹</button>
+        <span class="cal-title" id="calTitle">—</span>
+        <button class="cal-btn" id="calNext">›</button>
+      </div>
+      <div class="cal-grid" id="calGrid"></div>
+      <div id="calPanel">
+        <div class="cal-placeholder">選擇日期，查看當天 AI 簡報</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── AI工具 ── -->
+  <div class="pane" id="tab-aitools">
+    <div class="tools-filter" id="toolFilter"></div>
+    <div class="grid two three" id="toolGrid"></div>
+  </div>
+
+  <!-- ── Suniverse ── -->
+  <div class="pane" id="tab-suniverse">
+    <div class="stabs">
+      <button class="stab on" data-stab="projects">專案</button>
+      <button class="stab" data-stab="gadgets">小工具</button>
+    </div>
+    <div class="spane on" id="stab-projects">
+      <div id="listProjects"></div>
+    </div>
+    <div class="spane" id="stab-gadgets">
+      <div class="coming-soon">
+        <div class="cs-icon">🔧</div>
+        <h3>小工具即將推出</h3>
+        <p>Steve 正在準備好用的 AI 小工具，敬請期待</p>
+      </div>
+    </div>
   </div>
 
 </main>
@@ -237,13 +402,23 @@ a:hover{text-decoration:underline}
 </div>
 
 <script>
-// ── Tab ──
+// ── Main Tab ──
 document.querySelectorAll('.ntab').forEach(b=>{
   b.addEventListener('click',()=>{
     document.querySelectorAll('.ntab').forEach(x=>x.classList.remove('on'));
     document.querySelectorAll('.pane').forEach(x=>x.classList.remove('on'));
     b.classList.add('on');
     document.getElementById('tab-'+b.dataset.tab).classList.add('on');
+  });
+});
+
+// ── Sub-Tab (Suniverse) ──
+document.querySelectorAll('.stab').forEach(b=>{
+  b.addEventListener('click',()=>{
+    document.querySelectorAll('.stab').forEach(x=>x.classList.remove('on'));
+    document.querySelectorAll('.spane').forEach(x=>x.classList.remove('on'));
+    b.classList.add('on');
+    document.getElementById('stab-'+b.dataset.stab).classList.add('on');
   });
 });
 
@@ -265,7 +440,6 @@ const PROJECTS=[
    desc:'13 位 Suniverse AI Agent 的 2D 虛擬辦公室。HTML5 Canvas，Limezu Modern Interiors 素材，12 張桌子環形佈局。每 5 分鐘呼叫 Claude API 驅動 Agent 對話腳本，$0 以外只需 Claude API 費用。',
    site:'https://sssunwl.github.io/AIofficeSuni/',github:'https://github.com/sssunwl/AIofficeSuni'},
 ];
-
 function renderProjects(){
   document.getElementById('listProjects').innerHTML=PROJECTS.map((p,i)=>`
     <div class="proj" id="pr${i}">
@@ -286,7 +460,7 @@ function tp(i){document.getElementById('pr'+i).classList.toggle('open')}
 renderProjects();
 
 // ── Render helpers ──
-const esc=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+const esc=s=>(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 function newsCard(item,badgeCls,badgeTxt){
   return`<div class="card">
     <div class="meta"><span class="badge ${badgeCls}">${esc(badgeTxt||item.source||'新聞')}</span></div>
@@ -308,17 +482,170 @@ function emptyState(msg){
     </svg>${msg}</div>`;
 }
 
-// ── Load data ──
+// ── Calendar ──
+const MONTH_NAMES=['一月','二月','三月','四月','五月','六月','七月','八月','九月','十月','十一月','十二月'];
+const DOW=['一','二','三','四','五','六','日'];
+let calYear, calMonth, calData={}, selectedDate=null;
+
+function pad(n){return String(n).padStart(2,'0')}
+function dateKey(y,m,d){return`${y}-${pad(m+1)}-${pad(d)}`}
+
+function renderCal(){
+  const today=new Date();
+  document.getElementById('calTitle').textContent=`${calYear} 年 ${MONTH_NAMES[calMonth]}`;
+
+  const firstDow=(new Date(calYear,calMonth,1).getDay()+6)%7;
+  const lastDay=new Date(calYear,calMonth+1,0).getDate();
+  let cells='';
+  DOW.forEach(d=>{cells+=`<div class="cal-dow">${d}</div>`});
+  for(let i=0;i<firstDow;i++) cells+=`<div class="cal-cell"></div>`;
+  for(let d=1;d<=lastDay;d++){
+    const key=dateKey(calYear,calMonth,d);
+    const isToday=calYear===today.getFullYear()&&calMonth===today.getMonth()&&d===today.getDate();
+    const has=!!calData[key];
+    const isSel=selectedDate===key;
+    const cls=['cal-cell',isToday?'today':'',has?'has-data':'',isSel?'selected':''].filter(Boolean).join(' ');
+    const dot=has?`<span class="cal-dot"></span>`:'';
+    cells+=`<div class="${cls}" onclick="selectCal('${key}')">${d}${dot}</div>`;
+  }
+  document.getElementById('calGrid').innerHTML=cells;
+  renderCalPanel();
+}
+
+function selectCal(key){
+  if(!calData[key]) return;
+  selectedDate=selectedDate===key?null:key;
+  renderCal();
+}
+
+function renderCalPanel(){
+  const panel=document.getElementById('calPanel');
+  if(!selectedDate||!calData[selectedDate]){
+    panel.innerHTML=`<div class="cal-placeholder">選擇日期，查看當天 AI 簡報</div>`;
+    return;
+  }
+  const day=calData[selectedDate];
+  const news=[...(day.news||[])].slice(0,6);
+  panel.innerHTML=`<div class="cal-panel">
+    <div class="cal-panel-date">📅 ${selectedDate} 當日 AI 簡報</div>
+    ${news.length?news.map(n=>`<div class="cal-item">
+      <a href="${n.link}" target="_blank" rel="noopener">${esc(n.title)}</a>
+      <div class="cal-src">${esc(n.source||'')}</div>
+    </div>`).join(''):'<div style="color:var(--muted);font-size:13px">暫無記錄</div>'}
+    ${day.pick?`<div class="cal-item" style="margin-top:8px;padding-top:8px;border-top:1px solid rgba(0,212,255,.1)">
+      <div style="font-size:11px;color:var(--cyan);margin-bottom:4px">💡 Steve 精選</div>
+      <a href="${day.pick.link}" target="_blank" rel="noopener">${esc(day.pick.title)}</a>
+    </div>`:''}
+  </div>`;
+}
+
+document.getElementById('calPrev').addEventListener('click',()=>{
+  calMonth--;if(calMonth<0){calMonth=11;calYear--}
+  selectedDate=null;renderCal();
+});
+document.getElementById('calNext').addEventListener('click',()=>{
+  calMonth++;if(calMonth>11){calMonth=0;calYear++}
+  selectedDate=null;renderCal();
+});
+
+// ── AI Tools Data ──
+const AI_TOOLS=[
+  // ✍️ 寫作與文案
+  {en:'ChatGPT',zh:'ChatGPT',cat:'write',desc:'OpenAI 旗艦對話 AI，最廣泛使用的寫作與創作助手',url:'https://chatgpt.com'},
+  {en:'Claude',zh:'Claude',cat:'write',desc:'Anthropic 出品，長文脈理解與分析能力強，適合深度寫作',url:'https://claude.ai'},
+  {en:'Gemini',zh:'Gemini',cat:'write',desc:'Google 旗艦 AI，整合 Google Docs、Gmail 等生態',url:'https://gemini.google.com'},
+  {en:'Jasper',zh:'Jasper',cat:'write',desc:'行銷文案專用 AI，可學習品牌聲音保持一致性',url:'https://jasper.ai'},
+  {en:'Copy.ai',zh:'Copy.ai',cat:'write',desc:'電商與廣告文案自動生成，支援多語言輸出',url:'https://copy.ai'},
+  // 🎨 圖像生成
+  {en:'Midjourney',zh:'Midjourney',cat:'image',desc:'藝術風格最強的 AI 圖像生成，以 Discord 介面操作',url:'https://midjourney.com'},
+  {en:'Ideogram',zh:'Ideogram',cat:'image',desc:'文字排版最準確的圖像 AI，圖中文字生成業界領先',url:'https://ideogram.ai'},
+  {en:'Adobe Firefly',zh:'Adobe Firefly',cat:'image',desc:'Adobe 官方 AI，採用授權素材訓練，商業使用安全',url:'https://firefly.adobe.com'},
+  {en:'Canva AI',zh:'Canva AI',cat:'image',desc:'設計模板 + AI 整合，適合快速製作社媒視覺',url:'https://canva.com'},
+  {en:'DALL-E 3',zh:'DALL-E 3',cat:'image',desc:'OpenAI 圖像生成，可在 ChatGPT 內直接使用',url:'https://openai.com/dall-e-3'},
+  // 🎬 影片製作
+  {en:'Runway Gen-4',zh:'Runway Gen-4',cat:'video',desc:'專業 AI 影片生成與後製工具，高品質、靈活控制',url:'https://runwayml.com'},
+  {en:'Kling AI',zh:'Kling AI',cat:'video',desc:'快手旗下影片生成 AI，支援長影片輸出，表現突出',url:'https://klingai.com'},
+  {en:'Pika',zh:'Pika',cat:'video',desc:'輕量影片生成，適合素材延伸與短片製作',url:'https://pika.art'},
+  {en:'CapCut AI',zh:'CapCut AI',cat:'video',desc:'行動端剪輯神器，AI 字幕、去背、音樂匹配一應俱全',url:'https://capcut.com'},
+  {en:'Topaz Video AI',zh:'Topaz Video AI',cat:'video',desc:'影片超解析度 AI，舊素材升 4K 必備工具',url:'https://topazlabs.com/video-ai'},
+  // 🎵 語音與音樂
+  {en:'ElevenLabs',zh:'ElevenLabs',cat:'audio',desc:'最真實 AI 語音合成與聲音克隆，支援多語言配音',url:'https://elevenlabs.io'},
+  {en:'Suno',zh:'Suno',cat:'audio',desc:'AI 音樂生成，輸入歌詞即可生成完整歌曲含人聲',url:'https://suno.com'},
+  {en:'Udio',zh:'Udio',cat:'audio',desc:'高品質 AI 音樂創作，風格多樣，細節控制精準',url:'https://udio.com'},
+  {en:'Murf AI',zh:'Murf AI',cat:'audio',desc:'100+ AI 聲音選擇，適合 Podcast、廣告配音',url:'https://murf.ai'},
+  // 💻 編程開發
+  {en:'GitHub Copilot',zh:'GitHub Copilot',cat:'code',desc:'微軟出品，IDE 內嵌 AI 程式助手，業界標準配備',url:'https://github.com/features/copilot'},
+  {en:'Cursor',zh:'Cursor',cat:'code',desc:'AI-first 程式碼編輯器，自然語言改寫整個代碼庫',url:'https://cursor.com'},
+  {en:'Bolt',zh:'Bolt',cat:'code',desc:'瀏覽器內全棧 AI 開發環境，無需本機配置即可部署',url:'https://bolt.new'},
+  {en:'v0',zh:'v0',cat:'code',desc:'Vercel 出品，描述 UI 需求即生成 React 元件',url:'https://v0.dev'},
+  // 🔍 搜尋研究
+  {en:'Perplexity',zh:'Perplexity',cat:'search',desc:'AI 搜尋引擎，每條答案附即時來源引用，取代 Google',url:'https://perplexity.ai'},
+  {en:'Consensus',zh:'Consensus',cat:'search',desc:'學術論文 AI 搜尋，快速從研究文獻提煉共識結論',url:'https://consensus.app'},
+  {en:'Elicit',zh:'Elicit',cat:'search',desc:'研究文獻分析 AI，自動整理多篇論文核心論點',url:'https://elicit.com'},
+  // 📱 社媒行銷
+  {en:'Buffer AI',zh:'Buffer AI',cat:'social',desc:'社媒排程 + AI 文案建議，數據驅動最佳發布時間',url:'https://buffer.com'},
+  {en:'Hootsuite AI',zh:'Hootsuite AI',cat:'social',desc:'多平台社媒管理旗艦，整合數十個社群平台',url:'https://hootsuite.com'},
+  {en:'Metricool',zh:'Metricool',cat:'social',desc:'社媒數據分析 + 排程，免費版功能完整',url:'https://metricool.com'},
+  // ⚡ 生產力
+  {en:'Notion AI',zh:'Notion AI',cat:'productivity',desc:'筆記 + Wiki + 資料庫 + AI 整合，團隊知識管理首選',url:'https://notion.so'},
+  {en:'Gamma',zh:'Gamma',cat:'productivity',desc:'AI 簡報製作，描述主題 30 秒生成精美投影片',url:'https://gamma.app'},
+  {en:'Otter.ai',zh:'Otter.ai',cat:'productivity',desc:'會議即時轉錄 + AI 摘要，支援 Zoom/Meet 整合',url:'https://otter.ai'},
+];
+
+const CAT_META={
+  write:  {label:'✍️ 寫作文案', cls:'cat-write'},
+  image:  {label:'🎨 圖像生成', cls:'cat-image'},
+  video:  {label:'🎬 影片製作', cls:'cat-video'},
+  audio:  {label:'🎵 語音音樂', cls:'cat-audio'},
+  code:   {label:'💻 編程開發', cls:'cat-code'},
+  search: {label:'🔍 搜尋研究', cls:'cat-search'},
+  social: {label:'📱 社媒行銷', cls:'cat-social'},
+  productivity:{label:'⚡ 生產力',  cls:'cat-productivity'},
+};
+
+let activeCat='all';
+function renderAITools(){
+  const cats=Object.keys(CAT_META);
+  const filterEl=document.getElementById('toolFilter');
+  filterEl.innerHTML=[
+    `<button class="tfbtn ${activeCat==='all'?'on':''}" onclick="filterTool('all')">全部</button>`,
+    ...cats.map(c=>`<button class="tfbtn ${activeCat===c?'on':''}" onclick="filterTool('${c}')">${CAT_META[c].label}</button>`)
+  ].join('');
+  const tools=activeCat==='all'?AI_TOOLS:AI_TOOLS.filter(t=>t.cat===activeCat);
+  document.getElementById('toolGrid').innerHTML=tools.map(t=>{
+    const m=CAT_META[t.cat];
+    return`<div class="tool-card" data-cat="${t.cat}">
+      <div class="tool-name-en">${esc(t.en)}</div>
+      <div class="tool-name-zh">${esc(t.zh)}</div>
+      <div class="tool-desc">${esc(t.desc)}</div>
+      <div class="tool-footer">
+        <span class="tool-cat ${m.cls}">${m.label}</span>
+        <a href="${t.url}" target="_blank" rel="noopener" class="tool-link">官網 →</a>
+      </div>
+    </div>`;
+  }).join('');
+}
+function filterTool(cat){activeCat=cat;renderAITools()}
+renderAITools();
+
+// ── Load data.json ──
 fetch('data.json?_='+Date.now())
   .then(r=>r.json())
   .then(d=>{
     document.getElementById('liveTag').textContent='最後更新：'+(d.updated||'—');
 
+    // AI熱議 sections
     const news=d.news||[];
     document.getElementById('cNews').textContent=news.length;
     document.getElementById('listNews').innerHTML=news.length
       ?news.map(n=>newsCard(n,'b-src',n.source)).join('')
       :emptyState('今日暫無最新 AI 新聞');
+
+    const major=d.major||[];
+    document.getElementById('cMajor').textContent=major.length;
+    document.getElementById('listMajor').innerHTML=major.length
+      ?major.map(n=>newsCard(n,'b-major',n.source||'大廠')).join('')
+      :emptyState('今日無大廠重大動態');
 
     const tools=d.tools||[];
     document.getElementById('cTools').textContent=tools.length;
@@ -333,12 +660,6 @@ fetch('data.json?_='+Date.now())
          ...(d.suniverse_tools||[]).map(t=>toolCard(t))].join('')
       :emptyState('今日無 Suniverse 相關應用機會');
 
-    const major=d.major||[];
-    document.getElementById('cMajor').textContent=major.length;
-    document.getElementById('listMajor').innerHTML=major.length
-      ?major.map(n=>newsCard(n,'b-major',n.source||'大廠')).join('')
-      :emptyState('今日無大廠重大動態');
-
     const pick=d.pick;
     document.getElementById('pickWrap').innerHTML=pick
       ?`<div class="card pick">
@@ -347,9 +668,24 @@ fetch('data.json?_='+Date.now())
           ${pick.summary?`<div class="csub">${esc(pick.summary)}</div>`:''}
         </div>`
       :emptyState('今日無精選');
+
+    // Calendar: populate calData from history
+    calData = d.history || {};
+    // Also add today's data if not already in history
+    if(d.updated){
+      const todayKey=d.updated.split(' ')[0];
+      if(todayKey&&!calData[todayKey]){
+        calData[todayKey]={news:d.news,tools:d.tools,suniverse_news:d.suniverse_news,major:d.major,pick:d.pick};
+      }
+    }
+    const now=new Date();
+    calYear=now.getFullYear();calMonth=now.getMonth();
+    renderCal();
   })
   .catch(()=>{
     document.getElementById('liveTag').textContent='資料載入失敗，請稍後重試';
+    const now=new Date();calYear=now.getFullYear();calMonth=now.getMonth();
+    renderCal();
   });
 </script>
 </body>
