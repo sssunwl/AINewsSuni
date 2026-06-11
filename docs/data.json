@@ -1,0 +1,62 @@
+{
+  "updated": "2026-06-11 17:16 HKT",
+  "news": [
+    {
+      "title": "Deezer 推出適用於其他串流媒體服務的 AI 音樂偵測器",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
+      "summary": "Deezer 現在將掃描其他串流平台上的播放列表，以偵測人工智慧產生的音樂。 Deezer 是第一個…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Claude Fable不會回答基本的生物學問題",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "summary": "Anthropic 剛剛發布了 Claude Fable 5，稱其為迄今為止廣泛使用的最強大的人工智慧模型，並受到好評…",
+      "source": "The Verge"
+    },
+    {
+      "title": "微軟完全理解為什麼學生會對人工智慧畢業演講者發出噓聲",
+      "link": "https://www.theverge.com/news/947831/college-speakers-booed-ai-microsoft",
+      "summary": "全國各地的新大學畢業生一直對大肆宣傳人工智慧的畢業演講者發出噓聲和質疑。微軟...",
+      "source": "The Verge"
+    },
+    {
+      "title": "人工智慧監管的未來正在吸引最奇怪、最焦慮的夥伴",
+      "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
+      "summary": "您好，歡迎來到 Regulator，這是一份為 Verge 訂閱者提供的有關科技政治、科技影響力和科技技巧的時事通訊…",
+      "source": "The Verge"
+    }
+  ],
+  "tools": [
+    {
+      "title": "銳文",
+      "link": "https://www.producthunt.com/products/riven-reach-muscle-failure",
+      "desc": "您的 Apple Watch 知道您何時會真正出現肌肉衰竭關聯"
+    },
+    {
+      "title": "紐帶",
+      "link": "https://www.producthunt.com/products/bond-12",
+      "desc": "自行完成的人工智慧待辦事項清單 討論 |關聯"
+    },
+    {
+      "title": "雷斯潘網關",
+      "link": "https://www.producthunt.com/products/keywords-ai",
+      "desc": "一款具有內建可觀察性和評估功能的 AI 網關 討論 |關聯"
+    }
+  ],
+  "suniverse_news": [],
+  "suniverse_tools": [],
+  "major": [
+    {
+      "title": "Claude Fable不會回答基本的生物學問題",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+      "summary": "Anthropic 剛剛發布了 Claude Fable 5，稱其為迄今為止廣泛使用的最強大的人工智慧模型，並受到好評…",
+      "source": "The Verge"
+    }
+  ],
+  "pick": {
+    "title": "Claude Fable不會回答基本的生物學問題",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
+    "summary": "Anthropic 剛剛發布了 Claude Fable 5，稱其為迄今為止廣泛使用的最強大的人工智慧模型，並受到好評…",
+    "source": "The Verge"
+  }
+}

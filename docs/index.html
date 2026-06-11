@@ -1,0 +1,356 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AINewsSuni — Steve's Daily AI Brief</title>
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#070B14;--bg2:#0D1321;
+  --surf:rgba(255,255,255,.04);--surf-h:rgba(255,255,255,.08);
+  --bdr:rgba(0,212,255,.14);--bdr-h:rgba(0,212,255,.38);
+  --cyan:#00D4FF;--purple:#8B5CF6;--gold:#F59E0B;--green:#10B981;
+  --text:#E2E8F0;--muted:#64748B;--sub:#94A3B8;
+  --glow:0 0 22px rgba(0,212,255,.22);
+  --glow2:0 0 22px rgba(139,92,246,.22);
+}
+body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;min-height:100vh;line-height:1.6}
+a{color:var(--cyan);text-decoration:none}
+a:hover{text-decoration:underline}
+
+/* ── HEADER ── */
+.hd{
+  background:linear-gradient(140deg,#070B14 0%,#0C1220 55%,#080D18 100%);
+  border-bottom:1px solid var(--bdr);padding:28px 24px 22px;
+  position:relative;overflow:hidden;
+}
+.hd::before{
+  content:'';position:absolute;inset:0;
+  background:radial-gradient(ellipse at 25% 60%,rgba(0,212,255,.06) 0%,transparent 55%),
+             radial-gradient(ellipse at 75% 40%,rgba(139,92,246,.06) 0%,transparent 55%);
+  pointer-events:none;
+}
+.hd-inner{max-width:1080px;margin:0 auto;position:relative}
+.logo{
+  font-size:24px;font-weight:700;letter-spacing:-.5px;
+  background:linear-gradient(90deg,var(--cyan) 0%,var(--purple) 100%);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+}
+.logo em{font-style:normal;font-weight:300;opacity:.7}
+.tagline{font-size:12px;color:var(--sub);margin-top:5px;letter-spacing:.4px}
+.live{
+  display:inline-flex;align-items:center;gap:7px;
+  background:rgba(0,212,255,.07);border:1px solid rgba(0,212,255,.18);
+  border-radius:20px;padding:4px 14px;font-size:11px;color:var(--cyan);margin-top:12px;
+}
+.live::before{
+  content:'';width:6px;height:6px;border-radius:50%;
+  background:var(--cyan);box-shadow:0 0 8px var(--cyan);
+  animation:blink 2s ease-in-out infinite;
+}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:.3}}
+
+/* ── NAV ── */
+.nav-wrap{
+  position:sticky;top:0;z-index:100;
+  background:rgba(7,11,20,.96);backdrop-filter:blur(20px);
+  border-bottom:1px solid var(--bdr);
+}
+.nav{
+  max-width:1080px;margin:0 auto;display:flex;
+  overflow-x:auto;scrollbar-width:none;padding:0 24px;
+}
+.nav::-webkit-scrollbar{display:none}
+.ntab{
+  flex-shrink:0;background:none;border:none;border-bottom:2px solid transparent;
+  color:var(--sub);font-size:13px;font-weight:500;
+  padding:14px 18px;cursor:pointer;transition:all .18s;white-space:nowrap;
+}
+.ntab:hover{color:var(--text)}
+.ntab.on{color:var(--cyan);border-bottom-color:var(--cyan)}
+
+/* ── CONTENT ── */
+.wrap{max-width:1080px;margin:0 auto;padding:24px}
+.pane{display:none}
+.pane.on{display:block}
+
+/* Section header */
+.sh{display:flex;align-items:center;gap:10px;margin-bottom:18px}
+.sh h2{font-size:15px;font-weight:600}
+.cnt{
+  background:rgba(0,212,255,.09);border:1px solid rgba(0,212,255,.18);
+  border-radius:10px;padding:1px 9px;font-size:11px;color:var(--cyan);
+}
+
+/* ── CARD GRID ── */
+.grid{display:grid;gap:12px}
+@media(min-width:680px){.grid.two{grid-template-columns:repeat(2,1fr)}}
+
+/* Card */
+.card{
+  background:var(--surf);border:1px solid var(--bdr);border-radius:12px;
+  padding:16px 18px;transition:all .18s;position:relative;overflow:hidden;
+}
+.card::before{
+  content:'';position:absolute;top:0;left:0;width:3px;height:100%;
+  background:linear-gradient(180deg,var(--cyan),var(--purple));
+  opacity:0;transition:opacity .18s;
+}
+.card:hover{
+  background:var(--surf-h);border-color:var(--bdr-h);
+  box-shadow:var(--glow);transform:translateY(-2px);
+}
+.card:hover::before{opacity:1}
+.card.pick{
+  background:linear-gradient(135deg,rgba(0,212,255,.07),rgba(139,92,246,.07));
+  border-color:rgba(0,212,255,.28);
+}
+.card.pick:hover{box-shadow:var(--glow),var(--glow2)}
+
+/* Badge */
+.meta{display:flex;align-items:center;gap:7px;margin-bottom:8px}
+.badge{
+  font-size:10px;font-weight:600;letter-spacing:.5px;
+  padding:2px 8px;border-radius:4px;text-transform:uppercase;
+}
+.b-src{background:rgba(139,92,246,.13);color:#A78BFA;border:1px solid rgba(139,92,246,.2)}
+.b-tool{background:rgba(16,185,129,.1);color:#34D399;border:1px solid rgba(16,185,129,.2)}
+.b-major{background:rgba(245,158,11,.1);color:#FCD34D;border:1px solid rgba(245,158,11,.2)}
+.b-sun{background:rgba(0,212,255,.09);color:var(--cyan);border:1px solid rgba(0,212,255,.2)}
+.b-pick{background:rgba(139,92,246,.18);color:#C4B5FD;border:1px solid rgba(139,92,246,.3)}
+
+.ctitle{font-size:14px;font-weight:600;line-height:1.4;margin-bottom:6px}
+.ctitle a{color:var(--text);transition:color .15s}
+.ctitle a:hover{color:var(--cyan);text-decoration:none}
+.csub{font-size:12px;color:var(--sub);line-height:1.55}
+
+/* Empty */
+.empty{text-align:center;padding:52px 24px;color:var(--muted);font-size:13px}
+.empty svg{width:36px;height:36px;margin:0 auto 12px;display:block;opacity:.25}
+
+/* ── PROJECTS ACCORDION ── */
+.proj{
+  background:var(--surf);border:1px solid var(--bdr);
+  border-radius:12px;margin-bottom:10px;overflow:hidden;transition:border-color .18s;
+}
+.proj:hover{border-color:var(--bdr-h)}
+.proj.open{border-color:rgba(0,212,255,.3)}
+.proj-hd{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:16px 18px;cursor:pointer;user-select:none;
+}
+.proj-name{font-size:14px;font-weight:600;color:var(--text)}
+.proj-st{font-size:11px;color:var(--sub);margin-top:2px}
+.proj-arr{color:var(--muted);font-size:11px;transition:transform .2s;flex-shrink:0;margin-left:12px}
+.proj.open .proj-arr{transform:rotate(180deg)}
+.proj-body{
+  display:none;padding:0 18px 18px;
+  border-top:1px solid var(--bdr);
+}
+.proj.open .proj-body{display:block}
+.proj-desc{font-size:12px;color:var(--sub);line-height:1.65;padding-top:14px;margin-bottom:14px}
+.proj-links{display:flex;gap:8px;flex-wrap:wrap}
+.plink{
+  display:inline-flex;align-items:center;gap:5px;
+  border-radius:7px;padding:5px 13px;font-size:12px;transition:all .15s;
+}
+.plink-site{
+  background:rgba(0,212,255,.08);border:1px solid rgba(0,212,255,.2);color:var(--cyan);
+}
+.plink-site:hover{background:rgba(0,212,255,.16);border-color:rgba(0,212,255,.4);text-decoration:none}
+.plink-gh{
+  background:rgba(139,92,246,.08);border:1px solid rgba(139,92,246,.2);color:#A78BFA;
+}
+.plink-gh:hover{background:rgba(139,92,246,.16);border-color:rgba(139,92,246,.4);text-decoration:none}
+
+/* ── FOOTER ── */
+.footer{
+  text-align:center;padding:32px 24px;
+  border-top:1px solid var(--bdr);color:var(--muted);font-size:12px;margin-top:40px;
+}
+.footer a{color:var(--cyan)}
+
+::-webkit-scrollbar{width:4px;height:4px}
+::-webkit-scrollbar-track{background:var(--bg)}
+::-webkit-scrollbar-thumb{background:rgba(0,212,255,.2);border-radius:2px}
+</style>
+</head>
+<body>
+
+<div class="hd">
+  <div class="hd-inner">
+    <div class="logo">AINewsSuni <em>by Suniverse</em></div>
+    <div class="tagline">Steve's Daily AI Brief · 每天 09:00 HKT 自動更新 · $0/月</div>
+    <div class="live" id="liveTag">載入中…</div>
+  </div>
+</div>
+
+<div class="nav-wrap">
+  <nav class="nav">
+    <button class="ntab on" data-tab="news">🔥 AI 熱聞</button>
+    <button class="ntab" data-tab="tools">🛠️ 新工具</button>
+    <button class="ntab" data-tab="suniverse">🚩 Suniverse</button>
+    <button class="ntab" data-tab="major">📊 大廠動態</button>
+    <button class="ntab" data-tab="pick">💡 Steve 精選</button>
+    <button class="ntab" data-tab="projects">🗂️ 所有專案</button>
+  </nav>
+</div>
+
+<main class="wrap">
+
+  <div class="pane on" id="tab-news">
+    <div class="sh"><h2>🔥 今日 AI 熱聞</h2><span class="cnt" id="cNews">—</span></div>
+    <div class="grid" id="listNews"></div>
+  </div>
+
+  <div class="pane" id="tab-tools">
+    <div class="sh"><h2>🛠️ 新 AI 工具</h2><span class="cnt" id="cTools">—</span></div>
+    <div class="grid two" id="listTools"></div>
+  </div>
+
+  <div class="pane" id="tab-suniverse">
+    <div class="sh"><h2>🚩 Suniverse 應用機會</h2><span class="cnt" id="cSun">—</span></div>
+    <div class="grid" id="listSun"></div>
+  </div>
+
+  <div class="pane" id="tab-major">
+    <div class="sh"><h2>📊 大廠動態</h2><span class="cnt" id="cMajor">—</span></div>
+    <div class="grid two" id="listMajor"></div>
+  </div>
+
+  <div class="pane" id="tab-pick">
+    <div class="sh"><h2>💡 Steve 精選</h2></div>
+    <div id="pickWrap"></div>
+  </div>
+
+  <div class="pane" id="tab-projects">
+    <div class="sh"><h2>🗂️ Suniverse 公開專案</h2></div>
+    <div id="listProjects"></div>
+  </div>
+
+</main>
+
+<div class="footer">
+  Powered by <a href="https://sssunwl.github.io/AIofficeSuni/" target="_blank">Suniverse</a>
+  &nbsp;·&nbsp; Steve's AI Team &nbsp;·&nbsp; RSS + GitHub Actions
+</div>
+
+<script>
+// ── Tab ──
+document.querySelectorAll('.ntab').forEach(b=>{
+  b.addEventListener('click',()=>{
+    document.querySelectorAll('.ntab').forEach(x=>x.classList.remove('on'));
+    document.querySelectorAll('.pane').forEach(x=>x.classList.remove('on'));
+    b.classList.add('on');
+    document.getElementById('tab-'+b.dataset.tab).classList.add('on');
+  });
+});
+
+// ── Projects ──
+const PROJECTS=[
+  {name:'AINewsSuni — Steve\'s Daily AI Brief',status:'🟢 運行中',
+   desc:'Steve 每日 AI 新聞 + 工具摘要，全繁中翻譯。🚩 Suniverse 應用機會自動標記、📊 大廠動態過濾、💡 Steve 精選。每天 09:00 HKT 自動推送至 @Suniverse_bot，$0/月。',
+   site:'https://sssunwl.github.io/AINewsSuni/',github:'https://github.com/sssunwl/AINewsSuni'},
+  {name:'InvestUni — 投資學堂',status:'🟢 運行中',
+   desc:'9 Tab 投資學習平台，港/美/台/日/加密幣即時股價。期權策略 13 種 + Canvas 損益圖，K線形態 20+，信號指標，期貨與債券基礎教學。週一至五每天 4 次自動更新數據。',
+   site:'https://sssunwl.github.io/InvestUni/',github:'https://github.com/sssunwl/InvestUni'},
+  {name:'okinews — 沖繩活動年曆',status:'🟢 運行中',
+   desc:'每日自動爬取沖繩活動（visitokinawa + okinawastory.jp），互動月曆三色圓點標記。「今天是…」系列 58 個沖繩／日本獨有紀念日，附沖繩視角介紹與推薦星數。Telegram 三段推送。',
+   site:'https://sssunwl.github.io/okinews/',github:'https://github.com/sssunwl/okinews'},
+  {name:'KujiUniverse — くじ監控平台',status:'🟢 運行中',
+   desc:'監控 10 個日本一番賞品牌（一番くじ / Happyくじ / みんなのくじ 等），多品牌年曆 + 官網主圖展開 + IP 新聞追蹤（航海王／七龍珠／吉伊卡哇等）。每天 09:00 JST Telegram 通知。',
+   site:'https://sssunwl.github.io/kujinews/',github:'https://github.com/sssunwl/kujinews'},
+  {name:'AIofficeSuni — 虛擬辦公室',status:'🟡 開發中',
+   desc:'13 位 Suniverse AI Agent 的 2D 虛擬辦公室。HTML5 Canvas，Limezu Modern Interiors 素材，12 張桌子環形佈局。每 5 分鐘呼叫 Claude API 驅動 Agent 對話腳本，$0 以外只需 Claude API 費用。',
+   site:'https://sssunwl.github.io/AIofficeSuni/',github:'https://github.com/sssunwl/AIofficeSuni'},
+];
+
+function renderProjects(){
+  document.getElementById('listProjects').innerHTML=PROJECTS.map((p,i)=>`
+    <div class="proj" id="pr${i}">
+      <div class="proj-hd" onclick="tp(${i})">
+        <div><div class="proj-name">${p.name}</div><div class="proj-st">${p.status}</div></div>
+        <span class="proj-arr">▼</span>
+      </div>
+      <div class="proj-body">
+        <div class="proj-desc">${p.desc}</div>
+        <div class="proj-links">
+          ${p.site?`<a href="${p.site}" target="_blank" class="plink plink-site">🌐 網站</a>`:''}
+          ${p.github?`<a href="${p.github}" target="_blank" class="plink plink-gh">⌥ GitHub</a>`:''}
+        </div>
+      </div>
+    </div>`).join('');
+}
+function tp(i){document.getElementById('pr'+i).classList.toggle('open')}
+renderProjects();
+
+// ── Render helpers ──
+const esc=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+function newsCard(item,badgeCls,badgeTxt){
+  return`<div class="card">
+    <div class="meta"><span class="badge ${badgeCls}">${esc(badgeTxt||item.source||'新聞')}</span></div>
+    <div class="ctitle"><a href="${item.link}" target="_blank" rel="noopener">${esc(item.title)}</a></div>
+    ${item.summary?`<div class="csub">${esc(item.summary)}</div>`:''}
+  </div>`;
+}
+function toolCard(item){
+  return`<div class="card">
+    <div class="meta"><span class="badge b-tool">新工具</span></div>
+    <div class="ctitle"><a href="${item.link}" target="_blank" rel="noopener">${esc(item.title)}</a></div>
+    ${item.desc?`<div class="csub">${esc(item.desc)}</div>`:''}
+  </div>`;
+}
+function emptyState(msg){
+  return`<div class="empty">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+      <circle cx="12" cy="12" r="10"/><path d="M12 8v4m0 4h.01"/>
+    </svg>${msg}</div>`;
+}
+
+// ── Load data ──
+fetch('data.json?_='+Date.now())
+  .then(r=>r.json())
+  .then(d=>{
+    document.getElementById('liveTag').textContent='最後更新：'+(d.updated||'—');
+
+    const news=d.news||[];
+    document.getElementById('cNews').textContent=news.length;
+    document.getElementById('listNews').innerHTML=news.length
+      ?news.map(n=>newsCard(n,'b-src',n.source)).join('')
+      :emptyState('今日暫無最新 AI 新聞');
+
+    const tools=d.tools||[];
+    document.getElementById('cTools').textContent=tools.length;
+    document.getElementById('listTools').innerHTML=tools.length
+      ?tools.map(t=>toolCard(t)).join('')
+      :emptyState('今日無新工具上架');
+
+    const sun=[...(d.suniverse_news||[]),...(d.suniverse_tools||[])];
+    document.getElementById('cSun').textContent=sun.length;
+    document.getElementById('listSun').innerHTML=sun.length
+      ?[...(d.suniverse_news||[]).map(n=>newsCard(n,'b-sun','🚩 SS 相關')),
+         ...(d.suniverse_tools||[]).map(t=>toolCard(t))].join('')
+      :emptyState('今日無 Suniverse 相關應用機會');
+
+    const major=d.major||[];
+    document.getElementById('cMajor').textContent=major.length;
+    document.getElementById('listMajor').innerHTML=major.length
+      ?major.map(n=>newsCard(n,'b-major',n.source||'大廠')).join('')
+      :emptyState('今日無大廠重大動態');
+
+    const pick=d.pick;
+    document.getElementById('pickWrap').innerHTML=pick
+      ?`<div class="card pick">
+          <div class="meta"><span class="badge b-pick">💡 Steve 精選</span></div>
+          <div class="ctitle"><a href="${pick.link}" target="_blank" rel="noopener">${esc(pick.title)}</a></div>
+          ${pick.summary?`<div class="csub">${esc(pick.summary)}</div>`:''}
+        </div>`
+      :emptyState('今日無精選');
+  })
+  .catch(()=>{
+    document.getElementById('liveTag').textContent='資料載入失敗，請稍後重試';
+  });
+</script>
+</body>
+</html>
