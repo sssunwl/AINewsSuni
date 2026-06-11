@@ -16,6 +16,7 @@ from datetime import datetime, timezone, timedelta
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID", "446653315")
+CLAUDE_API_KEY = os.getenv("CLAUDE_API_KEY")
 
 HKT = timezone(timedelta(hours=8))
 NOW_HKT = datetime.now(HKT)
@@ -174,6 +175,44 @@ def filter_suniverse(news, tools):
     st = [i for i in tools if any(k in (i["title"]+i.get("desc","")).lower()   for k in SUNIVERSE_KW)][:2]
     return sn, st
 
+def generate_steve_ideas(news, tools):
+    if not CLAUDE_API_KEY:
+        print("  CLAUDE_API_KEY not set, skipping ideas")
+        return []
+    try:
+        import anthropic
+        client = anthropic.Anthropic(api_key=CLAUDE_API_KEY)
+        news_lines = "\n".join(f"- {n['title']}" for n in news[:6])
+        tool_lines = "\n".join(f"- {t['title']}: {t.get('desc','')}" for t in tools[:4])
+        prompt = f"""你是 Steve，Suniverse 品牌的 AI 技術長。受眾是內容創作者、旅遊博主、社媒創業者。
+
+今日 AI 新聞：
+{news_lines}
+
+今日新 AI 工具：
+{tool_lines}
+
+根據以上內容，生成 3 個今天就能開始的具體賺錢機會。每個機會要有實際切入點，不要泛泛而談。
+
+只輸出 JSON，不要任何其他文字：
+[
+  {{"title": "一行標題（繁體中文，15字以內）", "detail": "2-3句具體說明（繁體中文）"}},
+  {{"title": "...", "detail": "..."}},
+  {{"title": "...", "detail": "..."}}
+]"""
+        msg = client.messages.create(
+            model="claude-haiku-4-5-20251001",
+            max_tokens=600,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        text = msg.content[0].text.strip()
+        ideas = json.loads(text)
+        print(f"  {len(ideas)} ideas generated")
+        return ideas[:3]
+    except Exception as e:
+        print(f"[WARN] generate_steve_ideas: {e}")
+        return []
+
 def steve_pick(news, exclude=None):
     exclude = exclude or set()
     cands = [i for i in news if i["title"] not in exclude]
@@ -182,7 +221,7 @@ def steve_pick(news, exclude=None):
     return cands[0] if cands else None
 
 # ── 寫入 data.json ────────────────────────────────────────────────────
-def write_data_json(news, tools, sun_news, sun_tools, major, pick):
+def write_data_json(news, tools, sun_news, sun_tools, major, pick, ideas=None):
     # Load existing history to preserve calendar data
     history = {}
     if os.path.exists(DATA_JSON):
@@ -193,14 +232,16 @@ def write_data_json(news, tools, sun_news, sun_tools, major, pick):
         except Exception:
             pass
 
+    ideas = ideas or []
     today_key = NOW_HKT.strftime("%Y-%m-%d")
     history[today_key] = {
         "news":          news,
         "tools":         tools,
         "suniverse_news":  sun_news,
         "suniverse_tools": sun_tools,
-        "major": major,
-        "pick":  pick,
+        "major":       major,
+        "pick":        pick,
+        "steve_ideas": ideas,
     }
 
     data = {
@@ -209,9 +250,10 @@ def write_data_json(news, tools, sun_news, sun_tools, major, pick):
         "tools":         tools,
         "suniverse_news":  sun_news,
         "suniverse_tools": sun_tools,
-        "major": major,
-        "pick":  pick,
-        "history": history,
+        "major":       major,
+        "pick":        pick,
+        "steve_ideas": ideas,
+        "history":     history,
     }
     os.makedirs("docs", exist_ok=True)
     with open(DATA_JSON, "w", encoding="utf-8") as f:
@@ -219,7 +261,7 @@ def write_data_json(news, tools, sun_news, sun_tools, major, pick):
     print(f"Wrote {DATA_JSON}")
 
 # ── 組 TG 訊息 ────────────────────────────────────────────────────────
-def build_tg(news, tools, sun_news, sun_tools, major, pick):
+def build_tg(news, tools, sun_news, sun_tools, major, pick, ideas=None):
     today   = NOW_HKT.strftime("%Y-%m-%d")
     weekday = WEEKDAYS_ZH[NOW_HKT.weekday()]
     lines = [
@@ -268,6 +310,14 @@ def build_tg(news, tools, sun_news, sun_tools, major, pick):
             f'<i>{esc(pick["summary"])}</i>' if pick.get("summary") else "","",
         ]
 
+    if ideas:
+        lines += ["💰 <b>Steve 今日 3 個賺錢機會</b>",""]
+        for i, idea in enumerate(ideas[:3]):
+            num = ["1️⃣","2️⃣","3️⃣"][i]
+            lines.append(f'{num} <b>{esc(idea["title"])}</b>')
+            lines.append(esc(idea["detail"]))
+            lines.append("")
+
     lines += [f'🌐 <a href="https://sssunwl.github.io/AINewsSuni/">AINewsSuni</a>'
               f'  ·  <a href="https://sssunwl.github.io/AIofficeSuni/">Suniverse</a>']
 
@@ -305,9 +355,12 @@ def main():
     major = filter_major(news)
     pick  = steve_pick(news, exclude={i["title"] for i in sun_news})
 
-    write_data_json(news, tools, sun_news, sun_tools, major, pick)
+    print("Generating Steve's ideas…")
+    ideas = generate_steve_ideas(news, tools)
 
-    msg = build_tg(news, tools, sun_news, sun_tools, major, pick)
+    write_data_json(news, tools, sun_news, sun_tools, major, pick, ideas)
+
+    msg = build_tg(news, tools, sun_news, sun_tools, major, pick, ideas)
     print(f"Message {len(msg)} chars")
     result = send_telegram(msg)
     print(f"Sent: {result.get('ok')}")

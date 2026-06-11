@@ -122,6 +122,7 @@ a:hover{text-decoration:underline}
 .b-major{background:rgba(245,158,11,.1);color:#FCD34D;border:1px solid rgba(245,158,11,.2)}
 .b-sun{background:rgba(0,212,255,.09);color:var(--cyan);border:1px solid rgba(0,212,255,.2)}
 .b-pick{background:rgba(139,92,246,.18);color:#C4B5FD;border:1px solid rgba(139,92,246,.3)}
+.b-idea{background:rgba(245,158,11,.12);color:#FCD34D;border:1px solid rgba(245,158,11,.25)}
 
 .ctitle{font-size:14px;font-weight:600;line-height:1.4;margin-bottom:6px}
 .ctitle a{color:var(--text);transition:color .15s}
@@ -353,6 +354,9 @@ a:hover{text-decoration:underline}
     <div class="sh"><h2>💡 Steve 精選</h2></div>
     <div id="pickWrap"></div>
 
+    <div class="sh" style="margin-top:20px"><h2>💰 Steve 今日賺錢機會</h2></div>
+    <div class="grid three" id="listIdeas"></div>
+
   </div>
 
   <!-- ── 年曆 ── -->
@@ -539,6 +543,13 @@ function renderCalPanel(){
       <div style="font-size:11px;color:var(--cyan);margin-bottom:4px">💡 Steve 精選</div>
       <a href="${day.pick.link}" target="_blank" rel="noopener">${esc(day.pick.title)}</a>
     </div>`:''}
+    ${day.steve_ideas&&day.steve_ideas.length?`<div style="margin-top:12px;padding-top:12px;border-top:1px solid rgba(245,158,11,.15)">
+      <div style="font-size:11px;color:var(--gold);margin-bottom:8px;font-weight:600">💰 Steve 今日賺錢機會</div>
+      ${day.steve_ideas.map((idea,i)=>`<div style="margin-bottom:10px">
+        <div style="font-size:12px;font-weight:600;color:var(--text)">${['1️⃣','2️⃣','3️⃣'][i]} ${esc(idea.title)}</div>
+        <div style="font-size:11px;color:var(--sub);margin-top:2px">${esc(idea.detail)}</div>
+      </div>`).join('')}
+    </div>`:''}
   </div>`;
 }
 
@@ -671,6 +682,15 @@ fetch('data.json?_='+Date.now())
           ${pick.summary?`<div class="csub">${esc(pick.summary)}</div>`:''}
         </div>`
       :emptyState('今日無精選');
+
+    const ideas=d.steve_ideas||[];
+    document.getElementById('listIdeas').innerHTML=ideas.length
+      ?ideas.map((idea,i)=>`<div class="card">
+          <div class="meta"><span class="badge b-idea">${['1️⃣','2️⃣','3️⃣'][i]||'💡'} 機會</span></div>
+          <div class="ctitle" style="color:var(--gold)">${esc(idea.title)}</div>
+          <div class="csub">${esc(idea.detail)}</div>
+        </div>`).join('')
+      :emptyState('今日機會分析需設定 CLAUDE_API_KEY');
 
     // Calendar: populate calData from history
     calData = d.history || {};
