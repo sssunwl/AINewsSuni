@@ -1,12 +1,6 @@
 {
-  "updated": "2026-06-11 17:16 HKT",
+  "updated": "2026-06-11 17:25 HKT",
   "news": [
-    {
-      "title": "Deezer 推出適用於其他串流媒體服務的 AI 音樂偵測器",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "summary": "Deezer 現在將掃描其他串流平台上的播放列表，以偵測人工智慧產生的音樂。 Deezer 是第一個…",
-      "source": "The Verge"
-    },
     {
       "title": "Claude Fable不會回答基本的生物學問題",
       "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
@@ -24,18 +18,58 @@
       "link": "https://www.theverge.com/column/947838/washington-ai-network-honors-2026-midterms",
       "summary": "您好，歡迎來到 Regulator，這是一份為 Verge 訂閱者提供的有關科技政治、科技影響力和科技技巧的時事通訊…",
       "source": "The Verge"
+    },
+    {
+      "title": "谷歌不會承認它正在為 YouTube 創作者提供音樂人工智慧",
+      "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+      "summary": "如果您將歌曲上傳到 YouTube，Google 幾乎肯定會考慮您的視訊公平遊戲來訓練其 Lyria 音樂…",
+      "source": "The Verge"
+    },
+    {
+      "title": "微軟因資料保留問題限制Claude·法布爾（Claude Fable）的員工",
+      "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "summary": "Anthropic 昨天發布了其首個 Mythos 級 AI 型號 Claude Fable，已經引起了 Mic 內部的擔憂…",
+      "source": "The Verge"
+    },
+    {
+      "title": "谷歌將保存你的鏡頭照片、搜尋即時錄音和翻譯音訊以進行人工智慧訓練",
+      "link": "https://www.theverge.com/tech/947836/google-search-privacy-settings-images-audio",
+      "summary": "Google 正在對保存您與搜尋互動的方式進行一些更改。谷歌在發送給用戶的電子郵件中表示，它...",
+      "source": "The Verge"
+    },
+    {
+      "title": "Opendoor 退出印度引發了關於人工智慧和外包的更大討論",
+      "link": "https://techcrunch.com/2026/06/10/opendoors-india-exit-is-fueling-a-bigger-conversation-about-ai-and-outsourcing/",
+      "summary": "這項決定是在印度成為全球最大的海灣合作委員會市場之際做出的。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic 的 Dario Amodei 只有一個直接下屬",
+      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "summary": "如果你懷疑他的天才，就不要再懷疑了。",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "銳文",
+      "title": "劉艾",
+      "link": "https://www.producthunt.com/products/lium",
+      "desc": "複雜數據的人工智慧討論 |關聯"
+    },
+    {
+      "title": "阿斯米人工智慧",
+      "link": "https://www.producthunt.com/products/asmi-ai",
+      "desc": "人工智慧在現實世界中處理你的個人雜務關聯"
+    },
+    {
+      "title": "銳雯",
       "link": "https://www.producthunt.com/products/riven-reach-muscle-failure",
       "desc": "您的 Apple Watch 知道您何時會真正出現肌肉衰竭關聯"
     },
     {
-      "title": "紐帶",
-      "link": "https://www.producthunt.com/products/bond-12",
-      "desc": "自行完成的人工智慧待辦事項清單 討論 |關聯"
+      "title": "易帳單",
+      "link": "https://www.producthunt.com/products/easybilling",
+      "desc": "基於使用的人工智慧產品的人工智慧原生計費和支付討論 |關聯"
     },
     {
       "title": "雷斯潘網關",
@@ -43,7 +77,14 @@
       "desc": "一款具有內建可觀察性和評估功能的 AI 網關 討論 |關聯"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "谷歌不會承認它正在為 YouTube 創作者提供音樂人工智慧",
+      "link": "https://www.theverge.com/tech/947770/google-lyria-music-ai-lawsuit-youtube",
+      "summary": "如果您將歌曲上傳到 YouTube，Google 幾乎肯定會考慮您的視訊公平遊戲來訓練其 Lyria 音樂…",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
@@ -51,6 +92,18 @@
       "link": "https://www.theverge.com/ai-artificial-intelligence/947973/fable-wont-answer-basic-biology-questions",
       "summary": "Anthropic 剛剛發布了 Claude Fable 5，稱其為迄今為止廣泛使用的最強大的人工智慧模型，並受到好評…",
       "source": "The Verge"
+    },
+    {
+      "title": "微軟因資料保留問題限制Claude·法布爾（Claude Fable）的員工",
+      "link": "https://www.theverge.com/report/947575/microsoft-claude-fable-5-restricted-internally",
+      "summary": "Anthropic 昨天發布了其首個 Mythos 級 AI 型號 Claude Fable，已經引起了 Mic 內部的擔憂…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic 的 Dario Amodei 只有一個直接下屬",
+      "link": "https://techcrunch.com/2026/06/10/anthropics-dario-amodei-has-just-one-direct-report/",
+      "summary": "如果你懷疑他的天才，就不要再懷疑了。",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
