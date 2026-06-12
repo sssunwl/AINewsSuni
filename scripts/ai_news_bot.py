@@ -212,7 +212,7 @@ def generate_steve_ideas(news, tools):
 ]"""
 
         response = client.models.generate_content(
-            model="gemini-2.0-flash",
+            model="gemini-1.5-flash",
             contents=prompt,
             config=types.GenerateContentConfig(temperature=0.85, max_output_tokens=700),
         )
