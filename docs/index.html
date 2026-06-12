@@ -690,7 +690,7 @@ fetch('data.json?_='+Date.now())
           <div class="ctitle" style="color:var(--gold)">${esc(idea.title)}</div>
           <div class="csub">${esc(idea.detail)}</div>
         </div>`).join('')
-      :emptyState('今日機會分析需設定 CLAUDE_API_KEY');
+      :emptyState('今日機會分析載入中，請稍後再試');
 
     // Calendar: populate calData from history
     calData = d.history || {};
