@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13 02:48 HKT",
+  "updated": "2026-06-13 02:54 HKT",
   "news": [
     {
       "title": "Siri現在好了嗎？",
@@ -28,7 +28,7 @@
     {
       "title": "Siri 不會成為你的人工智慧女友",
       "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-      "summary": "我们的早期测试已经表明，Siri AI 知道何时该闭嘴，这很大程度上是设计使然。在採訪中…",
+      "summary": "我們的早期測試已經表明，Siri AI 知道何時該閉嘴，這很大程度上是設計使然。在採訪中…",
       "source": "The Verge"
     },
     {
@@ -52,10 +52,16 @@
   ],
   "tools": [
     {
-      "title": "定位人工智慧 (LocIn AI)",
-      "link": "https://www.producthunt.com/products/locin-ai",
-      "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
-      "title_en": "LocIn AI"
+      "title": "池塘 (Pond)",
+      "link": "https://www.producthunt.com/products/pond-5",
+      "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
+      "title_en": "Pond"
+    },
+    {
+      "title": "用於產品搜尋的 NODUS PH 雷達 (NODUS PH Radar for Product Hunt)",
+      "link": "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt",
+      "desc": "超越每日排行榜的產品搜尋分析 討論 |關聯",
+      "title_en": "NODUS PH Radar for Product Hunt"
     },
     {
       "title": "潮 (Tide)",
@@ -64,16 +70,10 @@
       "title_en": "Tide"
     },
     {
-      "title": "池塘 (Pond)",
-      "link": "https://www.producthunt.com/products/pond-5",
-      "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
-      "title_en": "Pond"
-    },
-    {
-      "title": "鮑伯的 CLI (Bob's CLI)",
-      "link": "https://www.producthunt.com/products/bob-s-cli",
-      "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
-      "title_en": "Bob's CLI"
+      "title": "定位人工智慧 (LocIn AI)",
+      "link": "https://www.producthunt.com/products/locin-ai",
+      "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
+      "title_en": "LocIn AI"
     },
     {
       "title": "庫索爾 (Qursor)",
@@ -230,7 +230,7 @@
         {
           "title": "Siri 不會成為你的人工智慧女友",
           "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-          "summary": "我们的早期测试已经表明，Siri AI 知道何时该闭嘴，这很大程度上是设计使然。在採訪中…",
+          "summary": "我們的早期測試已經表明，Siri AI 知道何時該閉嘴，這很大程度上是設計使然。在採訪中…",
           "source": "The Verge"
         },
         {
@@ -254,10 +254,16 @@
       ],
       "tools": [
         {
-          "title": "定位人工智慧 (LocIn AI)",
-          "link": "https://www.producthunt.com/products/locin-ai",
-          "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
-          "title_en": "LocIn AI"
+          "title": "池塘 (Pond)",
+          "link": "https://www.producthunt.com/products/pond-5",
+          "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
+          "title_en": "Pond"
+        },
+        {
+          "title": "用於產品搜尋的 NODUS PH 雷達 (NODUS PH Radar for Product Hunt)",
+          "link": "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt",
+          "desc": "超越每日排行榜的產品搜尋分析 討論 |關聯",
+          "title_en": "NODUS PH Radar for Product Hunt"
         },
         {
           "title": "潮 (Tide)",
@@ -266,16 +272,10 @@
           "title_en": "Tide"
         },
         {
-          "title": "池塘 (Pond)",
-          "link": "https://www.producthunt.com/products/pond-5",
-          "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
-          "title_en": "Pond"
-        },
-        {
-          "title": "鮑伯的 CLI (Bob's CLI)",
-          "link": "https://www.producthunt.com/products/bob-s-cli",
-          "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
-          "title_en": "Bob's CLI"
+          "title": "定位人工智慧 (LocIn AI)",
+          "link": "https://www.producthunt.com/products/locin-ai",
+          "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
+          "title_en": "LocIn AI"
         },
         {
           "title": "庫索爾 (Qursor)",
