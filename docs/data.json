@@ -1,6 +1,36 @@
 {
-  "updated": "2026-06-12 13:29 HKT",
+  "updated": "2026-06-13 02:06 HKT",
   "news": [
+    {
+      "title": "Siri現在好了嗎？",
+      "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+      "summary": "如果你認為這一天永遠不會到來，那是可以理解的。 Siri 在「我們這樣的人…」之間度過了十五年的時間。",
+      "source": "The Verge"
+    },
+    {
+      "title": "伊隆馬斯克是世界上第一位萬億富翁",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+      "summary": "SpaceX 首次公開募股後，馬斯克的淨資產已突破萬億美元大關。他的淨資產徘徊在$...",
+      "source": "The Verge"
+    },
+    {
+      "title": "SpaceX 大規模 IPO：所有最新消息",
+      "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the firs…",
+      "source": "The Verge"
+    },
+    {
+      "title": "傑夫貝佐斯的人工智慧新創公司旨在打造“人工智慧通用工程師”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+      "summary": "亞馬遜創始人傑夫·貝索斯表示，他的新人工智慧新創公司將致力於開發“人工智慧通用工程師”，據...",
+      "source": "The Verge"
+    },
+    {
+      "title": "Siri 不會成為你的人工智慧女友",
+      "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+      "summary": "我们的早期测试已经表明，Siri AI 知道何时该闭嘴，这很大程度上是设计使然。在採訪中…",
+      "source": "The Verge"
+    },
     {
       "title": "亞馬遜資料中心去年使用了 25 億加侖的水",
       "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
@@ -8,95 +38,72 @@
       "source": "The Verge"
     },
     {
-      "title": "人類為隱形的ClaudeFable護欄道歉",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "summary": "Anthropic 已就其新 AI 車型 Claude Fable 5 的隱藏護欄悄悄限制其性能而道歉，該車型破壞了...",
-      "source": "The Verge"
-    },
-    {
-      "title": "Deezer 推出適用於其他串流媒體服務的 AI 音樂偵測器",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948153/deezer-ai-music-detector-spotify-apple",
-      "summary": "Deezer 現在將掃描其他串流平台上的播放列表，以偵測人工智慧產生的音樂。 Deezer 是第一个…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Theker 剛剛籌集了 8500 萬美元來建造不專業的工廠機器人",
-      "link": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-      "summary": "與圍繞固定形式設計的人形機器人不同——想想波士頓動力公司——Theker 的機器是為了重新配置而設計的…",
+      "title": "SpaceX IPO：你需要知道的一切",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "summary": "TechCrunch 一直在關注 SpaceX 的起步、掙扎和成功。我們在這裡等待發生的事情......",
       "source": "TechCrunch"
     },
     {
-      "title": "傑夫貝佐斯 (Jeff Bezos) 的 Prometheus 籌集了 12B 美元，為物理世界打造“人工智慧通用工程師”",
-      "link": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-      "summary": "新一輪融資對這家旨在實現重型工程和藥物設計自動化的實體人工智慧新創公司的估值為 410 億美元。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "SpaceX 正式將股票定價為 135 美元，這是有史以​​來規模最大的 IPO",
-      "link": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
-      "summary": "隨著官方股價公佈，SpaceX 的 IPO 已經開始。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "SpaceX SPV 投資者在 IPO 後鎖定解除之前不會知道他們的真實持股情況",
-      "link": "https://techcrunch.com/2026/06/11/spacex-spv-investors-wont-know-their-true-holdings-until-post-ipo-lock-ups-lift/",
-      "summary": "SpaceX 公開亮相後，低階 SPV 投資者面臨隱性費用、長期支付延遲以及...",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Deezer 的新工具可以識別來自 Spotify、Apple Music 等的 AI 音樂",
-      "link": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-      "summary": "Deezer 推出了一款工具，可以掃描 Spotify、Apple Music 和其他平台的播放清單來識別 AI 音樂。",
+      "title": "據傳 Mistral 將以 20B 估值籌集 3B 歐元",
+      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "summary": "本輪融資將使該公司估值約為 200 億歐元（約 231.5 億美元），幾乎是其 C 輪估值的兩倍…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "朱諾 (Juno)",
-      "link": "https://www.producthunt.com/products/juno-13",
-      "desc": "慢病AI健康伴侶討論|關聯",
-      "title_en": "Juno"
+      "title": "潮 (Tide)",
+      "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+      "desc": "分層語音筆記描繪自己 討論 |關聯",
+      "title_en": "Tide"
     },
     {
-      "title": "紐帶 (Bond)",
-      "link": "https://www.producthunt.com/products/bond-12",
-      "desc": "自行完成的人工智慧待辦事項清單 討論 |關聯",
-      "title_en": "Bond"
+      "title": "殼友 (ShellMate)",
+      "link": "https://www.producthunt.com/products/shellmate-2",
+      "desc": "在一個地方管理 SSH 伺服器、憑證和團隊關聯",
+      "title_en": "ShellMate"
     },
     {
-      "title": "自己的剪輯 (OwnClip)",
-      "link": "https://www.producthunt.com/products/ownclip",
-      "desc": "原生 macOS 螢幕錄影機，具有本地優先的 AI 隱私討論 |關聯",
-      "title_en": "OwnClip"
+      "title": "定位人工智慧 (LocIn AI)",
+      "link": "https://www.producthunt.com/products/locin-ai",
+      "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
+      "title_en": "LocIn AI"
     },
     {
-      "title": "噴槍工作室 (Airbrush Studio)",
-      "link": "https://www.producthunt.com/products/airbrush-studio",
-      "desc": "人工智慧驅動的照片編輯器，無需手動編輯即可獲得專業效果關聯",
-      "title_en": "Airbrush Studio"
+      "title": "鮑伯的 CLI (Bob's CLI)",
+      "link": "https://www.producthunt.com/products/bob-s-cli",
+      "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
+      "title_en": "Bob's CLI"
     },
     {
-      "title": "銳雯 (Riven)",
-      "link": "https://www.producthunt.com/products/riven-reach-muscle-failure",
-      "desc": "您的 Apple Watch 知道您何時會真正出現肌肉衰竭關聯",
-      "title_en": "Riven"
+      "title": "用於產品搜尋的 NODUS PH 雷達 (NODUS PH Radar for Product Hunt)",
+      "link": "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt",
+      "desc": "Product Hunt analytics beyond the daily leaderboard Discussion | Link",
+      "title_en": "NODUS PH Radar for Product Hunt"
     }
   ],
-  "suniverse_news": [],
-  "suniverse_tools": [],
-  "major": [
+  "suniverse_news": [
     {
-      "title": "人類為隱形的ClaudeFable護欄道歉",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-      "summary": "Anthropic 已就其新 AI 車型 Claude Fable 5 的隱藏護欄悄悄限制其性能而道歉，該車型破壞了...",
+      "title": "SpaceX 大規模 IPO：所有最新消息",
+      "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the firs…",
       "source": "The Verge"
     }
   ],
+  "suniverse_tools": [],
+  "major": [
+    {
+      "title": "據傳 Mistral 將以 20B 估值籌集 3B 歐元",
+      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+      "summary": "本輪融資將使該公司估值約為 200 億歐元（約 231.5 億美元），幾乎是其 C 輪估值的兩倍…",
+      "source": "TechCrunch"
+    }
+  ],
   "pick": {
-    "title": "人類為隱形的ClaudeFable護欄道歉",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
-    "summary": "Anthropic 已就其新 AI 車型 Claude Fable 5 的隱藏護欄悄悄限制其性能而道歉，該車型破壞了...",
-    "source": "The Verge"
+    "title": "據傳 Mistral 將以 20B 估值籌集 3B 歐元",
+    "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+    "summary": "本輪融資將使該公司估值約為 200 億歐元（約 231.5 億美元），幾乎是其 C 輪估值的兩倍…",
+    "source": "TechCrunch"
   },
   "steve_ideas": [],
   "history": {
@@ -198,6 +205,114 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail",
         "summary": "Anthropic 已就其新 AI 車型 Claude Fable 5 的隱藏護欄悄悄限制其性能而道歉，該車型破壞了...",
         "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-06-13": {
+      "news": [
+        {
+          "title": "Siri現在好了嗎？",
+          "link": "https://www.theverge.com/podcast/949079/siri-ai-good-vergecast",
+          "summary": "如果你認為這一天永遠不會到來，那是可以理解的。 Siri 在「我們這樣的人…」之間度過了十五年的時間。",
+          "source": "The Verge"
+        },
+        {
+          "title": "伊隆馬斯克是世界上第一位萬億富翁",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/948409/elon-musk-trillionaire-spacex-ipo",
+          "summary": "SpaceX 首次公開募股後，馬斯克的淨資產已突破萬億美元大關。他的淨資產徘徊在$...",
+          "source": "The Verge"
+        },
+        {
+          "title": "SpaceX 大規模 IPO：所有最新消息",
+          "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+          "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the firs…",
+          "source": "The Verge"
+        },
+        {
+          "title": "傑夫貝佐斯的人工智慧新創公司旨在打造“人工智慧通用工程師”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/949005/jeff-bezos-prometheus-artificial-general-engineer",
+          "summary": "亞馬遜創始人傑夫·貝索斯表示，他的新人工智慧新創公司將致力於開發“人工智慧通用工程師”，據...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Siri 不會成為你的人工智慧女友",
+          "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
+          "summary": "我们的早期测试已经表明，Siri AI 知道何时该闭嘴，这很大程度上是设计使然。在採訪中…",
+          "source": "The Verge"
+        },
+        {
+          "title": "亞馬遜資料中心去年使用了 25 億加侖的水",
+          "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
+          "summary": "就在西雅圖頒布了亞馬遜自己的一些員工推動的為期一年的數據中心暫停之後，亞馬遜分享了…",
+          "source": "The Verge"
+        },
+        {
+          "title": "SpaceX IPO：你需要知道的一切",
+          "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+          "summary": "TechCrunch 一直在關注 SpaceX 的起步、掙扎和成功。我們在這裡等待發生的事情......",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "據傳 Mistral 將以 20B 估值籌集 3B 歐元",
+          "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+          "summary": "本輪融資將使該公司估值約為 200 億歐元（約 231.5 億美元），幾乎是其 C 輪估值的兩倍…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "潮 (Tide)",
+          "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+          "desc": "分層語音筆記描繪自己 討論 |關聯",
+          "title_en": "Tide"
+        },
+        {
+          "title": "殼友 (ShellMate)",
+          "link": "https://www.producthunt.com/products/shellmate-2",
+          "desc": "在一個地方管理 SSH 伺服器、憑證和團隊關聯",
+          "title_en": "ShellMate"
+        },
+        {
+          "title": "定位人工智慧 (LocIn AI)",
+          "link": "https://www.producthunt.com/products/locin-ai",
+          "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
+          "title_en": "LocIn AI"
+        },
+        {
+          "title": "鮑伯的 CLI (Bob's CLI)",
+          "link": "https://www.producthunt.com/products/bob-s-cli",
+          "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
+          "title_en": "Bob's CLI"
+        },
+        {
+          "title": "用於產品搜尋的 NODUS PH 雷達 (NODUS PH Radar for Product Hunt)",
+          "link": "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt",
+          "desc": "Product Hunt analytics beyond the daily leaderboard Discussion | Link",
+          "title_en": "NODUS PH Radar for Product Hunt"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "SpaceX 大規模 IPO：所有最新消息",
+          "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
+          "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the firs…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "據傳 Mistral 將以 20B 估值籌集 3B 歐元",
+          "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+          "summary": "本輪融資將使該公司估值約為 200 億歐元（約 231.5 億美元），幾乎是其 C 輪估值的兩倍…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "據傳 Mistral 將以 20B 估值籌集 3B 歐元",
+        "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+        "summary": "本輪融資將使該公司估值約為 200 億歐元（約 231.5 億美元），幾乎是其 C 輪估值的兩倍…",
+        "source": "TechCrunch"
       },
       "steve_ideas": []
     }
