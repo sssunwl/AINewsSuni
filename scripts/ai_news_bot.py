@@ -182,7 +182,7 @@ def generate_steve_ideas(news, tools):
     try:
         from google import genai
         from google.genai import types
-        client = genai.Client(api_key=GEMINI_API_KEY, http_options={"api_version": "v1"})
+        client = genai.Client(api_key=GEMINI_API_KEY)
 
         news_lines = "\n".join(f"- {n['title']}" for n in news[:6])
         tool_lines = "\n".join(f"- {t['title']}: {t.get('desc','')}" for t in tools[:4])
@@ -211,8 +211,18 @@ def generate_steve_ideas(news, tools):
   {{"title": "...", "detail": "..."}}
 ]"""
 
+        # 列出可用模型，找第一個支援 generateContent 的免費模型
+        PREFERRED = ["gemini-2.0-flash-lite","gemini-2.0-flash","gemini-1.5-flash-8b","gemini-1.5-flash"]
+        available = {m.name.split("/")[-1] for m in client.models.list()}
+        print(f"  Available models (sample): {list(available)[:6]}")
+        model_id = next((m for m in PREFERRED if m in available), None)
+        if not model_id:
+            print("  No preferred model available, skipping")
+            return []
+        print(f"  Using model: {model_id}")
+
         response = client.models.generate_content(
-            model="gemini-1.5-flash",
+            model=model_id,
             contents=prompt,
             config=types.GenerateContentConfig(temperature=0.85, max_output_tokens=700),
         )
