@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13 02:06 HKT",
+  "updated": "2026-06-13 02:29 HKT",
   "news": [
     {
       "title": "Siri現在好了嗎？",
@@ -16,7 +16,7 @@
     {
       "title": "SpaceX 大規模 IPO：所有最新消息",
       "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the firs…",
+      "summary": "SpaceX 週五首次公開募股，首次允許公眾購買這家集火箭、人工智慧和社交媒體於一體的公司的股票…",
       "source": "The Verge"
     },
     {
@@ -28,7 +28,7 @@
     {
       "title": "Siri 不會成為你的人工智慧女友",
       "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-      "summary": "我们的早期测试已经表明，Siri AI 知道何时该闭嘴，这很大程度上是设计使然。在採訪中…",
+      "summary": "我們的早期測試已經表明，Siri AI 知道何時該閉嘴，這很大程度上是設計使然。在採訪中…",
       "source": "The Verge"
     },
     {
@@ -52,22 +52,16 @@
   ],
   "tools": [
     {
-      "title": "潮 (Tide)",
-      "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
-      "desc": "分層語音筆記描繪自己 討論 |關聯",
-      "title_en": "Tide"
+      "title": "庫索爾 (Qursor)",
+      "link": "https://www.producthunt.com/products/qursor",
+      "desc": "指向任何 UI 即可將準確的上下文發送到您的 AI 討論 |關聯",
+      "title_en": "Qursor"
     },
     {
-      "title": "殼友 (ShellMate)",
-      "link": "https://www.producthunt.com/products/shellmate-2",
-      "desc": "在一個地方管理 SSH 伺服器、憑證和團隊關聯",
-      "title_en": "ShellMate"
-    },
-    {
-      "title": "定位人工智慧 (LocIn AI)",
-      "link": "https://www.producthunt.com/products/locin-ai",
-      "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
-      "title_en": "LocIn AI"
+      "title": "池塘 (Pond)",
+      "link": "https://www.producthunt.com/products/pond-5",
+      "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
+      "title_en": "Pond"
     },
     {
       "title": "鮑伯的 CLI (Bob's CLI)",
@@ -76,20 +70,19 @@
       "title_en": "Bob's CLI"
     },
     {
-      "title": "用於產品搜尋的 NODUS PH 雷達 (NODUS PH Radar for Product Hunt)",
-      "link": "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt",
-      "desc": "Product Hunt analytics beyond the daily leaderboard Discussion | Link",
-      "title_en": "NODUS PH Radar for Product Hunt"
-    }
-  ],
-  "suniverse_news": [
+      "title": "認識華倫 3.0 (Meet Warren 3.0)",
+      "link": "https://www.producthunt.com/products/underpay",
+      "desc": "您的語音支援人工智慧財務規劃合作夥伴 討論 |關聯",
+      "title_en": "Meet Warren 3.0"
+    },
     {
-      "title": "SpaceX 大規模 IPO：所有最新消息",
-      "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-      "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the firs…",
-      "source": "The Verge"
+      "title": "潮 (Tide)",
+      "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+      "desc": "分層語音筆記描繪自己 討論 |關聯",
+      "title_en": "Tide"
     }
   ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
@@ -225,7 +218,7 @@
         {
           "title": "SpaceX 大規模 IPO：所有最新消息",
           "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-          "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the firs…",
+          "summary": "SpaceX 週五首次公開募股，首次允許公眾購買這家集火箭、人工智慧和社交媒體於一體的公司的股票…",
           "source": "The Verge"
         },
         {
@@ -237,7 +230,7 @@
         {
           "title": "Siri 不會成為你的人工智慧女友",
           "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-          "summary": "我们的早期测试已经表明，Siri AI 知道何时该闭嘴，这很大程度上是设计使然。在採訪中…",
+          "summary": "我們的早期測試已經表明，Siri AI 知道何時該閉嘴，這很大程度上是設計使然。在採訪中…",
           "source": "The Verge"
         },
         {
@@ -261,22 +254,16 @@
       ],
       "tools": [
         {
-          "title": "潮 (Tide)",
-          "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
-          "desc": "分層語音筆記描繪自己 討論 |關聯",
-          "title_en": "Tide"
+          "title": "庫索爾 (Qursor)",
+          "link": "https://www.producthunt.com/products/qursor",
+          "desc": "指向任何 UI 即可將準確的上下文發送到您的 AI 討論 |關聯",
+          "title_en": "Qursor"
         },
         {
-          "title": "殼友 (ShellMate)",
-          "link": "https://www.producthunt.com/products/shellmate-2",
-          "desc": "在一個地方管理 SSH 伺服器、憑證和團隊關聯",
-          "title_en": "ShellMate"
-        },
-        {
-          "title": "定位人工智慧 (LocIn AI)",
-          "link": "https://www.producthunt.com/products/locin-ai",
-          "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
-          "title_en": "LocIn AI"
+          "title": "池塘 (Pond)",
+          "link": "https://www.producthunt.com/products/pond-5",
+          "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
+          "title_en": "Pond"
         },
         {
           "title": "鮑伯的 CLI (Bob's CLI)",
@@ -285,20 +272,19 @@
           "title_en": "Bob's CLI"
         },
         {
-          "title": "用於產品搜尋的 NODUS PH 雷達 (NODUS PH Radar for Product Hunt)",
-          "link": "https://www.producthunt.com/products/nodus-ph-radar-for-product-hunt",
-          "desc": "Product Hunt analytics beyond the daily leaderboard Discussion | Link",
-          "title_en": "NODUS PH Radar for Product Hunt"
-        }
-      ],
-      "suniverse_news": [
+          "title": "認識華倫 3.0 (Meet Warren 3.0)",
+          "link": "https://www.producthunt.com/products/underpay",
+          "desc": "您的語音支援人工智慧財務規劃合作夥伴 討論 |關聯",
+          "title_en": "Meet Warren 3.0"
+        },
         {
-          "title": "SpaceX 大規模 IPO：所有最新消息",
-          "link": "https://www.theverge.com/business/948996/spacex-ipo-elon-musk",
-          "summary": "SpaceX’s IPO on Friday allows the public to buy shares of the combined rocket, AI, and social media company for the firs…",
-          "source": "The Verge"
+          "title": "潮 (Tide)",
+          "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+          "desc": "分層語音筆記描繪自己 討論 |關聯",
+          "title_en": "Tide"
         }
       ],
+      "suniverse_news": [],
       "suniverse_tools": [],
       "major": [
         {
