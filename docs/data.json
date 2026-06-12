@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13 02:29 HKT",
+  "updated": "2026-06-13 02:32 HKT",
   "news": [
     {
       "title": "Siri現在好了嗎？",
@@ -52,6 +52,18 @@
   ],
   "tools": [
     {
+      "title": "鮑伯的 CLI (Bob's CLI)",
+      "link": "https://www.producthunt.com/products/bob-s-cli",
+      "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
+      "title_en": "Bob's CLI"
+    },
+    {
+      "title": "定位人工智慧 (LocIn AI)",
+      "link": "https://www.producthunt.com/products/locin-ai",
+      "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
+      "title_en": "LocIn AI"
+    },
+    {
       "title": "庫索爾 (Qursor)",
       "link": "https://www.producthunt.com/products/qursor",
       "desc": "指向任何 UI 即可將準確的上下文發送到您的 AI 討論 |關聯",
@@ -62,18 +74,6 @@
       "link": "https://www.producthunt.com/products/pond-5",
       "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
       "title_en": "Pond"
-    },
-    {
-      "title": "鮑伯的 CLI (Bob's CLI)",
-      "link": "https://www.producthunt.com/products/bob-s-cli",
-      "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
-      "title_en": "Bob's CLI"
-    },
-    {
-      "title": "認識華倫 3.0 (Meet Warren 3.0)",
-      "link": "https://www.producthunt.com/products/underpay",
-      "desc": "您的語音支援人工智慧財務規劃合作夥伴 討論 |關聯",
-      "title_en": "Meet Warren 3.0"
     },
     {
       "title": "潮 (Tide)",
@@ -254,6 +254,18 @@
       ],
       "tools": [
         {
+          "title": "鮑伯的 CLI (Bob's CLI)",
+          "link": "https://www.producthunt.com/products/bob-s-cli",
+          "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
+          "title_en": "Bob's CLI"
+        },
+        {
+          "title": "定位人工智慧 (LocIn AI)",
+          "link": "https://www.producthunt.com/products/locin-ai",
+          "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
+          "title_en": "LocIn AI"
+        },
+        {
           "title": "庫索爾 (Qursor)",
           "link": "https://www.producthunt.com/products/qursor",
           "desc": "指向任何 UI 即可將準確的上下文發送到您的 AI 討論 |關聯",
@@ -264,18 +276,6 @@
           "link": "https://www.producthunt.com/products/pond-5",
           "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
           "title_en": "Pond"
-        },
-        {
-          "title": "鮑伯的 CLI (Bob's CLI)",
-          "link": "https://www.producthunt.com/products/bob-s-cli",
-          "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
-          "title_en": "Bob's CLI"
-        },
-        {
-          "title": "認識華倫 3.0 (Meet Warren 3.0)",
-          "link": "https://www.producthunt.com/products/underpay",
-          "desc": "您的語音支援人工智慧財務規劃合作夥伴 討論 |關聯",
-          "title_en": "Meet Warren 3.0"
         },
         {
           "title": "潮 (Tide)",
