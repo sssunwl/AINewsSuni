@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13 02:32 HKT",
+  "updated": "2026-06-13 02:48 HKT",
   "news": [
     {
       "title": "Siri現在好了嗎？",
@@ -28,7 +28,7 @@
     {
       "title": "Siri 不會成為你的人工智慧女友",
       "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-      "summary": "我們的早期測試已經表明，Siri AI 知道何時該閉嘴，這很大程度上是設計使然。在採訪中…",
+      "summary": "我们的早期测试已经表明，Siri AI 知道何时该闭嘴，这很大程度上是设计使然。在採訪中…",
       "source": "The Verge"
     },
     {
@@ -38,8 +38,8 @@
       "source": "The Verge"
     },
     {
-      "title": "SpaceX IPO：你需要知道的一切",
-      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+      "title": "SpaceX IPO：您需要了解的一切即時更新",
+      "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
       "summary": "TechCrunch 一直在關注 SpaceX 的起步、掙扎和成功。我們在這裡等待發生的事情......",
       "source": "TechCrunch"
     },
@@ -52,22 +52,16 @@
   ],
   "tools": [
     {
-      "title": "鮑伯的 CLI (Bob's CLI)",
-      "link": "https://www.producthunt.com/products/bob-s-cli",
-      "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
-      "title_en": "Bob's CLI"
-    },
-    {
       "title": "定位人工智慧 (LocIn AI)",
       "link": "https://www.producthunt.com/products/locin-ai",
       "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
       "title_en": "LocIn AI"
     },
     {
-      "title": "庫索爾 (Qursor)",
-      "link": "https://www.producthunt.com/products/qursor",
-      "desc": "指向任何 UI 即可將準確的上下文發送到您的 AI 討論 |關聯",
-      "title_en": "Qursor"
+      "title": "潮 (Tide)",
+      "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+      "desc": "分層語音筆記描繪自己 討論 |關聯",
+      "title_en": "Tide"
     },
     {
       "title": "池塘 (Pond)",
@@ -76,10 +70,16 @@
       "title_en": "Pond"
     },
     {
-      "title": "潮 (Tide)",
-      "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
-      "desc": "分層語音筆記描繪自己 討論 |關聯",
-      "title_en": "Tide"
+      "title": "鮑伯的 CLI (Bob's CLI)",
+      "link": "https://www.producthunt.com/products/bob-s-cli",
+      "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
+      "title_en": "Bob's CLI"
+    },
+    {
+      "title": "庫索爾 (Qursor)",
+      "link": "https://www.producthunt.com/products/qursor",
+      "desc": "指向任何 UI 即可將準確的上下文發送到您的 AI 討論 |關聯",
+      "title_en": "Qursor"
     }
   ],
   "suniverse_news": [],
@@ -230,7 +230,7 @@
         {
           "title": "Siri 不會成為你的人工智慧女友",
           "link": "https://www.theverge.com/tech/948890/siri-wont-be-your-ai-girlfriend",
-          "summary": "我們的早期測試已經表明，Siri AI 知道何時該閉嘴，這很大程度上是設計使然。在採訪中…",
+          "summary": "我们的早期测试已经表明，Siri AI 知道何时该闭嘴，这很大程度上是设计使然。在採訪中…",
           "source": "The Verge"
         },
         {
@@ -240,8 +240,8 @@
           "source": "The Verge"
         },
         {
-          "title": "SpaceX IPO：你需要知道的一切",
-          "link": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+          "title": "SpaceX IPO：您需要了解的一切即時更新",
+          "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
           "summary": "TechCrunch 一直在關注 SpaceX 的起步、掙扎和成功。我們在這裡等待發生的事情......",
           "source": "TechCrunch"
         },
@@ -254,22 +254,16 @@
       ],
       "tools": [
         {
-          "title": "鮑伯的 CLI (Bob's CLI)",
-          "link": "https://www.producthunt.com/products/bob-s-cli",
-          "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
-          "title_en": "Bob's CLI"
-        },
-        {
           "title": "定位人工智慧 (LocIn AI)",
           "link": "https://www.producthunt.com/products/locin-ai",
           "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
           "title_en": "LocIn AI"
         },
         {
-          "title": "庫索爾 (Qursor)",
-          "link": "https://www.producthunt.com/products/qursor",
-          "desc": "指向任何 UI 即可將準確的上下文發送到您的 AI 討論 |關聯",
-          "title_en": "Qursor"
+          "title": "潮 (Tide)",
+          "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+          "desc": "分層語音筆記描繪自己 討論 |關聯",
+          "title_en": "Tide"
         },
         {
           "title": "池塘 (Pond)",
@@ -278,10 +272,16 @@
           "title_en": "Pond"
         },
         {
-          "title": "潮 (Tide)",
-          "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
-          "desc": "分層語音筆記描繪自己 討論 |關聯",
-          "title_en": "Tide"
+          "title": "鮑伯的 CLI (Bob's CLI)",
+          "link": "https://www.producthunt.com/products/bob-s-cli",
+          "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
+          "title_en": "Bob's CLI"
+        },
+        {
+          "title": "庫索爾 (Qursor)",
+          "link": "https://www.producthunt.com/products/qursor",
+          "desc": "指向任何 UI 即可將準確的上下文發送到您的 AI 討論 |關聯",
+          "title_en": "Qursor"
         }
       ],
       "suniverse_news": [],
