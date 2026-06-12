@@ -182,7 +182,7 @@ def generate_steve_ideas(news, tools):
     try:
         from google import genai
         from google.genai import types
-        client = genai.Client(api_key=GEMINI_API_KEY)
+        client = genai.Client(api_key=GEMINI_API_KEY, http_options={"api_version": "v1"})
 
         news_lines = "\n".join(f"- {n['title']}" for n in news[:6])
         tool_lines = "\n".join(f"- {t['title']}: {t.get('desc','')}" for t in tools[:4])
