@@ -190,12 +190,17 @@ def generate_steve_ideas(news, tools):
 
 你要給 SS 推薦 3 個這週就能試的 AI 賺錢機會。
 
+工具使用規則（最重要）：
+- 只能用你確定存在的真實工具，例如：CapCut、Runway、ElevenLabs、Kling AI、Sora、Midjourney、ChatGPT、Claude、Canva、Descript、HeyGen、Pika、Adobe Firefly、Notion AI、Perplexity、Replit
+- 如果今日新聞或工具清單提到了真實工具名稱，優先用那些
+- 絕對不能自己發明工具名稱
+- 如果不確定工具是否存在，改說「用 ChatGPT / Claude」即可
+
 寫作規則（必須遵守）：
-1. 標題要像週刊封面標題，不是課本目錄（例如：「用這個工具 10 分鐘出旅遊 Reel」）
+1. 標題要像週刊封面標題，不是課本目錄（例如：「用 CapCut AI 10 分鐘出旅遊 Reel」）
 2. detail 要像你在 WhatsApp 傳訊息給 SS，說話自然，有具體步驟
-3. 必須提到具體工具名稱、平台、或操作方式
+3. 每個機會要說清楚：做什麼 → 發在哪 → 預計多久出成果
 4. 禁用詞：「在當今」「隨著AI發展」「不妨嘗試」「大幅提升」「值得關注」「可以考慮」「顯著」「賦能」
-5. 每個機會要說清楚：做什麼 → 發在哪 → 預計多久出成果
 
 今日 AI 新聞：
 {news_lines}
