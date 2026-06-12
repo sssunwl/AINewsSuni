@@ -24,13 +24,13 @@ jobs:
           python-version: "3.10"
 
       - name: Install dependencies
-        run: pip install feedparser requests google-genai
+        run: pip install feedparser requests groq
 
       - name: Run AI Brief
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python scripts/ai_news_bot.py
 
       - name: Commit data.json

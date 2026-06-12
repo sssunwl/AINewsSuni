@@ -16,7 +16,7 @@ from datetime import datetime, timezone, timedelta
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID", "446653315")
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY")
 
 HKT = timezone(timedelta(hours=8))
 NOW_HKT = datetime.now(HKT)
@@ -176,13 +176,12 @@ def filter_suniverse(news, tools):
     return sn, st
 
 def generate_steve_ideas(news, tools):
-    if not GEMINI_API_KEY:
-        print("  GEMINI_API_KEY not set, skipping ideas")
+    if not GROQ_API_KEY:
+        print("  GROQ_API_KEY not set, skipping ideas")
         return []
     try:
-        from google import genai
-        from google.genai import types
-        client = genai.Client(api_key=GEMINI_API_KEY)
+        from groq import Groq
+        client = Groq(api_key=GROQ_API_KEY)
 
         news_lines = "\n".join(f"- {n['title']}" for n in news[:6])
         tool_lines = "\n".join(f"- {t['title']}: {t.get('desc','')}" for t in tools[:4])
@@ -211,27 +210,17 @@ def generate_steve_ideas(news, tools):
   {{"title": "...", "detail": "..."}}
 ]"""
 
-        # 列出可用模型，找第一個支援 generateContent 的免費模型
-        PREFERRED = ["gemini-2.0-flash-lite","gemini-2.0-flash","gemini-1.5-flash-8b","gemini-1.5-flash"]
-        available = {m.name.split("/")[-1] for m in client.models.list()}
-        print(f"  Available models (sample): {list(available)[:6]}")
-        model_id = next((m for m in PREFERRED if m in available), None)
-        if not model_id:
-            print("  No preferred model available, skipping")
-            return []
-        print(f"  Using model: {model_id}")
-
-        response = client.models.generate_content(
-            model=model_id,
-            contents=prompt,
-            config=types.GenerateContentConfig(temperature=0.85, max_output_tokens=700),
+        response = client.chat.completions.create(
+            model="llama-3.3-70b-versatile",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.85,
+            max_tokens=700,
         )
-        text = response.text.strip()
-        # 清除可能的 markdown code block
+        text = response.choices[0].message.content.strip()
         text = re.sub(r"^```(?:json)?\s*", "", text)
         text = re.sub(r"\s*```$", "", text)
         ideas = json.loads(text)
-        print(f"  {len(ideas)} ideas generated (Gemini)")
+        print(f"  {len(ideas)} ideas generated (Groq)")
         return ideas[:3]
     except Exception as e:
         print(f"[WARN] generate_steve_ideas: {e}")
