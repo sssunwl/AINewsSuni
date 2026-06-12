@@ -24,7 +24,7 @@ jobs:
           python-version: "3.10"
 
       - name: Install dependencies
-        run: pip install feedparser requests google-generativeai
+        run: pip install feedparser requests google-genai
 
       - name: Run AI Brief
         env:

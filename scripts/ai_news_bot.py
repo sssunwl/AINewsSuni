@@ -180,12 +180,9 @@ def generate_steve_ideas(news, tools):
         print("  GEMINI_API_KEY not set, skipping ideas")
         return []
     try:
-        import google.generativeai as genai
-        genai.configure(api_key=GEMINI_API_KEY)
-        model = genai.GenerativeModel(
-            model_name="gemini-2.0-flash",
-            generation_config={"temperature": 0.85, "max_output_tokens": 700},
-        )
+        from google import genai
+        from google.genai import types
+        client = genai.Client(api_key=GEMINI_API_KEY)
 
         news_lines = "\n".join(f"- {n['title']}" for n in news[:6])
         tool_lines = "\n".join(f"- {t['title']}: {t.get('desc','')}" for t in tools[:4])
@@ -214,7 +211,11 @@ def generate_steve_ideas(news, tools):
   {{"title": "...", "detail": "..."}}
 ]"""
 
-        response = model.generate_content(prompt)
+        response = client.models.generate_content(
+            model="gemini-2.0-flash",
+            contents=prompt,
+            config=types.GenerateContentConfig(temperature=0.85, max_output_tokens=700),
+        )
         text = response.text.strip()
         # 清除可能的 markdown code block
         text = re.sub(r"^```(?:json)?\s*", "", text)
