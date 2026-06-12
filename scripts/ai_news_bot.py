@@ -16,7 +16,7 @@ from datetime import datetime, timezone, timedelta
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID", "446653315")
-CLAUDE_API_KEY = os.getenv("CLAUDE_API_KEY")
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 HKT = timezone(timedelta(hours=8))
 NOW_HKT = datetime.now(HKT)
@@ -176,15 +176,30 @@ def filter_suniverse(news, tools):
     return sn, st
 
 def generate_steve_ideas(news, tools):
-    if not CLAUDE_API_KEY:
-        print("  CLAUDE_API_KEY not set, skipping ideas")
+    if not GEMINI_API_KEY:
+        print("  GEMINI_API_KEY not set, skipping ideas")
         return []
     try:
-        import anthropic
-        client = anthropic.Anthropic(api_key=CLAUDE_API_KEY)
+        import google.generativeai as genai
+        genai.configure(api_key=GEMINI_API_KEY)
+        model = genai.GenerativeModel(
+            model_name="gemini-2.0-flash",
+            generation_config={"temperature": 0.85, "max_output_tokens": 700},
+        )
+
         news_lines = "\n".join(f"- {n['title']}" for n in news[:6])
         tool_lines = "\n".join(f"- {t['title']}: {t.get('desc','')}" for t in tools[:4])
-        prompt = f"""你是 Steve，Suniverse 品牌的 AI 技術長。受眾是內容創作者、旅遊博主、社媒創業者。
+
+        prompt = f"""你是 Steve，Suniverse 的 AI 技術長。說話像個在矽谷工作過的香港人——直接、有點酷、不廢話。你老闆 SS 是旅遊美食內容創作者兼品牌創辦人。
+
+你要給 SS 推薦 3 個這週就能試的 AI 賺錢機會。
+
+寫作規則（必須遵守）：
+1. 標題要像週刊封面標題，不是課本目錄（例如：「用這個工具 10 分鐘出旅遊 Reel」）
+2. detail 要像你在 WhatsApp 傳訊息給 SS，說話自然，有具體步驟
+3. 必須提到具體工具名稱、平台、或操作方式
+4. 禁用詞：「在當今」「隨著AI發展」「不妨嘗試」「大幅提升」「值得關注」「可以考慮」「顯著」「賦能」
+5. 每個機會要說清楚：做什麼 → 發在哪 → 預計多久出成果
 
 今日 AI 新聞：
 {news_lines}
@@ -192,22 +207,20 @@ def generate_steve_ideas(news, tools):
 今日新 AI 工具：
 {tool_lines}
 
-根據以上內容，生成 3 個今天就能開始的具體賺錢機會。每個機會要有實際切入點，不要泛泛而談。
-
-只輸出 JSON，不要任何其他文字：
+只輸出 JSON array，不要 markdown code block，不要其他文字：
 [
-  {{"title": "一行標題（繁體中文，15字以內）", "detail": "2-3句具體說明（繁體中文）"}},
+  {{"title": "標題（15字以內）", "detail": "2-3句，說人話，有具體工具或步驟"}},
   {{"title": "...", "detail": "..."}},
   {{"title": "...", "detail": "..."}}
 ]"""
-        msg = client.messages.create(
-            model="claude-haiku-4-5-20251001",
-            max_tokens=600,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        text = msg.content[0].text.strip()
+
+        response = model.generate_content(prompt)
+        text = response.text.strip()
+        # 清除可能的 markdown code block
+        text = re.sub(r"^```(?:json)?\s*", "", text)
+        text = re.sub(r"\s*```$", "", text)
         ideas = json.loads(text)
-        print(f"  {len(ideas)} ideas generated")
+        print(f"  {len(ideas)} ideas generated (Gemini)")
         return ideas[:3]
     except Exception as e:
         print(f"[WARN] generate_steve_ideas: {e}")
