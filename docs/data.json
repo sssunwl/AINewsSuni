@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13 03:11 HKT",
+  "updated": "2026-06-13 03:32 HKT",
   "news": [
     {
       "title": "Siri現在好了嗎？",
@@ -52,10 +52,10 @@
   ],
   "tools": [
     {
-      "title": "池塘 (Pond)",
-      "link": "https://www.producthunt.com/products/pond-5",
-      "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
-      "title_en": "Pond"
+      "title": "潮 (Tide)",
+      "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+      "desc": "分層語音筆記描繪自己 討論 |關聯",
+      "title_en": "Tide"
     },
     {
       "title": "定位人工智慧 (LocIn AI)",
@@ -64,16 +64,16 @@
       "title_en": "LocIn AI"
     },
     {
-      "title": "認識華倫 3.0 (Meet Warren 3.0)",
-      "link": "https://www.producthunt.com/products/underpay",
-      "desc": "Your voice-supported AI financial planning partner Discussion | Link",
-      "title_en": "Meet Warren 3.0"
+      "title": "殼友 (ShellMate)",
+      "link": "https://www.producthunt.com/products/shellmate-2",
+      "desc": "在一個地方管理 SSH 伺服器、憑證和團隊關聯",
+      "title_en": "ShellMate"
     },
     {
-      "title": "鮑伯的 CLI (Bob's CLI)",
-      "link": "https://www.producthunt.com/products/bob-s-cli",
-      "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
-      "title_en": "Bob's CLI"
+      "title": "池塘 (Pond)",
+      "link": "https://www.producthunt.com/products/pond-5",
+      "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
+      "title_en": "Pond"
     },
     {
       "title": "庫索爾 (Qursor)",
@@ -254,10 +254,10 @@
       ],
       "tools": [
         {
-          "title": "池塘 (Pond)",
-          "link": "https://www.producthunt.com/products/pond-5",
-          "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
-          "title_en": "Pond"
+          "title": "潮 (Tide)",
+          "link": "https://www.producthunt.com/products/tide-beautiful-layered-voice-notes",
+          "desc": "分層語音筆記描繪自己 討論 |關聯",
+          "title_en": "Tide"
         },
         {
           "title": "定位人工智慧 (LocIn AI)",
@@ -266,16 +266,16 @@
           "title_en": "LocIn AI"
         },
         {
-          "title": "認識華倫 3.0 (Meet Warren 3.0)",
-          "link": "https://www.producthunt.com/products/underpay",
-          "desc": "Your voice-supported AI financial planning partner Discussion | Link",
-          "title_en": "Meet Warren 3.0"
+          "title": "殼友 (ShellMate)",
+          "link": "https://www.producthunt.com/products/shellmate-2",
+          "desc": "在一個地方管理 SSH 伺服器、憑證和團隊關聯",
+          "title_en": "ShellMate"
         },
         {
-          "title": "鮑伯的 CLI (Bob's CLI)",
-          "link": "https://www.producthunt.com/products/bob-s-cli",
-          "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
-          "title_en": "Bob's CLI"
+          "title": "池塘 (Pond)",
+          "link": "https://www.producthunt.com/products/pond-5",
+          "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
+          "title_en": "Pond"
         },
         {
           "title": "庫索爾 (Qursor)",
