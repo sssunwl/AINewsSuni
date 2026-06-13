@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13 04:05 HKT",
+  "updated": "2026-06-13 13:18 HKT",
   "news": [
     {
       "title": "Siri現在好了嗎？",
@@ -32,31 +32,25 @@
       "source": "The Verge"
     },
     {
-      "title": "亞馬遜資料中心去年使用了 25 億加侖的水",
-      "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
-      "summary": "就在西雅圖頒布了亞馬遜自己的一些員工推動的為期一年的數據中心暫停之後，亞馬遜分享了…",
-      "source": "The Verge"
+      "title": "安德魯楊（Andrew Yang）認為下一個重大創業機會是降低生活成本",
+      "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+      "summary": "安德魯楊（Andrew Yang）列出了美國人支付過高的一切費用的清單——住房、食品、無線——並認為下一個創業黃金...",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic 的安全警告可能適得其反——政府已經終止了其最強大的人工智慧",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "summary": "Anthropic 並沒有掩飾自己的挫敗感。 「我們不同意，小範圍潛在越獄的發現應該是…的原因。",
+      "source": "TechCrunch"
     },
     {
       "title": "SpaceX IPO：您需要了解的一切即時更新",
       "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
       "summary": "TechCrunch 一直在關注 SpaceX 的起步、掙扎和成功。我們在這裡等待發生的事情......",
       "source": "TechCrunch"
-    },
-    {
-      "title": "據傳 Mistral 將以 20B 估值籌集 3B 歐元",
-      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "summary": "本輪融資將使該公司估值約為 200 億歐元（約 231.5 億美元），幾乎是其 C 輪估值的兩倍…",
-      "source": "TechCrunch"
     }
   ],
   "tools": [
-    {
-      "title": "認識華倫 3.0 (Meet Warren 3.0)",
-      "link": "https://www.producthunt.com/products/underpay",
-      "desc": "您的語音支援人工智慧財務規劃合作夥伴 討論 |關聯",
-      "title_en": "Meet Warren 3.0"
-    },
     {
       "title": "鮑伯的 CLI (Bob's CLI)",
       "link": "https://www.producthunt.com/products/bob-s-cli",
@@ -64,52 +58,58 @@
       "title_en": "Bob's CLI"
     },
     {
-      "title": "定位人工智慧 (LocIn AI)",
-      "link": "https://www.producthunt.com/products/locin-ai",
-      "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
-      "title_en": "LocIn AI"
-    },
-    {
-      "title": "殼友 (ShellMate)",
-      "link": "https://www.producthunt.com/products/shellmate-2",
-      "desc": "在一個地方管理 SSH 伺服器、憑證和團隊關聯",
-      "title_en": "ShellMate"
+      "title": "庫索爾 (Qursor)",
+      "link": "https://www.producthunt.com/products/qursor",
+      "desc": "指向任何 UI 即可將準確的上下文發送到您的 AI 討論 |關聯",
+      "title_en": "Qursor"
     },
     {
       "title": "池塘 (Pond)",
       "link": "https://www.producthunt.com/products/pond-5",
       "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
       "title_en": "Pond"
+    },
+    {
+      "title": "認識華倫 3.0 (Meet Warren 3.0)",
+      "link": "https://www.producthunt.com/products/underpay",
+      "desc": "您的語音支援人工智慧財務規劃合作夥伴 討論 |關聯",
+      "title_en": "Meet Warren 3.0"
+    },
+    {
+      "title": "殼友 (ShellMate)",
+      "link": "https://www.producthunt.com/products/shellmate-2",
+      "desc": "在一個地方管理 SSH 伺服器、憑證和團隊關聯",
+      "title_en": "ShellMate"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "據傳 Mistral 將以 20B 估值籌集 3B 歐元",
-      "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-      "summary": "本輪融資將使該公司估值約為 200 億歐元（約 231.5 億美元），幾乎是其 C 輪估值的兩倍…",
+      "title": "Anthropic 的安全警告可能適得其反——政府已經終止了其最強大的人工智慧",
+      "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+      "summary": "Anthropic 並沒有掩飾自己的挫敗感。 「我們不同意，小範圍潛在越獄的發現應該是…的原因。",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "據傳 Mistral 將以 20B 估值籌集 3B 歐元",
-    "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-    "summary": "本輪融資將使該公司估值約為 200 億歐元（約 231.5 億美元），幾乎是其 C 輪估值的兩倍…",
+    "title": "Anthropic 的安全警告可能適得其反——政府已經終止了其最強大的人工智慧",
+    "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+    "summary": "Anthropic 並沒有掩飾自己的挫敗感。 「我們不同意，小範圍潛在越獄的發現應該是…的原因。",
     "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "自動化財務内容",
-      "detail": "用Meet Warren 3.0建立財務規劃文章，發在Medium，3天內就會出成果，吸引更多讀者"
+      "title": "用 Qursor 製作互動旅遊短片",
+      "detail": "用 Qursor 指向 UI 元素，將旅遊內容發送到 AI 討論，製作互動短片，發在 IG Reel，預計 2 天出成果"
     },
     {
-      "title": "語音旅行Vlog",
-      "detail": "錄製旅行Vlog，使用Bob's CLI優化音頻質量，發在TikTok，1週內就會增加粉絲數"
+      "title": "Bob's CLI 編碼旅遊攻略",
+      "detail": "使用 Bob's CLI 編寫程式碼，生成旅遊攻略，發在 Medium，預計 3 天出成果"
     },
     {
-      "title": "智能本地化",
-      "detail": "使用LocIn AI將Suniverse的旅遊內容本地化，發在官方網站，2週內就會增加國際流量"
+      "title": "Meet Warren 3.0 旅遊財務規劃",
+      "detail": "用 Meet Warren 3.0 計算旅遊預算，將結果發送到社交媒體，發在 Facebook，預計 1 天出成果"
     }
   ],
   "history": {
@@ -247,31 +247,25 @@
           "source": "The Verge"
         },
         {
-          "title": "亞馬遜資料中心去年使用了 25 億加侖的水",
-          "link": "https://www.theverge.com/tech/948534/amazon-data-centers-water-use",
-          "summary": "就在西雅圖頒布了亞馬遜自己的一些員工推動的為期一年的數據中心暫停之後，亞馬遜分享了…",
-          "source": "The Verge"
+          "title": "安德魯楊（Andrew Yang）認為下一個重大創業機會是降低生活成本",
+          "link": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+          "summary": "安德魯楊（Andrew Yang）列出了美國人支付過高的一切費用的清單——住房、食品、無線——並認為下一個創業黃金...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic 的安全警告可能適得其反——政府已經終止了其最強大的人工智慧",
+          "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+          "summary": "Anthropic 並沒有掩飾自己的挫敗感。 「我們不同意，小範圍潛在越獄的發現應該是…的原因。",
+          "source": "TechCrunch"
         },
         {
           "title": "SpaceX IPO：您需要了解的一切即時更新",
           "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
           "summary": "TechCrunch 一直在關注 SpaceX 的起步、掙扎和成功。我們在這裡等待發生的事情......",
           "source": "TechCrunch"
-        },
-        {
-          "title": "據傳 Mistral 將以 20B 估值籌集 3B 歐元",
-          "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-          "summary": "本輪融資將使該公司估值約為 200 億歐元（約 231.5 億美元），幾乎是其 C 輪估值的兩倍…",
-          "source": "TechCrunch"
         }
       ],
       "tools": [
-        {
-          "title": "認識華倫 3.0 (Meet Warren 3.0)",
-          "link": "https://www.producthunt.com/products/underpay",
-          "desc": "您的語音支援人工智慧財務規劃合作夥伴 討論 |關聯",
-          "title_en": "Meet Warren 3.0"
-        },
         {
           "title": "鮑伯的 CLI (Bob's CLI)",
           "link": "https://www.producthunt.com/products/bob-s-cli",
@@ -279,52 +273,58 @@
           "title_en": "Bob's CLI"
         },
         {
-          "title": "定位人工智慧 (LocIn AI)",
-          "link": "https://www.producthunt.com/products/locin-ai",
-          "desc": "使用音調感知 AI、自動化工作流程本地化您的應用程式關聯",
-          "title_en": "LocIn AI"
-        },
-        {
-          "title": "殼友 (ShellMate)",
-          "link": "https://www.producthunt.com/products/shellmate-2",
-          "desc": "在一個地方管理 SSH 伺服器、憑證和團隊關聯",
-          "title_en": "ShellMate"
+          "title": "庫索爾 (Qursor)",
+          "link": "https://www.producthunt.com/products/qursor",
+          "desc": "指向任何 UI 即可將準確的上下文發送到您的 AI 討論 |關聯",
+          "title_en": "Qursor"
         },
         {
           "title": "池塘 (Pond)",
           "link": "https://www.producthunt.com/products/pond-5",
           "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
           "title_en": "Pond"
+        },
+        {
+          "title": "認識華倫 3.0 (Meet Warren 3.0)",
+          "link": "https://www.producthunt.com/products/underpay",
+          "desc": "您的語音支援人工智慧財務規劃合作夥伴 討論 |關聯",
+          "title_en": "Meet Warren 3.0"
+        },
+        {
+          "title": "殼友 (ShellMate)",
+          "link": "https://www.producthunt.com/products/shellmate-2",
+          "desc": "在一個地方管理 SSH 伺服器、憑證和團隊關聯",
+          "title_en": "ShellMate"
         }
       ],
       "suniverse_news": [],
       "suniverse_tools": [],
       "major": [
         {
-          "title": "據傳 Mistral 將以 20B 估值籌集 3B 歐元",
-          "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-          "summary": "本輪融資將使該公司估值約為 200 億歐元（約 231.5 億美元），幾乎是其 C 輪估值的兩倍…",
+          "title": "Anthropic 的安全警告可能適得其反——政府已經終止了其最強大的人工智慧",
+          "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+          "summary": "Anthropic 並沒有掩飾自己的挫敗感。 「我們不同意，小範圍潛在越獄的發現應該是…的原因。",
           "source": "TechCrunch"
         }
       ],
       "pick": {
-        "title": "據傳 Mistral 將以 20B 估值籌集 3B 歐元",
-        "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
-        "summary": "本輪融資將使該公司估值約為 200 億歐元（約 231.5 億美元），幾乎是其 C 輪估值的兩倍…",
+        "title": "Anthropic 的安全警告可能適得其反——政府已經終止了其最強大的人工智慧",
+        "link": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+        "summary": "Anthropic 並沒有掩飾自己的挫敗感。 「我們不同意，小範圍潛在越獄的發現應該是…的原因。",
         "source": "TechCrunch"
       },
       "steve_ideas": [
         {
-          "title": "自動化財務内容",
-          "detail": "用Meet Warren 3.0建立財務規劃文章，發在Medium，3天內就會出成果，吸引更多讀者"
+          "title": "用 Qursor 製作互動旅遊短片",
+          "detail": "用 Qursor 指向 UI 元素，將旅遊內容發送到 AI 討論，製作互動短片，發在 IG Reel，預計 2 天出成果"
         },
         {
-          "title": "語音旅行Vlog",
-          "detail": "錄製旅行Vlog，使用Bob's CLI優化音頻質量，發在TikTok，1週內就會增加粉絲數"
+          "title": "Bob's CLI 編碼旅遊攻略",
+          "detail": "使用 Bob's CLI 編寫程式碼，生成旅遊攻略，發在 Medium，預計 3 天出成果"
         },
         {
-          "title": "智能本地化",
-          "detail": "使用LocIn AI將Suniverse的旅遊內容本地化，發在官方網站，2週內就會增加國際流量"
+          "title": "Meet Warren 3.0 旅遊財務規劃",
+          "detail": "用 Meet Warren 3.0 計算旅遊預算，將結果發送到社交媒體，發在 Facebook，預計 1 天出成果"
         }
       ]
     }
