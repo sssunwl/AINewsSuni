@@ -1,56 +1,44 @@
 {
-  "updated": "2026-06-14 13:29 HKT",
+  "updated": "2026-06-15 14:21 HKT",
   "news": [
     {
-      "title": "據報道，亞馬遜的安全研究導致了白宮對《人擇Fable》的禁令",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-      "summary": "根據《華爾街日報》報道，出口管制指令導致 Anthropic 切斷了《神鬼Fable 5》的訪問權限…",
+      "title": "中國可能已經訪問了神話",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "summary": "根據 Semafor 的一份新報告，白宮決定對 Anthropic 的 Mythos 實施出口限制…",
       "source": "The Verge"
     },
     {
-      "title": "我的院子快要死了，所以我為此製作了一個應用程式",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-      "summary": "當我在給 Gemini 一個冗長的提示後五分鐘回到我的電腦時，我有兩件事：一個功能性應用程式...",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic 根據政府命令切斷了《神鬼Fable 5》和《神話 5》的訪問",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "summary": "週五晚上，政府命令 Anthropic 阻止所有外國用戶訪問《神鬼Fable 5》和《神話 5》，機器人…",
-      "source": "The Verge"
-    },
-    {
-      "title": "蘋果新的人工智慧照片編輯工具大部分都有效，無論好壞",
-      "link": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
-      "summary": "世界上最受歡迎的相機剛剛獲得了第一套嚴肅的人工智慧照片編輯功能，我認為沒有任何…",
-      "source": "The Verge"
-    },
-    {
-      "title": "好萊塢的未來不會為普通的人工智慧模型提供提示",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
-      "summary": "儘管有許多關於生成式人工智慧將如何徹底改變電影製作產業的噪音，但…",
-      "source": "The Verge"
+      "title": "當人工智慧公司競相上市時，還有誰參與其中？",
+      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+      "summary": "新創公司正試圖「乘上 SpaceX IPO 的浪潮」。",
+      "source": "TechCrunch"
     },
     {
       "title": "由於 Anthropic 暫停使用新模型，印度對其人工智慧的未來展開爭論",
       "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
       "summary": "科技領袖們爭論「人擇事件」是否為印度的人工智慧野心敲響了警鐘。",
       "source": "TechCrunch"
-    },
-    {
-      "title": "據報道，在北京方面的要求下，Meta 將解除價值 20 億美元的 Manus 交易",
-      "link": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand/",
-      "summary": "在北京方面下令撤銷交易後，Meta 開始取消以 20 億美元收購 Manus 的交易。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "由於明顯的幻覺，畢馬威撤回了人工智慧使用報告",
-      "link": "https://techcrunch.com/2026/06/13/kpmg-pulls-report-on-ai-usage-due-to-apparent-hallucinations/",
-      "summary": "人工智慧再次被證明是有關人工智慧的不可靠資訊來源。",
-      "source": "TechCrunch"
     }
   ],
   "tools": [
+    {
+      "title": "斜線 (Slashy)",
+      "link": "https://www.producthunt.com/products/slashy-3",
+      "desc": "The AI assistant that does email for you Discussion | Link",
+      "title_en": "Slashy"
+    },
+    {
+      "title": "柯南 (Conan)",
+      "link": "https://www.producthunt.com/products/conan",
+      "desc": "用於 Claude 代碼討論的原生 Mac 駕駛艙 |關聯",
+      "title_en": "Conan"
+    },
+    {
+      "title": "記憶庫 (Memoriq)",
+      "link": "https://www.producthunt.com/products/memoriq",
+      "desc": "Your private AI memory for ChatGPT, Claude, Gemini and Grok Discussion | Link",
+      "title_en": "Memoriq"
+    },
     {
       "title": "CakewordAI",
       "link": "https://www.producthunt.com/products/cakewordai-snap-learn",
@@ -62,66 +50,42 @@
       "link": "https://www.producthunt.com/products/shellmate-2",
       "desc": "在一個地方管理 SSH 伺服器、憑證和團隊關聯",
       "title_en": "ShellMate"
-    },
-    {
-      "title": "庫索爾 (Qursor)",
-      "link": "https://www.producthunt.com/products/qursor",
-      "desc": "指向任何 UI 即可將準確的上下文發送到您的 AI 討論 |關聯",
-      "title_en": "Qursor"
-    },
-    {
-      "title": "池塘 (Pond)",
-      "link": "https://www.producthunt.com/products/pond-5",
-      "desc": "新創公司的籌款、GTM 和獎金討論 |關聯",
-      "title_en": "Pond"
-    },
-    {
-      "title": "鮑伯的 CLI (Bob's CLI)",
-      "link": "https://www.producthunt.com/products/bob-s-cli",
-      "desc": "適合您的本地優先 AI 編碼 CLI 討論 |關聯",
-      "title_en": "Bob's CLI"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "據報道，亞馬遜的安全研究導致了白宮對《人擇Fable》的禁令",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-      "summary": "根據《華爾街日報》報道，出口管制指令導致 Anthropic 切斷了《神鬼Fable 5》的訪問權限…",
+      "title": "中國可能已經訪問了神話",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+      "summary": "根據 Semafor 的一份新報告，白宮決定對 Anthropic 的 Mythos 實施出口限制…",
       "source": "The Verge"
     },
     {
-      "title": "我的院子快要死了，所以我為此製作了一個應用程式",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
-      "summary": "當我在給 Gemini 一個冗長的提示後五分鐘回到我的電腦時，我有兩件事：一個功能性應用程式...",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic 根據政府命令切斷了《神鬼Fable 5》和《神話 5》的訪問",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
-      "summary": "週五晚上，政府命令 Anthropic 阻止所有外國用戶訪問《神鬼Fable 5》和《神話 5》，機器人…",
-      "source": "The Verge"
+      "title": "由於 Anthropic 暫停使用新模型，印度對其人工智慧的未來展開爭論",
+      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+      "summary": "科技領袖們爭論「人擇事件」是否為印度的人工智慧野心敲響了警鐘。",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "據報道，亞馬遜的安全研究導致了白宮對《人擇Fable》的禁令",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-    "summary": "根據《華爾街日報》報道，出口管制指令導致 Anthropic 切斷了《神鬼Fable 5》的訪問權限…",
+    "title": "中國可能已經訪問了神話",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+    "summary": "根據 Semafor 的一份新報告，白宮決定對 Anthropic 的 Mythos 實施出口限制…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "CakewordAI 旅遊語言包",
-      "detail": "用 CakewordAI 進行旅遊地點的語言包創建，發在 Instagram 和 Facebook，預計 3 天內出成果"
+      "title": "CakewordAI 旅遊詞典",
+      "detail": "用 CakewordAI 導航旅遊景點，拍照識別物體名稱，加上 SS 的個人評價發佈在 Instagram，預計 3 天內看到成果"
     },
     {
-      "title": "Qursor 導遊 UI",
-      "detail": "利用 Qursor 將旅遊地點的 UI 上下文發送給 AI，創建個性化導遊，發在 YouTube 和 TikTok，預計 5 天內出成果"
+      "title": "Slashy 邮件自動回復",
+      "detail": "設定 Slashy 自動回復景點和美食相關郵件，節省 SS 時間，然後在 Facebook 分享Slashy 的使用心得，預計 5 天內看到成果"
     },
     {
-      "title": "Pond 獎金籌款",
-      "detail": "使用 Pond 進行籌款和獎金設計，為旅遊美食內容創作者籌集資金，發在官方網站和社交媒體，預計 1 周內出成果"
+      "title": "Memoriq 智慧筆記",
+      "detail": "用 Memoriq 記錄 SS 旅遊美食經驗，整理成文案，發佈在 TikTok，預計 7 天內看到成果"
     }
   ],
   "history": {
@@ -463,6 +427,96 @@
         {
           "title": "Pond 獎金籌款",
           "detail": "使用 Pond 進行籌款和獎金設計，為旅遊美食內容創作者籌集資金，發在官方網站和社交媒體，預計 1 周內出成果"
+        }
+      ]
+    },
+    "2026-06-15": {
+      "news": [
+        {
+          "title": "中國可能已經訪問了神話",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+          "summary": "根據 Semafor 的一份新報告，白宮決定對 Anthropic 的 Mythos 實施出口限制…",
+          "source": "The Verge"
+        },
+        {
+          "title": "當人工智慧公司競相上市時，還有誰參與其中？",
+          "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+          "summary": "新創公司正試圖「乘上 SpaceX IPO 的浪潮」。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "由於 Anthropic 暫停使用新模型，印度對其人工智慧的未來展開爭論",
+          "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+          "summary": "科技領袖們爭論「人擇事件」是否為印度的人工智慧野心敲響了警鐘。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "斜線 (Slashy)",
+          "link": "https://www.producthunt.com/products/slashy-3",
+          "desc": "The AI assistant that does email for you Discussion | Link",
+          "title_en": "Slashy"
+        },
+        {
+          "title": "柯南 (Conan)",
+          "link": "https://www.producthunt.com/products/conan",
+          "desc": "用於 Claude 代碼討論的原生 Mac 駕駛艙 |關聯",
+          "title_en": "Conan"
+        },
+        {
+          "title": "記憶庫 (Memoriq)",
+          "link": "https://www.producthunt.com/products/memoriq",
+          "desc": "Your private AI memory for ChatGPT, Claude, Gemini and Grok Discussion | Link",
+          "title_en": "Memoriq"
+        },
+        {
+          "title": "CakewordAI",
+          "link": "https://www.producthunt.com/products/cakewordai-snap-learn",
+          "desc": "指向任何物體即可了解其任何語言的名稱 討論 |關聯",
+          "title_en": "CakewordAI"
+        },
+        {
+          "title": "殼友 (ShellMate)",
+          "link": "https://www.producthunt.com/products/shellmate-2",
+          "desc": "在一個地方管理 SSH 伺服器、憑證和團隊關聯",
+          "title_en": "ShellMate"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "中國可能已經訪問了神話",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+          "summary": "根據 Semafor 的一份新報告，白宮決定對 Anthropic 的 Mythos 實施出口限制…",
+          "source": "The Verge"
+        },
+        {
+          "title": "由於 Anthropic 暫停使用新模型，印度對其人工智慧的未來展開爭論",
+          "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
+          "summary": "科技領袖們爭論「人擇事件」是否為印度的人工智慧野心敲響了警鐘。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "中國可能已經訪問了神話",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
+        "summary": "根據 Semafor 的一份新報告，白宮決定對 Anthropic 的 Mythos 實施出口限制…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "CakewordAI 旅遊詞典",
+          "detail": "用 CakewordAI 導航旅遊景點，拍照識別物體名稱，加上 SS 的個人評價發佈在 Instagram，預計 3 天內看到成果"
+        },
+        {
+          "title": "Slashy 邮件自動回復",
+          "detail": "設定 Slashy 自動回復景點和美食相關郵件，節省 SS 時間，然後在 Facebook 分享Slashy 的使用心得，預計 5 天內看到成果"
+        },
+        {
+          "title": "Memoriq 智慧筆記",
+          "detail": "用 Memoriq 記錄 SS 旅遊美食經驗，整理成文案，發佈在 TikTok，預計 7 天內看到成果"
         }
       ]
     }
