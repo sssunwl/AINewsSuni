@@ -1,91 +1,127 @@
 {
-  "updated": "2026-06-15 14:21 HKT",
+  "updated": "2026-06-16 14:31 HKT",
   "news": [
     {
-      "title": "中國可能已經訪問了神話",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-      "summary": "根據 Semafor 的一份新報告，白宮決定對 Anthropic 的 Mythos 實施出口限制…",
+      "title": "Claude神話 5 之爭的內部",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "summary": "當全國其他地區慶祝美國首次贏得世界盃和紐約尼克隊奪冠時，Anthropic 度過了…",
       "source": "The Verge"
     },
     {
-      "title": "當人工智慧公司競相上市時，還有誰參與其中？",
-      "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
-      "summary": "新創公司正試圖「乘上 SpaceX IPO 的浪潮」。",
+      "title": "Facebook 的新 AI 模式搜尋從公開貼文中獲取信息",
+      "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+      "summary": "您的 Facebook 公開貼文可以幫助告知 Meta 的新 AI 模式中 AI 產生的結果。當你在 Facebook 上搜尋時，...",
+      "source": "The Verge"
+    },
+    {
+      "title": "關於 Anthropic 與白宮的新人工智慧鬥爭的所有新聞",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "summary": "在與五角大廈的對峙中，人類已經在處理與政府的一場爭端，然後傳來了一項命令…",
+      "source": "The Verge"
+    },
+    {
+      "title": "川普的人為關閉只是為非美國人工智慧提供了理由",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "summary": "應華盛頓的要求，Anthropic 在周末突然下線了其最新、最強大的人工智慧模型。上午…",
+      "source": "The Verge"
+    },
+    {
+      "title": "大型科技公司對人工智慧監管的絕望最後推動",
+      "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+      "summary": "幾個月來，大型科技公司的華盛頓遊說者一直在追逐支持人工智慧立法的聖杯：先發制人。這將...",
+      "source": "The Verge"
+    },
+    {
+      "title": "Skydio 執行長 Adam Bry 闡述為何矽穀不應為無人機使用劃定紅線",
+      "link": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+      "summary": "今天，我正在與 Adam Bry 交談，他是美國領先的自主無人機製造商 Skydio 的執行長。在我們錄製之前...",
+      "source": "The Verge"
+    },
+    {
+      "title": "桑達爾·皮查伊 (Sundar Pichai) 在史丹佛大學畢業典禮上因谷歌與以色列和 ICE 的關係而面臨噓聲和退場",
+      "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+      "summary": "人工智慧再次成為大學畢業抗議的核心——這次是因為該技術在谷歌的國防計畫中的使用…",
       "source": "TechCrunch"
     },
     {
-      "title": "由於 Anthropic 暫停使用新模型，印度對其人工智慧的未來展開爭論",
-      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "summary": "科技領袖們爭論「人擇事件」是否為印度的人工智慧野心敲響了警鐘。",
+      "title": "美國政府的人擇模型禁令從來都不是為了人工智慧越獄",
+      "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+      "summary": "川普政府迫使 Anthropic 撤回其最新網路安全模型的決定可能是反動的，…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "斜線 (Slashy)",
-      "link": "https://www.producthunt.com/products/slashy-3",
-      "desc": "The AI assistant that does email for you Discussion | Link",
-      "title_en": "Slashy"
+      "title": "蘇爾薩利 (Sulsaly)",
+      "link": "https://www.producthunt.com/products/sulsaly",
+      "desc": "#1 Agentic AI 銷售線索和中東和北非地區推廣平台討論 |關聯",
+      "title_en": "Sulsaly"
     },
     {
-      "title": "柯南 (Conan)",
-      "link": "https://www.producthunt.com/products/conan",
-      "desc": "用於 Claude 代碼討論的原生 Mac 駕駛艙 |關聯",
-      "title_en": "Conan"
+      "title": "AEVS",
+      "link": "https://www.producthunt.com/products/aevs-by-fetch-ai",
+      "desc": "AI 代理的執行證明討論 |關聯",
+      "title_en": "AEVS"
     },
     {
-      "title": "記憶庫 (Memoriq)",
-      "link": "https://www.producthunt.com/products/memoriq",
-      "desc": "Your private AI memory for ChatGPT, Claude, Gemini and Grok Discussion | Link",
-      "title_en": "Memoriq"
+      "title": "沃博2.0 (Wobo 2.0)",
+      "link": "https://www.producthunt.com/products/wobo-ai",
+      "desc": "Tinder 求職：向右滑動，AI 為您應徵 討論 |關聯",
+      "title_en": "Wobo 2.0"
     },
     {
-      "title": "CakewordAI",
-      "link": "https://www.producthunt.com/products/cakewordai-snap-learn",
-      "desc": "指向任何物體即可了解其任何語言的名稱 討論 |關聯",
-      "title_en": "CakewordAI"
+      "title": "回扣.ai (Kickbacks.ai)",
+      "link": "https://www.producthunt.com/products/kickbacks-ai",
+      "desc": "等待 Claude Code 完成即可獲得報酬 討論 |關聯",
+      "title_en": "Kickbacks.ai"
     },
     {
-      "title": "殼友 (ShellMate)",
-      "link": "https://www.producthunt.com/products/shellmate-2",
-      "desc": "在一個地方管理 SSH 伺服器、憑證和團隊關聯",
-      "title_en": "ShellMate"
+      "title": "中繼 (Relay)",
+      "link": "https://www.producthunt.com/products/relay-20",
+      "desc": "貼上網站並獲得一個可以從通話中學習的人工智慧接待員關聯",
+      "title_en": "Relay"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "中國可能已經訪問了神話",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-      "summary": "根據 Semafor 的一份新報告，白宮決定對 Anthropic 的 Mythos 實施出口限制…",
+      "title": "Claude神話 5 之爭的內部",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+      "summary": "當全國其他地區慶祝美國首次贏得世界盃和紐約尼克隊奪冠時，Anthropic 度過了…",
       "source": "The Verge"
     },
     {
-      "title": "由於 Anthropic 暫停使用新模型，印度對其人工智慧的未來展開爭論",
-      "link": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future/",
-      "summary": "科技領袖們爭論「人擇事件」是否為印度的人工智慧野心敲響了警鐘。",
-      "source": "TechCrunch"
+      "title": "關於 Anthropic 與白宮的新人工智慧鬥爭的所有新聞",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+      "summary": "在與五角大廈的對峙中，人類已經在處理與政府的一場爭端，然後傳來了一項命令…",
+      "source": "The Verge"
+    },
+    {
+      "title": "川普的人為關閉只是為非美國人工智慧提供了理由",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+      "summary": "應華盛頓的要求，Anthropic 在周末突然下線了其最新、最強大的人工智慧模型。上午…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "中國可能已經訪問了神話",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/949644/china-white-house-anthropic-mythos",
-    "summary": "根據 Semafor 的一份新報告，白宮決定對 Anthropic 的 Mythos 實施出口限制…",
+    "title": "Claude神話 5 之爭的內部",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+    "summary": "當全國其他地區慶祝美國首次贏得世界盃和紐約尼克隊奪冠時，Anthropic 度過了…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "CakewordAI 旅遊詞典",
-      "detail": "用 CakewordAI 導航旅遊景點，拍照識別物體名稱，加上 SS 的個人評價發佈在 Instagram，預計 3 天內看到成果"
+      "title": "用 Sulsaly 賣旅遊套餐",
+      "detail": "用 Sulsaly 這個 Agentic AI 銷售線索工具，幫 SS 的旅遊套餐找到目標客戶，直接發佈在社交媒體上，預計 3 天出成果"
     },
     {
-      "title": "Slashy 邮件自動回復",
-      "detail": "設定 Slashy 自動回復景點和美食相關郵件，節省 SS 時間，然後在 Facebook 分享Slashy 的使用心得，預計 5 天內看到成果"
+      "title": "AEVS 自動應徵合作",
+      "detail": "利用 AEVS 這個 AI 代理工具，自動應徵跟 SS 旅遊品牌相關的合作機會，發佈在品牌官網和社交媒體上，預計 1 周出成果"
     },
     {
-      "title": "Memoriq 智慧筆記",
-      "detail": "用 Memoriq 記錄 SS 旅遊美食經驗，整理成文案，發佈在 TikTok，預計 7 天內看到成果"
+      "title": "Wobo 2.0 Seeking Job",
+      "detail": "用 Wobo 2.0 這個 Tinder 求職工具，幫 SS 旅遊品牌找到適合的新人才，直接發佈在 LinkedIn 和品牌官網上，預計 2 周出成果"
     }
   ],
   "history": {
@@ -517,6 +553,132 @@
         {
           "title": "Memoriq 智慧筆記",
           "detail": "用 Memoriq 記錄 SS 旅遊美食經驗，整理成文案，發佈在 TikTok，預計 7 天內看到成果"
+        }
+      ]
+    },
+    "2026-06-16": {
+      "news": [
+        {
+          "title": "Claude神話 5 之爭的內部",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+          "summary": "當全國其他地區慶祝美國首次贏得世界盃和紐約尼克隊奪冠時，Anthropic 度過了…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Facebook 的新 AI 模式搜尋從公開貼文中獲取信息",
+          "link": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+          "summary": "您的 Facebook 公開貼文可以幫助告知 Meta 的新 AI 模式中 AI 產生的結果。當你在 Facebook 上搜尋時，...",
+          "source": "The Verge"
+        },
+        {
+          "title": "關於 Anthropic 與白宮的新人工智慧鬥爭的所有新聞",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+          "summary": "在與五角大廈的對峙中，人類已經在處理與政府的一場爭端，然後傳來了一項命令…",
+          "source": "The Verge"
+        },
+        {
+          "title": "川普的人為關閉只是為非美國人工智慧提供了理由",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+          "summary": "應華盛頓的要求，Anthropic 在周末突然下線了其最新、最強大的人工智慧模型。上午…",
+          "source": "The Verge"
+        },
+        {
+          "title": "大型科技公司對人工智慧監管的絕望最後推動",
+          "link": "https://www.theverge.com/policy/949970/ai-regulation-child-safety-kosa-congress",
+          "summary": "幾個月來，大型科技公司的華盛頓遊說者一直在追逐支持人工智慧立法的聖杯：先發制人。這將...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Skydio 執行長 Adam Bry 闡述為何矽穀不應為無人機使用劃定紅線",
+          "link": "https://www.theverge.com/podcast/949195/skydio-ceo-adam-bry-autonmous-drones-china-red-lines-military",
+          "summary": "今天，我正在與 Adam Bry 交談，他是美國領先的自主無人機製造商 Skydio 的執行長。在我們錄製之前...",
+          "source": "The Verge"
+        },
+        {
+          "title": "桑達爾·皮查伊 (Sundar Pichai) 在史丹佛大學畢業典禮上因谷歌與以色列和 ICE 的關係而面臨噓聲和退場",
+          "link": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+          "summary": "人工智慧再次成為大學畢業抗議的核心——這次是因為該技術在谷歌的國防計畫中的使用…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "美國政府的人擇模型禁令從來都不是為了人工智慧越獄",
+          "link": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+          "summary": "川普政府迫使 Anthropic 撤回其最新網路安全模型的決定可能是反動的，…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "蘇爾薩利 (Sulsaly)",
+          "link": "https://www.producthunt.com/products/sulsaly",
+          "desc": "#1 Agentic AI 銷售線索和中東和北非地區推廣平台討論 |關聯",
+          "title_en": "Sulsaly"
+        },
+        {
+          "title": "AEVS",
+          "link": "https://www.producthunt.com/products/aevs-by-fetch-ai",
+          "desc": "AI 代理的執行證明討論 |關聯",
+          "title_en": "AEVS"
+        },
+        {
+          "title": "沃博2.0 (Wobo 2.0)",
+          "link": "https://www.producthunt.com/products/wobo-ai",
+          "desc": "Tinder 求職：向右滑動，AI 為您應徵 討論 |關聯",
+          "title_en": "Wobo 2.0"
+        },
+        {
+          "title": "回扣.ai (Kickbacks.ai)",
+          "link": "https://www.producthunt.com/products/kickbacks-ai",
+          "desc": "等待 Claude Code 完成即可獲得報酬 討論 |關聯",
+          "title_en": "Kickbacks.ai"
+        },
+        {
+          "title": "中繼 (Relay)",
+          "link": "https://www.producthunt.com/products/relay-20",
+          "desc": "貼上網站並獲得一個可以從通話中學習的人工智慧接待員關聯",
+          "title_en": "Relay"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Claude神話 5 之爭的內部",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+          "summary": "當全國其他地區慶祝美國首次贏得世界盃和紐約尼克隊奪冠時，Anthropic 度過了…",
+          "source": "The Verge"
+        },
+        {
+          "title": "關於 Anthropic 與白宮的新人工智慧鬥爭的所有新聞",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/950026/anthropic-fable-mythos-ban-ai-shutdown",
+          "summary": "在與五角大廈的對峙中，人類已經在處理與政府的一場爭端，然後傳來了一項命令…",
+          "source": "The Verge"
+        },
+        {
+          "title": "川普的人為關閉只是為非美國人工智慧提供了理由",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/949986/anthropic-fable-mythos-shutdown-sovereign-ai",
+          "summary": "應華盛頓的要求，Anthropic 在周末突然下線了其最新、最強大的人工智慧模型。上午…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Claude神話 5 之爭的內部",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/950412/anthropic-trump-adminstration-claude-mythos-fable-5-export-controls",
+        "summary": "當全國其他地區慶祝美國首次贏得世界盃和紐約尼克隊奪冠時，Anthropic 度過了…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Sulsaly 賣旅遊套餐",
+          "detail": "用 Sulsaly 這個 Agentic AI 銷售線索工具，幫 SS 的旅遊套餐找到目標客戶，直接發佈在社交媒體上，預計 3 天出成果"
+        },
+        {
+          "title": "AEVS 自動應徵合作",
+          "detail": "利用 AEVS 這個 AI 代理工具，自動應徵跟 SS 旅遊品牌相關的合作機會，發佈在品牌官網和社交媒體上，預計 1 周出成果"
+        },
+        {
+          "title": "Wobo 2.0 Seeking Job",
+          "detail": "用 Wobo 2.0 這個 Tinder 求職工具，幫 SS 旅遊品牌找到適合的新人才，直接發佈在 LinkedIn 和品牌官網上，預計 2 周出成果"
         }
       ]
     }
