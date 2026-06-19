@@ -1,115 +1,122 @@
 {
-  "updated": "2026-06-18 13:53 HKT",
+  "updated": "2026-06-19 14:15 HKT",
   "news": [
     {
-      "title": "Midjourney Medical 從產生「貓咪影像」到全身超音波掃描",
+      "title": "Barret Zoph 時隔五個月再次退出 OpenAI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge…",
+      "source": "The Verge"
+    },
+    {
+      "title": "亞馬遜員工表示，他們因支持資料中心限製而面臨解僱",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+      "summary": "當三名亞馬遜軟體工程師本月早些時候在西雅圖市議會關於數據中心的聽證會上作證時，...",
+      "source": "The Verge"
+    },
+    {
+      "title": "誰來決定人工智慧何時太危險？",
+      "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+      "summary": "在今天的 Decoder 節目中，我的嘉賓是 The Verge 的高級人工智慧記者 Hayden Field。通常當海登上場時…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Photoshop 和 Premiere 現在擁有 AI 助手",
+      "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "summary": "Adobe 將人工智慧助理融入其所有 Creative Cloud 套件的計劃現已全面啟動，新的聊天機器人現已...",
+      "source": "The Verge"
+    },
+    {
+      "title": "Adobe 重新設計的 AI 工作室會記住您的創作內容",
+      "link": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+      "summary": "Adobe 正在為其 Firefly AI 助理推出一些新功能，以及「重新構想的」AI 工作室，讓您…",
+      "source": "The Verge"
+    },
+    {
+      "title": "中途從生成貓咪影像到全身超音波掃描",
       "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
       "summary": "Midjourney 執行長 David Holz 剛剛展示了該公司的首款硬體產品，並計劃在舊金山建造一家水療中心，...",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 受到沒人理解的出口規則的打擊",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-      "summary": "在川普政府罷免後，Anthropic 本週大部分時間都在努力讓其最新的人工智慧模式重新上線…",
-      "source": "The Verge"
+      "title": "來源：Elastic 同意以高達 8,500 萬美元的價格收購 CRV 支援的 DeductionAI",
+      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+      "summary": "DeductionAI 是一家利用人工智慧擷取和解決軟體錯誤的新創公司，成立於三年前。",
+      "source": "TechCrunch"
     },
     {
-      "title": "三分之二的美國人認為人工智慧發展得太快",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951653/pew-research-ai-chatbot-usage-advancing-too-quickly",
-      "summary": "根據皮尤研究中心的最新民意調查，49% 的美國人表示至少偶爾使用聊天機器人，但 63% 的人...",
-      "source": "The Verge"
-    },
-    {
-      "title": "氛圍解碼白宮與人類圍繞《Fable》的爭論",
-      "link": "https://www.theverge.com/column/951516/trump-anthropic-feud-mythos-fable-white-house",
-      "summary": "您好，歡迎來到 Regulator，這是一封針對 Verge 訂閱者的電子郵件，內容涉及技術、政治以及科學時會發生什麼…",
-      "source": "The Verge"
-    },
-    {
-      "title": "任何人戴上 Snap 價值 2,000 美元的眼鏡都能看起來很酷嗎？",
-      "link": "https://www.theverge.com/report/951481/snap-specs-wearables-smart-glasses-fashion",
-      "summary": "昨天，Snap 推出了售價 2,195 美元的新 Specs 眼鏡。在接受 CNBC 採訪時，Snap 執行長 Evan Spiegel 描述了 Spe...",
-      "source": "The Verge"
-    },
-    {
-      "title": "基於 Facebook 貼文的人工智慧搜尋？可能會出什麼問題？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951099/meta-ai-mode-search-hands-on",
-      "summary": "如今，人工智慧在將事情放在你的日曆上相當可靠，但它還沒有完全解決相關的問題…",
-      "source": "The Verge"
-    },
-    {
-      "title": "谷歌六年來首款智慧音箱下週上市",
-      "link": "https://www.theverge.com/tech/951147/google-home-speaker-gemini-launch-date-price-specs-features",
-      "summary": "谷歌六年來首款新款智慧音箱將於 6 月 25 日開始出貨，差一點就錯過了其承諾的春季發布…",
-      "source": "The Verge"
-    },
-    {
-      "title": "下一個人形機器人可能看起來根本不像人類",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951283/genesis-ai-humanoid-robot-eno",
-      "summary": "下一個人形機器人可能沒有頭。它可能沒有腿。它甚至可以坐在輪式底座上並向下折疊…",
-      "source": "The Verge"
+      "title": "據報道，人工智慧推理新創公司 Baseten 在上一輪大型融資幾個月後籌集了 1.5 億美元",
+      "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+      "summary": "據報道，隨著「推理淘金熱」的興起，新創公司 Baseten 即將完成 15 億美元的融資，融資金額為 130 億美元。",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Charlie Labs 的守護程式 (Daemons by Charlie Labs)",
-      "link": "https://www.producthunt.com/products/daemons-by-charlie-labs",
-      "desc": "透過 AI 代理程式保持 PR、問題、CI 和文件的行動關聯",
-      "title_en": "Daemons by Charlie Labs"
+      "title": "拒絕 (Refuse)",
+      "link": "https://www.producthunt.com/products/refuse",
+      "desc": "為您和您的 AI 阻止易受攻擊的軟體包安裝關聯",
+      "title_en": "Refuse"
     },
     {
-      "title": "文檔農場 (Docfarm)",
-      "link": "https://www.producthunt.com/products/docfarm",
-      "desc": "託管、共享和追蹤 AI 構建的所有內容關聯",
-      "title_en": "Docfarm"
+      "title": "普洛伊 (Ploy.ai)",
+      "link": "https://www.producthunt.com/products/ploy-ai",
+      "desc": "Ploy 將您的網站變成公司的成長引擎。讨论 |关联",
+      "title_en": "Ploy.ai"
     },
     {
-      "title": "爪子輕鬆 (ClawEase)",
-      "link": "https://www.producthunt.com/products/clawease",
-      "desc": "為中小企業預約的人工智慧業務營運商。討論 |關聯",
-      "title_en": "ClawEase"
+      "title": "艾爾文 (Elvin)",
+      "link": "https://www.producthunt.com/products/elvin",
+      "desc": "主動人工智慧，在您提出要求之前找到並完成工作 討論 |關聯",
+      "title_en": "Elvin"
     },
     {
-      "title": "寶麗金編碼劑 (Polygram Coding Agent)",
-      "link": "https://www.producthunt.com/products/polygram-4",
-      "desc": "AI-native coding assistant that helps developers in any IDE Discussion | Link",
-      "title_en": "Polygram Coding Agent"
+      "title": "日本AEO (Japanly AEO)",
+      "link": "https://www.producthunt.com/products/japanly-aeo",
+      "desc": "看看日本AI搜尋是否推薦你的品牌 討論 |關聯",
+      "title_en": "Japanly AEO"
     },
     {
-      "title": "Wolfram 語言 15 (Wolfram Language 15)",
-      "link": "https://www.producthunt.com/products/wolfram-mathematica",
-      "desc": "為人類和人工智慧代理構建的計算語言關聯",
-      "title_en": "Wolfram Language 15"
+      "title": "實驗室人工智慧 (Labs AI)",
+      "link": "https://www.producthunt.com/products/labs-ai-text-to-speech",
+      "desc": "在 iPhone 上將任何文字變成自然的 AI 配音 討論 |關聯",
+      "title_en": "Labs AI"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "Photoshop 和 Premiere 現在擁有 AI 助手",
+      "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+      "summary": "Adobe 將人工智慧助理融入其所有 Creative Cloud 套件的計劃現已全面啟動，新的聊天機器人現已...",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic 受到沒人理解的出口規則的打擊",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-      "summary": "在川普政府罷免後，Anthropic 本週大部分時間都在努力讓其最新的人工智慧模式重新上線…",
+      "title": "Barret Zoph 時隔五個月再次退出 OpenAI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Anthropic 受到沒人理解的出口規則的打擊",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/951703/anthropic-shutdown-export-controls",
-    "summary": "在川普政府罷免後，Anthropic 本週大部分時間都在努力讓其最新的人工智慧模式重新上線…",
+    "title": "Barret Zoph 時隔五個月再次退出 OpenAI",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+    "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用 ClawEase 做預約",
-      "detail": "我想用 ClawEase 幫助中小企業做預約，例如幫助用戶預約旅遊行程或餐廳，然後發在社交媒體上，預計一周內就能出成果"
+      "title": "用Ploy.ai賺錢",
+      "detail": "用Ploy.ai把SS的旅遊網站變成成長引擎，增加廣告收入，今天就設定，預計3天出成果，發在YouTube和IG"
     },
     {
-      "title": "Docfarm 内容托管",
-      "detail": "利用 Docfarm 將旅遊美食內容進行托管和追蹤，然後使用相關的 AI 工具進行優化和推廣，發在網站或博客上，預計兩周內就能看到效果"
+      "title": "AI網站優化",
+      "detail": "用Elvin主動優化SS的旅遊網站，提高用戶體驗和轉換率，預計1週出成果，發在官網和FB"
     },
     {
-      "title": "Polygram 編碼助手",
-      "detail": "用 Polygram Coding Agent 幫助開發更多旅遊美食相關的工具和應用，例如餐廳查詢或旅遊路線規劃，然後發在 App Store 或 Google Play 上，預計一個月內就能完成"
+      "title": "日本品牌曝光",
+      "detail": "用Japanly AEO查看日本AI搜尋是否推薦SS的品牌，今天就設定，預計2天出成果，發在Twitter和Line"
     }
   ],
   "history": {
@@ -914,6 +921,127 @@
         {
           "title": "Polygram 編碼助手",
           "detail": "用 Polygram Coding Agent 幫助開發更多旅遊美食相關的工具和應用，例如餐廳查詢或旅遊路線規劃，然後發在 App Store 或 Google Play 上，預計一個月內就能完成"
+        }
+      ]
+    },
+    "2026-06-19": {
+      "news": [
+        {
+          "title": "Barret Zoph 時隔五個月再次退出 OpenAI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+          "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge…",
+          "source": "The Verge"
+        },
+        {
+          "title": "亞馬遜員工表示，他們因支持資料中心限製而面臨解僱",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
+          "summary": "當三名亞馬遜軟體工程師本月早些時候在西雅圖市議會關於數據中心的聽證會上作證時，...",
+          "source": "The Verge"
+        },
+        {
+          "title": "誰來決定人工智慧何時太危險？",
+          "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
+          "summary": "在今天的 Decoder 節目中，我的嘉賓是 The Verge 的高級人工智慧記者 Hayden Field。通常當海登上場時…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Photoshop 和 Premiere 現在擁有 AI 助手",
+          "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+          "summary": "Adobe 將人工智慧助理融入其所有 Creative Cloud 套件的計劃現已全面啟動，新的聊天機器人現已...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Adobe 重新設計的 AI 工作室會記住您的創作內容",
+          "link": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
+          "summary": "Adobe 正在為其 Firefly AI 助理推出一些新功能，以及「重新構想的」AI 工作室，讓您…",
+          "source": "The Verge"
+        },
+        {
+          "title": "中途從生成貓咪影像到全身超音波掃描",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
+          "summary": "Midjourney 執行長 David Holz 剛剛展示了該公司的首款硬體產品，並計劃在舊金山建造一家水療中心，...",
+          "source": "The Verge"
+        },
+        {
+          "title": "來源：Elastic 同意以高達 8,500 萬美元的價格收購 CRV 支援的 DeductionAI",
+          "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+          "summary": "DeductionAI 是一家利用人工智慧擷取和解決軟體錯誤的新創公司，成立於三年前。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "據報道，人工智慧推理新創公司 Baseten 在上一輪大型融資幾個月後籌集了 1.5 億美元",
+          "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
+          "summary": "據報道，隨著「推理淘金熱」的興起，新創公司 Baseten 即將完成 15 億美元的融資，融資金額為 130 億美元。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "拒絕 (Refuse)",
+          "link": "https://www.producthunt.com/products/refuse",
+          "desc": "為您和您的 AI 阻止易受攻擊的軟體包安裝關聯",
+          "title_en": "Refuse"
+        },
+        {
+          "title": "普洛伊 (Ploy.ai)",
+          "link": "https://www.producthunt.com/products/ploy-ai",
+          "desc": "Ploy 將您的網站變成公司的成長引擎。讨论 |关联",
+          "title_en": "Ploy.ai"
+        },
+        {
+          "title": "艾爾文 (Elvin)",
+          "link": "https://www.producthunt.com/products/elvin",
+          "desc": "主動人工智慧，在您提出要求之前找到並完成工作 討論 |關聯",
+          "title_en": "Elvin"
+        },
+        {
+          "title": "日本AEO (Japanly AEO)",
+          "link": "https://www.producthunt.com/products/japanly-aeo",
+          "desc": "看看日本AI搜尋是否推薦你的品牌 討論 |關聯",
+          "title_en": "Japanly AEO"
+        },
+        {
+          "title": "實驗室人工智慧 (Labs AI)",
+          "link": "https://www.producthunt.com/products/labs-ai-text-to-speech",
+          "desc": "在 iPhone 上將任何文字變成自然的 AI 配音 討論 |關聯",
+          "title_en": "Labs AI"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Photoshop 和 Premiere 現在擁有 AI 助手",
+          "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
+          "summary": "Adobe 將人工智慧助理融入其所有 Creative Cloud 套件的計劃現已全面啟動，新的聊天機器人現已...",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Barret Zoph 時隔五個月再次退出 OpenAI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+          "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Barret Zoph 時隔五個月再次退出 OpenAI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+        "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用Ploy.ai賺錢",
+          "detail": "用Ploy.ai把SS的旅遊網站變成成長引擎，增加廣告收入，今天就設定，預計3天出成果，發在YouTube和IG"
+        },
+        {
+          "title": "AI網站優化",
+          "detail": "用Elvin主動優化SS的旅遊網站，提高用戶體驗和轉換率，預計1週出成果，發在官網和FB"
+        },
+        {
+          "title": "日本品牌曝光",
+          "detail": "用Japanly AEO查看日本AI搜尋是否推薦SS的品牌，今天就設定，預計2天出成果，發在Twitter和Line"
         }
       ]
     }
