@@ -1,122 +1,127 @@
 {
-  "updated": "2026-06-19 14:15 HKT",
+  "updated": "2026-06-20 13:10 HKT",
   "news": [
+    {
+      "title": "關於山姆奧特曼的電影已被亞馬遜米高梅公司下架",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "summary": "據報道，盧卡·瓜達尼諾 (Luca Guadagnino) 執導的關於 OpenAI 首席執行官山姆·奧爾特曼 (Sam Altman) 的電影《Artificial》已被亞馬遜米高梅公司下架。該片，...",
+      "source": "The Verge"
+    },
     {
       "title": "Barret Zoph 時隔五個月再次退出 OpenAI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge…",
+      "summary": "返回 OpenAI 五個月後，該公司企業 AI 銷售主管 Barret Zoph 離職，The Verge…",
       "source": "The Verge"
     },
     {
-      "title": "亞馬遜員工表示，他們因支持資料中心限製而面臨解僱",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952180/amazon-seattle-data-center-moratorium-aecj-disciplinary-action",
-      "summary": "當三名亞馬遜軟體工程師本月早些時候在西雅圖市議會關於數據中心的聽證會上作證時，...",
-      "source": "The Verge"
-    },
-    {
-      "title": "誰來決定人工智慧何時太危險？",
-      "link": "https://www.theverge.com/podcast/951542/anthropic-claude-fable-5-mythos-ban-pentagon-ai-regulation-trump",
-      "summary": "在今天的 Decoder 節目中，我的嘉賓是 The Verge 的高級人工智慧記者 Hayden Field。通常當海登上場時…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Photoshop 和 Premiere 現在擁有 AI 助手",
-      "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-      "summary": "Adobe 將人工智慧助理融入其所有 Creative Cloud 套件的計劃現已全面啟動，新的聊天機器人現已...",
-      "source": "The Verge"
-    },
-    {
-      "title": "Adobe 重新設計的 AI 工作室會記住您的創作內容",
-      "link": "https://www.theverge.com/tech/952104/adobe-firefly-ai-agent-elements-projects-update",
-      "summary": "Adobe 正在為其 Firefly AI 助理推出一些新功能，以及「重新構想的」AI 工作室，讓您…",
-      "source": "The Verge"
-    },
-    {
-      "title": "中途從生成貓咪影像到全身超音波掃描",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952011/midjourney-medical-ai-ultrasound-scan",
-      "summary": "Midjourney 執行長 David Holz 剛剛展示了該公司的首款硬體產品，並計劃在舊金山建造一家水療中心，...",
-      "source": "The Verge"
-    },
-    {
-      "title": "來源：Elastic 同意以高達 8,500 萬美元的價格收購 CRV 支援的 DeductionAI",
-      "link": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-      "summary": "DeductionAI 是一家利用人工智慧擷取和解決軟體錯誤的新創公司，成立於三年前。",
+      "title": "從 PGP 到神話：沒有阻止任何人的出口管制簡史",
+      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "summary": "過去 30 年來，阻止網路安全相關軟體的流動已被證明是無效的。目前還不清楚什麼...",
       "source": "TechCrunch"
     },
     {
-      "title": "據報道，人工智慧推理新創公司 Baseten 在上一輪大型融資幾個月後籌集了 1.5 億美元",
-      "link": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
-      "summary": "據報道，隨著「推理淘金熱」的興起，新創公司 Baseten 即將完成 15 億美元的融資，融資金額為 130 億美元。",
+      "title": "美國政府的人為禁令是否無意間幫助了品牌？",
+      "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "summary": "就在上週結束時，美國政府迫使 Anthropic 下架了兩款最新遊戲《神鬼Fable 5》和《神話 5》，...",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "美國禁止 Anthropic 發行《神鬼Fable 5》，但數字似乎並不在意",
+      "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+      "summary": "就在上週結束時，美國政府迫使 Anthropic 下架了兩款最新遊戲《神鬼Fable 5》和《神話 5》，...",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "億萬富翁安巴尼希望人工智慧滲透到每個通話、應用程式和家庭中",
+      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "summary": "Reliance 正在將人工智慧融入超過 5 億人使用的電信服務中。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Allbirds 新人工智慧業務的執行長有計劃，但沒有團隊",
+      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "summary": "可以稱其為一家擁有唯一創始人和一輪非常大的種子輪融資的初創公司，但接下來會發生什麼還不太清楚。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "美國稱ASML的頂級晶片工具可能在中國，但如何呢？",
+      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+      "summary": "ASML 會冒著失去出口許可證的風險來武裝中國客戶，這是一種商業邏輯。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "拒絕 (Refuse)",
-      "link": "https://www.producthunt.com/products/refuse",
-      "desc": "為您和您的 AI 阻止易受攻擊的軟體包安裝關聯",
-      "title_en": "Refuse"
+      "title": "API 至 MCP (API to MCP)",
+      "link": "https://www.producthunt.com/products/api-to-mcp",
+      "desc": "將任何 API 轉變為 AI 代理的 MCP 伺服器關聯",
+      "title_en": "API to MCP"
     },
     {
-      "title": "普洛伊 (Ploy.ai)",
-      "link": "https://www.producthunt.com/products/ploy-ai",
-      "desc": "Ploy 將您的網站變成公司的成長引擎。讨论 |关联",
-      "title_en": "Ploy.ai"
+      "title": "虛幻引擎5.8 (Unreal Engine 5.8)",
+      "link": "https://www.producthunt.com/products/unreal-engine",
+      "desc": "使用 AI 代理程式建立虛幻遊戲 討論 |關聯",
+      "title_en": "Unreal Engine 5.8"
     },
     {
-      "title": "艾爾文 (Elvin)",
-      "link": "https://www.producthunt.com/products/elvin",
-      "desc": "主動人工智慧，在您提出要求之前找到並完成工作 討論 |關聯",
-      "title_en": "Elvin"
+      "title": "澤尼奧 WhatsApp API (Zernio WhatsApp API)",
+      "link": "https://www.producthunt.com/products/zernio",
+      "desc": "One API for WhatsApp: messaging, calling, and AI agents Discussion | Link",
+      "title_en": "Zernio WhatsApp API"
     },
     {
-      "title": "日本AEO (Japanly AEO)",
-      "link": "https://www.producthunt.com/products/japanly-aeo",
-      "desc": "看看日本AI搜尋是否推薦你的品牌 討論 |關聯",
-      "title_en": "Japanly AEO"
+      "title": "只是他媽的發送它 (just f***ing send it)",
+      "link": "https://www.producthunt.com/products/just-f-ing-send-it",
+      "desc": "直接在瀏覽器之間發送任何大小的文件 討論 |關聯",
+      "title_en": "just f***ing send it"
     },
     {
-      "title": "實驗室人工智慧 (Labs AI)",
-      "link": "https://www.producthunt.com/products/labs-ai-text-to-speech",
-      "desc": "在 iPhone 上將任何文字變成自然的 AI 配音 討論 |關聯",
-      "title_en": "Labs AI"
+      "title": "網格試點 (MeshPilot)",
+      "link": "https://www.producthunt.com/products/meshpilot",
+      "desc": "您的終端、任務和代理的 AI 工作區關聯",
+      "title_en": "MeshPilot"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "Photoshop 和 Premiere 現在擁有 AI 助手",
-      "link": "https://www.theverge.com/tech/952099/adobe-ai-assistants-photoshop-premiere-illustrator-beta-launch",
-      "summary": "Adobe 將人工智慧助理融入其所有 Creative Cloud 套件的計劃現已全面啟動，新的聊天機器人現已...",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
+      "title": "關於山姆奧特曼的電影已被亞馬遜米高梅公司下架",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "summary": "據報道，盧卡·瓜達尼諾 (Luca Guadagnino) 執導的關於 OpenAI 首席執行官山姆·奧爾特曼 (Sam Altman) 的電影《Artificial》已被亞馬遜米高梅公司下架。該片，...",
+      "source": "The Verge"
+    },
+    {
       "title": "Barret Zoph 時隔五個月再次退出 OpenAI",
       "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge…",
+      "summary": "返回 OpenAI 五個月後，該公司企業 AI 銷售主管 Barret Zoph 離職，The Verge…",
       "source": "The Verge"
+    },
+    {
+      "title": "美國政府的人為禁令是否無意間幫助了品牌？",
+      "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "summary": "就在上週結束時，美國政府迫使 Anthropic 下架了兩款最新遊戲《神鬼Fable 5》和《神話 5》，...",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Barret Zoph 時隔五個月再次退出 OpenAI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-    "summary": "Five months after returning to OpenAI, Barret Zoph - the company's head of enterprise AI sales - has departed, The Verge…",
+    "title": "關於山姆奧特曼的電影已被亞馬遜米高梅公司下架",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+    "summary": "據報道，盧卡·瓜達尼諾 (Luca Guadagnino) 執導的關於 OpenAI 首席執行官山姆·奧爾特曼 (Sam Altman) 的電影《Artificial》已被亞馬遜米高梅公司下架。該片，...",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用Ploy.ai賺錢",
-      "detail": "用Ploy.ai把SS的旅遊網站變成成長引擎，增加廣告收入，今天就設定，預計3天出成果，發在YouTube和IG"
+      "title": "用 Zernio WhatsApp API 賺錢",
+      "detail": "利用 Zernio WhatsApp API 建立旅遊行程的 WhatsApp 代理，幫助旅客預訂行程，發在 SS 的 WhatsApp 群組，預計 3 天出成果"
     },
     {
-      "title": "AI網站優化",
-      "detail": "用Elvin主動優化SS的旅遊網站，提高用戶體驗和轉換率，預計1週出成果，發在官網和FB"
+      "title": "虛幻引擎 5.8 旅遊遊戲",
+      "detail": "使用虛幻引擎 5.8 建立旅遊主題的虛幻遊戲，讓用戶探索旅遊景點，發在 SS 的 YouTube 頻道，預計 1 周出成果"
     },
     {
-      "title": "日本品牌曝光",
-      "detail": "用Japanly AEO查看日本AI搜尋是否推薦SS的品牌，今天就設定，預計2天出成果，發在Twitter和Line"
+      "title": "直接發送旅遊檔案",
+      "detail": "使用 just f***ing send it 工具直接發送旅遊檔案給訂閱者，例如旅遊指南或旅遊照片集，發在 SS 的 Telegram 頻道，預計 2 天出成果"
     }
   ],
   "history": {
@@ -1042,6 +1047,132 @@
         {
           "title": "日本品牌曝光",
           "detail": "用Japanly AEO查看日本AI搜尋是否推薦SS的品牌，今天就設定，預計2天出成果，發在Twitter和Line"
+        }
+      ]
+    },
+    "2026-06-20": {
+      "news": [
+        {
+          "title": "關於山姆奧特曼的電影已被亞馬遜米高梅公司下架",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+          "summary": "據報道，盧卡·瓜達尼諾 (Luca Guadagnino) 執導的關於 OpenAI 首席執行官山姆·奧爾特曼 (Sam Altman) 的電影《Artificial》已被亞馬遜米高梅公司下架。該片，...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Barret Zoph 時隔五個月再次退出 OpenAI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+          "summary": "返回 OpenAI 五個月後，該公司企業 AI 銷售主管 Barret Zoph 離職，The Verge…",
+          "source": "The Verge"
+        },
+        {
+          "title": "從 PGP 到神話：沒有阻止任何人的出口管制簡史",
+          "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+          "summary": "過去 30 年來，阻止網路安全相關軟體的流動已被證明是無效的。目前還不清楚什麼...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "美國政府的人為禁令是否無意間幫助了品牌？",
+          "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+          "summary": "就在上週結束時，美國政府迫使 Anthropic 下架了兩款最新遊戲《神鬼Fable 5》和《神話 5》，...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "美國禁止 Anthropic 發行《神鬼Fable 5》，但數字似乎並不在意",
+          "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+          "summary": "就在上週結束時，美國政府迫使 Anthropic 下架了兩款最新遊戲《神鬼Fable 5》和《神話 5》，...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "億萬富翁安巴尼希望人工智慧滲透到每個通話、應用程式和家庭中",
+          "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+          "summary": "Reliance 正在將人工智慧融入超過 5 億人使用的電信服務中。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Allbirds 新人工智慧業務的執行長有計劃，但沒有團隊",
+          "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+          "summary": "可以稱其為一家擁有唯一創始人和一輪非常大的種子輪融資的初創公司，但接下來會發生什麼還不太清楚。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "美國稱ASML的頂級晶片工具可能在中國，但如何呢？",
+          "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+          "summary": "ASML 會冒著失去出口許可證的風險來武裝中國客戶，這是一種商業邏輯。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "API 至 MCP (API to MCP)",
+          "link": "https://www.producthunt.com/products/api-to-mcp",
+          "desc": "將任何 API 轉變為 AI 代理的 MCP 伺服器關聯",
+          "title_en": "API to MCP"
+        },
+        {
+          "title": "虛幻引擎5.8 (Unreal Engine 5.8)",
+          "link": "https://www.producthunt.com/products/unreal-engine",
+          "desc": "使用 AI 代理程式建立虛幻遊戲 討論 |關聯",
+          "title_en": "Unreal Engine 5.8"
+        },
+        {
+          "title": "澤尼奧 WhatsApp API (Zernio WhatsApp API)",
+          "link": "https://www.producthunt.com/products/zernio",
+          "desc": "One API for WhatsApp: messaging, calling, and AI agents Discussion | Link",
+          "title_en": "Zernio WhatsApp API"
+        },
+        {
+          "title": "只是他媽的發送它 (just f***ing send it)",
+          "link": "https://www.producthunt.com/products/just-f-ing-send-it",
+          "desc": "直接在瀏覽器之間發送任何大小的文件 討論 |關聯",
+          "title_en": "just f***ing send it"
+        },
+        {
+          "title": "網格試點 (MeshPilot)",
+          "link": "https://www.producthunt.com/products/meshpilot",
+          "desc": "您的終端、任務和代理的 AI 工作區關聯",
+          "title_en": "MeshPilot"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "關於山姆奧特曼的電影已被亞馬遜米高梅公司下架",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+          "summary": "據報道，盧卡·瓜達尼諾 (Luca Guadagnino) 執導的關於 OpenAI 首席執行官山姆·奧爾特曼 (Sam Altman) 的電影《Artificial》已被亞馬遜米高梅公司下架。該片，...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Barret Zoph 時隔五個月再次退出 OpenAI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+          "summary": "返回 OpenAI 五個月後，該公司企業 AI 銷售主管 Barret Zoph 離職，The Verge…",
+          "source": "The Verge"
+        },
+        {
+          "title": "美國政府的人為禁令是否無意間幫助了品牌？",
+          "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+          "summary": "就在上週結束時，美國政府迫使 Anthropic 下架了兩款最新遊戲《神鬼Fable 5》和《神話 5》，...",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "關於山姆奧特曼的電影已被亞馬遜米高梅公司下架",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+        "summary": "據報道，盧卡·瓜達尼諾 (Luca Guadagnino) 執導的關於 OpenAI 首席執行官山姆·奧爾特曼 (Sam Altman) 的電影《Artificial》已被亞馬遜米高梅公司下架。該片，...",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Zernio WhatsApp API 賺錢",
+          "detail": "利用 Zernio WhatsApp API 建立旅遊行程的 WhatsApp 代理，幫助旅客預訂行程，發在 SS 的 WhatsApp 群組，預計 3 天出成果"
+        },
+        {
+          "title": "虛幻引擎 5.8 旅遊遊戲",
+          "detail": "使用虛幻引擎 5.8 建立旅遊主題的虛幻遊戲，讓用戶探索旅遊景點，發在 SS 的 YouTube 頻道，預計 1 周出成果"
+        },
+        {
+          "title": "直接發送旅遊檔案",
+          "detail": "使用 just f***ing send it 工具直接發送旅遊檔案給訂閱者，例如旅遊指南或旅遊照片集，發在 SS 的 Telegram 頻道，預計 2 天出成果"
         }
       ]
     }
