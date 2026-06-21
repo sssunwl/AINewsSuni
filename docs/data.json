@@ -1,127 +1,91 @@
 {
-  "updated": "2026-06-20 13:10 HKT",
+  "updated": "2026-06-21 13:58 HKT",
   "news": [
     {
-      "title": "關於山姆奧特曼的電影已被亞馬遜米高梅公司下架",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "summary": "據報道，盧卡·瓜達尼諾 (Luca Guadagnino) 執導的關於 OpenAI 首席執行官山姆·奧爾特曼 (Sam Altman) 的電影《Artificial》已被亞馬遜米高梅公司下架。該片，...",
+      "title": "《大西洋月刊》創建了一個可搜尋的用於訓練人工智慧的音樂資料庫",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "summary": "《大西洋月刊》記者 Alex Reisner 最近發現了四個用於訓練人工智慧模型的音樂資料集，並使它們變得...",
       "source": "The Verge"
     },
     {
-      "title": "Barret Zoph 時隔五個月再次退出 OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "summary": "返回 OpenAI 五個月後，該公司企業 AI 銷售主管 Barret Zoph 離職，The Verge…",
-      "source": "The Verge"
-    },
-    {
-      "title": "從 PGP 到神話：沒有阻止任何人的出口管制簡史",
-      "link": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "summary": "過去 30 年來，阻止網路安全相關軟體的流動已被證明是無效的。目前還不清楚什麼...",
+      "title": "Signal 的 Meredith Whittaker 希望你記住人工智慧聊天機器人“不是你的朋友”",
+      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "summary": "“他們不是你的朋友。他們不是有意識的生物。他們不是有知覺的對話者。”",
       "source": "TechCrunch"
     },
     {
-      "title": "美國政府的人為禁令是否無意間幫助了品牌？",
-      "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "summary": "就在上週結束時，美國政府迫使 Anthropic 下架了兩款最新遊戲《神鬼Fable 5》和《神話 5》，...",
+      "title": "權重中是您新的以人工智慧為中心的虛榮搜索",
+      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+      "summary": "那麼...您的體重分數是多少呢？",
       "source": "TechCrunch"
     },
     {
-      "title": "美國禁止 Anthropic 發行《神鬼Fable 5》，但數字似乎並不在意",
-      "link": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-      "summary": "就在上週結束時，美國政府迫使 Anthropic 下架了兩款最新遊戲《神鬼Fable 5》和《神話 5》，...",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "億萬富翁安巴尼希望人工智慧滲透到每個通話、應用程式和家庭中",
-      "link": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
-      "summary": "Reliance 正在將人工智慧融入超過 5 億人使用的電信服務中。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Allbirds 新人工智慧業務的執行長有計劃，但沒有團隊",
-      "link": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-      "summary": "可以稱其為一家擁有唯一創始人和一輪非常大的種子輪融資的初創公司，但接下來會發生什麼還不太清楚。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "美國稱ASML的頂級晶片工具可能在中國，但如何呢？",
-      "link": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
-      "summary": "ASML 會冒著失去出口許可證的風險來武裝中國客戶，這是一種商業邏輯。",
+      "title": "諾貝爾獎得主 John Jumper 將離開 DeepMind 前往競爭對手 Anthropic",
+      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "summary": "Jumper 並不是唯一一個離開 Google DeepMind 的大人物。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "API 至 MCP (API to MCP)",
-      "link": "https://www.producthunt.com/products/api-to-mcp",
-      "desc": "將任何 API 轉變為 AI 代理的 MCP 伺服器關聯",
-      "title_en": "API to MCP"
+      "title": "工作爪 (WorkClaw)",
+      "link": "https://www.producthunt.com/products/workclaw",
+      "desc": "在 Slack Discussion 中工作的協作、主動的 AI 同事 |關聯",
+      "title_en": "WorkClaw"
     },
     {
-      "title": "虛幻引擎5.8 (Unreal Engine 5.8)",
-      "link": "https://www.producthunt.com/products/unreal-engine",
-      "desc": "使用 AI 代理程式建立虛幻遊戲 討論 |關聯",
-      "title_en": "Unreal Engine 5.8"
+      "title": "釋放塢 (ReleaseDock)",
+      "link": "https://www.producthunt.com/products/releasedock",
+      "desc": "AI 支援代理程式、說明中心和變更日誌位於單一收件匣中關聯",
+      "title_en": "ReleaseDock"
     },
     {
-      "title": "澤尼奧 WhatsApp API (Zernio WhatsApp API)",
-      "link": "https://www.producthunt.com/products/zernio",
-      "desc": "One API for WhatsApp: messaging, calling, and AI agents Discussion | Link",
-      "title_en": "Zernio WhatsApp API"
+      "title": "皮克斯利 (Pixlie)",
+      "link": "https://www.producthunt.com/products/pixlie",
+      "desc": "AI視頻工作室：文字圖片轉視頻，真實掌控 討論|關聯",
+      "title_en": "Pixlie"
     },
     {
-      "title": "只是他媽的發送它 (just f***ing send it)",
-      "link": "https://www.producthunt.com/products/just-f-ing-send-it",
-      "desc": "直接在瀏覽器之間發送任何大小的文件 討論 |關聯",
-      "title_en": "just f***ing send it"
+      "title": "JetBrains 的 Mellum (Mellum by JetBrains)",
+      "link": "https://www.producthunt.com/products/jetbrains",
+      "desc": "用於低延遲和高效能工作流程的快速法學碩士關聯",
+      "title_en": "Mellum by JetBrains"
     },
     {
-      "title": "網格試點 (MeshPilot)",
-      "link": "https://www.producthunt.com/products/meshpilot",
-      "desc": "您的終端、任務和代理的 AI 工作區關聯",
-      "title_en": "MeshPilot"
+      "title": "美洲獅資料庫 (pumaDB)",
+      "link": "https://www.producthunt.com/products/pumadb",
+      "desc": "一個用於人工智慧代理的小型託管記憶體層關聯",
+      "title_en": "pumaDB"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "關於山姆奧特曼的電影已被亞馬遜米高梅公司下架",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-      "summary": "據報道，盧卡·瓜達尼諾 (Luca Guadagnino) 執導的關於 OpenAI 首席執行官山姆·奧爾特曼 (Sam Altman) 的電影《Artificial》已被亞馬遜米高梅公司下架。該片，...",
-      "source": "The Verge"
-    },
-    {
-      "title": "Barret Zoph 時隔五個月再次退出 OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
-      "summary": "返回 OpenAI 五個月後，該公司企業 AI 銷售主管 Barret Zoph 離職，The Verge…",
-      "source": "The Verge"
-    },
-    {
-      "title": "美國政府的人為禁令是否無意間幫助了品牌？",
-      "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
-      "summary": "就在上週結束時，美國政府迫使 Anthropic 下架了兩款最新遊戲《神鬼Fable 5》和《神話 5》，...",
+      "title": "諾貝爾獎得主 John Jumper 將離開 DeepMind 前往競爭對手 Anthropic",
+      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "summary": "Jumper 並不是唯一一個離開 Google DeepMind 的大人物。",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "關於山姆奧特曼的電影已被亞馬遜米高梅公司下架",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
-    "summary": "據報道，盧卡·瓜達尼諾 (Luca Guadagnino) 執導的關於 OpenAI 首席執行官山姆·奧爾特曼 (Sam Altman) 的電影《Artificial》已被亞馬遜米高梅公司下架。該片，...",
-    "source": "The Verge"
+    "title": "諾貝爾獎得主 John Jumper 將離開 DeepMind 前往競爭對手 Anthropic",
+    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+    "summary": "Jumper 並不是唯一一個離開 Google DeepMind 的大人物。",
+    "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用 Zernio WhatsApp API 賺錢",
-      "detail": "利用 Zernio WhatsApp API 建立旅遊行程的 WhatsApp 代理，幫助旅客預訂行程，發在 SS 的 WhatsApp 群組，預計 3 天出成果"
+      "title": "用 Pixlie 制作旅遊短片",
+      "detail": "用 Pixlie 這個 AI 視頻工作室工具，將 SS 旅遊圖片轉成短片，發在 Instagram Reel，預計 1 天出成果"
     },
     {
-      "title": "虛幻引擎 5.8 旅遊遊戲",
-      "detail": "使用虛幻引擎 5.8 建立旅遊主題的虛幻遊戲，讓用戶探索旅遊景點，發在 SS 的 YouTube 頻道，預計 1 周出成果"
+      "title": "工作爪智能協作",
+      "detail": "用 WorkClaw 這個協作工具，在 Slack Discussion 中和 SS 團隊合作編寫旅遊文章，自動完成重複性工作，預計 3 天出成果"
     },
     {
-      "title": "直接發送旅遊檔案",
-      "detail": "使用 just f***ing send it 工具直接發送旅遊檔案給訂閱者，例如旅遊指南或旅遊照片集，發在 SS 的 Telegram 頻道，預計 2 天出成果"
+      "title": "釋放塢智能發布",
+      "detail": "用 ReleaseDock 這個 AI 支援代理程式，自動管理和更新 SS 旅遊內容的變更日誌，發在官網，預計 2 天出成果"
     }
   ],
   "history": {
@@ -1173,6 +1137,96 @@
         {
           "title": "直接發送旅遊檔案",
           "detail": "使用 just f***ing send it 工具直接發送旅遊檔案給訂閱者，例如旅遊指南或旅遊照片集，發在 SS 的 Telegram 頻道，預計 2 天出成果"
+        }
+      ]
+    },
+    "2026-06-21": {
+      "news": [
+        {
+          "title": "《大西洋月刊》創建了一個可搜尋的用於訓練人工智慧的音樂資料庫",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+          "summary": "《大西洋月刊》記者 Alex Reisner 最近發現了四個用於訓練人工智慧模型的音樂資料集，並使它們變得...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Signal 的 Meredith Whittaker 希望你記住人工智慧聊天機器人“不是你的朋友”",
+          "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+          "summary": "“他們不是你的朋友。他們不是有意識的生物。他們不是有知覺的對話者。”",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "權重中是您新的以人工智慧為中心的虛榮搜索",
+          "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+          "summary": "那麼...您的體重分數是多少呢？",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "諾貝爾獎得主 John Jumper 將離開 DeepMind 前往競爭對手 Anthropic",
+          "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+          "summary": "Jumper 並不是唯一一個離開 Google DeepMind 的大人物。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "工作爪 (WorkClaw)",
+          "link": "https://www.producthunt.com/products/workclaw",
+          "desc": "在 Slack Discussion 中工作的協作、主動的 AI 同事 |關聯",
+          "title_en": "WorkClaw"
+        },
+        {
+          "title": "釋放塢 (ReleaseDock)",
+          "link": "https://www.producthunt.com/products/releasedock",
+          "desc": "AI 支援代理程式、說明中心和變更日誌位於單一收件匣中關聯",
+          "title_en": "ReleaseDock"
+        },
+        {
+          "title": "皮克斯利 (Pixlie)",
+          "link": "https://www.producthunt.com/products/pixlie",
+          "desc": "AI視頻工作室：文字圖片轉視頻，真實掌控 討論|關聯",
+          "title_en": "Pixlie"
+        },
+        {
+          "title": "JetBrains 的 Mellum (Mellum by JetBrains)",
+          "link": "https://www.producthunt.com/products/jetbrains",
+          "desc": "用於低延遲和高效能工作流程的快速法學碩士關聯",
+          "title_en": "Mellum by JetBrains"
+        },
+        {
+          "title": "美洲獅資料庫 (pumaDB)",
+          "link": "https://www.producthunt.com/products/pumadb",
+          "desc": "一個用於人工智慧代理的小型託管記憶體層關聯",
+          "title_en": "pumaDB"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "諾貝爾獎得主 John Jumper 將離開 DeepMind 前往競爭對手 Anthropic",
+          "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+          "summary": "Jumper 並不是唯一一個離開 Google DeepMind 的大人物。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "諾貝爾獎得主 John Jumper 將離開 DeepMind 前往競爭對手 Anthropic",
+        "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+        "summary": "Jumper 並不是唯一一個離開 Google DeepMind 的大人物。",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Pixlie 制作旅遊短片",
+          "detail": "用 Pixlie 這個 AI 視頻工作室工具，將 SS 旅遊圖片轉成短片，發在 Instagram Reel，預計 1 天出成果"
+        },
+        {
+          "title": "工作爪智能協作",
+          "detail": "用 WorkClaw 這個協作工具，在 Slack Discussion 中和 SS 團隊合作編寫旅遊文章，自動完成重複性工作，預計 3 天出成果"
+        },
+        {
+          "title": "釋放塢智能發布",
+          "detail": "用 ReleaseDock 這個 AI 支援代理程式，自動管理和更新 SS 旅遊內容的變更日誌，發在官網，預計 2 天出成果"
         }
       ]
     }
