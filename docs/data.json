@@ -1,91 +1,79 @@
 {
-  "updated": "2026-06-21 13:58 HKT",
+  "updated": "2026-06-22 14:26 HKT",
   "news": [
     {
-      "title": "《大西洋月刊》創建了一個可搜尋的用於訓練人工智慧的音樂資料庫",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
-      "summary": "《大西洋月刊》記者 Alex Reisner 最近發現了四個用於訓練人工智慧模型的音樂資料集，並使它們變得...",
-      "source": "The Verge"
-    },
-    {
-      "title": "Signal 的 Meredith Whittaker 希望你記住人工智慧聊天機器人“不是你的朋友”",
-      "link": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-      "summary": "“他們不是你的朋友。他們不是有意識的生物。他們不是有知覺的對話者。”",
+      "title": "當川普政府打壓 Anthropic 時，誰受益？",
+      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "summary": "在新一集的《Equity》中，我們討論了究竟是什麼促使政府對 Anthropic 採取了最新行動…",
       "source": "TechCrunch"
     },
     {
-      "title": "權重中是您新的以人工智慧為中心的虛榮搜索",
-      "link": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-      "summary": "那麼...您的體重分數是多少呢？",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "諾貝爾獎得主 John Jumper 將離開 DeepMind 前往競爭對手 Anthropic",
-      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "summary": "Jumper 並不是唯一一個離開 Google DeepMind 的大人物。",
+      "title": "超越 Siri：以下是 iOS 27 中 iPhone 的實用人工智慧功能",
+      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+      "summary": "Siri 的人工智慧改革可能已經成為 WWDC 的頭條新聞，但蘋果一些最有用的人工智慧功能正在其他地方出現…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "工作爪 (WorkClaw)",
-      "link": "https://www.producthunt.com/products/workclaw",
-      "desc": "在 Slack Discussion 中工作的協作、主動的 AI 同事 |關聯",
-      "title_en": "WorkClaw"
+      "title": "雲端背MCP伺服器 (Cloudback MCP Server)",
+      "link": "https://www.producthunt.com/products/cloudback",
+      "desc": "從 Claude、Cursor 和 VS Code 管理您的備份關聯",
+      "title_en": "Cloudback MCP Server"
     },
     {
-      "title": "釋放塢 (ReleaseDock)",
-      "link": "https://www.producthunt.com/products/releasedock",
-      "desc": "AI 支援代理程式、說明中心和變更日誌位於單一收件匣中關聯",
-      "title_en": "ReleaseDock"
+      "title": "原子郵件代理 (Atomic Mail Agentic)",
+      "link": "https://www.producthunt.com/products/atomic-mail-agentic",
+      "desc": "讓您的客服人員自主閱讀、傳送和回覆電子郵件關聯",
+      "title_en": "Atomic Mail Agentic"
     },
     {
-      "title": "皮克斯利 (Pixlie)",
-      "link": "https://www.producthunt.com/products/pixlie",
-      "desc": "AI視頻工作室：文字圖片轉視頻，真實掌控 討論|關聯",
-      "title_en": "Pixlie"
+      "title": "背磨 (Backgrind)",
+      "link": "https://www.producthunt.com/products/backgrind",
+      "desc": "在任何應用程式甚至遊戲上運行您的人工智慧代理。討論 |關聯",
+      "title_en": "Backgrind"
     },
     {
-      "title": "JetBrains 的 Mellum (Mellum by JetBrains)",
-      "link": "https://www.producthunt.com/products/jetbrains",
-      "desc": "用於低延遲和高效能工作流程的快速法學碩士關聯",
-      "title_en": "Mellum by JetBrains"
+      "title": "普蘭塞拉人工智慧 (Plansera AI)",
+      "link": "https://www.producthunt.com/products/plansera-ai",
+      "desc": "由 AI 討論起草的 E-2 簽證商業計劃 |關聯",
+      "title_en": "Plansera AI"
     },
     {
-      "title": "美洲獅資料庫 (pumaDB)",
-      "link": "https://www.producthunt.com/products/pumadb",
-      "desc": "一個用於人工智慧代理的小型託管記憶體層關聯",
-      "title_en": "pumaDB"
+      "title": "Grok by SpaceXAI for Word",
+      "link": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
+      "desc": "從 Word Discuss 內的面板起草、重組和收緊措辭 |關聯",
+      "title_en": "Grok by SpaceXAI for Word"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "諾貝爾獎得主 John Jumper 將離開 DeepMind 前往競爭對手 Anthropic",
-      "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-      "summary": "Jumper 並不是唯一一個離開 Google DeepMind 的大人物。",
+      "title": "當川普政府打壓 Anthropic 時，誰受益？",
+      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "summary": "在新一集的《Equity》中，我們討論了究竟是什麼促使政府對 Anthropic 採取了最新行動…",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "諾貝爾獎得主 John Jumper 將離開 DeepMind 前往競爭對手 Anthropic",
-    "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
-    "summary": "Jumper 並不是唯一一個離開 Google DeepMind 的大人物。",
+    "title": "當川普政府打壓 Anthropic 時，誰受益？",
+    "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+    "summary": "在新一集的《Equity》中，我們討論了究竟是什麼促使政府對 Anthropic 採取了最新行動…",
     "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用 Pixlie 制作旅遊短片",
-      "detail": "用 Pixlie 這個 AI 視頻工作室工具，將 SS 旅遊圖片轉成短片，發在 Instagram Reel，預計 1 天出成果"
+      "title": "用 Plansera AI 搭建商業計劃",
+      "detail": "幫助你快速出國旅遊簽證商業計劃， Plansera AI 來幫忙，2天內就能出成果，發在個人社交媒體"
     },
     {
-      "title": "工作爪智能協作",
-      "detail": "用 WorkClaw 這個協作工具，在 Slack Discussion 中和 SS 團隊合作編寫旅遊文章，自動完成重複性工作，預計 3 天出成果"
+      "title": "Backgrind 自動客服",
+      "detail": "用 Backgrind 來運行智能客服代理， Atomic Mail Agentic 來管理電子郵件，1週內就能看到效果，發在公司網站"
     },
     {
-      "title": "釋放塢智能發布",
-      "detail": "用 ReleaseDock 這個 AI 支援代理程式，自動管理和更新 SS 旅遊內容的變更日誌，發在官網，預計 2 天出成果"
+      "title": "雲端備份管理",
+      "detail": "用 Cloudback MCP Server 來管理備份關聯， Claude 來幫助資料分析，1天內就能搞定，發在公司內部網"
     }
   ],
   "history": {
@@ -1227,6 +1215,84 @@
         {
           "title": "釋放塢智能發布",
           "detail": "用 ReleaseDock 這個 AI 支援代理程式，自動管理和更新 SS 旅遊內容的變更日誌，發在官網，預計 2 天出成果"
+        }
+      ]
+    },
+    "2026-06-22": {
+      "news": [
+        {
+          "title": "當川普政府打壓 Anthropic 時，誰受益？",
+          "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+          "summary": "在新一集的《Equity》中，我們討論了究竟是什麼促使政府對 Anthropic 採取了最新行動…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "超越 Siri：以下是 iOS 27 中 iPhone 的實用人工智慧功能",
+          "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+          "summary": "Siri 的人工智慧改革可能已經成為 WWDC 的頭條新聞，但蘋果一些最有用的人工智慧功能正在其他地方出現…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "雲端背MCP伺服器 (Cloudback MCP Server)",
+          "link": "https://www.producthunt.com/products/cloudback",
+          "desc": "從 Claude、Cursor 和 VS Code 管理您的備份關聯",
+          "title_en": "Cloudback MCP Server"
+        },
+        {
+          "title": "原子郵件代理 (Atomic Mail Agentic)",
+          "link": "https://www.producthunt.com/products/atomic-mail-agentic",
+          "desc": "讓您的客服人員自主閱讀、傳送和回覆電子郵件關聯",
+          "title_en": "Atomic Mail Agentic"
+        },
+        {
+          "title": "背磨 (Backgrind)",
+          "link": "https://www.producthunt.com/products/backgrind",
+          "desc": "在任何應用程式甚至遊戲上運行您的人工智慧代理。討論 |關聯",
+          "title_en": "Backgrind"
+        },
+        {
+          "title": "普蘭塞拉人工智慧 (Plansera AI)",
+          "link": "https://www.producthunt.com/products/plansera-ai",
+          "desc": "由 AI 討論起草的 E-2 簽證商業計劃 |關聯",
+          "title_en": "Plansera AI"
+        },
+        {
+          "title": "Grok by SpaceXAI for Word",
+          "link": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
+          "desc": "從 Word Discuss 內的面板起草、重組和收緊措辭 |關聯",
+          "title_en": "Grok by SpaceXAI for Word"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "當川普政府打壓 Anthropic 時，誰受益？",
+          "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+          "summary": "在新一集的《Equity》中，我們討論了究竟是什麼促使政府對 Anthropic 採取了最新行動…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "當川普政府打壓 Anthropic 時，誰受益？",
+        "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+        "summary": "在新一集的《Equity》中，我們討論了究竟是什麼促使政府對 Anthropic 採取了最新行動…",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Plansera AI 搭建商業計劃",
+          "detail": "幫助你快速出國旅遊簽證商業計劃， Plansera AI 來幫忙，2天內就能出成果，發在個人社交媒體"
+        },
+        {
+          "title": "Backgrind 自動客服",
+          "detail": "用 Backgrind 來運行智能客服代理， Atomic Mail Agentic 來管理電子郵件，1週內就能看到效果，發在公司網站"
+        },
+        {
+          "title": "雲端備份管理",
+          "detail": "用 Cloudback MCP Server 來管理備份關聯， Claude 來幫助資料分析，1天內就能搞定，發在公司內部網"
         }
       ]
     }
