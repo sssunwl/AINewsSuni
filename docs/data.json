@@ -1,79 +1,115 @@
 {
-  "updated": "2026-06-22 14:26 HKT",
+  "updated": "2026-06-23 12:57 HKT",
   "news": [
     {
-      "title": "當川普政府打壓 Anthropic 時，誰受益？",
-      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "summary": "在新一集的《Equity》中，我們討論了究竟是什麼促使政府對 Anthropic 採取了最新行動…",
+      "title": "英偉達表示，其人工智慧資料中心設計運作溫度更高，可減少用水量",
+      "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+      "summary": "公眾對資料中心的反對強調了它們的水和能源消耗，現在英偉達強調...",
+      "source": "The Verge"
+    },
+    {
+      "title": "人工智慧正在詛咒租屋者，承諾提供不可能的房屋",
+      "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+      "summary": "喬伊斯是土生土長的紐約人，她認為在這座城市找到她的第一套獨立公寓並不容易。但她也沒有…",
+      "source": "The Verge"
+    },
+    {
+      "title": "在對另一個應用程式進行振動編碼之前請閱讀本文",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+      "summary": "鮑勃·斯塔爾 (Bob Starr) 對他的振動編碼網站感到非常滿意。 “Boomberg”显示了美国有多少税收流向了科技公司，……",
+      "source": "The Verge"
+    },
+    {
+      "title": "最新清單：2026 年主要科技公司裁員，雇主提到人工智慧",
+      "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "summary": "以時間倒序順序觀察已宣布大幅裁員的大型科技公司…",
       "source": "TechCrunch"
     },
     {
-      "title": "超越 Siri：以下是 iOS 27 中 iPhone 的實用人工智慧功能",
-      "link": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "summary": "Siri 的人工智慧改革可能已經成為 WWDC 的頭條新聞，但蘋果一些最有用的人工智慧功能正在其他地方出現…",
+      "title": "OpenAI 推出新措施協助尋找和修補開源錯誤",
+      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "summary": "OpenAI 正在嘗試解決開源軟體社群的安全問題。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "人工智慧世界正變得“瘋狂”",
+      "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "summary": "該循環透過授權一群代理在後台連續工作，使代理人工智慧更進一步，無盡…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI 晶片製造商 Groq 確認籌集 6.5 億美元資金，並在 Nvidia 完成 200 億美元非收購聘用交易後進行人員重組",
+      "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+      "summary": "在完成一項非收購僱傭交易後，人工智慧公司會做什麼？ Groq 籌集了資金，正致力於其 Neocloud 業務…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "英偉達希望減少資料中心的用水量，但這與解決人工智慧的用水問題不同",
+      "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "summary": "英偉達宣布推出新的冷卻系統，可減少資料中心內的用水量。但它對解決人工智慧的雙重問題沒有任何幫助…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "雲端背MCP伺服器 (Cloudback MCP Server)",
-      "link": "https://www.producthunt.com/products/cloudback",
-      "desc": "從 Claude、Cursor 和 VS Code 管理您的備份關聯",
-      "title_en": "Cloudback MCP Server"
+      "title": "AlgoFly人工智慧 (AlgoFly AI)",
+      "link": "https://www.producthunt.com/products/algofly-ai",
+      "desc": "建構和部署視覺 AI 的一體化平台關聯",
+      "title_en": "AlgoFly AI"
     },
     {
-      "title": "原子郵件代理 (Atomic Mail Agentic)",
-      "link": "https://www.producthunt.com/products/atomic-mail-agentic",
-      "desc": "讓您的客服人員自主閱讀、傳送和回覆電子郵件關聯",
-      "title_en": "Atomic Mail Agentic"
+      "title": "Claude (Clawd)",
+      "link": "https://www.producthunt.com/products/clawd-the-context-aware-browser-pet",
+      "desc": "具有 100% 本地離線 AI 的上下文感知瀏覽器吉祥物討論 |關聯",
+      "title_en": "Clawd"
     },
     {
-      "title": "背磨 (Backgrind)",
-      "link": "https://www.producthunt.com/products/backgrind",
-      "desc": "在任何應用程式甚至遊戲上運行您的人工智慧代理。討論 |關聯",
-      "title_en": "Backgrind"
+      "title": "HAQQ 法律人工智慧行動端 (HAQQ Legal AI on Mobile)",
+      "link": "https://www.producthunt.com/products/haqq-mobile-app",
+      "desc": "為任何擁有電話的人帶來法律理解 討論 |關聯",
+      "title_en": "HAQQ Legal AI on Mobile"
     },
     {
-      "title": "普蘭塞拉人工智慧 (Plansera AI)",
-      "link": "https://www.producthunt.com/products/plansera-ai",
-      "desc": "由 AI 討論起草的 E-2 簽證商業計劃 |關聯",
-      "title_en": "Plansera AI"
+      "title": "特務X (AgentX)",
+      "link": "https://www.producthunt.com/products/agentx",
+      "desc": "評估 AI 代理、找出問題並一鍵修復。討論 |關聯",
+      "title_en": "AgentX"
     },
     {
-      "title": "Grok by SpaceXAI for Word",
-      "link": "https://www.producthunt.com/products/grok-by-spacexai-for-word",
-      "desc": "從 Word Discuss 內的面板起草、重組和收緊措辭 |關聯",
-      "title_en": "Grok by SpaceXAI for Word"
+      "title": "MD+HTML閱讀器 (MD+HTML Reader)",
+      "link": "https://www.producthunt.com/products/md-html-reader",
+      "desc": "Review AI-generated Markdown and HTML in a focused workspace Discussion | Link",
+      "title_en": "MD+HTML Reader"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "當川普政府打壓 Anthropic 時，誰受益？",
-      "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "summary": "在新一集的《Equity》中，我們討論了究竟是什麼促使政府對 Anthropic 採取了最新行動…",
+      "title": "OpenAI 推出新措施協助尋找和修補開源錯誤",
+      "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+      "summary": "OpenAI 正在嘗試解決開源軟體社群的安全問題。",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "當川普政府打壓 Anthropic 時，誰受益？",
-    "link": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-    "summary": "在新一集的《Equity》中，我們討論了究竟是什麼促使政府對 Anthropic 採取了最新行動…",
+    "title": "OpenAI 推出新措施協助尋找和修補開源錯誤",
+    "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+    "summary": "OpenAI 正在嘗試解決開源軟體社群的安全問題。",
     "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用 Plansera AI 搭建商業計劃",
-      "detail": "幫助你快速出國旅遊簽證商業計劃， Plansera AI 來幫忙，2天內就能出成果，發在個人社交媒體"
+      "title": "AI旅遊短片",
+      "detail": "用AlgoFly AI建立旅遊短片，自動編輯並上傳到Instagram，預計3天內出成果"
     },
     {
-      "title": "Backgrind 自動客服",
-      "detail": "用 Backgrind 來運行智能客服代理， Atomic Mail Agentic 來管理電子郵件，1週內就能看到效果，發在公司網站"
+      "title": "法務解答",
+      "detail": "利用HAQQ法律人工智慧，為旅遊者提供法律常見問題解答，發佈在Suniverse的社群媒體，預計1周內收到反饋"
     },
     {
-      "title": "雲端備份管理",
-      "detail": "用 Cloudback MCP Server 來管理備份關聯， Claude 來幫助資料分析，1天內就能搞定，發在公司內部網"
+      "title": "AI內容優化",
+      "detail": "使用AgentX評估現有旅遊內容，找出問題並優化，然後發佈在Suniverse的網站和社群媒體，預計2周內出成果"
     }
   ],
   "history": {
@@ -1293,6 +1329,120 @@
         {
           "title": "雲端備份管理",
           "detail": "用 Cloudback MCP Server 來管理備份關聯， Claude 來幫助資料分析，1天內就能搞定，發在公司內部網"
+        }
+      ]
+    },
+    "2026-06-23": {
+      "news": [
+        {
+          "title": "英偉達表示，其人工智慧資料中心設計運作溫度更高，可減少用水量",
+          "link": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+          "summary": "公眾對資料中心的反對強調了它們的水和能源消耗，現在英偉達強調...",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧正在詛咒租屋者，承諾提供不可能的房屋",
+          "link": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+          "summary": "喬伊斯是土生土長的紐約人，她認為在這座城市找到她的第一套獨立公寓並不容易。但她也沒有…",
+          "source": "The Verge"
+        },
+        {
+          "title": "在對另一個應用程式進行振動編碼之前請閱讀本文",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+          "summary": "鮑勃·斯塔爾 (Bob Starr) 對他的振動編碼網站感到非常滿意。 “Boomberg”显示了美国有多少税收流向了科技公司，……",
+          "source": "The Verge"
+        },
+        {
+          "title": "最新清單：2026 年主要科技公司裁員，雇主提到人工智慧",
+          "link": "https://techcrunch.com/2026/06/22/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "summary": "以時間倒序順序觀察已宣布大幅裁員的大型科技公司…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI 推出新措施協助尋找和修補開源錯誤",
+          "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+          "summary": "OpenAI 正在嘗試解決開源軟體社群的安全問題。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "人工智慧世界正變得“瘋狂”",
+          "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+          "summary": "該循環透過授權一群代理在後台連續工作，使代理人工智慧更進一步，無盡…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI 晶片製造商 Groq 確認籌集 6.5 億美元資金，並在 Nvidia 完成 200 億美元非收購聘用交易後進行人員重組",
+          "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+          "summary": "在完成一項非收購僱傭交易後，人工智慧公司會做什麼？ Groq 籌集了資金，正致力於其 Neocloud 業務…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "英偉達希望減少資料中心的用水量，但這與解決人工智慧的用水問題不同",
+          "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+          "summary": "英偉達宣布推出新的冷卻系統，可減少資料中心內的用水量。但它對解決人工智慧的雙重問題沒有任何幫助…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "AlgoFly人工智慧 (AlgoFly AI)",
+          "link": "https://www.producthunt.com/products/algofly-ai",
+          "desc": "建構和部署視覺 AI 的一體化平台關聯",
+          "title_en": "AlgoFly AI"
+        },
+        {
+          "title": "Claude (Clawd)",
+          "link": "https://www.producthunt.com/products/clawd-the-context-aware-browser-pet",
+          "desc": "具有 100% 本地離線 AI 的上下文感知瀏覽器吉祥物討論 |關聯",
+          "title_en": "Clawd"
+        },
+        {
+          "title": "HAQQ 法律人工智慧行動端 (HAQQ Legal AI on Mobile)",
+          "link": "https://www.producthunt.com/products/haqq-mobile-app",
+          "desc": "為任何擁有電話的人帶來法律理解 討論 |關聯",
+          "title_en": "HAQQ Legal AI on Mobile"
+        },
+        {
+          "title": "特務X (AgentX)",
+          "link": "https://www.producthunt.com/products/agentx",
+          "desc": "評估 AI 代理、找出問題並一鍵修復。討論 |關聯",
+          "title_en": "AgentX"
+        },
+        {
+          "title": "MD+HTML閱讀器 (MD+HTML Reader)",
+          "link": "https://www.producthunt.com/products/md-html-reader",
+          "desc": "Review AI-generated Markdown and HTML in a focused workspace Discussion | Link",
+          "title_en": "MD+HTML Reader"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 推出新措施協助尋找和修補開源錯誤",
+          "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+          "summary": "OpenAI 正在嘗試解決開源軟體社群的安全問題。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 推出新措施協助尋找和修補開源錯誤",
+        "link": "https://techcrunch.com/2026/06/22/openai-launches-new-initiative-to-help-find-and-patch-open-source-bugs/",
+        "summary": "OpenAI 正在嘗試解決開源軟體社群的安全問題。",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "AI旅遊短片",
+          "detail": "用AlgoFly AI建立旅遊短片，自動編輯並上傳到Instagram，預計3天內出成果"
+        },
+        {
+          "title": "法務解答",
+          "detail": "利用HAQQ法律人工智慧，為旅遊者提供法律常見問題解答，發佈在Suniverse的社群媒體，預計1周內收到反饋"
+        },
+        {
+          "title": "AI內容優化",
+          "detail": "使用AgentX評估現有旅遊內容，找出問題並優化，然後發佈在Suniverse的網站和社群媒體，預計2周內出成果"
         }
       ]
     }
