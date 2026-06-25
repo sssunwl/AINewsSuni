@@ -1,115 +1,121 @@
 {
-  "updated": "2026-06-24 13:00 HKT",
+  "updated": "2026-06-25 13:02 HKT",
   "news": [
     {
-      "title": "Google Home 很快就能更辨識您",
-      "link": "https://www.theverge.com/tech/955385/google-home-familiar-faces-clothing",
-      "summary": "Google Home 的新更新可能會降低你的智慧家庭相機將你誤認為其他人的可能性，只是因為…",
+      "title": "國會女議員否認工作人員使用人工智慧撰寫國防資金修正案",
+      "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+      "summary": "佛羅裡達州共和黨眾議員安娜·保琳娜·盧納 (Anna Paulina Luna) 表示，她的工作人員在一項主要國防法案的修正案摘要中使用人工智能進行“拼寫檢查”，…",
       "source": "The Verge"
     },
     {
-      "title": "好萊塢向 OpenAI 屈服",
-      "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-      "summary": "Netflix、A24、焦點影業和華納兄弟。據報道，發條公司都決定不再選擇人工——…",
+      "title": "艾爾聯盟圍繞亞歷克斯·博雷斯 (Alex Bores) 的 2700 萬美元代理人戰爭以平局告終",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+      "summary": "Anthropic 和 OpenAI 之間耗資 2700 萬美元的政治代理權戰爭昨晚打成了平手，亞歷克斯·博雷斯 (Alex Bores)…",
       "source": "The Verge"
     },
     {
-      "title": "為什麼企業人工智慧超級政治行動委員會在地方選舉上花了 2700 萬美元",
-      "link": "https://www.theverge.com/policy/954970/ai-super-pacs-alex-bores-new-york-12th-district",
-      "summary": "您好，歡迎來到 Regulator，這是為 Verge 訂閱者提供的時事通訊，記錄了他們最喜歡的技術的不幸經歷…",
+      "title": "Figma 現在擁有 AI 動態圖形和著色器工具",
+      "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+      "summary": "Figma 在其年度 Config 會議上透露了一些新的設計和編碼產品更新，旨在幫助創意人員…",
       "source": "The Verge"
     },
     {
-      "title": "Midjourney 轉型為人體掃描儀的過程中出現了一些問題",
-      "link": "https://www.theverge.com/report/954826/midjourney-medical-ai-ultrasound-body-scanner-lacks-evidence",
-      "summary": "上週，以影像產生器而聞名的人工智慧新創公司 Midjourney 做出了一個不同尋常的轉型：醫學成像。該公司…",
+      "title": "OpenAI 推出首款人工智慧處理器：Jalapeo",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "summary": "OpenAI 剛剛推出了一款與 Broadcom 合作生產的用於 AI 伺服器的新型「智慧處理器」晶片。該晶片，...",
       "source": "The Verge"
     },
     {
-      "title": "Fitbit Air 採用更聰明的方法來應對 AI 健康垃圾箱火災",
-      "link": "https://www.theverge.com/tech/954768/google-fitbit-air-review-fitness-tracker-wearable-ai-health-coach",
-      "summary": "Google 健康教練似乎認為我處於身體崩潰的邊緣。我的睡眠不在需要的地方，因此我的…",
+      "title": "谷歌家庭揚聲器聽起來不錯，看起來也很棒——但它很挑剔",
+      "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+      "summary": "新的谷歌家庭音箱開箱即通過了幾項重要的測試。即使音量開到 100%...",
       "source": "The Verge"
     },
     {
-      "title": "索尼的人工智慧相機助理確實像它看起來的那麼糟糕",
-      "link": "https://www.theverge.com/tech/954676/sony-xperia-1-viii-ai-camera-assistant",
-      "summary": "當索尼上個月發布 Xperia 1 VIII 時，它通過分享一些在 S 上拍攝的最糟糕的照片來宣傳這款手機…",
-      "source": "The Verge"
+      "title": "歐洲正在反擊華盛頓的晶片戰",
+      "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+      "summary": "正如 ASML 執行長 Christophe Fouquet 五月告訴 TechCrunch 的那樣，中國目前可以購買的是老一代的深紫外線…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Meta推出更便宜的智慧眼鏡，不含雷朋",
-      "link": "https://www.theverge.com/tech/954052/meta-glasses-hands-on-kylie-jenner-smart-glasses-price-battery-privacy",
-      "summary": "在過去的三年裡，「Meta」和「Ray-Ban」一直是智慧眼鏡領域的代名詞。不再。昨天， …",
-      "source": "The Verge"
+      "title": "Infosys 前執行長創辦了一家新創公司，希望挑戰 IT 服務領域",
+      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+      "summary": "在 Mayfield 和 Aramco Ventures 的支持下，Vishal Sikka 的新企業匯集了來自 SAP、Infosys 和 VianA 的資深人士…",
+      "source": "TechCrunch"
     },
     {
-      "title": "印度 MoEngage 押注行銷的未來在於數百萬人工智慧代理",
-      "link": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-      "summary": "此次全現金交易使 MoEngage 能夠獲得為個人客戶分配人工智慧代理的技術。",
+      "title": "Cerebras 股價在獲利後暴跌，執行長表示利潤前景被誤解",
+      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+      "summary": "在上市以來的第一份收益報告中，這家人工智慧晶片製造商預測其核心業務的毛利率將收窄…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "德克威斯 (Deckwise)",
-      "link": "https://www.producthunt.com/products/deckwise",
-      "desc": "用於可編輯套牌的 AI 演示代理 討論 |關聯",
-      "title_en": "Deckwise"
+      "title": "克魯德爾人工智慧 (Crewdle AI)",
+      "link": "https://www.producthunt.com/products/crewdle",
+      "desc": "無需每次訂閱即可使用所有商業 AI 工具 討論 |關聯",
+      "title_en": "Crewdle AI"
     },
     {
-      "title": "噓 (Hush)",
-      "link": "https://www.producthunt.com/products/hush-df34eafa-13f7-4d91-856f-162c2a9d81ee",
-      "desc": "Open-source noise suppression for voice AI agents Discussion |關聯",
-      "title_en": "Hush"
+      "title": "透過代理卡購買 (Buy by Agentcard)",
+      "link": "https://www.producthunt.com/products/agent-card",
+      "desc": "從 Claude 訂購 DoorDash 討論 |關聯",
+      "title_en": "Buy by Agentcard"
     },
     {
-      "title": "密碼 (Sipcode)",
-      "link": "https://www.producthunt.com/products/sipcode",
-      "desc": "保持 Claude Code 的上下文清晰，以獲得更清晰的答案關聯",
-      "title_en": "Sipcode"
+      "title": "尼姆特 (Nimt)",
+      "link": "https://www.producthunt.com/products/nimt-ai",
+      "desc": "Slack 討論中您的 AI 搜尋同事 |關聯",
+      "title_en": "Nimt"
     },
     {
-      "title": "拇指魔法 (Thumbmagic)",
-      "link": "https://www.producthunt.com/products/thumbmagic-3",
-      "desc": "AI 縮圖產生器經過頂級縮圖訓練 討論 |關聯",
-      "title_en": "Thumbmagic"
+      "title": "斯維米奧 (Swimio)",
+      "link": "https://www.producthunt.com/products/swimio",
+      "desc": "具有 Apple Watch 追蹤和智慧鍛鍊功能的 AI 游泳教練關聯",
+      "title_en": "Swimio"
     },
     {
-      "title": "最佳防禦.io (BestDefense.io)",
-      "link": "https://www.producthunt.com/products/bestdefense-io",
-      "desc": "使用 AI 討論 | 進行滲透測試並修補每個部署關聯",
-      "title_en": "BestDefense.io"
+      "title": "心靈石反叛者 (Mindstone Rebel)",
+      "link": "https://www.producthunt.com/products/mindstone-rebel",
+      "desc": "為了解您的工作並首先詢問的客服人員提供的人工智慧工作區關聯",
+      "title_en": "Mindstone Rebel"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "好萊塢向 OpenAI 屈服",
-      "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-      "summary": "Netflix、A24、焦點影業和華納兄弟。據報道，發條公司都決定不再選擇人工——…",
+      "title": "艾爾聯盟圍繞亞歷克斯·博雷斯 (Alex Bores) 的 2700 萬美元代理人戰爭以平局告終",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+      "summary": "Anthropic 和 OpenAI 之間耗資 2700 萬美元的政治代理權戰爭昨晚打成了平手，亞歷克斯·博雷斯 (Alex Bores)…",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI 推出首款人工智慧處理器：Jalapeo",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+      "summary": "OpenAI 剛剛推出了一款與 Broadcom 合作生產的用於 AI 伺服器的新型「智慧處理器」晶片。該晶片，...",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "好萊塢向 OpenAI 屈服",
-    "link": "https://www.theverge.com/entertainment/954899/luca-guadagnino-artificial-sam-altman-amazon-a24-neon-mubi-chatgpt",
-    "summary": "Netflix、A24、焦點影業和華納兄弟。據報道，發條公司都決定不再選擇人工——…",
+    "title": "艾爾聯盟圍繞亞歷克斯·博雷斯 (Alex Bores) 的 2700 萬美元代理人戰爭以平局告終",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+    "summary": "Anthropic 和 OpenAI 之間耗資 2700 萬美元的政治代理權戰爭昨晚打成了平手，亞歷克斯·博雷斯 (Alex Bores)…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "AI 旅遊 Reel",
-      "detail": "用 Deckwise 來設計可編輯的套牌，然後發在 Instagram 和 TikTok 上，預計 3 天後出成果"
+      "title": "用 Claude 賺外快",
+      "detail": "用 Claude 創建 DoorDash 食物外送內容，發在 SS 的社交媒體，預計 3 天出成果"
     },
     {
-      "title": "清晰聲音",
-      "detail": "利用 Hush 來消除背景噪音，然後用 ChatGPT 來生成旅遊內容，發在 YouTube 和 Podcast 上，預計 5 天後出成果"
+      "title": "游泳 AI 教練",
+      "detail": "使用 Swimio 計划旅遊游泳訓練課程，錄製教學影片，發在 SS 的 YouTube 頻道，預計 1 周出成果"
     },
     {
-      "title": "智能縮圖",
-      "detail": "用 Thumbmagic 來生成縮圖，然後用 Midjourney 來設計旅遊海報，發在 Facebook 和 Twitter 上，預計 2 天後出成果"
+      "title": "AI 搜尋旅遊內容",
+      "detail": "用 Nimt 搜尋旅遊相關資訊，將結果整理成文章，發在 SS 的 部落格，預計 2 天出成果"
     }
   ],
   "history": {
@@ -1557,6 +1563,126 @@
         {
           "title": "智能縮圖",
           "detail": "用 Thumbmagic 來生成縮圖，然後用 Midjourney 來設計旅遊海報，發在 Facebook 和 Twitter 上，預計 2 天後出成果"
+        }
+      ]
+    },
+    "2026-06-25": {
+      "news": [
+        {
+          "title": "國會女議員否認工作人員使用人工智慧撰寫國防資金修正案",
+          "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
+          "summary": "佛羅裡達州共和黨眾議員安娜·保琳娜·盧納 (Anna Paulina Luna) 表示，她的工作人員在一項主要國防法案的修正案摘要中使用人工智能進行“拼寫檢查”，…",
+          "source": "The Verge"
+        },
+        {
+          "title": "艾爾聯盟圍繞亞歷克斯·博雷斯 (Alex Bores) 的 2700 萬美元代理人戰爭以平局告終",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+          "summary": "Anthropic 和 OpenAI 之間耗資 2700 萬美元的政治代理權戰爭昨晚打成了平手，亞歷克斯·博雷斯 (Alex Bores)…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Figma 現在擁有 AI 動態圖形和著色器工具",
+          "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
+          "summary": "Figma 在其年度 Config 會議上透露了一些新的設計和編碼產品更新，旨在幫助創意人員…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 推出首款人工智慧處理器：Jalapeo",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+          "summary": "OpenAI 剛剛推出了一款與 Broadcom 合作生產的用於 AI 伺服器的新型「智慧處理器」晶片。該晶片，...",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌家庭揚聲器聽起來不錯，看起來也很棒——但它很挑剔",
+          "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
+          "summary": "新的谷歌家庭音箱開箱即通過了幾項重要的測試。即使音量開到 100%...",
+          "source": "The Verge"
+        },
+        {
+          "title": "歐洲正在反擊華盛頓的晶片戰",
+          "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
+          "summary": "正如 ASML 執行長 Christophe Fouquet 五月告訴 TechCrunch 的那樣，中國目前可以購買的是老一代的深紫外線…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Infosys 前執行長創辦了一家新創公司，希望挑戰 IT 服務領域",
+          "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
+          "summary": "在 Mayfield 和 Aramco Ventures 的支持下，Vishal Sikka 的新企業匯集了來自 SAP、Infosys 和 VianA 的資深人士…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Cerebras 股價在獲利後暴跌，執行長表示利潤前景被誤解",
+          "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
+          "summary": "在上市以來的第一份收益報告中，這家人工智慧晶片製造商預測其核心業務的毛利率將收窄…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "克魯德爾人工智慧 (Crewdle AI)",
+          "link": "https://www.producthunt.com/products/crewdle",
+          "desc": "無需每次訂閱即可使用所有商業 AI 工具 討論 |關聯",
+          "title_en": "Crewdle AI"
+        },
+        {
+          "title": "透過代理卡購買 (Buy by Agentcard)",
+          "link": "https://www.producthunt.com/products/agent-card",
+          "desc": "從 Claude 訂購 DoorDash 討論 |關聯",
+          "title_en": "Buy by Agentcard"
+        },
+        {
+          "title": "尼姆特 (Nimt)",
+          "link": "https://www.producthunt.com/products/nimt-ai",
+          "desc": "Slack 討論中您的 AI 搜尋同事 |關聯",
+          "title_en": "Nimt"
+        },
+        {
+          "title": "斯維米奧 (Swimio)",
+          "link": "https://www.producthunt.com/products/swimio",
+          "desc": "具有 Apple Watch 追蹤和智慧鍛鍊功能的 AI 游泳教練關聯",
+          "title_en": "Swimio"
+        },
+        {
+          "title": "心靈石反叛者 (Mindstone Rebel)",
+          "link": "https://www.producthunt.com/products/mindstone-rebel",
+          "desc": "為了解您的工作並首先詢問的客服人員提供的人工智慧工作區關聯",
+          "title_en": "Mindstone Rebel"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "艾爾聯盟圍繞亞歷克斯·博雷斯 (Alex Bores) 的 2700 萬美元代理人戰爭以平局告終",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+          "summary": "Anthropic 和 OpenAI 之間耗資 2700 萬美元的政治代理權戰爭昨晚打成了平手，亞歷克斯·博雷斯 (Alex Bores)…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 推出首款人工智慧處理器：Jalapeo",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
+          "summary": "OpenAI 剛剛推出了一款與 Broadcom 合作生產的用於 AI 伺服器的新型「智慧處理器」晶片。該晶片，...",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "艾爾聯盟圍繞亞歷克斯·博雷斯 (Alex Bores) 的 2700 萬美元代理人戰爭以平局告終",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
+        "summary": "Anthropic 和 OpenAI 之間耗資 2700 萬美元的政治代理權戰爭昨晚打成了平手，亞歷克斯·博雷斯 (Alex Bores)…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Claude 賺外快",
+          "detail": "用 Claude 創建 DoorDash 食物外送內容，發在 SS 的社交媒體，預計 3 天出成果"
+        },
+        {
+          "title": "游泳 AI 教練",
+          "detail": "使用 Swimio 計划旅遊游泳訓練課程，錄製教學影片，發在 SS 的 YouTube 頻道，預計 1 周出成果"
+        },
+        {
+          "title": "AI 搜尋旅遊內容",
+          "detail": "用 Nimt 搜尋旅遊相關資訊，將結果整理成文章，發在 SS 的 部落格，預計 2 天出成果"
         }
       ]
     }
