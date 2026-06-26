@@ -1,121 +1,121 @@
 {
-  "updated": "2026-06-25 13:02 HKT",
+  "updated": "2026-06-26 13:06 HKT",
   "news": [
     {
-      "title": "國會女議員否認工作人員使用人工智慧撰寫國防資金修正案",
-      "link": "https://www.theverge.com/policy/956394/florida-anna-paulina-luna-anthropic-claude",
-      "summary": "佛羅裡達州共和黨眾議員安娜·保琳娜·盧納 (Anna Paulina Luna) 表示，她的工作人員在一項主要國防法案的修正案摘要中使用人工智能進行“拼寫檢查”，…",
+      "title": "福特不得不重新聘請前工程師來修復其自動化系統所犯的錯誤",
+      "link": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+      "summary": "為了慶祝其在 JD Power 主流汽車製造商初始品質排名中排名第一的新地位，福特正在開設…",
       "source": "The Verge"
     },
     {
-      "title": "艾爾聯盟圍繞亞歷克斯·博雷斯 (Alex Bores) 的 2700 萬美元代理人戰爭以平局告終",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-      "summary": "Anthropic 和 OpenAI 之間耗資 2700 萬美元的政治代理權戰爭昨晚打成了平手，亞歷克斯·博雷斯 (Alex Bores)…",
+      "title": "Facebook 的 Creator Studio 已作為 AI 配套應用程式復活",
+      "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+      "summary": "Meta 正在恢復 Facebook Creator Studio 頁面管理器，現在「重新構想」為獨立的 AI 配套應用程式。然後…",
       "source": "The Verge"
     },
     {
-      "title": "Figma 現在擁有 AI 動態圖形和著色器工具",
-      "link": "https://www.theverge.com/tech/955831/figma-code-design-tools-config-2026-announcements",
-      "summary": "Figma 在其年度 Config 會議上透露了一些新的設計和編碼產品更新，旨在幫助創意人員…",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI 推出首款人工智慧處理器：Jalapeo",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-      "summary": "OpenAI 剛剛推出了一款與 Broadcom 合作生產的用於 AI 伺服器的新型「智慧處理器」晶片。該晶片，...",
-      "source": "The Verge"
-    },
-    {
-      "title": "谷歌家庭揚聲器聽起來不錯，看起來也很棒——但它很挑剔",
-      "link": "https://www.theverge.com/gadgets/955537/google-home-smart-speaker-hands-on",
-      "summary": "新的谷歌家庭音箱開箱即通過了幾項重要的測試。即使音量開到 100%...",
-      "source": "The Verge"
-    },
-    {
-      "title": "歐洲正在反擊華盛頓的晶片戰",
-      "link": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-      "summary": "正如 ASML 執行長 Christophe Fouquet 五月告訴 TechCrunch 的那樣，中國目前可以購買的是老一代的深紫外線…",
+      "title": "出於安全考慮，白宮要求 OpenAI 放慢新模型的發布速度",
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "summary": "據報道，penAI 計劃與一組精選的合作夥伴分享其最新模型 GPT 5.6，而不是向更廣泛的公眾分享…",
       "source": "TechCrunch"
     },
     {
-      "title": "Infosys 前執行長創辦了一家新創公司，希望挑戰 IT 服務領域",
-      "link": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-      "summary": "在 Mayfield 和 Aramco Ventures 的支持下，Vishal Sikka 的新企業匯集了來自 SAP、Infosys 和 VianA 的資深人士…",
+      "title": "Patronus AI 獲得 5000 萬美元投資，用於建立對 AI 代理進行壓力測試的“數位世界”",
+      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+      "summary": "由前 Meta AI 研究人員創立的代理測試新創公司 Patronus AI 正經歷著幾乎無法滿足的需求，它的…",
       "source": "TechCrunch"
     },
     {
-      "title": "Cerebras 股價在獲利後暴跌，執行長表示利潤前景被誤解",
-      "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
-      "summary": "在上市以來的第一份收益報告中，這家人工智慧晶片製造商預測其核心業務的毛利率將收窄…",
+      "title": "Anthropic 的 Claude 正在贏得付費消費者的青睞，這是 ChatGPT 擁有的市場",
+      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "summary": "儘管 ChatGPT 佔據絕對市場領先地位，但為 AI 付費的消費者越來越多地選擇 Anthropic 的 Claude，...",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "General Intuition 的 2.3B 美元賭注是視頻遊戲可以為現實世界訓練人工智慧代理",
+      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+      "summary": "General Intuition 已籌集 3.2 億美元，用於擴展經過數百萬小時遊戲時間訓練的人工智慧，投注動作數據可以…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Databricks 的前 AI 主管認為他可以將 AI 的電費削減 1,000 倍",
+      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+      "summary": "Un-0 是一款影像生成系統工具，首次展示了該公司的技術如何複製傳統…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Netris 從 a16z 籌集了 1500 萬美元 A 輪融資，以幫助 AI Neocloud 更快上線",
+      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+      "summary": "Netris 提供在網路交換器上運行的軟體，並提供一個平台來幫助 Neocloud 運營商減少...",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "克魯德爾人工智慧 (Crewdle AI)",
-      "link": "https://www.producthunt.com/products/crewdle",
-      "desc": "無需每次訂閱即可使用所有商業 AI 工具 討論 |關聯",
-      "title_en": "Crewdle AI"
+      "title": "強硬的舌頭人工智慧銷售 (Tough Tongue AI for Sales)",
+      "link": "https://www.producthunt.com/products/tough-tongue-ai-2",
+      "desc": "即時人工智慧隊友應對每一次艱難的銷售對話關聯",
+      "title_en": "Tough Tongue AI for Sales"
     },
     {
-      "title": "透過代理卡購買 (Buy by Agentcard)",
-      "link": "https://www.producthunt.com/products/agent-card",
-      "desc": "從 Claude 訂購 DoorDash 討論 |關聯",
-      "title_en": "Buy by Agentcard"
+      "title": "瀏覽器Bash (BrowserBash)",
+      "link": "https://www.producthunt.com/products/browserbash",
+      "desc": "CLI 將簡單的英文變成真正的瀏覽器測試關聯",
+      "title_en": "BrowserBash"
     },
     {
-      "title": "尼姆特 (Nimt)",
-      "link": "https://www.producthunt.com/products/nimt-ai",
-      "desc": "Slack 討論中您的 AI 搜尋同事 |關聯",
-      "title_en": "Nimt"
+      "title": "蒼鷺 (Heron)",
+      "link": "https://www.producthunt.com/products/heron",
+      "desc": "用於 AI 代理的 Wireshark：被動 eBPF 可觀測性討論 |關聯",
+      "title_en": "Heron"
     },
     {
-      "title": "斯維米奧 (Swimio)",
-      "link": "https://www.producthunt.com/products/swimio",
-      "desc": "具有 Apple Watch 追蹤和智慧鍛鍊功能的 AI 游泳教練關聯",
-      "title_en": "Swimio"
+      "title": "Brain² 由 ClickUp 提供 (Brain² by ClickUp)",
+      "link": "https://www.producthunt.com/products/clickup",
+      "desc": "一個了解整個公司並對其採取行動的人工智慧 討論 |關聯",
+      "title_en": "Brain² by ClickUp"
     },
     {
-      "title": "心靈石反叛者 (Mindstone Rebel)",
-      "link": "https://www.producthunt.com/products/mindstone-rebel",
-      "desc": "為了解您的工作並首先詢問的客服人員提供的人工智慧工作區關聯",
-      "title_en": "Mindstone Rebel"
+      "title": "測謊器 (Polygraph)",
+      "link": "https://www.producthunt.com/products/polygraph",
+      "desc": "讓 AI 代理程式查看跨儲存庫並維護會話記憶體。討論 |關聯",
+      "title_en": "Polygraph"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "艾爾聯盟圍繞亞歷克斯·博雷斯 (Alex Bores) 的 2700 萬美元代理人戰爭以平局告終",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-      "summary": "Anthropic 和 OpenAI 之間耗資 2700 萬美元的政治代理權戰爭昨晚打成了平手，亞歷克斯·博雷斯 (Alex Bores)…",
-      "source": "The Verge"
+      "title": "出於安全考慮，白宮要求 OpenAI 放慢新模型的發布速度",
+      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "summary": "據報道，penAI 計劃與一組精選的合作夥伴分享其最新模型 GPT 5.6，而不是向更廣泛的公眾分享…",
+      "source": "TechCrunch"
     },
     {
-      "title": "OpenAI 推出首款人工智慧處理器：Jalapeo",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/955939/openai-reveals-its-first-ai-processor-jalapeno",
-      "summary": "OpenAI 剛剛推出了一款與 Broadcom 合作生產的用於 AI 伺服器的新型「智慧處理器」晶片。該晶片，...",
-      "source": "The Verge"
+      "title": "Anthropic 的 Claude 正在贏得付費消費者的青睞，這是 ChatGPT 擁有的市場",
+      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+      "summary": "儘管 ChatGPT 佔據絕對市場領先地位，但為 AI 付費的消費者越來越多地選擇 Anthropic 的 Claude，...",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "艾爾聯盟圍繞亞歷克斯·博雷斯 (Alex Bores) 的 2700 萬美元代理人戰爭以平局告終",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/956263/alex-bores-new-york-12th-district-congressional-primary-results",
-    "summary": "Anthropic 和 OpenAI 之間耗資 2700 萬美元的政治代理權戰爭昨晚打成了平手，亞歷克斯·博雷斯 (Alex Bores)…",
-    "source": "The Verge"
+    "title": "出於安全考慮，白宮要求 OpenAI 放慢新模型的發布速度",
+    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+    "summary": "據報道，penAI 計劃與一組精選的合作夥伴分享其最新模型 GPT 5.6，而不是向更廣泛的公眾分享…",
+    "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用 Claude 賺外快",
-      "detail": "用 Claude 創建 DoorDash 食物外送內容，發在 SS 的社交媒體，預計 3 天出成果"
+      "title": "用 Brain² 賺錢",
+      "detail": "用 Brain² 來分析 SS 既有的旅遊內容，找出最受歡迎的部分 → 發在 SS 的社交媒體 → 預計 3 天出成果"
     },
     {
-      "title": "游泳 AI 教練",
-      "detail": "使用 Swimio 計划旅遊游泳訓練課程，錄製教學影片，發在 SS 的 YouTube 頻道，預計 1 周出成果"
+      "title": "Tough Tongue AI 營銷",
+      "detail": "用 Tough Tongue AI 來制定旅遊套餐的銷售策略，直接應對潛在客戶的疑問 → 發在 SS 的官方網站 → 預計 1 周出成果"
     },
     {
-      "title": "AI 搜尋旅遊內容",
-      "detail": "用 Nimt 搜尋旅遊相關資訊，將結果整理成文章，發在 SS 的 部落格，預計 2 天出成果"
+      "title": "Heron 代理優化",
+      "detail": "用 Heron 來優化 SS 既有的 AI 代理，讓它更好地處理用戶的查詢 → 發在 SS 的客戶服務平台 → 預計 2 周出成果"
     }
   ],
   "history": {
@@ -1683,6 +1683,126 @@
         {
           "title": "AI 搜尋旅遊內容",
           "detail": "用 Nimt 搜尋旅遊相關資訊，將結果整理成文章，發在 SS 的 部落格，預計 2 天出成果"
+        }
+      ]
+    },
+    "2026-06-26": {
+      "news": [
+        {
+          "title": "福特不得不重新聘請前工程師來修復其自動化系統所犯的錯誤",
+          "link": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
+          "summary": "為了慶祝其在 JD Power 主流汽車製造商初始品質排名中排名第一的新地位，福特正在開設…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Facebook 的 Creator Studio 已作為 AI 配套應用程式復活",
+          "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
+          "summary": "Meta 正在恢復 Facebook Creator Studio 頁面管理器，現在「重新構想」為獨立的 AI 配套應用程式。然後…",
+          "source": "The Verge"
+        },
+        {
+          "title": "出於安全考慮，白宮要求 OpenAI 放慢新模型的發布速度",
+          "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+          "summary": "據報道，penAI 計劃與一組精選的合作夥伴分享其最新模型 GPT 5.6，而不是向更廣泛的公眾分享…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Patronus AI 獲得 5000 萬美元投資，用於建立對 AI 代理進行壓力測試的“數位世界”",
+          "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+          "summary": "由前 Meta AI 研究人員創立的代理測試新創公司 Patronus AI 正經歷著幾乎無法滿足的需求，它的…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic 的 Claude 正在贏得付費消費者的青睞，這是 ChatGPT 擁有的市場",
+          "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+          "summary": "儘管 ChatGPT 佔據絕對市場領先地位，但為 AI 付費的消費者越來越多地選擇 Anthropic 的 Claude，...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "General Intuition 的 2.3B 美元賭注是視頻遊戲可以為現實世界訓練人工智慧代理",
+          "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+          "summary": "General Intuition 已籌集 3.2 億美元，用於擴展經過數百萬小時遊戲時間訓練的人工智慧，投注動作數據可以…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Databricks 的前 AI 主管認為他可以將 AI 的電費削減 1,000 倍",
+          "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+          "summary": "Un-0 是一款影像生成系統工具，首次展示了該公司的技術如何複製傳統…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Netris 從 a16z 籌集了 1500 萬美元 A 輪融資，以幫助 AI Neocloud 更快上線",
+          "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+          "summary": "Netris 提供在網路交換器上運行的軟體，並提供一個平台來幫助 Neocloud 運營商減少...",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "強硬的舌頭人工智慧銷售 (Tough Tongue AI for Sales)",
+          "link": "https://www.producthunt.com/products/tough-tongue-ai-2",
+          "desc": "即時人工智慧隊友應對每一次艱難的銷售對話關聯",
+          "title_en": "Tough Tongue AI for Sales"
+        },
+        {
+          "title": "瀏覽器Bash (BrowserBash)",
+          "link": "https://www.producthunt.com/products/browserbash",
+          "desc": "CLI 將簡單的英文變成真正的瀏覽器測試關聯",
+          "title_en": "BrowserBash"
+        },
+        {
+          "title": "蒼鷺 (Heron)",
+          "link": "https://www.producthunt.com/products/heron",
+          "desc": "用於 AI 代理的 Wireshark：被動 eBPF 可觀測性討論 |關聯",
+          "title_en": "Heron"
+        },
+        {
+          "title": "Brain² 由 ClickUp 提供 (Brain² by ClickUp)",
+          "link": "https://www.producthunt.com/products/clickup",
+          "desc": "一個了解整個公司並對其採取行動的人工智慧 討論 |關聯",
+          "title_en": "Brain² by ClickUp"
+        },
+        {
+          "title": "測謊器 (Polygraph)",
+          "link": "https://www.producthunt.com/products/polygraph",
+          "desc": "讓 AI 代理程式查看跨儲存庫並維護會話記憶體。討論 |關聯",
+          "title_en": "Polygraph"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "出於安全考慮，白宮要求 OpenAI 放慢新模型的發布速度",
+          "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+          "summary": "據報道，penAI 計劃與一組精選的合作夥伴分享其最新模型 GPT 5.6，而不是向更廣泛的公眾分享…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic 的 Claude 正在贏得付費消費者的青睞，這是 ChatGPT 擁有的市場",
+          "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+          "summary": "儘管 ChatGPT 佔據絕對市場領先地位，但為 AI 付費的消費者越來越多地選擇 Anthropic 的 Claude，...",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "出於安全考慮，白宮要求 OpenAI 放慢新模型的發布速度",
+        "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+        "summary": "據報道，penAI 計劃與一組精選的合作夥伴分享其最新模型 GPT 5.6，而不是向更廣泛的公眾分享…",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Brain² 賺錢",
+          "detail": "用 Brain² 來分析 SS 既有的旅遊內容，找出最受歡迎的部分 → 發在 SS 的社交媒體 → 預計 3 天出成果"
+        },
+        {
+          "title": "Tough Tongue AI 營銷",
+          "detail": "用 Tough Tongue AI 來制定旅遊套餐的銷售策略，直接應對潛在客戶的疑問 → 發在 SS 的官方網站 → 預計 1 周出成果"
+        },
+        {
+          "title": "Heron 代理優化",
+          "detail": "用 Heron 來優化 SS 既有的 AI 代理，讓它更好地處理用戶的查詢 → 發在 SS 的客戶服務平台 → 預計 2 周出成果"
         }
       ]
     }
