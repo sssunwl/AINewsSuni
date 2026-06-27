@@ -1,121 +1,127 @@
 {
-  "updated": "2026-06-26 13:06 HKT",
+  "updated": "2026-06-27 12:51 HKT",
   "news": [
     {
-      "title": "福特不得不重新聘請前工程師來修復其自動化系統所犯的錯誤",
-      "link": "https://www.theverge.com/transportation/956316/ford-quality-jd-power-ranking-ai-automated-mistakes",
-      "summary": "為了慶祝其在 JD Power 主流汽車製造商初始品質排名中排名第一的新地位，福特正在開設…",
+      "title": "Anthropic 的神話 5 回來了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "summary": "在與川普政府持續兩週的過山車談判過程之後，Anthropic 的神話…",
       "source": "The Verge"
     },
     {
-      "title": "Facebook 的 Creator Studio 已作為 AI 配套應用程式復活",
-      "link": "https://www.theverge.com/tech/956668/meta-facebook-creator-studio-ai-app-relaunch",
-      "summary": "Meta 正在恢復 Facebook Creator Studio 頁面管理器，現在「重新構想」為獨立的 AI 配套應用程式。然後…",
+      "title": "OpenAI 在美國人工智慧監管大戲中推出 GPT-5.6",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "summary": "消息傳出後不到 24 小時，OpenAI 將應川普政府的要求錯開其下一個模型的發布…",
       "source": "The Verge"
     },
     {
-      "title": "出於安全考慮，白宮要求 OpenAI 放慢新模型的發布速度",
-      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "summary": "據報道，penAI 計劃與一組精選的合作夥伴分享其最新模型 GPT 5.6，而不是向更廣泛的公眾分享…",
+      "title": "Anthropic 的神話混亂只會變得更糟",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "summary": "在川普週五晚上發出最後通牒後，Anthropic 將其 Mythos 級模型下線已有兩週了…",
+      "source": "The Verge"
+    },
+    {
+      "title": "川普政府發佈人擇神話供 100 多家美國公司、機構使用",
+      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+      "summary": "據報道，超過 100 家公司和政府機構被授權使用 Mythos 5，其中包括他們的非美國員工…",
       "source": "TechCrunch"
     },
     {
-      "title": "Patronus AI 獲得 5000 萬美元投資，用於建立對 AI 代理進行壓力測試的“數位世界”",
-      "link": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-      "summary": "由前 Meta AI 研究人員創立的代理測試新創公司 Patronus AI 正經歷著幾乎無法滿足的需求，它的…",
+      "title": "OpenAI 應政府要求限制 GPT-5.6 的推出，表示限制不應成為常態",
+      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "summary": "OpenAI 表示：「我們認為這種政府准入流程不應該成為長期預設做法。」 「它保留了...",
       "source": "TechCrunch"
     },
     {
-      "title": "Anthropic 的 Claude 正在贏得付費消費者的青睞，這是 ChatGPT 擁有的市場",
-      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "summary": "儘管 ChatGPT 佔據絕對市場領先地位，但為 AI 付費的消費者越來越多地選擇 Anthropic 的 Claude，...",
+      "title": "OpenAI 挖走 Uber 印度首席執行官，領導其美國以外最大市場",
+      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+      "summary": "此次招募標誌著 OpenAI 進軍印度的最新舉措，擴大了辦事處、合作夥伴關係和招募規模。",
       "source": "TechCrunch"
     },
     {
-      "title": "General Intuition 的 2.3B 美元賭注是視頻遊戲可以為現實世界訓練人工智慧代理",
-      "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-      "summary": "General Intuition 已籌集 3.2 億美元，用於擴展經過數百萬小時遊戲時間訓練的人工智慧，投注動作數據可以…",
+      "title": "為什麼從 OpenAI 到 SpaceX 的每個人都在打造自己的晶片（並加大對 Nvidia 的熱度）",
+      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+      "summary": "英偉達多年來一直主導人工智慧晶片市場，但完全依賴的時代可能正在結束。 OpenAI 剛剛分享了我...",
       "source": "TechCrunch"
     },
     {
-      "title": "Databricks 的前 AI 主管認為他可以將 AI 的電費削減 1,000 倍",
-      "link": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-      "summary": "Un-0 是一款影像生成系統工具，首次展示了該公司的技術如何複製傳統…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Netris 從 a16z 籌集了 1500 萬美元 A 輪融資，以幫助 AI Neocloud 更快上線",
-      "link": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-      "summary": "Netris 提供在網路交換器上運行的軟體，並提供一個平台來幫助 Neocloud 運營商減少...",
+      "title": "這不再是 Anthropic 與 OpenAI 的問題",
+      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+      "summary": "人工智慧模型已經發展到其能力能夠產生真正的政治後果的程度。處理那些騙局…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "強硬的舌頭人工智慧銷售 (Tough Tongue AI for Sales)",
-      "link": "https://www.producthunt.com/products/tough-tongue-ai-2",
-      "desc": "即時人工智慧隊友應對每一次艱難的銷售對話關聯",
-      "title_en": "Tough Tongue AI for Sales"
+      "title": "DMV 由代理社區提供 (DMV by Agent Community)",
+      "link": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
+      "desc": "社群管理的 AI 代理命名空間關聯",
+      "title_en": "DMV by Agent Community"
     },
     {
-      "title": "瀏覽器Bash (BrowserBash)",
-      "link": "https://www.producthunt.com/products/browserbash",
-      "desc": "CLI 將簡單的英文變成真正的瀏覽器測試關聯",
-      "title_en": "BrowserBash"
+      "title": "Gemini火花 (Gemini Spark)",
+      "link": "https://www.producthunt.com/products/gemini-spark",
+      "desc": "您的 24/7 私人人工智慧代理 討論 |關聯",
+      "title_en": "Gemini Spark"
     },
     {
-      "title": "蒼鷺 (Heron)",
-      "link": "https://www.producthunt.com/products/heron",
-      "desc": "用於 AI 代理的 Wireshark：被動 eBPF 可觀測性討論 |關聯",
-      "title_en": "Heron"
+      "title": "特工競技場 (Agent Arena)",
+      "link": "https://www.producthunt.com/products/agent-arena",
+      "desc": "人工智慧代理的第一個公共競技場討論 |關聯",
+      "title_en": "Agent Arena"
     },
     {
-      "title": "Brain² 由 ClickUp 提供 (Brain² by ClickUp)",
-      "link": "https://www.producthunt.com/products/clickup",
-      "desc": "一個了解整個公司並對其採取行動的人工智慧 討論 |關聯",
-      "title_en": "Brain² by ClickUp"
+      "title": "模組X (ModuleX)",
+      "link": "https://www.producthunt.com/products/modulex",
+      "desc": "已經連結到一切的人工智慧工作區關聯",
+      "title_en": "ModuleX"
     },
     {
-      "title": "測謊器 (Polygraph)",
-      "link": "https://www.producthunt.com/products/polygraph",
-      "desc": "讓 AI 代理程式查看跨儲存庫並維護會話記憶體。討論 |關聯",
-      "title_en": "Polygraph"
+      "title": "CubeOne 的 AI 幻燈片編輯器 (AI Slide Editor by CubeOne)",
+      "link": "https://www.producthunt.com/products/cubeone",
+      "desc": "編輯器 PowerPoint 應該已經發布了關聯",
+      "title_en": "AI Slide Editor by CubeOne"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "出於安全考慮，白宮要求 OpenAI 放慢新模型的發布速度",
-      "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-      "summary": "據報道，penAI 計劃與一組精選的合作夥伴分享其最新模型 GPT 5.6，而不是向更廣泛的公眾分享…",
-      "source": "TechCrunch"
+      "title": "Anthropic 的神話 5 回來了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "summary": "在與川普政府持續兩週的過山車談判過程之後，Anthropic 的神話…",
+      "source": "The Verge"
     },
     {
-      "title": "Anthropic 的 Claude 正在贏得付費消費者的青睞，這是 ChatGPT 擁有的市場",
-      "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-      "summary": "儘管 ChatGPT 佔據絕對市場領先地位，但為 AI 付費的消費者越來越多地選擇 Anthropic 的 Claude，...",
-      "source": "TechCrunch"
+      "title": "OpenAI 在美國人工智慧監管大戲中推出 GPT-5.6",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+      "summary": "消息傳出後不到 24 小時，OpenAI 將應川普政府的要求錯開其下一個模型的發布…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic 的神話混亂只會變得更糟",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+      "summary": "在川普週五晚上發出最後通牒後，Anthropic 將其 Mythos 級模型下線已有兩週了…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "出於安全考慮，白宮要求 OpenAI 放慢新模型的發布速度",
-    "link": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-    "summary": "據報道，penAI 計劃與一組精選的合作夥伴分享其最新模型 GPT 5.6，而不是向更廣泛的公眾分享…",
-    "source": "TechCrunch"
+    "title": "Anthropic 的神話 5 回來了",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+    "summary": "在與川普政府持續兩週的過山車談判過程之後，Anthropic 的神話…",
+    "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用 Brain² 賺錢",
-      "detail": "用 Brain² 來分析 SS 既有的旅遊內容，找出最受歡迎的部分 → 發在 SS 的社交媒體 → 預計 3 天出成果"
+      "title": "用 Gemini Spark 24/7 代發旅遊帖",
+      "detail": "用 Gemini Spark 建立私人人工智慧代理，自動發布旅遊帖子到 Instagram 和 Facebook，預計 3 天內出成果"
     },
     {
-      "title": "Tough Tongue AI 營銷",
-      "detail": "用 Tough Tongue AI 來制定旅遊套餐的銷售策略，直接應對潛在客戶的疑問 → 發在 SS 的官方網站 → 預計 1 周出成果"
+      "title": "特工競技場評測旅遊內容",
+      "detail": "在特工競技場中建立人工智慧代理，評測旅遊內容並提供優化建議，發布到 YouTube 和旅遊博客，預計 5 天內出成果"
     },
     {
-      "title": "Heron 代理優化",
-      "detail": "用 Heron 來優化 SS 既有的 AI 代理，讓它更好地處理用戶的查詢 → 發在 SS 的客戶服務平台 → 預計 2 周出成果"
+      "title": "模組X自動編寫旅遊文章",
+      "detail": "使用模組X的人工智慧工作區，自動編寫旅遊文章和內容，發布到 Medium 和旅遊網站，預計 2 天內出成果"
     }
   ],
   "history": {
@@ -1803,6 +1809,132 @@
         {
           "title": "Heron 代理優化",
           "detail": "用 Heron 來優化 SS 既有的 AI 代理，讓它更好地處理用戶的查詢 → 發在 SS 的客戶服務平台 → 預計 2 周出成果"
+        }
+      ]
+    },
+    "2026-06-27": {
+      "news": [
+        {
+          "title": "Anthropic 的神話 5 回來了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+          "summary": "在與川普政府持續兩週的過山車談判過程之後，Anthropic 的神話…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 在美國人工智慧監管大戲中推出 GPT-5.6",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+          "summary": "消息傳出後不到 24 小時，OpenAI 將應川普政府的要求錯開其下一個模型的發布…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 的神話混亂只會變得更糟",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+          "summary": "在川普週五晚上發出最後通牒後，Anthropic 將其 Mythos 級模型下線已有兩週了…",
+          "source": "The Verge"
+        },
+        {
+          "title": "川普政府發佈人擇神話供 100 多家美國公司、機構使用",
+          "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+          "summary": "據報道，超過 100 家公司和政府機構被授權使用 Mythos 5，其中包括他們的非美國員工…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI 應政府要求限制 GPT-5.6 的推出，表示限制不應成為常態",
+          "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+          "summary": "OpenAI 表示：「我們認為這種政府准入流程不應該成為長期預設做法。」 「它保留了...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI 挖走 Uber 印度首席執行官，領導其美國以外最大市場",
+          "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
+          "summary": "此次招募標誌著 OpenAI 進軍印度的最新舉措，擴大了辦事處、合作夥伴關係和招募規模。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "為什麼從 OpenAI 到 SpaceX 的每個人都在打造自己的晶片（並加大對 Nvidia 的熱度）",
+          "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
+          "summary": "英偉達多年來一直主導人工智慧晶片市場，但完全依賴的時代可能正在結束。 OpenAI 剛剛分享了我...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "這不再是 Anthropic 與 OpenAI 的問題",
+          "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
+          "summary": "人工智慧模型已經發展到其能力能夠產生真正的政治後果的程度。處理那些騙局…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "DMV 由代理社區提供 (DMV by Agent Community)",
+          "link": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
+          "desc": "社群管理的 AI 代理命名空間關聯",
+          "title_en": "DMV by Agent Community"
+        },
+        {
+          "title": "Gemini火花 (Gemini Spark)",
+          "link": "https://www.producthunt.com/products/gemini-spark",
+          "desc": "您的 24/7 私人人工智慧代理 討論 |關聯",
+          "title_en": "Gemini Spark"
+        },
+        {
+          "title": "特工競技場 (Agent Arena)",
+          "link": "https://www.producthunt.com/products/agent-arena",
+          "desc": "人工智慧代理的第一個公共競技場討論 |關聯",
+          "title_en": "Agent Arena"
+        },
+        {
+          "title": "模組X (ModuleX)",
+          "link": "https://www.producthunt.com/products/modulex",
+          "desc": "已經連結到一切的人工智慧工作區關聯",
+          "title_en": "ModuleX"
+        },
+        {
+          "title": "CubeOne 的 AI 幻燈片編輯器 (AI Slide Editor by CubeOne)",
+          "link": "https://www.producthunt.com/products/cubeone",
+          "desc": "編輯器 PowerPoint 應該已經發布了關聯",
+          "title_en": "AI Slide Editor by CubeOne"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Anthropic 的神話 5 回來了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+          "summary": "在與川普政府持續兩週的過山車談判過程之後，Anthropic 的神話…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 在美國人工智慧監管大戲中推出 GPT-5.6",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
+          "summary": "消息傳出後不到 24 小時，OpenAI 將應川普政府的要求錯開其下一個模型的發布…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 的神話混亂只會變得更糟",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
+          "summary": "在川普週五晚上發出最後通牒後，Anthropic 將其 Mythos 級模型下線已有兩週了…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Anthropic 的神話 5 回來了",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+        "summary": "在與川普政府持續兩週的過山車談判過程之後，Anthropic 的神話…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Gemini Spark 24/7 代發旅遊帖",
+          "detail": "用 Gemini Spark 建立私人人工智慧代理，自動發布旅遊帖子到 Instagram 和 Facebook，預計 3 天內出成果"
+        },
+        {
+          "title": "特工競技場評測旅遊內容",
+          "detail": "在特工競技場中建立人工智慧代理，評測旅遊內容並提供優化建議，發布到 YouTube 和旅遊博客，預計 5 天內出成果"
+        },
+        {
+          "title": "模組X自動編寫旅遊文章",
+          "detail": "使用模組X的人工智慧工作區，自動編寫旅遊文章和內容，發布到 Medium 和旅遊網站，預計 2 天內出成果"
         }
       ]
     }
