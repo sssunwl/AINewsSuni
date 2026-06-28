@@ -1,61 +1,61 @@
 {
-  "updated": "2026-06-27 12:51 HKT",
+  "updated": "2026-06-28 13:14 HKT",
   "news": [
     {
-      "title": "Anthropic 的神話 5 回來了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "summary": "在與川普政府持續兩週的過山車談判過程之後，Anthropic 的神話…",
+      "title": "瑪格麗特·阿特伍德表示人工智慧的問題是“垃圾進，垃圾出”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+      "summary": "瑪拉吉特·阿特伍德，《使女的故事》和《盲人刺客》的傳奇作者，接受巴貝爾採訪…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 在美國人工智慧監管大戲中推出 GPT-5.6",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "summary": "消息傳出後不到 24 小時，OpenAI 將應川普政府的要求錯開其下一個模型的發布…",
+      "title": "為什麼蘋果要我為大型科技公司對人工智慧的執著支付更多費用？",
+      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "summary": "蒂姆·庫克最近表示，漲價是“不可避免的”，並稱該公司的定價“不可持續”。 16…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 的神話混亂只會變得更糟",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "summary": "在川普週五晚上發出最後通牒後，Anthropic 將其 Mythos 級模型下線已有兩週了…",
-      "source": "The Verge"
-    },
-    {
-      "title": "川普政府發佈人擇神話供 100 多家美國公司、機構使用",
-      "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "summary": "據報道，超過 100 家公司和政府機構被授權使用 Mythos 5，其中包括他們的非美國員工…",
+      "title": "軟銀執行長並不是唯一一位對馬斯克的軌道數據中心炒作提出質疑的人",
+      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "summary": "並不是所有人都相信伊隆馬斯克對軌道資料中心的願景。",
       "source": "TechCrunch"
     },
     {
-      "title": "OpenAI 應政府要求限制 GPT-5.6 的推出，表示限制不應成為常態",
-      "link": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "summary": "OpenAI 表示：「我們認為這種政府准入流程不應該成為長期預設做法。」 「它保留了...",
+      "title": "據報道，Apple Vision Pro 高層將前往 OpenAI",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "summary": "據報道，負責 Vision Pro 耳機的蘋果副總裁 Paul Meade 將離開公司加入 Open…",
       "source": "TechCrunch"
     },
     {
-      "title": "OpenAI 挖走 Uber 印度首席執行官，領導其美國以外最大市場",
-      "link": "https://techcrunch.com/2026/06/26/openai-poaches-uber-india-chief-to-lead-its-biggest-market-outside-the-u-s/",
-      "summary": "此次招募標誌著 OpenAI 進軍印度的最新舉措，擴大了辦事處、合作夥伴關係和招募規模。",
+      "title": "房間裡最健康的創始人得了癌症。以下是他如何利用人工智慧進行反擊。",
+      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "summary": "當康納·克里斯托 (Connor Christou) 面對癌症時，他餵食了與他的治療相關的所有東西——血液結果、掃描數據、可穿戴設備…",
       "source": "TechCrunch"
     },
     {
-      "title": "為什麼從 OpenAI 到 SpaceX 的每個人都在打造自己的晶片（並加大對 Nvidia 的熱度）",
-      "link": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-      "summary": "英偉達多年來一直主導人工智慧晶片市場，但完全依賴的時代可能正在結束。 OpenAI 剛剛分享了我...",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "這不再是 Anthropic 與 OpenAI 的問題",
-      "link": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "summary": "人工智慧模型已經發展到其能力能夠產生真正的政治後果的程度。處理那些騙局…",
+      "title": "隨著 Anthropic 出口禁令的拖延，亞洲人工智慧新創公司推出類似 Mythos 的模型",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "新型號正在亞洲推出，承諾具有神話般的功能，而無需擔心出口禁令。美國人工智慧實驗室可能...",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "DMV 由代理社區提供 (DMV by Agent Community)",
-      "link": "https://www.producthunt.com/products/dmv-department-of-machine-verification",
-      "desc": "社群管理的 AI 代理命名空間關聯",
-      "title_en": "DMV by Agent Community"
+      "title": "人工智慧對開本 (Folio AI)",
+      "link": "https://www.producthunt.com/products/folio-ai",
+      "desc": "Claude（Claude）對 PowerPoint 的支持 討論 |關聯",
+      "title_en": "Folio AI"
+    },
+    {
+      "title": "QApilot 的 CoWork (QApilot's CoWork)",
+      "link": "https://www.producthunt.com/products/qapilot",
+      "desc": "3x 行動自動化。同一個量化寬鬆團隊。討論 |關聯",
+      "title_en": "QApilot's CoWork"
+    },
+    {
+      "title": "CubeOne 的 AI 幻燈片編輯器 (AI Slide Editor by CubeOne)",
+      "link": "https://www.producthunt.com/products/cubeone",
+      "desc": "編輯器 PowerPoint 應該已經發布了關聯",
+      "title_en": "AI Slide Editor by CubeOne"
     },
     {
       "title": "Gemini火花 (Gemini Spark)",
@@ -64,64 +64,46 @@
       "title_en": "Gemini Spark"
     },
     {
-      "title": "特工競技場 (Agent Arena)",
-      "link": "https://www.producthunt.com/products/agent-arena",
-      "desc": "人工智慧代理的第一個公共競技場討論 |關聯",
-      "title_en": "Agent Arena"
-    },
-    {
-      "title": "模組X (ModuleX)",
-      "link": "https://www.producthunt.com/products/modulex",
-      "desc": "已經連結到一切的人工智慧工作區關聯",
-      "title_en": "ModuleX"
-    },
-    {
-      "title": "CubeOne 的 AI 幻燈片編輯器 (AI Slide Editor by CubeOne)",
-      "link": "https://www.producthunt.com/products/cubeone",
-      "desc": "編輯器 PowerPoint 應該已經發布了關聯",
-      "title_en": "AI Slide Editor by CubeOne"
+      "title": "切斯科 (Cewsco)",
+      "link": "https://www.producthunt.com/products/cewsco",
+      "desc": "多合一人工智慧助理—聊天、圖像、語音和市場數據 討論 |關聯",
+      "title_en": "Cewsco"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic 的神話 5 回來了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "summary": "在與川普政府持續兩週的過山車談判過程之後，Anthropic 的神話…",
-      "source": "The Verge"
+      "title": "據報道，Apple Vision Pro 高層將前往 OpenAI",
+      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "summary": "據報道，負責 Vision Pro 耳機的蘋果副總裁 Paul Meade 將離開公司加入 Open…",
+      "source": "TechCrunch"
     },
     {
-      "title": "OpenAI 在美國人工智慧監管大戲中推出 GPT-5.6",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
-      "summary": "消息傳出後不到 24 小時，OpenAI 將應川普政府的要求錯開其下一個模型的發布…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic 的神話混亂只會變得更糟",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "summary": "在川普週五晚上發出最後通牒後，Anthropic 將其 Mythos 級模型下線已有兩週了…",
-      "source": "The Verge"
+      "title": "隨著 Anthropic 出口禁令的拖延，亞洲人工智慧新創公司推出類似 Mythos 的模型",
+      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "新型號正在亞洲推出，承諾具有神話般的功能，而無需擔心出口禁令。美國人工智慧實驗室可能...",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Anthropic 的神話 5 回來了",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-    "summary": "在與川普政府持續兩週的過山車談判過程之後，Anthropic 的神話…",
-    "source": "The Verge"
+    "title": "據報道，Apple Vision Pro 高層將前往 OpenAI",
+    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+    "summary": "據報道，負責 Vision Pro 耳機的蘋果副總裁 Paul Meade 將離開公司加入 Open…",
+    "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用 Gemini Spark 24/7 代發旅遊帖",
-      "detail": "用 Gemini Spark 建立私人人工智慧代理，自動發布旅遊帖子到 Instagram 和 Facebook，預計 3 天內出成果"
+      "title": "用 CubeOne 編輯旅遊 PPT",
+      "detail": "我會用 CubeOne 的 AI 幻燈片編輯器 幫你做個旅遊 PPT，發在 Instagram 和 Facebook，一周內就能出成果"
     },
     {
-      "title": "特工競技場評測旅遊內容",
-      "detail": "在特工競技場中建立人工智慧代理，評測旅遊內容並提供優化建議，發布到 YouTube 和旅遊博客，預計 5 天內出成果"
+      "title": "問答機器人代理",
+      "detail": "我會用 Gemini Spark 設計個問答機器人代理，讓它 24/7 幫你回覆粉絲的問答，發在你社交媒體的聊天室，一周內就能看到效果"
     },
     {
-      "title": "模組X自動編寫旅遊文章",
-      "detail": "使用模組X的人工智慧工作區，自動編寫旅遊文章和內容，發布到 Medium 和旅遊網站，預計 2 天內出成果"
+      "title": "自動化旅遊 Vlog",
+      "detail": "我會用 QApilot 的 CoWork 幫你做個旅遊 Vlog 的自動化編輯，3x 行動自動化，同一個量化寬鬆團隊，一周內就能出個視頻，發在 YouTube 和 TikTok"
     }
   ],
   "history": {
@@ -1935,6 +1917,114 @@
         {
           "title": "模組X自動編寫旅遊文章",
           "detail": "使用模組X的人工智慧工作區，自動編寫旅遊文章和內容，發布到 Medium 和旅遊網站，預計 2 天內出成果"
+        }
+      ]
+    },
+    "2026-06-28": {
+      "news": [
+        {
+          "title": "瑪格麗特·阿特伍德表示人工智慧的問題是“垃圾進，垃圾出”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+          "summary": "瑪拉吉特·阿特伍德，《使女的故事》和《盲人刺客》的傳奇作者，接受巴貝爾採訪…",
+          "source": "The Verge"
+        },
+        {
+          "title": "為什麼蘋果要我為大型科技公司對人工智慧的執著支付更多費用？",
+          "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+          "summary": "蒂姆·庫克最近表示，漲價是“不可避免的”，並稱該公司的定價“不可持續”。 16…",
+          "source": "The Verge"
+        },
+        {
+          "title": "軟銀執行長並不是唯一一位對馬斯克的軌道數據中心炒作提出質疑的人",
+          "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+          "summary": "並不是所有人都相信伊隆馬斯克對軌道資料中心的願景。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "據報道，Apple Vision Pro 高層將前往 OpenAI",
+          "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+          "summary": "據報道，負責 Vision Pro 耳機的蘋果副總裁 Paul Meade 將離開公司加入 Open…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "房間裡最健康的創始人得了癌症。以下是他如何利用人工智慧進行反擊。",
+          "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+          "summary": "當康納·克里斯托 (Connor Christou) 面對癌症時，他餵食了與他的治療相關的所有東西——血液結果、掃描數據、可穿戴設備…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "隨著 Anthropic 出口禁令的拖延，亞洲人工智慧新創公司推出類似 Mythos 的模型",
+          "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+          "summary": "新型號正在亞洲推出，承諾具有神話般的功能，而無需擔心出口禁令。美國人工智慧實驗室可能...",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "人工智慧對開本 (Folio AI)",
+          "link": "https://www.producthunt.com/products/folio-ai",
+          "desc": "Claude（Claude）對 PowerPoint 的支持 討論 |關聯",
+          "title_en": "Folio AI"
+        },
+        {
+          "title": "QApilot 的 CoWork (QApilot's CoWork)",
+          "link": "https://www.producthunt.com/products/qapilot",
+          "desc": "3x 行動自動化。同一個量化寬鬆團隊。討論 |關聯",
+          "title_en": "QApilot's CoWork"
+        },
+        {
+          "title": "CubeOne 的 AI 幻燈片編輯器 (AI Slide Editor by CubeOne)",
+          "link": "https://www.producthunt.com/products/cubeone",
+          "desc": "編輯器 PowerPoint 應該已經發布了關聯",
+          "title_en": "AI Slide Editor by CubeOne"
+        },
+        {
+          "title": "Gemini火花 (Gemini Spark)",
+          "link": "https://www.producthunt.com/products/gemini-spark",
+          "desc": "您的 24/7 私人人工智慧代理 討論 |關聯",
+          "title_en": "Gemini Spark"
+        },
+        {
+          "title": "切斯科 (Cewsco)",
+          "link": "https://www.producthunt.com/products/cewsco",
+          "desc": "多合一人工智慧助理—聊天、圖像、語音和市場數據 討論 |關聯",
+          "title_en": "Cewsco"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "據報道，Apple Vision Pro 高層將前往 OpenAI",
+          "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+          "summary": "據報道，負責 Vision Pro 耳機的蘋果副總裁 Paul Meade 將離開公司加入 Open…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "隨著 Anthropic 出口禁令的拖延，亞洲人工智慧新創公司推出類似 Mythos 的模型",
+          "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+          "summary": "新型號正在亞洲推出，承諾具有神話般的功能，而無需擔心出口禁令。美國人工智慧實驗室可能...",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "據報道，Apple Vision Pro 高層將前往 OpenAI",
+        "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+        "summary": "據報道，負責 Vision Pro 耳機的蘋果副總裁 Paul Meade 將離開公司加入 Open…",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 CubeOne 編輯旅遊 PPT",
+          "detail": "我會用 CubeOne 的 AI 幻燈片編輯器 幫你做個旅遊 PPT，發在 Instagram 和 Facebook，一周內就能出成果"
+        },
+        {
+          "title": "問答機器人代理",
+          "detail": "我會用 Gemini Spark 設計個問答機器人代理，讓它 24/7 幫你回覆粉絲的問答，發在你社交媒體的聊天室，一周內就能看到效果"
+        },
+        {
+          "title": "自動化旅遊 Vlog",
+          "detail": "我會用 QApilot 的 CoWork 幫你做個旅遊 Vlog 的自動化編輯，3x 行動自動化，同一個量化寬鬆團隊，一周內就能出個視頻，發在 YouTube 和 TikTok"
         }
       ]
     }
