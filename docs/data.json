@@ -1,49 +1,55 @@
 {
-  "updated": "2026-06-28 13:14 HKT",
+  "updated": "2026-06-29 13:28 HKT",
   "news": [
     {
-      "title": "瑪格麗特·阿特伍德表示人工智慧的問題是“垃圾進，垃圾出”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
-      "summary": "瑪拉吉特·阿特伍德，《使女的故事》和《盲人刺客》的傳奇作者，接受巴貝爾採訪…",
+      "title": "中國的Z.ai聲稱它可以在網路安全方面與Mythos相媲美",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+      "summary": "中國的智普AI（Z.ai）發布了其開放權重GLM-5.2，一些研究人員聲稱它與CE中的Mythos相符…",
       "source": "The Verge"
     },
     {
-      "title": "為什麼蘋果要我為大型科技公司對人工智慧的執著支付更多費用？",
-      "link": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
-      "summary": "蒂姆·庫克最近表示，漲價是“不可避免的”，並稱該公司的定價“不可持續”。 16…",
+      "title": "Suno推出Spark孵化器計劃，為獨立藝術家提供人工智慧機器",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to b…",
       "source": "The Verge"
     },
     {
-      "title": "軟銀執行長並不是唯一一位對馬斯克的軌道數據中心炒作提出質疑的人",
-      "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-      "summary": "並不是所有人都相信伊隆馬斯克對軌道資料中心的願景。",
+      "title": "檢察官在 Palisades 火災審判中使用 ChatGPT 日誌作為證據",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "summary": "喬納森·林德克內西特 (Jonathan Rinderknecht) 因在 2025 年元旦放火而面臨縱火指控，這成為了死因之一…",
+      "source": "The Verge"
+    },
+    {
+      "title": "人工智慧不足後，福特重新聘用「灰鬍子」工程師",
+      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "summary": "“我們錯誤地認為，只要引入人工智慧……就能生產出高品質的產品。”",
       "source": "TechCrunch"
     },
     {
-      "title": "據報道，Apple Vision Pro 高層將前往 OpenAI",
-      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "summary": "據報道，負責 Vision Pro 耳機的蘋果副總裁 Paul Meade 將離開公司加入 Open…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "房間裡最健康的創始人得了癌症。以下是他如何利用人工智慧進行反擊。",
-      "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-      "summary": "當康納·克里斯托 (Connor Christou) 面對癌症時，他餵食了與他的治療相關的所有東西——血液結果、掃描數據、可穿戴設備…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "隨著 Anthropic 出口禁令的拖延，亞洲人工智慧新創公司推出類似 Mythos 的模型",
-      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "summary": "新型號正在亞洲推出，承諾具有神話般的功能，而無需擔心出口禁令。美國人工智慧實驗室可能...",
+      "title": "為什麼華爾街認為美國記憶體製造商美光是下一個英偉達",
+      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "summary": "華爾街投資者渴望找到更多與 Nvidia 一樣出色的人工智慧相關上市公司，他們認為他們已經發現了…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "人工智慧對開本 (Folio AI)",
-      "link": "https://www.producthunt.com/products/folio-ai",
-      "desc": "Claude（Claude）對 PowerPoint 的支持 討論 |關聯",
-      "title_en": "Folio AI"
+      "title": "discode.ai",
+      "link": "https://www.producthunt.com/products/discode-ai",
+      "desc": "100多個AI模型，一個介面。生態友好。討論 |關聯",
+      "title_en": "discode.ai"
+    },
+    {
+      "title": "Persona.js",
+      "link": "https://www.producthunt.com/products/persona-12",
+      "desc": "將 WebMCP 原生 AI 聊天新增至任何前端討論 |關聯",
+      "title_en": "Persona.js"
+    },
+    {
+      "title": "萊托 (Lyto)",
+      "link": "https://www.producthunt.com/products/lyto",
+      "desc": "「跨瀏覽器、工具和訊息的一個 AI 代理」討論 |關聯",
+      "title_en": "Lyto"
     },
     {
       "title": "QApilot 的 CoWork (QApilot's CoWork)",
@@ -52,58 +58,40 @@
       "title_en": "QApilot's CoWork"
     },
     {
-      "title": "CubeOne 的 AI 幻燈片編輯器 (AI Slide Editor by CubeOne)",
-      "link": "https://www.producthunt.com/products/cubeone",
-      "desc": "編輯器 PowerPoint 應該已經發布了關聯",
-      "title_en": "AI Slide Editor by CubeOne"
-    },
-    {
-      "title": "Gemini火花 (Gemini Spark)",
-      "link": "https://www.producthunt.com/products/gemini-spark",
-      "desc": "您的 24/7 私人人工智慧代理 討論 |關聯",
-      "title_en": "Gemini Spark"
-    },
-    {
-      "title": "切斯科 (Cewsco)",
-      "link": "https://www.producthunt.com/products/cewsco",
-      "desc": "多合一人工智慧助理—聊天、圖像、語音和市場數據 討論 |關聯",
-      "title_en": "Cewsco"
+      "title": "人工智慧對開本 (Folio AI)",
+      "link": "https://www.producthunt.com/products/folio-ai",
+      "desc": "Claude（Claude）對 PowerPoint 的支持 討論 |關聯",
+      "title_en": "Folio AI"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "據報道，Apple Vision Pro 高層將前往 OpenAI",
-      "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-      "summary": "據報道，負責 Vision Pro 耳機的蘋果副總裁 Paul Meade 將離開公司加入 Open…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "隨著 Anthropic 出口禁令的拖延，亞洲人工智慧新創公司推出類似 Mythos 的模型",
-      "link": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-      "summary": "新型號正在亞洲推出，承諾具有神話般的功能，而無需擔心出口禁令。美國人工智慧實驗室可能...",
-      "source": "TechCrunch"
+      "title": "檢察官在 Palisades 火災審判中使用 ChatGPT 日誌作為證據",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "summary": "喬納森·林德克內西特 (Jonathan Rinderknecht) 因在 2025 年元旦放火而面臨縱火指控，這成為了死因之一…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "據報道，Apple Vision Pro 高層將前往 OpenAI",
-    "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
-    "summary": "據報道，負責 Vision Pro 耳機的蘋果副總裁 Paul Meade 將離開公司加入 Open…",
-    "source": "TechCrunch"
+    "title": "檢察官在 Palisades 火災審判中使用 ChatGPT 日誌作為證據",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+    "summary": "喬納森·林德克內西特 (Jonathan Rinderknecht) 因在 2025 年元旦放火而面臨縱火指控，這成為了死因之一…",
+    "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用 CubeOne 編輯旅遊 PPT",
-      "detail": "我會用 CubeOne 的 AI 幻燈片編輯器 幫你做個旅遊 PPT，發在 Instagram 和 Facebook，一周內就能出成果"
+      "title": "用 discode.ai 創建旅遊內容",
+      "detail": "用 discode.ai 100多個AI模型創建旅遊相關內容，發在 Instagram 和 Facebook，預計3天出成果"
     },
     {
-      "title": "問答機器人代理",
-      "detail": "我會用 Gemini Spark 設計個問答機器人代理，讓它 24/7 幫你回覆粉絲的問答，發在你社交媒體的聊天室，一周內就能看到效果"
+      "title": "搭建 Lyto AI 代理",
+      "detail": "使用 Lyto 跨瀏覽器、工具和訊息的 AI 代理，幫助你管理旅遊相關的客戶詢問和回覆，預計1周出成果"
     },
     {
-      "title": "自動化旅遊 Vlog",
-      "detail": "我會用 QApilot 的 CoWork 幫你做個旅遊 Vlog 的自動化編輯，3x 行動自動化，同一個量化寬鬆團隊，一周內就能出個視頻，發在 YouTube 和 TikTok"
+      "title": "Persona.js 聊天機器人",
+      "detail": "利用 Persona.js 將 WebMCP 原生 AI 聊天新增至你的旅遊網站，提供即時客服支持，發在官網，預計2天出成果"
     }
   ],
   "history": {
@@ -2025,6 +2013,102 @@
         {
           "title": "自動化旅遊 Vlog",
           "detail": "我會用 QApilot 的 CoWork 幫你做個旅遊 Vlog 的自動化編輯，3x 行動自動化，同一個量化寬鬆團隊，一周內就能出個視頻，發在 YouTube 和 TikTok"
+        }
+      ]
+    },
+    "2026-06-29": {
+      "news": [
+        {
+          "title": "中國的Z.ai聲稱它可以在網路安全方面與Mythos相媲美",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
+          "summary": "中國的智普AI（Z.ai）發布了其開放權重GLM-5.2，一些研究人員聲稱它與CE中的Mythos相符…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Suno推出Spark孵化器計劃，為獨立藝術家提供人工智慧機器",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
+          "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to b…",
+          "source": "The Verge"
+        },
+        {
+          "title": "檢察官在 Palisades 火災審判中使用 ChatGPT 日誌作為證據",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+          "summary": "喬納森·林德克內西特 (Jonathan Rinderknecht) 因在 2025 年元旦放火而面臨縱火指控，這成為了死因之一…",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧不足後，福特重新聘用「灰鬍子」工程師",
+          "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+          "summary": "“我們錯誤地認為，只要引入人工智慧……就能生產出高品質的產品。”",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "為什麼華爾街認為美國記憶體製造商美光是下一個英偉達",
+          "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+          "summary": "華爾街投資者渴望找到更多與 Nvidia 一樣出色的人工智慧相關上市公司，他們認為他們已經發現了…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "discode.ai",
+          "link": "https://www.producthunt.com/products/discode-ai",
+          "desc": "100多個AI模型，一個介面。生態友好。討論 |關聯",
+          "title_en": "discode.ai"
+        },
+        {
+          "title": "Persona.js",
+          "link": "https://www.producthunt.com/products/persona-12",
+          "desc": "將 WebMCP 原生 AI 聊天新增至任何前端討論 |關聯",
+          "title_en": "Persona.js"
+        },
+        {
+          "title": "萊托 (Lyto)",
+          "link": "https://www.producthunt.com/products/lyto",
+          "desc": "「跨瀏覽器、工具和訊息的一個 AI 代理」討論 |關聯",
+          "title_en": "Lyto"
+        },
+        {
+          "title": "QApilot 的 CoWork (QApilot's CoWork)",
+          "link": "https://www.producthunt.com/products/qapilot",
+          "desc": "3x 行動自動化。同一個量化寬鬆團隊。討論 |關聯",
+          "title_en": "QApilot's CoWork"
+        },
+        {
+          "title": "人工智慧對開本 (Folio AI)",
+          "link": "https://www.producthunt.com/products/folio-ai",
+          "desc": "Claude（Claude）對 PowerPoint 的支持 討論 |關聯",
+          "title_en": "Folio AI"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "檢察官在 Palisades 火災審判中使用 ChatGPT 日誌作為證據",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+          "summary": "喬納森·林德克內西特 (Jonathan Rinderknecht) 因在 2025 年元旦放火而面臨縱火指控，這成為了死因之一…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "檢察官在 Palisades 火災審判中使用 ChatGPT 日誌作為證據",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+        "summary": "喬納森·林德克內西特 (Jonathan Rinderknecht) 因在 2025 年元旦放火而面臨縱火指控，這成為了死因之一…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 discode.ai 創建旅遊內容",
+          "detail": "用 discode.ai 100多個AI模型創建旅遊相關內容，發在 Instagram 和 Facebook，預計3天出成果"
+        },
+        {
+          "title": "搭建 Lyto AI 代理",
+          "detail": "使用 Lyto 跨瀏覽器、工具和訊息的 AI 代理，幫助你管理旅遊相關的客戶詢問和回覆，預計1周出成果"
+        },
+        {
+          "title": "Persona.js 聊天機器人",
+          "detail": "利用 Persona.js 將 WebMCP 原生 AI 聊天新增至你的旅遊網站，提供即時客服支持，發在官網，預計2天出成果"
         }
       ]
     }
