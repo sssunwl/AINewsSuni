@@ -1,97 +1,127 @@
 {
-  "updated": "2026-06-29 13:28 HKT",
+  "updated": "2026-06-30 13:00 HKT",
   "news": [
     {
-      "title": "中國的Z.ai聲稱它可以在網路安全方面與Mythos相媲美",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958804/chinas-z-ai-glm-52-mythos-cybersecurity",
-      "summary": "中國的智普AI（Z.ai）發布了其開放權重GLM-5.2，一些研究人員聲稱它與CE中的Mythos相符…",
+      "title": "Tidal 不會為人工智慧生成的音樂支付版稅，但不會徹底禁止它",
+      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "summary": "Tidal 今天分享了有關人工智慧生成音樂的新政策，以及該平台計劃如何「保護藝術家」和「...",
       "source": "The Verge"
     },
     {
-      "title": "Suno推出Spark孵化器計劃，為獨立藝術家提供人工智慧機器",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958801/suno-launches-spark-incubator-program-to-feed-independent-artists-to-its-ai-machine",
-      "summary": "Suno has ambitions to be more than just a toy to churn out AI slop, it also wants to be a streaming destination and to b…",
+      "title": "OpenAI 正在為 Codex 測試新硬體",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "summary": "OpenAI 將於 7 月 15 日發布某種與其人工智慧驅動的編碼工具 Codex 相關的裝置。在發佈到的影片中...",
       "source": "The Verge"
     },
     {
-      "title": "檢察官在 Palisades 火災審判中使用 ChatGPT 日誌作為證據",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "summary": "喬納森·林德克內西特 (Jonathan Rinderknecht) 因在 2025 年元旦放火而面臨縱火指控，這成為了死因之一…",
+      "title": "立法者希望禁止人工智慧公司出售你的健康數據",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+      "summary": "一項新提案將禁止向數據經紀人出售美國人的健康和位置資訊 - 包括資訊…",
       "source": "The Verge"
     },
     {
-      "title": "人工智慧不足後，福特重新聘用「灰鬍子」工程師",
-      "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
-      "summary": "“我們錯誤地認為，只要引入人工智慧……就能生產出高品質的產品。”",
+      "title": "人工智慧就業辯論變得更加混亂",
+      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+      "summary": "一份新報告發現，「高強度人工智慧採用者」的人數增加了 10.2%。在這些公司中，入門總部…",
       "source": "TechCrunch"
     },
     {
-      "title": "為什麼華爾街認為美國記憶體製造商美光是下一個英偉達",
-      "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
-      "summary": "華爾街投資者渴望找到更多與 Nvidia 一樣出色的人工智慧相關上市公司，他們認為他們已經發現了…",
+      "title": "隨著人工智慧新創公司尋求防禦性，Vibe 編碼平台 Base44 推出自己的模型",
+      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+      "summary": "Wix 旗下的 Vibe 編碼平台 Base44 已開始推出自己的 AI 模型——希望它最終能超越…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Gemini 的個人化 AI 影像生成現已免費向美國用戶開放",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "summary": "谷歌正在將 Gemini 的個人化人工智慧圖像生成擴展到美國符合條件的免費用戶，從而使聊天機器人能夠...",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic 與州長 Newsom 達成協議，允許加州政府半價使用 Claude",
+      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "summary": "隨著 Anthropic 與加州建立更密切的關係，聯邦政府已經將…作為敵人。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "韓國科技巨頭承諾投入超過 550B 美元來緩解「RAMgeddon」問題",
+      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "summary": "隨著韓國將自己定位為人工智慧國家，全球最大的兩家儲存晶片公司誓言要建造更多儲存實驗室工廠。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "discode.ai",
-      "link": "https://www.producthunt.com/products/discode-ai",
-      "desc": "100多個AI模型，一個介面。生態友好。討論 |關聯",
-      "title_en": "discode.ai"
+      "title": "PMB",
+      "link": "https://www.producthunt.com/products/pmb-local-first-memory-for-ai",
+      "desc": "Stop re-explaining your project to AI coding agents Discussion | Link",
+      "title_en": "PMB"
     },
     {
-      "title": "Persona.js",
-      "link": "https://www.producthunt.com/products/persona-12",
-      "desc": "將 WebMCP 原生 AI 聊天新增至任何前端討論 |關聯",
-      "title_en": "Persona.js"
+      "title": "視覺化人工智慧 (VisibAI)",
+      "link": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool",
+      "desc": "你在人工智慧答案中嗎？在幾分鐘內找出並修復它關聯",
+      "title_en": "VisibAI"
     },
     {
-      "title": "萊托 (Lyto)",
-      "link": "https://www.producthunt.com/products/lyto",
-      "desc": "「跨瀏覽器、工具和訊息的一個 AI 代理」討論 |關聯",
-      "title_en": "Lyto"
+      "title": "Receiptor AI 的代理模式 (Agent Mode by Receiptor AI)",
+      "link": "https://www.producthunt.com/products/receiptor-ai",
+      "desc": "端到端運行收據工作流程的簿記助理關聯",
+      "title_en": "Agent Mode by Receiptor AI"
     },
     {
-      "title": "QApilot 的 CoWork (QApilot's CoWork)",
-      "link": "https://www.producthunt.com/products/qapilot",
-      "desc": "3x 行動自動化。同一個量化寬鬆團隊。討論 |關聯",
-      "title_en": "QApilot's CoWork"
+      "title": "Outpaint - 廣告重構 (Outpaint - Ad Reframe)",
+      "link": "https://www.producthunt.com/products/outpaint-com-ad-reframe",
+      "desc": "AI將垂直UGC變成寬螢幕廣告討論|關聯",
+      "title_en": "Outpaint - Ad Reframe"
     },
     {
-      "title": "人工智慧對開本 (Folio AI)",
-      "link": "https://www.producthunt.com/products/folio-ai",
-      "desc": "Claude（Claude）對 PowerPoint 的支持 討論 |關聯",
-      "title_en": "Folio AI"
+      "title": "英特爾利 (Intelli)",
+      "link": "https://www.producthunt.com/products/intelli",
+      "desc": "透過 AI 對話將潛在客戶轉化為客戶關聯",
+      "title_en": "Intelli"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "檢察官在 Palisades 火災審判中使用 ChatGPT 日誌作為證據",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-      "summary": "喬納森·林德克內西特 (Jonathan Rinderknecht) 因在 2025 年元旦放火而面臨縱火指控，這成為了死因之一…",
+      "title": "OpenAI 正在為 Codex 測試新硬體",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "summary": "OpenAI 將於 7 月 15 日發布某種與其人工智慧驅動的編碼工具 Codex 相關的裝置。在發佈到的影片中...",
       "source": "The Verge"
+    },
+    {
+      "title": "Gemini 的個人化 AI 影像生成現已免費向美國用戶開放",
+      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "summary": "谷歌正在將 Gemini 的個人化人工智慧圖像生成擴展到美國符合條件的免費用戶，從而使聊天機器人能夠...",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic 與州長 Newsom 達成協議，允許加州政府半價使用 Claude",
+      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "summary": "隨著 Anthropic 與加州建立更密切的關係，聯邦政府已經將…作為敵人。",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "檢察官在 Palisades 火災審判中使用 ChatGPT 日誌作為證據",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
-    "summary": "喬納森·林德克內西特 (Jonathan Rinderknecht) 因在 2025 年元旦放火而面臨縱火指控，這成為了死因之一…",
+    "title": "OpenAI 正在為 Codex 測試新硬體",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+    "summary": "OpenAI 將於 7 月 15 日發布某種與其人工智慧驅動的編碼工具 Codex 相關的裝置。在發佈到的影片中...",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用 discode.ai 創建旅遊內容",
-      "detail": "用 discode.ai 100多個AI模型創建旅遊相關內容，發在 Instagram 和 Facebook，預計3天出成果"
+      "title": "AI廣告重構",
+      "detail": "用Outpaint - Ad Reframe把垂直UGC轉成寬螢幕廣告，發在Instagram Reels，預計3天出成果"
     },
     {
-      "title": "搭建 Lyto AI 代理",
-      "detail": "使用 Lyto 跨瀏覽器、工具和訊息的 AI 代理，幫助你管理旅遊相關的客戶詢問和回覆，預計1周出成果"
+      "title": "AI收據助理",
+      "detail": "用Agent Mode by Receiptor AI自動化收據工作流程，發在公司內部系統，預計1周出成果"
     },
     {
-      "title": "Persona.js 聊天機器人",
-      "detail": "利用 Persona.js 將 WebMCP 原生 AI 聊天新增至你的旅遊網站，提供即時客服支持，發在官網，預計2天出成果"
+      "title": "AI視覺化",
+      "detail": "用VisibAI找出旅遊照片中的景點，並生成簡介，發在SS的旅遊博客，預計2天出成果"
     }
   ],
   "history": {
@@ -2109,6 +2139,132 @@
         {
           "title": "Persona.js 聊天機器人",
           "detail": "利用 Persona.js 將 WebMCP 原生 AI 聊天新增至你的旅遊網站，提供即時客服支持，發在官網，預計2天出成果"
+        }
+      ]
+    },
+    "2026-06-30": {
+      "news": [
+        {
+          "title": "Tidal 不會為人工智慧生成的音樂支付版稅，但不會徹底禁止它",
+          "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+          "summary": "Tidal 今天分享了有關人工智慧生成音樂的新政策，以及該平台計劃如何「保護藝術家」和「...",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 正在為 Codex 測試新硬體",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+          "summary": "OpenAI 將於 7 月 15 日發布某種與其人工智慧驅動的編碼工具 Codex 相關的裝置。在發佈到的影片中...",
+          "source": "The Verge"
+        },
+        {
+          "title": "立法者希望禁止人工智慧公司出售你的健康數據",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
+          "summary": "一項新提案將禁止向數據經紀人出售美國人的健康和位置資訊 - 包括資訊…",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧就業辯論變得更加混亂",
+          "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
+          "summary": "一份新報告發現，「高強度人工智慧採用者」的人數增加了 10.2%。在這些公司中，入門總部…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "隨著人工智慧新創公司尋求防禦性，Vibe 編碼平台 Base44 推出自己的模型",
+          "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
+          "summary": "Wix 旗下的 Vibe 編碼平台 Base44 已開始推出自己的 AI 模型——希望它最終能超越…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Gemini 的個人化 AI 影像生成現已免費向美國用戶開放",
+          "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+          "summary": "谷歌正在將 Gemini 的個人化人工智慧圖像生成擴展到美國符合條件的免費用戶，從而使聊天機器人能夠...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic 與州長 Newsom 達成協議，允許加州政府半價使用 Claude",
+          "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+          "summary": "隨著 Anthropic 與加州建立更密切的關係，聯邦政府已經將…作為敵人。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "韓國科技巨頭承諾投入超過 550B 美元來緩解「RAMgeddon」問題",
+          "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+          "summary": "隨著韓國將自己定位為人工智慧國家，全球最大的兩家儲存晶片公司誓言要建造更多儲存實驗室工廠。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "PMB",
+          "link": "https://www.producthunt.com/products/pmb-local-first-memory-for-ai",
+          "desc": "Stop re-explaining your project to AI coding agents Discussion | Link",
+          "title_en": "PMB"
+        },
+        {
+          "title": "視覺化人工智慧 (VisibAI)",
+          "link": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool",
+          "desc": "你在人工智慧答案中嗎？在幾分鐘內找出並修復它關聯",
+          "title_en": "VisibAI"
+        },
+        {
+          "title": "Receiptor AI 的代理模式 (Agent Mode by Receiptor AI)",
+          "link": "https://www.producthunt.com/products/receiptor-ai",
+          "desc": "端到端運行收據工作流程的簿記助理關聯",
+          "title_en": "Agent Mode by Receiptor AI"
+        },
+        {
+          "title": "Outpaint - 廣告重構 (Outpaint - Ad Reframe)",
+          "link": "https://www.producthunt.com/products/outpaint-com-ad-reframe",
+          "desc": "AI將垂直UGC變成寬螢幕廣告討論|關聯",
+          "title_en": "Outpaint - Ad Reframe"
+        },
+        {
+          "title": "英特爾利 (Intelli)",
+          "link": "https://www.producthunt.com/products/intelli",
+          "desc": "透過 AI 對話將潛在客戶轉化為客戶關聯",
+          "title_en": "Intelli"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 正在為 Codex 測試新硬體",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+          "summary": "OpenAI 將於 7 月 15 日發布某種與其人工智慧驅動的編碼工具 Codex 相關的裝置。在發佈到的影片中...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Gemini 的個人化 AI 影像生成現已免費向美國用戶開放",
+          "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+          "summary": "谷歌正在將 Gemini 的個人化人工智慧圖像生成擴展到美國符合條件的免費用戶，從而使聊天機器人能夠...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic 與州長 Newsom 達成協議，允許加州政府半價使用 Claude",
+          "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+          "summary": "隨著 Anthropic 與加州建立更密切的關係，聯邦政府已經將…作為敵人。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 正在為 Codex 測試新硬體",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+        "summary": "OpenAI 將於 7 月 15 日發布某種與其人工智慧驅動的編碼工具 Codex 相關的裝置。在發佈到的影片中...",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "AI廣告重構",
+          "detail": "用Outpaint - Ad Reframe把垂直UGC轉成寬螢幕廣告，發在Instagram Reels，預計3天出成果"
+        },
+        {
+          "title": "AI收據助理",
+          "detail": "用Agent Mode by Receiptor AI自動化收據工作流程，發在公司內部系統，預計1周出成果"
+        },
+        {
+          "title": "AI視覺化",
+          "detail": "用VisibAI找出旅遊照片中的景點，並生成簡介，發在SS的旅遊博客，預計2天出成果"
         }
       ]
     }
