@@ -1,127 +1,134 @@
 {
-  "updated": "2026-06-30 13:00 HKT",
+  "updated": "2026-07-01 13:19 HKT",
   "news": [
     {
-      "title": "Tidal 不會為人工智慧生成的音樂支付版稅，但不會徹底禁止它",
-      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "summary": "Tidal 今天分享了有關人工智慧生成音樂的新政策，以及該平台計劃如何「保護藝術家」和「...",
+      "title": "Anthropic 擱置已久的《神鬼Fable 5》已獲準回歸",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "summary": "經過與川普政府幾週的談判，Anthropic 終於能夠帶來《ClaudeFable 5》了…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 正在為 Codex 測試新硬體",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-      "summary": "OpenAI 將於 7 月 15 日發布某種與其人工智慧驅動的編碼工具 Codex 相關的裝置。在發佈到的影片中...",
+      "title": "Google的 NotebookLM 可以用 TikTok 風格的剪輯來總結你的研究",
+      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "summary": "Google的 NotebookLM 正在添加一種新的方式來跟上你的筆記：TikTok 風格的人工智慧影片。新功能正在推出…",
       "source": "The Verge"
     },
     {
-      "title": "立法者希望禁止人工智慧公司出售你的健康數據",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/959033/health-location-data-protection-act-ai-warren-scanlon",
-      "summary": "一項新提案將禁止向數據經紀人出售美國人的健康和位置資訊 - 包括資訊…",
+      "title": "Netflix 在其《威利旺卡》真人秀中使用人工智慧生成的吉恩懷爾德聲音",
+      "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+      "summary": "一段新的預告片確認，旺卡的《金票》將於 9 月 23 日在 Netflix 首播，此前…",
       "source": "The Verge"
     },
     {
-      "title": "人工智慧就業辯論變得更加混亂",
-      "link": "https://techcrunch.com/2026/06/29/the-ai-jobs-debate-just-got-messier/",
-      "summary": "一份新報告發現，「高強度人工智慧採用者」的人數增加了 10.2%。在這些公司中，入門總部…",
+      "title": "Libby 會過濾掉人工智慧內容",
+      "link": "https://www.theverge.com/column/959433/libby-ai-filter",
+      "summary": "這是揚科·羅特格斯 (Janko Roettgers) 撰寫的《Lowpass》，這是一份關於科技與娛樂不斷發展的交叉點的時事通訊，聯合…",
+      "source": "The Verge"
+    },
+    {
+      "title": "認識兩次擊敗伊隆馬斯克的律師",
+      "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "summary": "觀看伊隆馬斯克在馬斯克訴奧特曼案中對比爾薩維特的猛烈抨擊——在該案中，馬斯克起訴山姆奧特曼和 OpenAI…",
+      "source": "The Verge"
+    },
+    {
+      "title": "「網路之父」終於退休了",
+      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "summary": "互聯網底層協議的創建者之一文頓·瑟夫 (Vinton Cerf) 將辭去谷歌首席互聯網顧問職務…",
       "source": "TechCrunch"
     },
     {
-      "title": "隨著人工智慧新創公司尋求防禦性，Vibe 編碼平台 Base44 推出自己的模型",
-      "link": "https://techcrunch.com/2026/06/29/vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility/",
-      "summary": "Wix 旗下的 Vibe 編碼平台 Base44 已開始推出自己的 AI 模型——希望它最終能超越…",
+      "title": "川普取消了對 Anthropic 神話和Fable模型的限制",
+      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "summary": "Anthropic 表示將於 7 月 1 日開始恢復對《Fable》的訪問。",
       "source": "TechCrunch"
     },
     {
-      "title": "Gemini 的個人化 AI 影像生成現已免費向美國用戶開放",
-      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "summary": "谷歌正在將 Gemini 的個人化人工智慧圖像生成擴展到美國符合條件的免費用戶，從而使聊天機器人能夠...",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic 與州長 Newsom 達成協議，允許加州政府半價使用 Claude",
-      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "summary": "隨著 Anthropic 與加州建立更密切的關係，聯邦政府已經將…作為敵人。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "韓國科技巨頭承諾投入超過 550B 美元來緩解「RAMgeddon」問題",
-      "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
-      "summary": "隨著韓國將自己定位為人工智慧國家，全球最大的兩家儲存晶片公司誓言要建造更多儲存實驗室工廠。",
+      "title": "Wayve 以 $8.5B 估值推出 8,500 萬美元員工收購要約",
+      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+      "summary": "Wayve 的產品是人工智慧新創公司不斷增長的趨勢的一部分，它們利用員工招標作為吸引和離職的策略工具…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "PMB",
-      "link": "https://www.producthunt.com/products/pmb-local-first-memory-for-ai",
-      "desc": "Stop re-explaining your project to AI coding agents Discussion | Link",
-      "title_en": "PMB"
+      "title": "阿基弗洛 (Akiflow)",
+      "link": "https://www.producthunt.com/products/akiflow",
+      "desc": "從 Claude、ChatGPT 或 Cursor Discussion | 管理任務和日曆關聯",
+      "title_en": "Akiflow"
     },
     {
-      "title": "視覺化人工智慧 (VisibAI)",
-      "link": "https://www.producthunt.com/products/visibai-ai-visibility-audit-tool",
-      "desc": "你在人工智慧答案中嗎？在幾分鐘內找出並修復它關聯",
-      "title_en": "VisibAI"
+      "title": "代理商窺視 (AgentPeek)",
+      "link": "https://www.producthunt.com/products/agentpeek",
+      "desc": "Mac 中的 Claude Code 和 Codex 討論 |關聯",
+      "title_en": "AgentPeek"
     },
     {
-      "title": "Receiptor AI 的代理模式 (Agent Mode by Receiptor AI)",
-      "link": "https://www.producthunt.com/products/receiptor-ai",
-      "desc": "端到端運行收據工作流程的簿記助理關聯",
-      "title_en": "Agent Mode by Receiptor AI"
+      "title": "普魯諾 (Pluno)",
+      "link": "https://www.producthunt.com/products/pluno",
+      "desc": "瀏覽器代理程式比 Claude 快 10 倍關聯",
+      "title_en": "Pluno"
     },
     {
-      "title": "Outpaint - 廣告重構 (Outpaint - Ad Reframe)",
-      "link": "https://www.producthunt.com/products/outpaint-com-ad-reframe",
-      "desc": "AI將垂直UGC變成寬螢幕廣告討論|關聯",
-      "title_en": "Outpaint - Ad Reframe"
+      "title": "Databox 的技能市場 (Skills Marketplace by Databox)",
+      "link": "https://www.producthunt.com/products/databox",
+      "desc": "適用於您的業務資料的現成人工智慧分析技能關聯",
+      "title_en": "Skills Marketplace by Databox"
     },
     {
-      "title": "英特爾利 (Intelli)",
-      "link": "https://www.producthunt.com/products/intelli",
-      "desc": "透過 AI 對話將潛在客戶轉化為客戶關聯",
-      "title_en": "Intelli"
+      "title": "加載新星 (Load Nova)",
+      "link": "https://www.producthunt.com/products/load-nova",
+      "desc": "為調度員速度而建構的人工智慧副駕駛和儀表板關聯",
+      "title_en": "Load Nova"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "Google的 NotebookLM 可以用 TikTok 風格的剪輯來總結你的研究",
+      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+      "summary": "Google的 NotebookLM 正在添加一種新的方式來跟上你的筆記：TikTok 風格的人工智慧影片。新功能正在推出…",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 正在為 Codex 測試新硬體",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-      "summary": "OpenAI 將於 7 月 15 日發布某種與其人工智慧驅動的編碼工具 Codex 相關的裝置。在發佈到的影片中...",
+      "title": "Anthropic 擱置已久的《神鬼Fable 5》已獲準回歸",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+      "summary": "經過與川普政府幾週的談判，Anthropic 終於能夠帶來《ClaudeFable 5》了…",
       "source": "The Verge"
     },
     {
-      "title": "Gemini 的個人化 AI 影像生成現已免費向美國用戶開放",
-      "link": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
-      "summary": "谷歌正在將 Gemini 的個人化人工智慧圖像生成擴展到美國符合條件的免費用戶，從而使聊天機器人能夠...",
-      "source": "TechCrunch"
+      "title": "認識兩次擊敗伊隆馬斯克的律師",
+      "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "summary": "觀看伊隆馬斯克在馬斯克訴奧特曼案中對比爾薩維特的猛烈抨擊——在該案中，馬斯克起訴山姆奧特曼和 OpenAI…",
+      "source": "The Verge"
     },
     {
-      "title": "Anthropic 與州長 Newsom 達成協議，允許加州政府半價使用 Claude",
-      "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
-      "summary": "隨著 Anthropic 與加州建立更密切的關係，聯邦政府已經將…作為敵人。",
+      "title": "川普取消了對 Anthropic 神話和Fable模型的限制",
+      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+      "summary": "Anthropic 表示將於 7 月 1 日開始恢復對《Fable》的訪問。",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "OpenAI 正在為 Codex 測試新硬體",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
-    "summary": "OpenAI 將於 7 月 15 日發布某種與其人工智慧驅動的編碼工具 Codex 相關的裝置。在發佈到的影片中...",
+    "title": "Anthropic 擱置已久的《神鬼Fable 5》已獲準回歸",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+    "summary": "經過與川普政府幾週的談判，Anthropic 終於能夠帶來《ClaudeFable 5》了…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "AI廣告重構",
-      "detail": "用Outpaint - Ad Reframe把垂直UGC轉成寬螢幕廣告，發在Instagram Reels，預計3天出成果"
+      "title": "用 Akiflow 管理旅遊任務",
+      "detail": "我可以用 Akiflow 來管理你的旅遊安排和日曆，增加效率，減少時間浪費。做個旅遊行程表 → 發在 SS 的 IG → 預計 3 天出成果"
     },
     {
-      "title": "AI收據助理",
-      "detail": "用Agent Mode by Receiptor AI自動化收據工作流程，發在公司內部系統，預計1周出成果"
+      "title": "旅遊 Vlog 分析",
+      "detail": "利用 Databox 的技能市場來分析你的旅遊 Vlog 數據，找出觀眾最喜歡的內容。做個分析報表 → 發在 SS 的博客 → 預計 1 周出成果"
     },
     {
-      "title": "AI視覺化",
-      "detail": "用VisibAI找出旅遊照片中的景點，並生成簡介，發在SS的旅遊博客，預計2天出成果"
+      "title": "快速瀏覽旅遊網站",
+      "detail": "用 Pluno 來快速瀏覽旅遊網站，找到最便宜的機票和酒店。做個機票和酒店比較表 → 發在 SS 的 FB → 預計 2 天出成果"
     }
   ],
   "history": {
@@ -2265,6 +2272,139 @@
         {
           "title": "AI視覺化",
           "detail": "用VisibAI找出旅遊照片中的景點，並生成簡介，發在SS的旅遊博客，預計2天出成果"
+        }
+      ]
+    },
+    "2026-07-01": {
+      "news": [
+        {
+          "title": "Anthropic 擱置已久的《神鬼Fable 5》已獲準回歸",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+          "summary": "經過與川普政府幾週的談判，Anthropic 終於能夠帶來《ClaudeFable 5》了…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google的 NotebookLM 可以用 TikTok 風格的剪輯來總結你的研究",
+          "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+          "summary": "Google的 NotebookLM 正在添加一種新的方式來跟上你的筆記：TikTok 風格的人工智慧影片。新功能正在推出…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Netflix 在其《威利旺卡》真人秀中使用人工智慧生成的吉恩懷爾德聲音",
+          "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+          "summary": "一段新的預告片確認，旺卡的《金票》將於 9 月 23 日在 Netflix 首播，此前…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Libby 會過濾掉人工智慧內容",
+          "link": "https://www.theverge.com/column/959433/libby-ai-filter",
+          "summary": "這是揚科·羅特格斯 (Janko Roettgers) 撰寫的《Lowpass》，這是一份關於科技與娛樂不斷發展的交叉點的時事通訊，聯合…",
+          "source": "The Verge"
+        },
+        {
+          "title": "認識兩次擊敗伊隆馬斯克的律師",
+          "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+          "summary": "觀看伊隆馬斯克在馬斯克訴奧特曼案中對比爾薩維特的猛烈抨擊——在該案中，馬斯克起訴山姆奧特曼和 OpenAI…",
+          "source": "The Verge"
+        },
+        {
+          "title": "「網路之父」終於退休了",
+          "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+          "summary": "互聯網底層協議的創建者之一文頓·瑟夫 (Vinton Cerf) 將辭去谷歌首席互聯網顧問職務…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "川普取消了對 Anthropic 神話和Fable模型的限制",
+          "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+          "summary": "Anthropic 表示將於 7 月 1 日開始恢復對《Fable》的訪問。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Wayve 以 $8.5B 估值推出 8,500 萬美元員工收購要約",
+          "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+          "summary": "Wayve 的產品是人工智慧新創公司不斷增長的趨勢的一部分，它們利用員工招標作為吸引和離職的策略工具…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "阿基弗洛 (Akiflow)",
+          "link": "https://www.producthunt.com/products/akiflow",
+          "desc": "從 Claude、ChatGPT 或 Cursor Discussion | 管理任務和日曆關聯",
+          "title_en": "Akiflow"
+        },
+        {
+          "title": "代理商窺視 (AgentPeek)",
+          "link": "https://www.producthunt.com/products/agentpeek",
+          "desc": "Mac 中的 Claude Code 和 Codex 討論 |關聯",
+          "title_en": "AgentPeek"
+        },
+        {
+          "title": "普魯諾 (Pluno)",
+          "link": "https://www.producthunt.com/products/pluno",
+          "desc": "瀏覽器代理程式比 Claude 快 10 倍關聯",
+          "title_en": "Pluno"
+        },
+        {
+          "title": "Databox 的技能市場 (Skills Marketplace by Databox)",
+          "link": "https://www.producthunt.com/products/databox",
+          "desc": "適用於您的業務資料的現成人工智慧分析技能關聯",
+          "title_en": "Skills Marketplace by Databox"
+        },
+        {
+          "title": "加載新星 (Load Nova)",
+          "link": "https://www.producthunt.com/products/load-nova",
+          "desc": "為調度員速度而建構的人工智慧副駕駛和儀表板關聯",
+          "title_en": "Load Nova"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Google的 NotebookLM 可以用 TikTok 風格的剪輯來總結你的研究",
+          "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
+          "summary": "Google的 NotebookLM 正在添加一種新的方式來跟上你的筆記：TikTok 風格的人工智慧影片。新功能正在推出…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Anthropic 擱置已久的《神鬼Fable 5》已獲準回歸",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+          "summary": "經過與川普政府幾週的談判，Anthropic 終於能夠帶來《ClaudeFable 5》了…",
+          "source": "The Verge"
+        },
+        {
+          "title": "認識兩次擊敗伊隆馬斯克的律師",
+          "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+          "summary": "觀看伊隆馬斯克在馬斯克訴奧特曼案中對比爾薩維特的猛烈抨擊——在該案中，馬斯克起訴山姆奧特曼和 OpenAI…",
+          "source": "The Verge"
+        },
+        {
+          "title": "川普取消了對 Anthropic 神話和Fable模型的限制",
+          "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+          "summary": "Anthropic 表示將於 7 月 1 日開始恢復對《Fable》的訪問。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Anthropic 擱置已久的《神鬼Fable 5》已獲準回歸",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
+        "summary": "經過與川普政府幾週的談判，Anthropic 終於能夠帶來《ClaudeFable 5》了…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Akiflow 管理旅遊任務",
+          "detail": "我可以用 Akiflow 來管理你的旅遊安排和日曆，增加效率，減少時間浪費。做個旅遊行程表 → 發在 SS 的 IG → 預計 3 天出成果"
+        },
+        {
+          "title": "旅遊 Vlog 分析",
+          "detail": "利用 Databox 的技能市場來分析你的旅遊 Vlog 數據，找出觀眾最喜歡的內容。做個分析報表 → 發在 SS 的博客 → 預計 1 周出成果"
+        },
+        {
+          "title": "快速瀏覽旅遊網站",
+          "detail": "用 Pluno 來快速瀏覽旅遊網站，找到最便宜的機票和酒店。做個機票和酒店比較表 → 發在 SS 的 FB → 預計 2 天出成果"
         }
       ]
     }
