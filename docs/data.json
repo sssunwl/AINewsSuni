@@ -1,134 +1,121 @@
 {
-  "updated": "2026-07-01 13:19 HKT",
+  "updated": "2026-07-02 12:55 HKT",
   "news": [
     {
-      "title": "Anthropic 擱置已久的《神鬼Fable 5》已獲準回歸",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "summary": "經過與川普政府幾週的談判，Anthropic 終於能夠帶來《ClaudeFable 5》了…",
+      "title": "Google打造了一款出色的智慧音箱，但 Gemini 還沒有做好準備",
+      "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "summary": "過去幾年，智慧音箱一直在尋找引人注目的第二幕。除了音樂、計時器和控制之外…",
       "source": "The Verge"
     },
     {
-      "title": "Google的 NotebookLM 可以用 TikTok 風格的剪輯來總結你的研究",
-      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "summary": "Google的 NotebookLM 正在添加一種新的方式來跟上你的筆記：TikTok 風格的人工智慧影片。新功能正在推出…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Netflix 在其《威利旺卡》真人秀中使用人工智慧生成的吉恩懷爾德聲音",
-      "link": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-      "summary": "一段新的預告片確認，旺卡的《金票》將於 9 月 23 日在 Netflix 首播，此前…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Libby 會過濾掉人工智慧內容",
-      "link": "https://www.theverge.com/column/959433/libby-ai-filter",
-      "summary": "這是揚科·羅特格斯 (Janko Roettgers) 撰寫的《Lowpass》，這是一份關於科技與娛樂不斷發展的交叉點的時事通訊，聯合…",
-      "source": "The Verge"
-    },
-    {
-      "title": "認識兩次擊敗伊隆馬斯克的律師",
-      "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-      "summary": "觀看伊隆馬斯克在馬斯克訴奧特曼案中對比爾薩維特的猛烈抨擊——在該案中，馬斯克起訴山姆奧特曼和 OpenAI…",
-      "source": "The Verge"
-    },
-    {
-      "title": "「網路之父」終於退休了",
-      "link": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-      "summary": "互聯網底層協議的創建者之一文頓·瑟夫 (Vinton Cerf) 將辭去谷歌首席互聯網顧問職務…",
+      "title": "SpaceX 有一個人工智慧設備原型，聽起來確實像手機",
+      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+      "summary": "據報道，SpaceX 在上市前向投資者展示了一款「類似手機」的人工智慧設備。這可能是 SpaceX 想要的另一個訊號…",
       "source": "TechCrunch"
     },
     {
-      "title": "川普取消了對 Anthropic 神話和Fable模型的限制",
-      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "summary": "Anthropic 表示將於 7 月 1 日開始恢復對《Fable》的訪問。",
+      "title": "阿什頓·庫徹 (Ashton Kutcher) 離開 Sound Ventures，與摩根·貝勒 (Morgan Beller) 共同創辦新的創投公司",
+      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+      "summary": "Sound 憑藉在領先的人工智慧實驗室中集中、高度確信的投資而建立了聲譽，而庫徹的新基金則…",
       "source": "TechCrunch"
     },
     {
-      "title": "Wayve 以 $8.5B 估值推出 8,500 萬美元員工收購要約",
-      "link": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-      "summary": "Wayve 的產品是人工智慧新創公司不斷增長的趨勢的一部分，它們利用員工招標作為吸引和離職的策略工具…",
+      "title": "Cloudflare新政策推動AI公司為出版商的內容付費",
+      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+      "summary": "Cloudflare 要求 AI 公司在 9 月 15 日之前將用於搜尋的網路爬蟲與用於 AI 傳輸的網路爬蟲分開...",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "隨著隱私第一的人工智慧平台的起飛，Venice AI 成為獨角獸，A 輪融資金額達 6,500 萬美元",
+      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+      "summary": "執行長 Erik Voorhees 表示，Venice AI 已經實現盈利，年化運行收入超過 7,000 萬美元。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Google 代理助理 Gemini Spark 現已在 Mac 上推出",
+      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "summary": "Google 的 24/7 代理助理 Gemini Spark 與其他改進一起來到 Mac 上，例如即時追蹤和蘇…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Builders Stage 議程揭曉：TechCrunch Disrupt 2026 上擴大新創企業規模的實用策略",
+      "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+      "summary": "Builders Stage 重返 TechCrunch Disrupt 2026，匯集 10,000 多名創辦人、新創公司營運商和…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta 與 SpaceX 一樣，希望將多餘的人工智慧運算轉化為現金",
+      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+      "summary": "Meta 正在製定雲端基礎設施業務計劃，出售人工智慧運算能力和模型。此舉...",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "阿基弗洛 (Akiflow)",
-      "link": "https://www.producthunt.com/products/akiflow",
-      "desc": "從 Claude、ChatGPT 或 Cursor Discussion | 管理任務和日曆關聯",
-      "title_en": "Akiflow"
+      "title": "竹子 (Bamboo)",
+      "link": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
+      "desc": "人工智慧 Markdown 筆記由你掌控 討論 |關聯",
+      "title_en": "Bamboo"
     },
     {
-      "title": "代理商窺視 (AgentPeek)",
-      "link": "https://www.producthunt.com/products/agentpeek",
-      "desc": "Mac 中的 Claude Code 和 Codex 討論 |關聯",
-      "title_en": "AgentPeek"
+      "title": "N71",
+      "link": "https://www.producthunt.com/products/n71",
+      "desc": "為所有 AI 代理提供一個共享上下文關聯",
+      "title_en": "N71"
     },
     {
-      "title": "普魯諾 (Pluno)",
-      "link": "https://www.producthunt.com/products/pluno",
-      "desc": "瀏覽器代理程式比 Claude 快 10 倍關聯",
-      "title_en": "Pluno"
+      "title": "金屬 (Metal)",
+      "link": "https://www.producthunt.com/products/metal-2",
+      "desc": "用於籌集創投的人工智慧驅動作業系統關聯",
+      "title_en": "Metal"
     },
     {
-      "title": "Databox 的技能市場 (Skills Marketplace by Databox)",
-      "link": "https://www.producthunt.com/products/databox",
-      "desc": "適用於您的業務資料的現成人工智慧分析技能關聯",
-      "title_en": "Skills Marketplace by Databox"
+      "title": "MailAdept 由 mailwarm 提供 (MailAdept by mailwarm)",
+      "link": "https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20",
+      "desc": "您團隊中的人工智慧代理商和電子郵件送達專家 討論 |關聯",
+      "title_en": "MailAdept by mailwarm"
     },
     {
-      "title": "加載新星 (Load Nova)",
-      "link": "https://www.producthunt.com/products/load-nova",
-      "desc": "為調度員速度而建構的人工智慧副駕駛和儀表板關聯",
-      "title_en": "Load Nova"
+      "title": "Tabstack 瀏覽器自動化 (Tabstack Browser Automation)",
+      "link": "https://www.producthunt.com/products/tabstack",
+      "desc": "在您的應用程式或代理程式中實現網路自動化，無需瀏覽器來託管 討論 |關聯",
+      "title_en": "Tabstack Browser Automation"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "Google的 NotebookLM 可以用 TikTok 風格的剪輯來總結你的研究",
-      "link": "https://www.theverge.com/tech/959778/google-notebooklm-ai-clips",
-      "summary": "Google的 NotebookLM 正在添加一種新的方式來跟上你的筆記：TikTok 風格的人工智慧影片。新功能正在推出…",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic 擱置已久的《神鬼Fable 5》已獲準回歸",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-      "summary": "經過與川普政府幾週的談判，Anthropic 終於能夠帶來《ClaudeFable 5》了…",
+      "title": "Google打造了一款出色的智慧音箱，但 Gemini 還沒有做好準備",
+      "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "summary": "過去幾年，智慧音箱一直在尋找引人注目的第二幕。除了音樂、計時器和控制之外…",
       "source": "The Verge"
     },
     {
-      "title": "認識兩次擊敗伊隆馬斯克的律師",
-      "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
-      "summary": "觀看伊隆馬斯克在馬斯克訴奧特曼案中對比爾薩維特的猛烈抨擊——在該案中，馬斯克起訴山姆奧特曼和 OpenAI…",
-      "source": "The Verge"
-    },
-    {
-      "title": "川普取消了對 Anthropic 神話和Fable模型的限制",
-      "link": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-      "summary": "Anthropic 表示將於 7 月 1 日開始恢復對《Fable》的訪問。",
+      "title": "Google 代理助理 Gemini Spark 現已在 Mac 上推出",
+      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+      "summary": "Google 的 24/7 代理助理 Gemini Spark 與其他改進一起來到 Mac 上，例如即時追蹤和蘇…",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Anthropic 擱置已久的《神鬼Fable 5》已獲準回歸",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/958964/anthropic-claude-fable-5-is-back",
-    "summary": "經過與川普政府幾週的談判，Anthropic 終於能夠帶來《ClaudeFable 5》了…",
+    "title": "Google打造了一款出色的智慧音箱，但 Gemini 還沒有做好準備",
+    "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+    "summary": "過去幾年，智慧音箱一直在尋找引人注目的第二幕。除了音樂、計時器和控制之外…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用 Akiflow 管理旅遊任務",
-      "detail": "我可以用 Akiflow 來管理你的旅遊安排和日曆，增加效率，減少時間浪費。做個旅遊行程表 → 發在 SS 的 IG → 預計 3 天出成果"
+      "title": "AI籌措旅遊基金",
+      "detail": "用Metal做個旅遊籌措計劃，然後發在社交媒體，應該2天就有成果"
     },
     {
-      "title": "旅遊 Vlog 分析",
-      "detail": "利用 Databox 的技能市場來分析你的旅遊 Vlog 數據，找出觀眾最喜歡的內容。做個分析報表 → 發在 SS 的博客 → 預計 1 周出成果"
+      "title": "旅遊指南筆記",
+      "detail": "用Bamboo寫個旅遊指南，發在我們的旅遊博客，預計一周內有反響"
     },
     {
-      "title": "快速瀏覽旅遊網站",
-      "detail": "用 Pluno 來快速瀏覽旅遊網站，找到最便宜的機票和酒店。做個機票和酒店比較表 → 發在 SS 的 FB → 預計 2 天出成果"
+      "title": "AI郵件行銷",
+      "detail": "用MailAdept幫助我們做郵件行銷，發給我們的旅遊粉絲，應該3天就能看出成效"
     }
   ],
   "history": {
@@ -2405,6 +2392,126 @@
         {
           "title": "快速瀏覽旅遊網站",
           "detail": "用 Pluno 來快速瀏覽旅遊網站，找到最便宜的機票和酒店。做個機票和酒店比較表 → 發在 SS 的 FB → 預計 2 天出成果"
+        }
+      ]
+    },
+    "2026-07-02": {
+      "news": [
+        {
+          "title": "Google打造了一款出色的智慧音箱，但 Gemini 還沒有做好準備",
+          "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+          "summary": "過去幾年，智慧音箱一直在尋找引人注目的第二幕。除了音樂、計時器和控制之外…",
+          "source": "The Verge"
+        },
+        {
+          "title": "SpaceX 有一個人工智慧設備原型，聽起來確實像手機",
+          "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+          "summary": "據報道，SpaceX 在上市前向投資者展示了一款「類似手機」的人工智慧設備。這可能是 SpaceX 想要的另一個訊號…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "阿什頓·庫徹 (Ashton Kutcher) 離開 Sound Ventures，與摩根·貝勒 (Morgan Beller) 共同創辦新的創投公司",
+          "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+          "summary": "Sound 憑藉在領先的人工智慧實驗室中集中、高度確信的投資而建立了聲譽，而庫徹的新基金則…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Cloudflare新政策推動AI公司為出版商的內容付費",
+          "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+          "summary": "Cloudflare 要求 AI 公司在 9 月 15 日之前將用於搜尋的網路爬蟲與用於 AI 傳輸的網路爬蟲分開...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "隨著隱私第一的人工智慧平台的起飛，Venice AI 成為獨角獸，A 輪融資金額達 6,500 萬美元",
+          "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
+          "summary": "執行長 Erik Voorhees 表示，Venice AI 已經實現盈利，年化運行收入超過 7,000 萬美元。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google 代理助理 Gemini Spark 現已在 Mac 上推出",
+          "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+          "summary": "Google 的 24/7 代理助理 Gemini Spark 與其他改進一起來到 Mac 上，例如即時追蹤和蘇…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Builders Stage 議程揭曉：TechCrunch Disrupt 2026 上擴大新創企業規模的實用策略",
+          "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+          "summary": "Builders Stage 重返 TechCrunch Disrupt 2026，匯集 10,000 多名創辦人、新創公司營運商和…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta 與 SpaceX 一樣，希望將多餘的人工智慧運算轉化為現金",
+          "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+          "summary": "Meta 正在製定雲端基礎設施業務計劃，出售人工智慧運算能力和模型。此舉...",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "竹子 (Bamboo)",
+          "link": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
+          "desc": "人工智慧 Markdown 筆記由你掌控 討論 |關聯",
+          "title_en": "Bamboo"
+        },
+        {
+          "title": "N71",
+          "link": "https://www.producthunt.com/products/n71",
+          "desc": "為所有 AI 代理提供一個共享上下文關聯",
+          "title_en": "N71"
+        },
+        {
+          "title": "金屬 (Metal)",
+          "link": "https://www.producthunt.com/products/metal-2",
+          "desc": "用於籌集創投的人工智慧驅動作業系統關聯",
+          "title_en": "Metal"
+        },
+        {
+          "title": "MailAdept 由 mailwarm 提供 (MailAdept by mailwarm)",
+          "link": "https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20",
+          "desc": "您團隊中的人工智慧代理商和電子郵件送達專家 討論 |關聯",
+          "title_en": "MailAdept by mailwarm"
+        },
+        {
+          "title": "Tabstack 瀏覽器自動化 (Tabstack Browser Automation)",
+          "link": "https://www.producthunt.com/products/tabstack",
+          "desc": "在您的應用程式或代理程式中實現網路自動化，無需瀏覽器來託管 討論 |關聯",
+          "title_en": "Tabstack Browser Automation"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Google打造了一款出色的智慧音箱，但 Gemini 還沒有做好準備",
+          "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+          "summary": "過去幾年，智慧音箱一直在尋找引人注目的第二幕。除了音樂、計時器和控制之外…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google 代理助理 Gemini Spark 現已在 Mac 上推出",
+          "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
+          "summary": "Google 的 24/7 代理助理 Gemini Spark 與其他改進一起來到 Mac 上，例如即時追蹤和蘇…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Google打造了一款出色的智慧音箱，但 Gemini 還沒有做好準備",
+        "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+        "summary": "過去幾年，智慧音箱一直在尋找引人注目的第二幕。除了音樂、計時器和控制之外…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "AI籌措旅遊基金",
+          "detail": "用Metal做個旅遊籌措計劃，然後發在社交媒體，應該2天就有成果"
+        },
+        {
+          "title": "旅遊指南筆記",
+          "detail": "用Bamboo寫個旅遊指南，發在我們的旅遊博客，預計一周內有反響"
+        },
+        {
+          "title": "AI郵件行銷",
+          "detail": "用MailAdept幫助我們做郵件行銷，發給我們的旅遊粉絲，應該3天就能看出成效"
         }
       ]
     }
