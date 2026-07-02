@@ -297,6 +297,48 @@ a:hover{text-decoration:underline}
 .coming-soon h3{font-size:15px;color:var(--sub);margin-bottom:8px}
 .coming-soon p{font-size:12px}
 
+/* ── AI OS 學院 ── */
+.formula-box{
+  background:linear-gradient(135deg,rgba(0,212,255,.08),rgba(139,92,246,.08));
+  border:1px solid rgba(0,212,255,.25);border-radius:14px;
+  padding:20px;text-align:center;font-size:14px;font-weight:600;
+  margin-bottom:24px;line-height:2;letter-spacing:.2px;
+}
+.formula-box .fx{color:var(--cyan)}
+.formula-box .fa{color:var(--gold)}
+
+.step-list{display:flex;flex-direction:column;gap:10px}
+.step{
+  display:flex;gap:14px;background:var(--surf);border:1px solid var(--bdr);
+  border-radius:12px;padding:14px 16px;transition:all .18s;
+}
+.step:hover{background:var(--surf-h);border-color:var(--bdr-h)}
+.step-num{
+  flex-shrink:0;width:28px;height:28px;border-radius:50%;
+  background:linear-gradient(135deg,var(--cyan),var(--purple));
+  display:flex;align-items:center;justify-content:center;
+  font-size:13px;font-weight:700;color:#070B14;
+}
+.step-body h4{font-size:13px;font-weight:600;margin-bottom:4px;color:var(--text)}
+.step-body p{font-size:12px;color:var(--sub);line-height:1.65}
+
+.lesson-card{
+  background:linear-gradient(135deg,rgba(245,158,11,.09),rgba(239,68,68,.05));
+  border:1px solid rgba(245,158,11,.3);border-radius:14px;padding:18px 20px;
+}
+.lesson-card h4{color:var(--gold);font-size:13px;margin-bottom:8px}
+.lesson-card p{font-size:12px;color:var(--sub);line-height:1.75;margin-bottom:8px}
+.lesson-card p:last-child{margin-bottom:0}
+
+.layer-card{
+  background:var(--surf);border:1px solid var(--bdr);border-radius:12px;
+  padding:16px 18px;transition:all .18s;
+}
+.layer-card:hover{background:var(--surf-h);border-color:var(--bdr-h);box-shadow:var(--glow)}
+.layer-title{font-size:13px;font-weight:700;color:var(--text);margin-bottom:6px;display:flex;align-items:center;gap:6px}
+.layer-desc{font-size:12px;color:var(--sub);line-height:1.6;margin-bottom:8px}
+.layer-ex{font-size:11px;color:var(--muted)}
+
 /* ── FOOTER ── */
 .footer{
   text-align:center;padding:32px 24px;
@@ -325,6 +367,7 @@ a:hover{text-decoration:underline}
     <button class="ntab" data-tab="cal">📅 年曆</button>
     <button class="ntab" data-tab="aitools">🛠️ AI工具</button>
     <button class="ntab" data-tab="suniverse">🌌 Suniverse</button>
+    <button class="ntab" data-tab="aios">🎓 AI OS 學院</button>
   </nav>
 </div>
 
@@ -396,6 +439,80 @@ a:hover{text-decoration:underline}
         <p>Steve 正在準備好用的 AI 小工具，敬請期待</p>
       </div>
     </div>
+  </div>
+
+  <!-- ── AI OS 學院 ── -->
+  <div class="pane" id="tab-aios">
+
+    <div class="sh"><h2>🎓 AI OS 學院</h2></div>
+    <div class="csub" style="margin-bottom:20px">
+      給第一次接觸 AI 的新手：如何用 AI／Claude 建立一套自己的「個人 AI 作業系統」。
+      重點不是把整套系統蓋出來，而是把重複做的事固定成一套流程，讓任何 AI 模型都能接手執行。
+    </div>
+
+    <div class="formula-box">
+      <span class="fx">Model</span> + <span class="fx">Project</span> + <span class="fx">Skills</span> +
+      <span class="fx">MCP</span> + <span class="fx">Workflow</span> + <span class="fx">Knowledge</span> =
+      <span class="fa">Agent</span>
+    </div>
+
+    <hr class="section-divider">
+    <div class="sh"><h2>🧭 核心理念</h2></div>
+    <div class="grid three">
+      <div class="card"><div class="ctitle">知識可重複使用</div><div class="csub">一次整理清楚，之後每次都能直接用，不用重新跟 AI 解釋一遍。</div></div>
+      <div class="card"><div class="ctitle">能力要模組化</div><div class="csub">把常做的事寫成一份 Skill／SOP，跨專案、跨 Agent 都能共用。</div></div>
+      <div class="card"><div class="ctitle">Agent 可替換</div><div class="csub">每個 AI 員工都能換掉重做，不影響底層的 Skill 與資料。</div></div>
+      <div class="card"><div class="ctitle">Model 可互換</div><div class="csub">不綁死單一家 AI，ChatGPT／Claude／Gemini 隨時可以換著用。</div></div>
+      <div class="card"><div class="ctitle">資料歸自己所有</div><div class="csub">重要知識放在自己掌控的地方（如 Obsidian／GitHub），不寄生在單一平台。</div></div>
+    </div>
+
+    <hr class="section-divider">
+    <div class="sh"><h2>🚀 新手上手：5 個步驟</h2></div>
+    <div class="step-list">
+      <div class="step"><div class="step-num">1</div><div class="step-body">
+        <h4>選一個 Model 開始</h4><p>不用糾結選哪家，Claude 或 ChatGPT 都可以，先用起來、養成習慣比選對工具更重要。</p>
+      </div></div>
+      <div class="step"><div class="step-num">2</div><div class="step-body">
+        <h4>幫 AI 寫一個角色設定（Project）</h4><p>告訴它「你現在是誰、要做什麼、語氣怎樣」，這是長期背景，不用每次對話重講一遍。</p>
+      </div></div>
+      <div class="step"><div class="step-num">3</div><div class="step-body">
+        <h4>把一件常做的事寫成 Skill</h4><p>例如「IG貼文怎麼寫」「股票新聞怎麼整理」，寫成一份固定 SOP，之後每次呼叫都能重複使用。</p>
+      </div></div>
+      <div class="step"><div class="step-num">4</div><div class="step-body">
+        <h4>接上一個工具（MCP）</h4><p>讓 AI 不只是聊天，而是真的能操作外部系統，例如 Google Sheet、Telegram、GitHub。</p>
+      </div></div>
+      <div class="step"><div class="step-num">5</div><div class="step-body">
+        <h4>把以上串成 Workflow</h4><p>「觸發 → 執行 → 輸出」固定跑起來，這樣才算真正完成一個會自己做事的 Agent。</p>
+      </div></div>
+    </div>
+
+    <hr class="section-divider">
+    <div class="sh"><h2>🏗️ 六層架構總覽</h2></div>
+    <div class="grid three">
+      <div class="layer-card"><div class="layer-title">🧠 Model 大腦</div><div class="layer-desc">目前在用的 AI 模型，隨時可替換。</div><div class="layer-ex">例：ChatGPT・Claude・Gemini・Codex</div></div>
+      <div class="layer-card"><div class="layer-title">🎭 Project 角色設定</div><div class="layer-desc">給 AI 的長期人設與背景，設定一次、長期沿用。</div><div class="layer-ex">例：OKIPLAYGROUND 編輯・美股分析師</div></div>
+      <div class="layer-card"><div class="layer-title">🧩 Skills 可重用能力</div><div class="layer-desc">把重複性工作寫成固定 SOP，跨 Agent 共用。</div><div class="layer-ex">例：IG貼文・SEO文章・股票新聞分析</div></div>
+      <div class="layer-card"><div class="layer-title">🔌 MCP 工具</div><div class="layer-desc">AI 真正能操作的外部系統，讓它從「會講」變「會做」。</div><div class="layer-ex">例：Google Drive・GitHub・Telegram</div></div>
+      <div class="layer-card"><div class="layer-title">🔄 Workflow 自動化流程</div><div class="layer-desc">把 Skill 與 MCP 串成固定會跑的流程。</div><div class="layer-ex">例：新聞來源 → AI 摘要 → 推送 Telegram</div></div>
+      <div class="layer-card"><div class="layer-title">🤖 Agent 自主員工</div><div class="layer-desc">具備以上全部，能在設定範圍內自己完成一件完整工作。</div><div class="layer-ex">例：股票 Agent・客服 Agent</div></div>
+    </div>
+
+    <hr class="section-divider">
+    <div class="sh"><h2>📚 知識庫怎麼選</h2></div>
+    <div class="grid three">
+      <div class="card"><div class="meta"><span class="badge b-sun">Obsidian</span></div><div class="csub">第二大腦、Skill Library、SOP 文件。Markdown 本地保存，AI 好讀取，不綁定單一平台。</div></div>
+      <div class="card"><div class="meta"><span class="badge b-tool">GitHub</span></div><div class="csub">程式碼、自動化（GitHub Actions）、版本控制、網站部署。不適合放大量長篇知識筆記。</div></div>
+      <div class="card"><div class="meta"><span class="badge b-major">Notion</span></div><div class="csub">CRM、專案管理、待辦事項、團隊協作與資料庫。</div></div>
+    </div>
+
+    <hr class="section-divider">
+    <div class="sh"><h2>💡 給新手最重要的一課</h2></div>
+    <div class="lesson-card">
+      <h4>先把一個 Agent 做到底，不要一開始就寫大架構</h4>
+      <p>很多人（包括 Steve 自己）一開始就想把整套系統的組織圖、Registry、Knowledge Graph 都設計出來——但沒有真實案例撐著的架構文件，寫起來很有成就感，最後卻常常變成一份沒人真的照做的規劃書。</p>
+      <p>更好的做法：先挑一件你真的常做的事，把 Skill + MCP + Workflow 老老實實做出來、實際用過幾次，再回頭把重複出現的模式抽出來，變成可共用的機制。只有當同一個模式被至少兩個真實案例用到時，才值得把它做成正式的共用系統。</p>
+    </div>
+
   </div>
 
 </main>
