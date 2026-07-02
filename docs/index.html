@@ -339,6 +339,17 @@ a:hover{text-decoration:underline}
 .layer-desc{font-size:12px;color:var(--sub);line-height:1.6;margin-bottom:8px}
 .layer-ex{font-size:11px;color:var(--muted)}
 
+.tree-box{
+  background:var(--surf);border:1px solid var(--bdr);border-radius:12px;
+  padding:16px 20px;margin-top:14px;
+}
+.tree-box pre{
+  font-family:'SF Mono',Menlo,Consolas,monospace;font-size:12px;
+  line-height:1.9;color:var(--sub);white-space:pre;overflow-x:auto;
+}
+.tree-box .tf{color:var(--cyan)}
+.tree-note{font-size:11px;color:var(--muted);margin-top:10px}
+
 /* ── FOOTER ── */
 .footer{
   text-align:center;padding:32px 24px;
@@ -364,10 +375,8 @@ a:hover{text-decoration:underline}
 <div class="nav-wrap">
   <nav class="nav">
     <button class="ntab on" data-tab="hot">🔥 AI熱議</button>
-    <button class="ntab" data-tab="cal">📅 年曆</button>
     <button class="ntab" data-tab="aitools">🛠️ AI工具</button>
     <button class="ntab" data-tab="suniverse">🌌 Suniverse</button>
-    <button class="ntab" data-tab="aios">🎓 AI OS 學院</button>
   </nav>
 </div>
 
@@ -375,44 +384,50 @@ a:hover{text-decoration:underline}
 
   <!-- ── AI熱議 ── -->
   <div class="pane on" id="tab-hot">
-
-    <div class="sh">
-      <h2>🔥 今日 AI 熱聞</h2><span class="cnt" id="cNews">—</span>
-    </div>
-    <div class="grid" id="listNews"></div>
-
-    <hr class="section-divider">
-    <div class="sh"><h2>🏢 大廠動態</h2><span class="cnt" id="cMajor">—</span></div>
-    <div class="grid two" id="listMajor"></div>
-
-    <hr class="section-divider">
-    <div class="sh"><h2>🛠️ 新工具速報</h2><span class="cnt" id="cTools">—</span></div>
-    <div class="grid two" id="listTools"></div>
-
-    <hr class="section-divider">
-    <div class="sh"><h2>🚩 Suniverse 應用機會</h2><span class="cnt" id="cSun">—</span></div>
-    <div class="grid" id="listSun"></div>
-
-    <hr class="section-divider">
-    <div class="sh"><h2>💡 Steve 精選</h2></div>
-    <div id="pickWrap"></div>
-
-    <div class="sh" style="margin-top:20px"><h2>💰 Steve 今日賺錢機會</h2></div>
-    <div class="grid three" id="listIdeas"></div>
-
-  </div>
-
-  <!-- ── 年曆 ── -->
-  <div class="pane" id="tab-cal">
-    <div class="cal-wrap">
-      <div class="cal-nav-bar">
-        <button class="cal-btn" id="calPrev">‹</button>
-        <span class="cal-title" id="calTitle">—</span>
-        <button class="cal-btn" id="calNext">›</button>
+    <div class="subtab-group">
+      <div class="stabs">
+        <button class="stab on" data-stab="hotfeed">🔥 熱聞</button>
+        <button class="stab" data-stab="calendar">📅 年曆</button>
       </div>
-      <div class="cal-grid" id="calGrid"></div>
-      <div id="calPanel">
-        <div class="cal-placeholder">選擇日期，查看當天 AI 簡報</div>
+
+      <div class="spane on" id="stab-hotfeed">
+        <div class="sh">
+          <h2>🔥 今日 AI 熱聞</h2><span class="cnt" id="cNews">—</span>
+        </div>
+        <div class="grid" id="listNews"></div>
+
+        <hr class="section-divider">
+        <div class="sh"><h2>🏢 大廠動態</h2><span class="cnt" id="cMajor">—</span></div>
+        <div class="grid two" id="listMajor"></div>
+
+        <hr class="section-divider">
+        <div class="sh"><h2>🛠️ 新工具速報</h2><span class="cnt" id="cTools">—</span></div>
+        <div class="grid two" id="listTools"></div>
+
+        <hr class="section-divider">
+        <div class="sh"><h2>🚩 Suniverse 應用機會</h2><span class="cnt" id="cSun">—</span></div>
+        <div class="grid" id="listSun"></div>
+
+        <hr class="section-divider">
+        <div class="sh"><h2>💡 Steve 精選</h2></div>
+        <div id="pickWrap"></div>
+
+        <div class="sh" style="margin-top:20px"><h2>💰 Steve 今日賺錢機會</h2></div>
+        <div class="grid three" id="listIdeas"></div>
+      </div>
+
+      <div class="spane" id="stab-calendar">
+        <div class="cal-wrap">
+          <div class="cal-nav-bar">
+            <button class="cal-btn" id="calPrev">‹</button>
+            <span class="cal-title" id="calTitle">—</span>
+            <button class="cal-btn" id="calNext">›</button>
+          </div>
+          <div class="cal-grid" id="calGrid"></div>
+          <div id="calPanel">
+            <div class="cal-placeholder">選擇日期，查看當天 AI 簡報</div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
@@ -425,24 +440,23 @@ a:hover{text-decoration:underline}
 
   <!-- ── Suniverse ── -->
   <div class="pane" id="tab-suniverse">
-    <div class="stabs">
-      <button class="stab on" data-stab="projects">專案</button>
-      <button class="stab" data-stab="gadgets">小工具</button>
-    </div>
-    <div class="spane on" id="stab-projects">
-      <div id="listProjects"></div>
-    </div>
-    <div class="spane" id="stab-gadgets">
-      <div class="coming-soon">
-        <div class="cs-icon">🔧</div>
-        <h3>小工具即將推出</h3>
-        <p>Steve 正在準備好用的 AI 小工具，敬請期待</p>
+    <div class="subtab-group">
+      <div class="stabs">
+        <button class="stab on" data-stab="projects">專案</button>
+        <button class="stab" data-stab="gadgets">小工具</button>
+        <button class="stab" data-stab="aios">🎓 AI OS 學院</button>
       </div>
-    </div>
-  </div>
-
-  <!-- ── AI OS 學院 ── -->
-  <div class="pane" id="tab-aios">
+      <div class="spane on" id="stab-projects">
+        <div id="listProjects"></div>
+      </div>
+      <div class="spane" id="stab-gadgets">
+        <div class="coming-soon">
+          <div class="cs-icon">🔧</div>
+          <h3>小工具即將推出</h3>
+          <p>Steve 正在準備好用的 AI 小工具，敬請期待</p>
+        </div>
+      </div>
+      <div class="spane" id="stab-aios">
 
     <div class="sh"><h2>🎓 AI OS 學院</h2></div>
     <div class="csub" style="margin-bottom:20px">
@@ -505,6 +519,21 @@ a:hover{text-decoration:underline}
       <div class="card"><div class="meta"><span class="badge b-major">Notion</span></div><div class="csub">CRM、專案管理、待辦事項、團隊協作與資料庫。</div></div>
     </div>
 
+    <div class="tree-box">
+      <pre><span class="tf">AI-OS/</span>
+├── <span class="tf">Agents/</span>      每個 AI 員工的人設與設定檔
+├── <span class="tf">Skills/</span>      可重複使用的 SOP／能力模組
+├── <span class="tf">MCP/</span>         工具串接說明（Drive・GitHub・Telegram…）
+├── <span class="tf">Workflow/</span>    自動化流程紀錄
+├── <span class="tf">Prompt/</span>      常用提示詞範本
+├── <span class="tf">Knowledge/</span>   領域知識庫（旅遊・股票・行銷…）
+├── <span class="tf">SOP/</span>         標準作業流程文件
+├── <span class="tf">Projects/</span>    各專案的背景與角色設定
+├── <span class="tf">Templates/</span>   內容範本（貼文・腳本・Email…）
+└── <span class="tf">Scratch/</span>     暫存草稿、還沒定案的實驗筆記</pre>
+      <div class="tree-note">這是 Obsidian Vault 的建議起點——不用一次把資料夾生齊，用到再建，命名也可以照你原本習慣調整。</div>
+    </div>
+
     <hr class="section-divider">
     <div class="sh"><h2>💡 給新手最重要的一課</h2></div>
     <div class="lesson-card">
@@ -513,6 +542,8 @@ a:hover{text-decoration:underline}
       <p>更好的做法：先挑一件你真的常做的事，把 Skill + MCP + Workflow 老老實實做出來、實際用過幾次，再回頭把重複出現的模式抽出來，變成可共用的機制。只有當同一個模式被至少兩個真實案例用到時，才值得把它做成正式的共用系統。</p>
     </div>
 
+      </div>
+    </div>
   </div>
 
 </main>
@@ -533,11 +564,12 @@ document.querySelectorAll('.ntab').forEach(b=>{
   });
 });
 
-// ── Sub-Tab (Suniverse) ──
+// ── Sub-Tab (scoped per subtab-group, since there's more than one on the page now) ──
 document.querySelectorAll('.stab').forEach(b=>{
   b.addEventListener('click',()=>{
-    document.querySelectorAll('.stab').forEach(x=>x.classList.remove('on'));
-    document.querySelectorAll('.spane').forEach(x=>x.classList.remove('on'));
+    const group=b.closest('.subtab-group');
+    group.querySelectorAll('.stab').forEach(x=>x.classList.remove('on'));
+    group.querySelectorAll('.spane').forEach(x=>x.classList.remove('on'));
     b.classList.add('on');
     document.getElementById('stab-'+b.dataset.stab).classList.add('on');
   });
