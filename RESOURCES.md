@@ -13,6 +13,7 @@
 | Codex & Claude Code 實戰分享：200 億 Token 的開發經驗總結 | Claude Code 教學 | 2 個月 Codex 開發燒 200 億 token，分享 5 個提升效率的實用 Skills | 已整理 | [連結](https://app.notion.com/p/39230727f5258151ad50c2be6ddb550c) |
 | Social Cards Engine - Claude IG 圖卡 AI 助理 | 其他 | Denis Wei 開源完整方案：IG 圖卡生成、品牌架構訓練、會挑毛病的 AI 審稿員。MIT 開源、免費、持續更新 | 已整理 | [連結](https://app.notion.com/p/39230727f525812daeb6e478d4b1cf5b) |
 | 一個散戶的上升之路：12 月量化交易媒體品牌養成 | 文章/網頁 | 散戶進階路線圖：TradingView → AutoChartist → QuantConnect → MetaTrader → Fomofly。一個人變成一個量化交易媒體品牌 | 已整理 | [連結](https://app.notion.com/p/39230727f525811eb865c1ea5c3b12fc) |
+| Gemini 的最佳實作：YouTube 逐字稿轉知識庫 | 文章/網頁 | 利用 Gemini 長上下文下載逐字稿、整理可讀版、輸出摘要+清單+標籤+提問，寫入 Obsidian。30+ 影片批量處理 | 已整理 | [連結](https://app.notion.com/p/39230727f52581b89b72e19b8f65f057) |
 
 ---
 
