@@ -14,6 +14,7 @@
 | Social Cards Engine - Claude IG 圖卡 AI 助理 | 其他 | Denis Wei 開源完整方案：IG 圖卡生成、品牌架構訓練、會挑毛病的 AI 審稿員。MIT 開源、免費、持續更新 | 已整理 | [連結](https://app.notion.com/p/39230727f525812daeb6e478d4b1cf5b) |
 | 一個散戶的上升之路：12 月量化交易媒體品牌養成 | 文章/網頁 | 散戶進階路線圖：TradingView → AutoChartist → QuantConnect → MetaTrader → Fomofly。一個人變成一個量化交易媒體品牌 | 已整理 | [連結](https://app.notion.com/p/39230727f525811eb865c1ea5c3b12fc) |
 | Gemini 的最佳實作：YouTube 逐字稿轉知識庫 | 文章/網頁 | 利用 Gemini 長上下文下載逐字稿、整理可讀版、輸出摘要+清單+標籤+提問，寫入 Obsidian。30+ 影片批量處理 | 已整理 | [連結](https://app.notion.com/p/39230727f52581b89b72e19b8f65f057) |
+| Vibe Reader - 內容速讀工具 | 其他 | 把長文章、YouTube 影片變成重點卡片，快速篩選值得看的內容。遇到不懂的地方直接問 AI。追 Claude Code 教學吸收很快 | 已整理 | [連結](https://app.notion.com/p/39230727f52581329f43c54909d4b8d0) |
 
 ---
 
