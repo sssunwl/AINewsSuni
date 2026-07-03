@@ -1,121 +1,127 @@
 {
-  "updated": "2026-07-02 12:55 HKT",
+  "updated": "2026-07-03 12:39 HKT",
   "news": [
     {
-      "title": "Google打造了一款出色的智慧音箱，但 Gemini 還沒有做好準備",
-      "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "summary": "過去幾年，智慧音箱一直在尋找引人注目的第二幕。除了音樂、計時器和控制之外…",
+      "title": "OpenAI 上市，川普政府可從人工智慧熱潮中分得 5%",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "summary": "OpenAI 已提出給予美國政府 5% 的所有權，作為緩解與川普政府緊張關係的一種方式…",
       "source": "The Verge"
     },
     {
-      "title": "SpaceX 有一個人工智慧設備原型，聽起來確實像手機",
-      "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
-      "summary": "據報道，SpaceX 在上市前向投資者展示了一款「類似手機」的人工智慧設備。這可能是 SpaceX 想要的另一個訊號…",
+      "title": "馬克·祖克柏告訴員工，人工智慧代理的進展沒有他希望的那麼快",
+      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "summary": "據報道，在一次內部會議上，Meta 執行長表示，人工智慧開發工作的進展沒有預期的那麼快…",
       "source": "TechCrunch"
     },
     {
-      "title": "阿什頓·庫徹 (Ashton Kutcher) 離開 Sound Ventures，與摩根·貝勒 (Morgan Beller) 共同創辦新的創投公司",
-      "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
-      "summary": "Sound 憑藉在領先的人工智慧實驗室中集中、高度確信的投資而建立了聲譽，而庫徹的新基金則…",
+      "title": "澤西·邁克 (Jersey Mike) 的 IPO 表明人工智能炒作變得多麼糟糕",
+      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "summary": "為了好玩，我看了一下 Jersey Mike 的 IPO 文件。一家三明治店當然不需要提到人工智慧。乙…",
       "source": "TechCrunch"
     },
     {
-      "title": "Cloudflare新政策推動AI公司為出版商的內容付費",
-      "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
-      "summary": "Cloudflare 要求 AI 公司在 9 月 15 日之前將用於搜尋的網路爬蟲與用於 AI 傳輸的網路爬蟲分開...",
+      "title": "Meta 悄悄推出 vivi 編碼遊戲應用程式 Pocket",
+      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+      "summary": "Meta 悄悄地推出了 Pocket，這是一款實驗性 AI 應用程序，可讓用戶使用…生成和共享互動式迷你遊戲。",
       "source": "TechCrunch"
     },
     {
-      "title": "隨著隱私第一的人工智慧平台的起飛，Venice AI 成為獨角獸，A 輪融資金額達 6,500 萬美元",
-      "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-      "summary": "執行長 Erik Voorhees 表示，Venice AI 已經實現盈利，年化運行收入超過 7,000 萬美元。",
+      "title": "Anthropic 正在與三星討論新的客製化晶片",
+      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "summary": "這項消息發布大約一週前，OpenAI 宣布與博通合作推出自己的客製化人工智慧晶片。",
       "source": "TechCrunch"
     },
     {
-      "title": "Google 代理助理 Gemini Spark 現已在 Mac 上推出",
-      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "summary": "Google 的 24/7 代理助理 Gemini Spark 與其他改進一起來到 Mac 上，例如即時追蹤和蘇…",
+      "title": "OpenAI擬將5%股權捐贈給美國主權財富基金",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "summary": "據報道，OpenAI 執行長 Sam Altman 提議將公司 5% 的股權捐贈給美國主權財富基金，以重振...",
       "source": "TechCrunch"
     },
     {
-      "title": "Builders Stage 議程揭曉：TechCrunch Disrupt 2026 上擴大新創企業規模的實用策略",
-      "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-      "summary": "Builders Stage 重返 TechCrunch Disrupt 2026，匯集 10,000 多名創辦人、新創公司營運商和…",
+      "title": "微軟承諾投入 25 億美元成立自己的人工智慧部署公司",
+      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+      "summary": "繼亞馬遜、OpenAI 和 Anthropic 之後，微軟也推出了新的人工智慧部署團隊。",
       "source": "TechCrunch"
     },
     {
-      "title": "Meta 與 SpaceX 一樣，希望將多餘的人工智慧運算轉化為現金",
-      "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-      "summary": "Meta 正在製定雲端基礎設施業務計劃，出售人工智慧運算能力和模型。此舉...",
+      "title": "是的，我們現在正在使用 OpenClaw",
+      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+      "summary": "本·格斯（Ben Guez）“在他的私信中擁有一群潛在的國際妻子”，這要歸功於他使用 Open 設定的自動化腳本…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "竹子 (Bamboo)",
-      "link": "https://www.producthunt.com/products/bamboo-ai-markdown-notes",
-      "desc": "人工智慧 Markdown 筆記由你掌控 討論 |關聯",
-      "title_en": "Bamboo"
+      "title": "斯克里蒂 (scritty)",
+      "link": "https://www.producthunt.com/products/scritty",
+      "desc": "為每個人工智慧編碼代理提供共享的、可搜尋的記憶體關聯",
+      "title_en": "scritty"
     },
     {
-      "title": "N71",
-      "link": "https://www.producthunt.com/products/n71",
-      "desc": "為所有 AI 代理提供一個共享上下文關聯",
-      "title_en": "N71"
+      "title": "班格郵件 (Banger Mail)",
+      "link": "https://www.producthunt.com/products/banger-mail",
+      "desc": "團隊和 AI 代理的共享郵箱關聯",
+      "title_en": "Banger Mail"
     },
     {
-      "title": "金屬 (Metal)",
-      "link": "https://www.producthunt.com/products/metal-2",
-      "desc": "用於籌集創投的人工智慧驅動作業系統關聯",
-      "title_en": "Metal"
+      "title": "馬庫塞 (Macuse)",
+      "link": "https://www.producthunt.com/products/macuse",
+      "desc": "在 macOS 上賦予你的 AI 超能力討論 |關聯",
+      "title_en": "Macuse"
     },
     {
-      "title": "MailAdept 由 mailwarm 提供 (MailAdept by mailwarm)",
-      "link": "https://www.producthunt.com/products/mailadept-by-mailwarm-yc-s20",
-      "desc": "您團隊中的人工智慧代理商和電子郵件送達專家 討論 |關聯",
-      "title_en": "MailAdept by mailwarm"
+      "title": "流暢 (Flowly)",
+      "link": "https://www.producthunt.com/products/flowly-6",
+      "desc": "在桌面和 iPhone 上運行的個人 AI 代理關聯",
+      "title_en": "Flowly"
     },
     {
-      "title": "Tabstack 瀏覽器自動化 (Tabstack Browser Automation)",
-      "link": "https://www.producthunt.com/products/tabstack",
-      "desc": "在您的應用程式或代理程式中實現網路自動化，無需瀏覽器來託管 討論 |關聯",
-      "title_en": "Tabstack Browser Automation"
+      "title": "索拉里斯 (Solaris)",
+      "link": "https://www.producthunt.com/products/build-club",
+      "desc": "貴公司的人工智慧採用與技能提昇平台討論 |關聯",
+      "title_en": "Solaris"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Google打造了一款出色的智慧音箱，但 Gemini 還沒有做好準備",
-      "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "summary": "過去幾年，智慧音箱一直在尋找引人注目的第二幕。除了音樂、計時器和控制之外…",
+      "title": "OpenAI 上市，川普政府可從人工智慧熱潮中分得 5%",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+      "summary": "OpenAI 已提出給予美國政府 5% 的所有權，作為緩解與川普政府緊張關係的一種方式…",
       "source": "The Verge"
     },
     {
-      "title": "Google 代理助理 Gemini Spark 現已在 Mac 上推出",
-      "link": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-      "summary": "Google 的 24/7 代理助理 Gemini Spark 與其他改進一起來到 Mac 上，例如即時追蹤和蘇…",
+      "title": "Anthropic 正在與三星討論新的客製化晶片",
+      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "summary": "這項消息發布大約一週前，OpenAI 宣布與博通合作推出自己的客製化人工智慧晶片。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI擬將5%股權捐贈給美國主權財富基金",
+      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+      "summary": "據報道，OpenAI 執行長 Sam Altman 提議將公司 5% 的股權捐贈給美國主權財富基金，以重振...",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Google打造了一款出色的智慧音箱，但 Gemini 還沒有做好準備",
-    "link": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-    "summary": "過去幾年，智慧音箱一直在尋找引人注目的第二幕。除了音樂、計時器和控制之外…",
+    "title": "OpenAI 上市，川普政府可從人工智慧熱潮中分得 5%",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+    "summary": "OpenAI 已提出給予美國政府 5% 的所有權，作為緩解與川普政府緊張關係的一種方式…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "AI籌措旅遊基金",
-      "detail": "用Metal做個旅遊籌措計劃，然後發在社交媒體，應該2天就有成果"
+      "title": "快速旅遊影片",
+      "detail": "用 Flowly 來幫助 SS 製作旅遊 Reel，發在 Instagram 和 TikTok，預計 2 天出成果"
     },
     {
-      "title": "旅遊指南筆記",
-      "detail": "用Bamboo寫個旅遊指南，發在我們的旅遊博客，預計一周內有反響"
+      "title": "AI 美食內容",
+      "detail": "利用 Scritty 來搜尋和整理美食相關的 AI 編碼代理，發在 SS 的博客和 YouTube 頻道，預計 3 天出成果"
     },
     {
-      "title": "AI郵件行銷",
-      "detail": "用MailAdept幫助我們做郵件行銷，發給我們的旅遊粉絲，應該3天就能看出成效"
+      "title": "旅遊 Vlog",
+      "detail": "用 Macuse 來賦予 AI 編碼代理超能力，幫助 SS 製作旅遊 Vlog，發在 YouTube 和 Facebook，預計 4 天出成果"
     }
   ],
   "history": {
@@ -2512,6 +2518,132 @@
         {
           "title": "AI郵件行銷",
           "detail": "用MailAdept幫助我們做郵件行銷，發給我們的旅遊粉絲，應該3天就能看出成效"
+        }
+      ]
+    },
+    "2026-07-03": {
+      "news": [
+        {
+          "title": "OpenAI 上市，川普政府可從人工智慧熱潮中分得 5%",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+          "summary": "OpenAI 已提出給予美國政府 5% 的所有權，作為緩解與川普政府緊張關係的一種方式…",
+          "source": "The Verge"
+        },
+        {
+          "title": "馬克·祖克柏告訴員工，人工智慧代理的進展沒有他希望的那麼快",
+          "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+          "summary": "據報道，在一次內部會議上，Meta 執行長表示，人工智慧開發工作的進展沒有預期的那麼快…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "澤西·邁克 (Jersey Mike) 的 IPO 表明人工智能炒作變得多麼糟糕",
+          "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+          "summary": "為了好玩，我看了一下 Jersey Mike 的 IPO 文件。一家三明治店當然不需要提到人工智慧。乙…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta 悄悄推出 vivi 編碼遊戲應用程式 Pocket",
+          "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+          "summary": "Meta 悄悄地推出了 Pocket，這是一款實驗性 AI 應用程序，可讓用戶使用…生成和共享互動式迷你遊戲。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic 正在與三星討論新的客製化晶片",
+          "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+          "summary": "這項消息發布大約一週前，OpenAI 宣布與博通合作推出自己的客製化人工智慧晶片。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI擬將5%股權捐贈給美國主權財富基金",
+          "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+          "summary": "據報道，OpenAI 執行長 Sam Altman 提議將公司 5% 的股權捐贈給美國主權財富基金，以重振...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "微軟承諾投入 25 億美元成立自己的人工智慧部署公司",
+          "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+          "summary": "繼亞馬遜、OpenAI 和 Anthropic 之後，微軟也推出了新的人工智慧部署團隊。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "是的，我們現在正在使用 OpenClaw",
+          "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+          "summary": "本·格斯（Ben Guez）“在他的私信中擁有一群潛在的國際妻子”，這要歸功於他使用 Open 設定的自動化腳本…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "斯克里蒂 (scritty)",
+          "link": "https://www.producthunt.com/products/scritty",
+          "desc": "為每個人工智慧編碼代理提供共享的、可搜尋的記憶體關聯",
+          "title_en": "scritty"
+        },
+        {
+          "title": "班格郵件 (Banger Mail)",
+          "link": "https://www.producthunt.com/products/banger-mail",
+          "desc": "團隊和 AI 代理的共享郵箱關聯",
+          "title_en": "Banger Mail"
+        },
+        {
+          "title": "馬庫塞 (Macuse)",
+          "link": "https://www.producthunt.com/products/macuse",
+          "desc": "在 macOS 上賦予你的 AI 超能力討論 |關聯",
+          "title_en": "Macuse"
+        },
+        {
+          "title": "流暢 (Flowly)",
+          "link": "https://www.producthunt.com/products/flowly-6",
+          "desc": "在桌面和 iPhone 上運行的個人 AI 代理關聯",
+          "title_en": "Flowly"
+        },
+        {
+          "title": "索拉里斯 (Solaris)",
+          "link": "https://www.producthunt.com/products/build-club",
+          "desc": "貴公司的人工智慧採用與技能提昇平台討論 |關聯",
+          "title_en": "Solaris"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 上市，川普政府可從人工智慧熱潮中分得 5%",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+          "summary": "OpenAI 已提出給予美國政府 5% 的所有權，作為緩解與川普政府緊張關係的一種方式…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 正在與三星討論新的客製化晶片",
+          "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+          "summary": "這項消息發布大約一週前，OpenAI 宣布與博通合作推出自己的客製化人工智慧晶片。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI擬將5%股權捐贈給美國主權財富基金",
+          "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+          "summary": "據報道，OpenAI 執行長 Sam Altman 提議將公司 5% 的股權捐贈給美國主權財富基金，以重振...",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 上市，川普政府可從人工智慧熱潮中分得 5%",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
+        "summary": "OpenAI 已提出給予美國政府 5% 的所有權，作為緩解與川普政府緊張關係的一種方式…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "快速旅遊影片",
+          "detail": "用 Flowly 來幫助 SS 製作旅遊 Reel，發在 Instagram 和 TikTok，預計 2 天出成果"
+        },
+        {
+          "title": "AI 美食內容",
+          "detail": "利用 Scritty 來搜尋和整理美食相關的 AI 編碼代理，發在 SS 的博客和 YouTube 頻道，預計 3 天出成果"
+        },
+        {
+          "title": "旅遊 Vlog",
+          "detail": "用 Macuse 來賦予 AI 編碼代理超能力，幫助 SS 製作旅遊 Vlog，發在 YouTube 和 Facebook，預計 4 天出成果"
         }
       ]
     }
