@@ -10,6 +10,13 @@
 | Agent Sprite Forge | 其他 | 開源 2D 遊戲開發工具，自然語言生成精靈圖/地圖/動畫 | 已整理 | [連結](https://app.notion.com/p/39230727f52581059d17f7d2f1a4f59d) |
 | OpenMontage | 其他 | AI 驅動開源影片生產系統，串接 12 條生產管線 | 已整理 | [連結](https://app.notion.com/p/39230727f525819ab32cc9276cc0068a) |
 | Jeongjitgan（정짓간）釜山站店 | 8月釜山 | 蒜味豬肉湯飯，米其林推薦兩年，釜山站7號出口100公尺 | 已整理 | [連結](https://app.notion.com/p/39230727f5258104ba72c49236448174) |
+| Codex & Claude Code 實戰分享：200 億 Token 的開發經驗總結 | Claude Code 教學 | 2 個月燒 200 億 token 的教訓，分享 5 個實用 Coding Agent Skills | 已整理 | [連結](https://app.notion.com/p/39230727f5258151ad50c2be6ddb550c) |
+| Social Cards Engine - Claude IG 圖卡 AI 助理 | 其他 | 開源 Claude AI 驅動 IG 圖卡生成器，含品牌訓練與 AI 審稿員 | 已整理 | [連結](https://app.notion.com/p/39230727f525812daeb6e478d4b1cf5b) |
+| 35+ 媽媽副業入門包：10 個免費 App | 其他 | 10 個免費 App 組合，從寫文、剪片到知識庫，零成本起步副業 | 已整理 | [連結](https://app.notion.com/p/39230727f52581a18f1fef09ff75b543) |
+| Claude 旁門左道：用 Claude 生成旅遊遊記與費用結算 | 文章/網頁 | 把行程和收據文字貼給 Claude，半小時生成遊記草稿+費用結算 | 已整理 | [連結](https://app.notion.com/p/39230727f525819b97a9dc0af01a092d) |
+| Vibe Reader - AI 內容速讀卡片工具 | 其他 | 把長文章、YouTube 影片轉成重點卡片，快速篩選值得看的內容 | 已整理 | [連結](https://app.notion.com/p/39230727f52581329f43c54909d4b8d0) |
+| Gemini 的最佳實作：YouTube 逐字稿轉知識庫 | 文章/網頁 | 用 Gemini 長上下文把 YouTube 逐字稿整理寫入 Obsidian 知識庫 | 已整理 | [連結](https://app.notion.com/p/39230727f52581b89b72e19b8f65f057) |
+| 一個散戶的上升之路：12 個月從技術分析新手到量化交易媒體品牌 | 文章/網頁 | 12 個月工具路線圖，從看不懂 K 線到量化交易媒體品牌 | 已整理 | [連結](https://app.notion.com/p/39230727f525811eb865c1ea5c3b12fc) |
 
 ---
 
