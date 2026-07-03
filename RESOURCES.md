@@ -11,6 +11,7 @@
 | OpenMontage | 其他 | AI 驅動開源影片生產系統，串接 12 條生產管線 | 已整理 | [連結](https://app.notion.com/p/39230727f525819ab32cc9276cc0068a) |
 | Jeongjitgan（정짓간）釜山站店 | 8月釜山 | 蒜味豬肉湯飯，米其林推薦兩年，釜山站7號出口100公尺 | 已整理 | [連結](https://app.notion.com/p/39230727f5258104ba72c49236448174) |
 | Codex & Claude Code 實戰分享：200 億 Token 的開發經驗總結 | Claude Code 教學 | 2 個月 Codex 開發燒 200 億 token，分享 5 個提升效率的實用 Skills | 已整理 | [連結](https://app.notion.com/p/39230727f5258151ad50c2be6ddb550c) |
+| Social Cards Engine - Claude IG 圖卡 AI 助理 | 其他 | Denis Wei 開源完整方案：IG 圖卡生成、品牌架構訓練、會挑毛病的 AI 審稿員。MIT 開源、免費、持續更新 | 已整理 | [連結](https://app.notion.com/p/39230727f525812daeb6e478d4b1cf5b) |
 
 ---
 
