@@ -1,127 +1,109 @@
 {
-  "updated": "2026-07-03 12:39 HKT",
+  "updated": "2026-07-04 12:32 HKT",
   "news": [
     {
-      "title": "OpenAI 上市，川普政府可從人工智慧熱潮中分得 5%",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-      "summary": "OpenAI 已提出給予美國政府 5% 的所有權，作為緩解與川普政府緊張關係的一種方式…",
+      "title": "Anthropic想要開發自己的藥物",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "summary": "在本週稍早的「簡報：人工智慧用於科學」活動中，Anthropic 宣布了 Claude Science，一個新的「人工智慧工作台…",
       "source": "The Verge"
     },
     {
-      "title": "馬克·祖克柏告訴員工，人工智慧代理的進展沒有他希望的那麼快",
-      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "summary": "據報道，在一次內部會議上，Meta 執行長表示，人工智慧開發工作的進展沒有預期的那麼快…",
+      "title": "Midjourney 醫療掃描器的幕後觀察留下了許多懸而未決的問題",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "summary": "Midjourney 展示了更多其未來派醫療掃描器。它還沒有顯示出太多證據證明它有效。這家人工智慧新創公司…",
+      "source": "The Verge"
+    },
+    {
+      "title": "今年您需要的唯一人工智慧術語表",
+      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "人工智慧的興起帶來了大量新術語和俚語。這是一個術語表，其中包含一些最重要的定義…",
       "source": "TechCrunch"
     },
     {
-      "title": "澤西·邁克 (Jersey Mike) 的 IPO 表明人工智能炒作變得多麼糟糕",
-      "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "summary": "為了好玩，我看了一下 Jersey Mike 的 IPO 文件。一家三明治店當然不需要提到人工智慧。乙…",
+      "title": "瀏覽器之戰不再是搜尋問題——這裡是 Chrome 和 Safari 的最佳替代品",
+      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "summary": "我們總結了目前可用的一些頂級替代瀏覽器，旨在挑戰 Chrome 和 Safari…",
       "source": "TechCrunch"
     },
     {
-      "title": "Meta 悄悄推出 vivi 編碼遊戲應用程式 Pocket",
-      "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-      "summary": "Meta 悄悄地推出了 Pocket，這是一款實驗性 AI 應用程序，可讓用戶使用…生成和共享互動式迷你遊戲。",
-      "source": "TechCrunch"
+      "title": "一種使死去捐贈者眼球復活的裝置可以使眼睛移植成為可能",
+      "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "summary": "移植整個人的眼睛並不容易。手術難度很高。眼睛本身開始退化…",
+      "source": "MIT Tech"
     },
     {
-      "title": "Anthropic 正在與三星討論新的客製化晶片",
-      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "summary": "這項消息發布大約一週前，OpenAI 宣布與博通合作推出自己的客製化人工智慧晶片。",
-      "source": "TechCrunch"
+      "title": "下載：冒煙的“結局”和新的伊麗莎白熊故事",
+      "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "summary": "這是今天的《下載》版本，這是我們的工作日通訊，每天提供世界上正在發生的事情…",
+      "source": "MIT Tech"
     },
     {
-      "title": "OpenAI擬將5%股權捐贈給美國主權財富基金",
-      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "summary": "據報道，OpenAI 執行長 Sam Altman 提議將公司 5% 的股權捐贈給美國主權財富基金，以重振...",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "微軟承諾投入 25 億美元成立自己的人工智慧部署公司",
-      "link": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
-      "summary": "繼亞馬遜、OpenAI 和 Anthropic 之後，微軟也推出了新的人工智慧部署團隊。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "是的，我們現在正在使用 OpenClaw",
-      "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
-      "summary": "本·格斯（Ben Guez）“在他的私信中擁有一群潛在的國際妻子”，這要歸功於他使用 Open 設定的自動化腳本…",
-      "source": "TechCrunch"
+      "title": "英國的代際菸草禁令可能行不通。無論如何我都支持它。",
+      "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "summary": "身為兩個小女孩的父母，我常常思考她們的童年與我的童年有何不同。這位七歲的孩子是…",
+      "source": "MIT Tech"
     }
   ],
   "tools": [
     {
-      "title": "斯克里蒂 (scritty)",
-      "link": "https://www.producthunt.com/products/scritty",
-      "desc": "為每個人工智慧編碼代理提供共享的、可搜尋的記憶體關聯",
-      "title_en": "scritty"
+      "title": "循環進球 (Goals from Loops)",
+      "link": "https://www.producthunt.com/products/loops",
+      "desc": "衡量一項活動是否達到了預期的結果 討論 |關聯",
+      "title_en": "Goals from Loops"
     },
     {
-      "title": "班格郵件 (Banger Mail)",
-      "link": "https://www.producthunt.com/products/banger-mail",
-      "desc": "團隊和 AI 代理的共享郵箱關聯",
-      "title_en": "Banger Mail"
+      "title": "奧斯陸 (Osloq)",
+      "link": "https://www.producthunt.com/products/osloq",
+      "desc": "為您重現 GitHub 問題的 AI 代理關聯",
+      "title_en": "Osloq"
     },
     {
-      "title": "馬庫塞 (Macuse)",
-      "link": "https://www.producthunt.com/products/macuse",
-      "desc": "在 macOS 上賦予你的 AI 超能力討論 |關聯",
-      "title_en": "Macuse"
+      "title": "玉門 (Tamamon)",
+      "link": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
+      "desc": "與 Claude 一起編寫程式碼時會成長的桌面寵物 程式碼討論 |關聯",
+      "title_en": "Tamamon"
     },
     {
-      "title": "流暢 (Flowly)",
-      "link": "https://www.producthunt.com/products/flowly-6",
-      "desc": "在桌面和 iPhone 上運行的個人 AI 代理關聯",
-      "title_en": "Flowly"
+      "title": "Raycast 釉料 (Glaze by Raycast)",
+      "link": "https://www.producthunt.com/products/glaze-4",
+      "desc": "透過與 AI 聊天創建您自己的 Mac 應用程式 | 討論 |關聯",
+      "title_en": "Glaze by Raycast"
     },
     {
-      "title": "索拉里斯 (Solaris)",
-      "link": "https://www.producthunt.com/products/build-club",
-      "desc": "貴公司的人工智慧採用與技能提昇平台討論 |關聯",
-      "title_en": "Solaris"
+      "title": "沃克斯 (Vox)",
+      "link": "https://www.producthunt.com/products/vox-5",
+      "desc": "發聲、發聲 — 與 GitHub Copilot 討論 |關聯",
+      "title_en": "Vox"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 上市，川普政府可從人工智慧熱潮中分得 5%",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-      "summary": "OpenAI 已提出給予美國政府 5% 的所有權，作為緩解與川普政府緊張關係的一種方式…",
+      "title": "Anthropic想要開發自己的藥物",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "summary": "在本週稍早的「簡報：人工智慧用於科學」活動中，Anthropic 宣布了 Claude Science，一個新的「人工智慧工作台…",
       "source": "The Verge"
-    },
-    {
-      "title": "Anthropic 正在與三星討論新的客製化晶片",
-      "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-      "summary": "這項消息發布大約一週前，OpenAI 宣布與博通合作推出自己的客製化人工智慧晶片。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI擬將5%股權捐贈給美國主權財富基金",
-      "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
-      "summary": "據報道，OpenAI 執行長 Sam Altman 提議將公司 5% 的股權捐贈給美國主權財富基金，以重振...",
-      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "OpenAI 上市，川普政府可從人工智慧熱潮中分得 5%",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-    "summary": "OpenAI 已提出給予美國政府 5% 的所有權，作為緩解與川普政府緊張關係的一種方式…",
+    "title": "Anthropic想要開發自己的藥物",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+    "summary": "在本週稍早的「簡報：人工智慧用於科學」活動中，Anthropic 宣布了 Claude Science，一個新的「人工智慧工作台…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "快速旅遊影片",
-      "detail": "用 Flowly 來幫助 SS 製作旅遊 Reel，發在 Instagram 和 TikTok，預計 2 天出成果"
+      "title": "用 Glaze 制作旅遊 App",
+      "detail": "用 Glaze by Raycast 創建旅遊導航 App，2 天內完成設計，發佈到 SS 社交媒體，預計 1 周內出成果"
     },
     {
-      "title": "AI 美食內容",
-      "detail": "利用 Scritty 來搜尋和整理美食相關的 AI 編碼代理，發在 SS 的博客和 YouTube 頻道，預計 3 天出成果"
+      "title": "測試旅遊程式碼",
+      "detail": "用 Tamamon 桌面寵物編寫程式碼，測試旅遊相關功能，發佈到 GitHub，預計 3 天內出成果"
     },
     {
-      "title": "旅遊 Vlog",
-      "detail": "用 Macuse 來賦予 AI 編碼代理超能力，幫助 SS 製作旅遊 Vlog，發在 YouTube 和 Facebook，預計 4 天出成果"
+      "title": "優化旅遊目標",
+      "detail": "用 Goals from Loops 評估旅遊目標，分析數據，調整內容策略，發佈到 SS 網站，預計 2 周內出成果"
     }
   ],
   "history": {
@@ -2644,6 +2626,114 @@
         {
           "title": "旅遊 Vlog",
           "detail": "用 Macuse 來賦予 AI 編碼代理超能力，幫助 SS 製作旅遊 Vlog，發在 YouTube 和 Facebook，預計 4 天出成果"
+        }
+      ]
+    },
+    "2026-07-04": {
+      "news": [
+        {
+          "title": "Anthropic想要開發自己的藥物",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+          "summary": "在本週稍早的「簡報：人工智慧用於科學」活動中，Anthropic 宣布了 Claude Science，一個新的「人工智慧工作台…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Midjourney 醫療掃描器的幕後觀察留下了許多懸而未決的問題",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+          "summary": "Midjourney 展示了更多其未來派醫療掃描器。它還沒有顯示出太多證據證明它有效。這家人工智慧新創公司…",
+          "source": "The Verge"
+        },
+        {
+          "title": "今年您需要的唯一人工智慧術語表",
+          "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "summary": "人工智慧的興起帶來了大量新術語和俚語。這是一個術語表，其中包含一些最重要的定義…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "瀏覽器之戰不再是搜尋問題——這裡是 Chrome 和 Safari 的最佳替代品",
+          "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+          "summary": "我們總結了目前可用的一些頂級替代瀏覽器，旨在挑戰 Chrome 和 Safari…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "一種使死去捐贈者眼球復活的裝置可以使眼睛移植成為可能",
+          "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+          "summary": "移植整個人的眼睛並不容易。手術難度很高。眼睛本身開始退化…",
+          "source": "MIT Tech"
+        },
+        {
+          "title": "下載：冒煙的“結局”和新的伊麗莎白熊故事",
+          "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+          "summary": "這是今天的《下載》版本，這是我們的工作日通訊，每天提供世界上正在發生的事情…",
+          "source": "MIT Tech"
+        },
+        {
+          "title": "英國的代際菸草禁令可能行不通。無論如何我都支持它。",
+          "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+          "summary": "身為兩個小女孩的父母，我常常思考她們的童年與我的童年有何不同。這位七歲的孩子是…",
+          "source": "MIT Tech"
+        }
+      ],
+      "tools": [
+        {
+          "title": "循環進球 (Goals from Loops)",
+          "link": "https://www.producthunt.com/products/loops",
+          "desc": "衡量一項活動是否達到了預期的結果 討論 |關聯",
+          "title_en": "Goals from Loops"
+        },
+        {
+          "title": "奧斯陸 (Osloq)",
+          "link": "https://www.producthunt.com/products/osloq",
+          "desc": "為您重現 GitHub 問題的 AI 代理關聯",
+          "title_en": "Osloq"
+        },
+        {
+          "title": "玉門 (Tamamon)",
+          "link": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
+          "desc": "與 Claude 一起編寫程式碼時會成長的桌面寵物 程式碼討論 |關聯",
+          "title_en": "Tamamon"
+        },
+        {
+          "title": "Raycast 釉料 (Glaze by Raycast)",
+          "link": "https://www.producthunt.com/products/glaze-4",
+          "desc": "透過與 AI 聊天創建您自己的 Mac 應用程式 | 討論 |關聯",
+          "title_en": "Glaze by Raycast"
+        },
+        {
+          "title": "沃克斯 (Vox)",
+          "link": "https://www.producthunt.com/products/vox-5",
+          "desc": "發聲、發聲 — 與 GitHub Copilot 討論 |關聯",
+          "title_en": "Vox"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Anthropic想要開發自己的藥物",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+          "summary": "在本週稍早的「簡報：人工智慧用於科學」活動中，Anthropic 宣布了 Claude Science，一個新的「人工智慧工作台…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Anthropic想要開發自己的藥物",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+        "summary": "在本週稍早的「簡報：人工智慧用於科學」活動中，Anthropic 宣布了 Claude Science，一個新的「人工智慧工作台…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Glaze 制作旅遊 App",
+          "detail": "用 Glaze by Raycast 創建旅遊導航 App，2 天內完成設計，發佈到 SS 社交媒體，預計 1 周內出成果"
+        },
+        {
+          "title": "測試旅遊程式碼",
+          "detail": "用 Tamamon 桌面寵物編寫程式碼，測試旅遊相關功能，發佈到 GitHub，預計 3 天內出成果"
+        },
+        {
+          "title": "優化旅遊目標",
+          "detail": "用 Goals from Loops 評估旅遊目標，分析數據，調整內容策略，發佈到 SS 網站，預計 2 周內出成果"
         }
       ]
     }
