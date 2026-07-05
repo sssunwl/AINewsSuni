@@ -1,109 +1,103 @@
 {
-  "updated": "2026-07-04 12:32 HKT",
+  "updated": "2026-07-05 12:53 HKT",
   "news": [
     {
-      "title": "Anthropic想要開發自己的藥物",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "summary": "在本週稍早的「簡報：人工智慧用於科學」活動中，Anthropic 宣布了 Claude Science，一個新的「人工智慧工作台…",
+      "title": "同人小說界正在與人工智慧及其本身交戰",
+      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "summary": "過去一周，一場新的同人作品運動拉開序幕，旨在剷除使用生成人工智慧的作者。但是…",
       "source": "The Verge"
     },
     {
-      "title": "Midjourney 醫療掃描器的幕後觀察留下了許多懸而未決的問題",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-      "summary": "Midjourney 展示了更多其未來派醫療掃描器。它還沒有顯示出太多證據證明它有效。這家人工智慧新創公司…",
-      "source": "The Verge"
-    },
-    {
-      "title": "今年您需要的唯一人工智慧術語表",
-      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "summary": "人工智慧的興起帶來了大量新術語和俚語。這是一個術語表，其中包含一些最重要的定義…",
+      "title": "谷歌新廣告想像在人工智慧的幫助下撰寫的《獨立宣言》",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "summary": "《獨立宣言》簽署 250 年後，一則新廣告問道：如果 Fou...",
       "source": "TechCrunch"
     },
     {
-      "title": "瀏覽器之戰不再是搜尋問題——這裡是 Chrome 和 Safari 的最佳替代品",
-      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
-      "summary": "我們總結了目前可用的一些頂級替代瀏覽器，旨在挑戰 Chrome 和 Safari…",
+      "title": "《中程》希望好萊塢電影公司透露其人工智慧使用的細節",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "summary": "作為與三個好萊塢電影公司正在進行的法律糾紛的一部分，中途正在尋求迫使這些電影公司披露…",
       "source": "TechCrunch"
     },
     {
-      "title": "一種使死去捐贈者眼球復活的裝置可以使眼睛移植成為可能",
-      "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-      "summary": "移植整個人的眼睛並不容易。手術難度很高。眼睛本身開始退化…",
-      "source": "MIT Tech"
+      "title": "據報道，阿里巴巴禁止員工使用Claude代碼",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "據報道，阿里巴巴已將 Claude Code 列為高風險軟體。",
+      "source": "TechCrunch"
     },
     {
-      "title": "下載：冒煙的“結局”和新的伊麗莎白熊故事",
-      "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-      "summary": "這是今天的《下載》版本，這是我們的工作日通訊，每天提供世界上正在發生的事情…",
-      "source": "MIT Tech"
-    },
-    {
-      "title": "英國的代際菸草禁令可能行不通。無論如何我都支持它。",
-      "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-      "summary": "身為兩個小女孩的父母，我常常思考她們的童年與我的童年有何不同。這位七歲的孩子是…",
-      "source": "MIT Tech"
+      "title": "什麼是Mistral人工智慧？關於 OpenAI 競爭對手的一切訊息",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI 提供一些開源 AI 模型，自 2023 年創建以來已籌集了大量資金，...",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "循環進球 (Goals from Loops)",
-      "link": "https://www.producthunt.com/products/loops",
-      "desc": "衡量一項活動是否達到了預期的結果 討論 |關聯",
-      "title_en": "Goals from Loops"
+      "title": "維達 (Vida)",
+      "link": "https://www.producthunt.com/products/vida-5",
+      "desc": "克隆你自己。在你提出要求之前讓 AI 來完成工作 討論 |關聯",
+      "title_en": "Vida"
     },
     {
-      "title": "奧斯陸 (Osloq)",
-      "link": "https://www.producthunt.com/products/osloq",
-      "desc": "為您重現 GitHub 問題的 AI 代理關聯",
-      "title_en": "Osloq"
+      "title": "Termi協議 (Termi Protocol)",
+      "link": "https://www.producthunt.com/products/termi-protocol",
+      "desc": "在 3D 討論中觀看 AI 編碼代理的即時建立 |關聯",
+      "title_en": "Termi Protocol"
     },
     {
-      "title": "玉門 (Tamamon)",
-      "link": "https://www.producthunt.com/products/tamamon-a-tiny-desktop-pet-that-grows",
-      "desc": "與 Claude 一起編寫程式碼時會成長的桌面寵物 程式碼討論 |關聯",
-      "title_en": "Tamamon"
+      "title": "CentryAI",
+      "link": "https://www.producthunt.com/products/centryai",
+      "desc": "訂閱追蹤器由忘記其中 11 個的人建立關聯",
+      "title_en": "CentryAI"
+    },
+    {
+      "title": "清單福克斯 (ChecklistFox)",
+      "link": "https://www.producthunt.com/products/checklistfox",
+      "desc": "AI 清單製作工具，可製作精美的 pdf 文件，免費且即時討論 |關聯",
+      "title_en": "ChecklistFox"
     },
     {
       "title": "Raycast 釉料 (Glaze by Raycast)",
       "link": "https://www.producthunt.com/products/glaze-4",
       "desc": "透過與 AI 聊天創建您自己的 Mac 應用程式 | 討論 |關聯",
       "title_en": "Glaze by Raycast"
-    },
-    {
-      "title": "沃克斯 (Vox)",
-      "link": "https://www.producthunt.com/products/vox-5",
-      "desc": "發聲、發聲 — 與 GitHub Copilot 討論 |關聯",
-      "title_en": "Vox"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic想要開發自己的藥物",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-      "summary": "在本週稍早的「簡報：人工智慧用於科學」活動中，Anthropic 宣布了 Claude Science，一個新的「人工智慧工作台…",
-      "source": "The Verge"
+      "title": "據報道，阿里巴巴禁止員工使用Claude代碼",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "據報道，阿里巴巴已將 Claude Code 列為高風險軟體。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "什麼是Mistral人工智慧？關於 OpenAI 競爭對手的一切訊息",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI 提供一些開源 AI 模型，自 2023 年創建以來已籌集了大量資金，...",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Anthropic想要開發自己的藥物",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-    "summary": "在本週稍早的「簡報：人工智慧用於科學」活動中，Anthropic 宣布了 Claude Science，一個新的「人工智慧工作台…",
-    "source": "The Verge"
+    "title": "據報道，阿里巴巴禁止員工使用Claude代碼",
+    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "summary": "據報道，阿里巴巴已將 Claude Code 列為高風險軟體。",
+    "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用 Glaze 制作旅遊 App",
-      "detail": "用 Glaze by Raycast 創建旅遊導航 App，2 天內完成設計，發佈到 SS 社交媒體，預計 1 周內出成果"
+      "title": "克隆自己賺錢",
+      "detail": "用 Vida 克隆自己，讓 AI 幫忙創作旅遊內容，發在 Instagram 上，1 周內就能出成果"
     },
     {
-      "title": "測試旅遊程式碼",
-      "detail": "用 Tamamon 桌面寵物編寫程式碼，測試旅遊相關功能，發佈到 GitHub，預計 3 天內出成果"
+      "title": "AI 清單賺錢",
+      "detail": "用 ChecklistFox 創建旅遊清單 pdf 文件，發在 SS 的網站上，預計 3 天內就能吸引更多粉絲"
     },
     {
-      "title": "優化旅遊目標",
-      "detail": "用 Goals from Loops 評估旅遊目標，分析數據，調整內容策略，發佈到 SS 網站，預計 2 周內出成果"
+      "title": "追蹤訂閱賺錢",
+      "detail": "用 CentryAI 訂閱追蹤器，幫助 SS 的粉絲追蹤旅遊內容，發在 Facebook 群組上，預計 2 周內就能增加互動"
     }
   ],
   "history": {
@@ -2734,6 +2728,108 @@
         {
           "title": "優化旅遊目標",
           "detail": "用 Goals from Loops 評估旅遊目標，分析數據，調整內容策略，發佈到 SS 網站，預計 2 周內出成果"
+        }
+      ]
+    },
+    "2026-07-05": {
+      "news": [
+        {
+          "title": "同人小說界正在與人工智慧及其本身交戰",
+          "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+          "summary": "過去一周，一場新的同人作品運動拉開序幕，旨在剷除使用生成人工智慧的作者。但是…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌新廣告想像在人工智慧的幫助下撰寫的《獨立宣言》",
+          "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+          "summary": "《獨立宣言》簽署 250 年後，一則新廣告問道：如果 Fou...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "《中程》希望好萊塢電影公司透露其人工智慧使用的細節",
+          "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+          "summary": "作為與三個好萊塢電影公司正在進行的法律糾紛的一部分，中途正在尋求迫使這些電影公司披露…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "據報道，阿里巴巴禁止員工使用Claude代碼",
+          "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+          "summary": "據報道，阿里巴巴已將 Claude Code 列為高風險軟體。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "什麼是Mistral人工智慧？關於 OpenAI 競爭對手的一切訊息",
+          "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+          "summary": "Mistral AI 提供一些開源 AI 模型，自 2023 年創建以來已籌集了大量資金，...",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "維達 (Vida)",
+          "link": "https://www.producthunt.com/products/vida-5",
+          "desc": "克隆你自己。在你提出要求之前讓 AI 來完成工作 討論 |關聯",
+          "title_en": "Vida"
+        },
+        {
+          "title": "Termi協議 (Termi Protocol)",
+          "link": "https://www.producthunt.com/products/termi-protocol",
+          "desc": "在 3D 討論中觀看 AI 編碼代理的即時建立 |關聯",
+          "title_en": "Termi Protocol"
+        },
+        {
+          "title": "CentryAI",
+          "link": "https://www.producthunt.com/products/centryai",
+          "desc": "訂閱追蹤器由忘記其中 11 個的人建立關聯",
+          "title_en": "CentryAI"
+        },
+        {
+          "title": "清單福克斯 (ChecklistFox)",
+          "link": "https://www.producthunt.com/products/checklistfox",
+          "desc": "AI 清單製作工具，可製作精美的 pdf 文件，免費且即時討論 |關聯",
+          "title_en": "ChecklistFox"
+        },
+        {
+          "title": "Raycast 釉料 (Glaze by Raycast)",
+          "link": "https://www.producthunt.com/products/glaze-4",
+          "desc": "透過與 AI 聊天創建您自己的 Mac 應用程式 | 討論 |關聯",
+          "title_en": "Glaze by Raycast"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "據報道，阿里巴巴禁止員工使用Claude代碼",
+          "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+          "summary": "據報道，阿里巴巴已將 Claude Code 列為高風險軟體。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "什麼是Mistral人工智慧？關於 OpenAI 競爭對手的一切訊息",
+          "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+          "summary": "Mistral AI 提供一些開源 AI 模型，自 2023 年創建以來已籌集了大量資金，...",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "據報道，阿里巴巴禁止員工使用Claude代碼",
+        "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+        "summary": "據報道，阿里巴巴已將 Claude Code 列為高風險軟體。",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "克隆自己賺錢",
+          "detail": "用 Vida 克隆自己，讓 AI 幫忙創作旅遊內容，發在 Instagram 上，1 周內就能出成果"
+        },
+        {
+          "title": "AI 清單賺錢",
+          "detail": "用 ChecklistFox 創建旅遊清單 pdf 文件，發在 SS 的網站上，預計 3 天內就能吸引更多粉絲"
+        },
+        {
+          "title": "追蹤訂閱賺錢",
+          "detail": "用 CentryAI 訂閱追蹤器，幫助 SS 的粉絲追蹤旅遊內容，發在 Facebook 群組上，預計 2 周內就能增加互動"
         }
       ]
     }
