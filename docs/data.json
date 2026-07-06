@@ -1,103 +1,78 @@
 {
-  "updated": "2026-07-05 12:53 HKT",
+  "updated": "2026-07-06 13:08 HKT",
   "news": [
     {
-      "title": "同人小說界正在與人工智慧及其本身交戰",
-      "link": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
-      "summary": "過去一周，一場新的同人作品運動拉開序幕，旨在剷除使用生成人工智慧的作者。但是…",
+      "title": "一些國家的富人正在讓人工智慧教導他們的孩子",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+      "summary": "大多數美國人不信任人工智慧。事實證明，它不知道什麼是安全的披薩配料。人們甚至不想...",
       "source": "The Verge"
     },
     {
-      "title": "谷歌新廣告想像在人工智慧的幫助下撰寫的《獨立宣言》",
-      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
-      "summary": "《獨立宣言》簽署 250 年後，一則新廣告問道：如果 Fou...",
-      "source": "TechCrunch"
+      "title": "令人憤怒的Google廣告想像創辦人擁抱人工智慧",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "summary": "「集體項目，但定在1776年。」這就是 Google Workspace 的新廣告的開頭。而事情只會變得更令人毛骨悚然…",
+      "source": "The Verge"
     },
     {
-      "title": "《中程》希望好萊塢電影公司透露其人工智慧使用的細節",
-      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
-      "summary": "作為與三個好萊塢電影公司正在進行的法律糾紛的一部分，中途正在尋求迫使這些電影公司披露…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "據報道，阿里巴巴禁止員工使用Claude代碼",
-      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "summary": "據報道，阿里巴巴已將 Claude Code 列為高風險軟體。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "什麼是Mistral人工智慧？關於 OpenAI 競爭對手的一切訊息",
-      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "summary": "Mistral AI 提供一些開源 AI 模型，自 2023 年創建以來已籌集了大量資金，...",
+      "title": "亞馬遜將停止接受 Mechanical Turk 新客戶",
+      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "summary": "這可能是亞馬遜土耳其機器人的最後日子。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "維達 (Vida)",
-      "link": "https://www.producthunt.com/products/vida-5",
-      "desc": "克隆你自己。在你提出要求之前讓 AI 來完成工作 討論 |關聯",
-      "title_en": "Vida"
+      "title": "文件Alot (DocsAlot)",
+      "link": "https://www.producthunt.com/products/docsalot-2",
+      "desc": "適用於人類和人工智慧系統的文檔關聯",
+      "title_en": "DocsAlot"
     },
     {
-      "title": "Termi協議 (Termi Protocol)",
-      "link": "https://www.producthunt.com/products/termi-protocol",
-      "desc": "在 3D 討論中觀看 AI 編碼代理的即時建立 |關聯",
-      "title_en": "Termi Protocol"
+      "title": "提及Drop MCP (MentionDrop MCP)",
+      "link": "https://www.producthunt.com/products/mentiondrop",
+      "desc": "為您的人工智慧代理提供即時市場訊號關聯",
+      "title_en": "MentionDrop MCP"
     },
     {
-      "title": "CentryAI",
-      "link": "https://www.producthunt.com/products/centryai",
-      "desc": "訂閱追蹤器由忘記其中 11 個的人建立關聯",
-      "title_en": "CentryAI"
+      "title": "圈聊 (CircleChat)",
+      "link": "https://www.producthunt.com/products/circlechat",
+      "desc": "給你的人工智慧代理一個寬鬆的空間、一個任務板和一個老闆關聯",
+      "title_en": "CircleChat"
     },
     {
-      "title": "清單福克斯 (ChecklistFox)",
-      "link": "https://www.producthunt.com/products/checklistfox",
-      "desc": "AI 清單製作工具，可製作精美的 pdf 文件，免費且即時討論 |關聯",
-      "title_en": "ChecklistFox"
+      "title": "佩內​​恩 (Pennen)",
+      "link": "https://www.producthunt.com/products/pennen",
+      "desc": "每天安靜地手寫一頁。沒有飼料，就沒有人工智慧。討論 |關聯",
+      "title_en": "Pennen"
     },
     {
-      "title": "Raycast 釉料 (Glaze by Raycast)",
-      "link": "https://www.producthunt.com/products/glaze-4",
-      "desc": "透過與 AI 聊天創建您自己的 Mac 應用程式 | 討論 |關聯",
-      "title_en": "Glaze by Raycast"
+      "title": "嘗試案例 (TryCase)",
+      "link": "https://www.producthunt.com/products/trycase",
+      "desc": "AI 編碼代理程式的一次性測試環境 討論 |關聯",
+      "title_en": "TryCase"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
-  "major": [
-    {
-      "title": "據報道，阿里巴巴禁止員工使用Claude代碼",
-      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-      "summary": "據報道，阿里巴巴已將 Claude Code 列為高風險軟體。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "什麼是Mistral人工智慧？關於 OpenAI 競爭對手的一切訊息",
-      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-      "summary": "Mistral AI 提供一些開源 AI 模型，自 2023 年創建以來已籌集了大量資金，...",
-      "source": "TechCrunch"
-    }
-  ],
+  "major": [],
   "pick": {
-    "title": "據報道，阿里巴巴禁止員工使用Claude代碼",
-    "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "summary": "據報道，阿里巴巴已將 Claude Code 列為高風險軟體。",
-    "source": "TechCrunch"
+    "title": "一些國家的富人正在讓人工智慧教導他們的孩子",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+    "summary": "大多數美國人不信任人工智慧。事實證明，它不知道什麼是安全的披薩配料。人們甚至不想...",
+    "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "克隆自己賺錢",
-      "detail": "用 Vida 克隆自己，讓 AI 幫忙創作旅遊內容，發在 Instagram 上，1 周內就能出成果"
+      "title": "AI 旅遊內容創作",
+      "detail": "用 CircleChat 幫助 SS 的 AI 代理創建旅遊內容，發在 Instagram 和 TikTok，預計 3 天出成果"
     },
     {
-      "title": "AI 清單賺錢",
-      "detail": "用 ChecklistFox 創建旅遊清單 pdf 文件，發在 SS 的網站上，預計 3 天內就能吸引更多粉絲"
+      "title": "智能市場洞察",
+      "detail": "利用 MentionDrop MCP 提供即時市場訊息，幫助 SS 的品牌做出更明智的決定，發在 Newsletter，預計 1 周出成果"
     },
     {
-      "title": "追蹤訂閱賺錢",
-      "detail": "用 CentryAI 訂閱追蹤器，幫助 SS 的粉絲追蹤旅遊內容，發在 Facebook 群組上，預計 2 周內就能增加互動"
+      "title": "AI 日記寫作",
+      "detail": "使用 Pennen 每天手寫一頁日記，訓練 AI 寫作能力，發在Medium，預計 2 周出成果"
     }
   ],
   "history": {
@@ -2830,6 +2805,83 @@
         {
           "title": "追蹤訂閱賺錢",
           "detail": "用 CentryAI 訂閱追蹤器，幫助 SS 的粉絲追蹤旅遊內容，發在 Facebook 群組上，預計 2 周內就能增加互動"
+        }
+      ]
+    },
+    "2026-07-06": {
+      "news": [
+        {
+          "title": "一些國家的富人正在讓人工智慧教導他們的孩子",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+          "summary": "大多數美國人不信任人工智慧。事實證明，它不知道什麼是安全的披薩配料。人們甚至不想...",
+          "source": "The Verge"
+        },
+        {
+          "title": "令人憤怒的Google廣告想像創辦人擁抱人工智慧",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+          "summary": "「集體項目，但定在1776年。」這就是 Google Workspace 的新廣告的開頭。而事情只會變得更令人毛骨悚然…",
+          "source": "The Verge"
+        },
+        {
+          "title": "亞馬遜將停止接受 Mechanical Turk 新客戶",
+          "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+          "summary": "這可能是亞馬遜土耳其機器人的最後日子。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "文件Alot (DocsAlot)",
+          "link": "https://www.producthunt.com/products/docsalot-2",
+          "desc": "適用於人類和人工智慧系統的文檔關聯",
+          "title_en": "DocsAlot"
+        },
+        {
+          "title": "提及Drop MCP (MentionDrop MCP)",
+          "link": "https://www.producthunt.com/products/mentiondrop",
+          "desc": "為您的人工智慧代理提供即時市場訊號關聯",
+          "title_en": "MentionDrop MCP"
+        },
+        {
+          "title": "圈聊 (CircleChat)",
+          "link": "https://www.producthunt.com/products/circlechat",
+          "desc": "給你的人工智慧代理一個寬鬆的空間、一個任務板和一個老闆關聯",
+          "title_en": "CircleChat"
+        },
+        {
+          "title": "佩內​​恩 (Pennen)",
+          "link": "https://www.producthunt.com/products/pennen",
+          "desc": "每天安靜地手寫一頁。沒有飼料，就沒有人工智慧。討論 |關聯",
+          "title_en": "Pennen"
+        },
+        {
+          "title": "嘗試案例 (TryCase)",
+          "link": "https://www.producthunt.com/products/trycase",
+          "desc": "AI 編碼代理程式的一次性測試環境 討論 |關聯",
+          "title_en": "TryCase"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [],
+      "pick": {
+        "title": "一些國家的富人正在讓人工智慧教導他們的孩子",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
+        "summary": "大多數美國人不信任人工智慧。事實證明，它不知道什麼是安全的披薩配料。人們甚至不想...",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "AI 旅遊內容創作",
+          "detail": "用 CircleChat 幫助 SS 的 AI 代理創建旅遊內容，發在 Instagram 和 TikTok，預計 3 天出成果"
+        },
+        {
+          "title": "智能市場洞察",
+          "detail": "利用 MentionDrop MCP 提供即時市場訊息，幫助 SS 的品牌做出更明智的決定，發在 Newsletter，預計 1 周出成果"
+        },
+        {
+          "title": "AI 日記寫作",
+          "detail": "使用 Pennen 每天手寫一頁日記，訓練 AI 寫作能力，發在Medium，預計 2 周出成果"
         }
       ]
     }
