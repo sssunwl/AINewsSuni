@@ -1,0 +1,553 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Suniverse AI 學院 · 協作案例庫</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { font-family:-apple-system,"PingFang TC","Noto Sans TC",sans-serif; background:#0b0f1a; color:#dbe2f0; line-height:1.65; padding:28px 16px 60px; }
+  .wrap { max-width:1080px; margin:0 auto; }
+  header { background:linear-gradient(135deg,#10182e,#1b2a52); border:1px solid #243a5e; border-radius:18px; padding:32px 32px 26px; margin-bottom:18px; }
+  header h1 { font-size:24px; margin-bottom:6px; color:#f2f5fc; letter-spacing:.5px; }
+  header .sub { font-size:14px; color:#9fb0cc; }
+  header .stats { margin-top:14px; font-size:13px; color:#7d8db0; }
+  header .legend { margin-top:12px; font-size:12.5px; color:#b9c6de; line-height:2.2; }
+  .badge { display:inline-block; border-radius:5px; padding:1px 9px; font-size:11px; font-weight:600; margin-left:6px; vertical-align:1px; }
+  .b-full { background:#123527; color:#5fd39a; }
+  .b-live { background:#12294a; color:#6ea8ff; }
+  .b-todo { background:#3a2e12; color:#e0b45c; }
+  .tabs { display:flex; gap:8px; margin-bottom:14px; }
+  .tab { border:1px solid #2a3a5c; background:#111726; color:#c5d0e6; border-radius:999px; padding:8px 20px; font-size:14.5px; font-weight:600; cursor:pointer; user-select:none; transition:all .15s; }
+  .tab:hover { border-color:#4f7cff; }
+  .tab.on { background:#4f7cff; color:#fff; border-color:#4f7cff; }
+  .bar { display:flex; flex-wrap:wrap; gap:8px; margin:16px 0; align-items:center; }
+  .chip { border:1px solid #2a3a5c; background:#111726; color:#c5d0e6; border-radius:999px; padding:5px 14px; font-size:13px; cursor:pointer; user-select:none; transition:all .15s; }
+  .chip:hover { border-color:#4f7cff; }
+  .chip.on { background:#1e3a75; color:#fff; border-color:#4f7cff; }
+  #q, #cq { flex:1 1 200px; min-width:160px; border:1px solid #2a3a5c; background:#111726; color:#dbe2f0; border-radius:999px; padding:6px 16px; font-size:13.5px; outline:none; }
+  #q::placeholder, #cq::placeholder { color:#5a6a88; }
+  #q:focus, #cq:focus { border-color:#4f7cff; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(320px,1fr)); gap:14px; }
+  .card { background:#121a2c; border:1px solid #1f2c48; border-radius:14px; overflow:hidden; display:flex; flex-direction:column; transition:border-color .15s; }
+  .card:hover { border-color:#33507f; }
+  .stripe { height:4px; }
+  .body { padding:16px 18px 14px; flex:1; display:flex; flex-direction:column; }
+  .cat { font-size:11.5px; font-weight:700; letter-spacing:1.5px; margin-bottom:6px; }
+  .card h3 { font-size:16.5px; line-height:1.45; margin-bottom:6px; color:#eef2fa; }
+  .desc { font-size:13px; color:#93a2c0; margin-bottom:10px; flex:1; }
+  .meta { font-size:12px; color:#647199; margin-bottom:10px; }
+  .meta a { color:#6ea8ff; text-decoration:none; }
+  .meta a:hover { text-decoration:underline; }
+  .ptoggle { font-size:12.5px; color:#6ea8ff; cursor:pointer; user-select:none; font-weight:600; }
+  .ptoggle:hover { text-decoration:underline; }
+  .detail { display:none; margin-top:10px; }
+  .card.open .detail { display:block; }
+  .lessons { margin:0 0 4px; padding-left:18px; }
+  .lessons li { font-size:12.5px; color:#aebbd6; margin-bottom:4px; }
+  .prompt { margin-top:8px; background:#0a0e18; border:1px solid #1f2c48; color:#b9c9e6; border-radius:10px; padding:12px 14px; font-family:ui-monospace,Menlo,monospace; font-size:12px; line-height:1.6; white-space:pre-wrap; max-height:260px; overflow:auto; }
+  .copy { margin-top:8px; border:none; background:#4f7cff; color:#fff; border-radius:8px; padding:6px 14px; font-size:12.5px; cursor:pointer; align-self:flex-start; }
+  .copy:active { transform:scale(.97); }
+  .copy.done { background:#1d9d63; }
+  .empty { text-align:center; color:#647199; padding:40px 0; font-size:14px; display:none; }
+  .gintro { background:#101b33; border:1px solid #243a5e; border-radius:14px; padding:18px 24px; margin-bottom:14px; font-size:14px; color:#aebbd6; }
+  .gcard { background:#121a2c; border:1px solid #1f2c48; border-radius:14px; padding:20px 24px; margin-bottom:14px; }
+  .gcard h2 { font-size:17px; margin-bottom:10px; color:#eef2fa; }
+  .gcard p { font-size:14px; color:#a5b3d0; margin-bottom:8px; line-height:1.75; }
+  .gtag { display:inline-block; border-radius:5px; padding:1px 8px; font-size:11.5px; font-weight:700; margin-right:6px; }
+  .gt-w { background:#1a2540; color:#6ea8ff; }
+  .gt-t { background:#3a2e12; color:#e0b45c; }
+  .gprompt { background:#0a0e18; border:1px solid #1f2c48; color:#b9c9e6; border-radius:10px; padding:12px 14px; font-family:ui-monospace,Menlo,monospace; font-size:12.5px; line-height:1.7; white-space:pre-wrap; margin:10px 0 8px; }
+  .gcopy { border:none; background:#4f7cff; color:#fff; border-radius:8px; padding:5px 12px; font-size:12px; cursor:pointer; }
+  .gcopy.done { background:#1d9d63; }
+  .gcase { font-size:13px; color:#93a2c0; margin-top:8px; }
+  .gcase a { color:#6ea8ff; cursor:pointer; text-decoration:underline; }
+  footer { text-align:center; margin-top:32px; font-size:12px; color:#4a5675; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🌌 Suniverse AI 學院 · 協作案例庫</h1>
+    <p class="sub">SS 跟 AI 一起做出來的真實專案。記錄的不只是成品，是需求 → 設計討論 → 取捨決策的完整過程。</p>
+    <div class="stats" id="stats"></div>
+    <div class="legend">
+      <span class="badge b-full">完整教材</span> 已寫成可教學的案例筆記
+      <span class="badge b-live">營運中</span> 專案真實在跑，教材整理中
+      <span class="badge b-todo">待寫教材</span> 專案存在，還沒整理成案例
+    </div>
+  </header>
+
+  <div class="tabs">
+    <span class="tab on" data-t="cases">📂 案例庫</span>
+    <span class="tab" data-t="collect">🧰 收集箱</span>
+    <span class="tab" data-t="guide">🧭 協作心法</span>
+  </div>
+
+  <div id="tab-cases">
+    <div class="bar" id="cats"></div>
+    <div class="bar">
+      <span class="chip on" data-p="all">全部</span>
+      <span class="chip" data-p="完整教材">只看完整教材</span>
+      <span class="chip" data-p="營運中">只看營運中</span>
+      <input id="q" type="search" placeholder="搜尋案例、專案、關鍵字…">
+    </div>
+    <div class="grid" id="grid"></div>
+    <div class="empty" id="empty">沒有符合的案例</div>
+  </div>
+
+  <div id="tab-collect" style="display:none">
+    <div class="gintro">
+      從網路上收集來的別人做的好東西——Skill、Agent、案例、教學。每筆都附原始出處；有 prompt 或指令的可以直接複製。完整收藏在 SS 的私人 Notion 資料庫，這裡是精選公開版。
+    </div>
+    <div class="bar" id="ctypes"></div>
+    <div class="bar">
+      <input id="cq" type="search" placeholder="搜尋 Skill、Agent、案例、作者…">
+    </div>
+    <div class="grid" id="cgrid"></div>
+    <div class="empty" id="cempty">沒有符合的收集</div>
+  </div>
+
+  <div id="tab-guide" style="display:none">
+
+    <div class="gintro">
+      這些不是從書上抄來的原則，是 SS 在真實專案裡跟 AI 磨出來的工作規則——每一條後面都有踩過的坑。想直接用的話，把指令複製貼進你自己的 AI 設定（CLAUDE.md、custom instructions、系統提示詞都行）。
+    </div>
+
+    <div class="gcard">
+      <h2>① 先做一個真實案例，再抽象成框架</h2>
+      <p><span class="gtag gt-t">踩過的坑</span>一開始就寫通用框架、通用文件，結果專案停了，框架一次都沒用到——「紙上架構」做白工。</p>
+      <p><span class="gtag gt-w">現在的做法</span>先把一個具體案例完整做出來，等第二個相似需求出現，再從做完的東西裡抽出可重用的模式。</p>
+      <div class="gprompt">先陪我把這一個案例做出來就好，不要先寫通用框架或抽象架構。等第二個相似需求出現，我們再從做完的案例裡抽出可重用的模式。</div>
+      <button class="gcopy">📋 複製指令</button>
+      <p class="gcase">實例：<a onclick="jumpToCase('Notion 資源整理')">Notion 資源整理系統</a>——先跑通 IG 收藏這一種，欄位才隨需求逐步長出來。</p>
+    </div>
+
+    <div class="gcard">
+      <h2>② 討論結果要落地成檔案，不能只留在對話裡</h2>
+      <p><span class="gtag gt-t">踩過的坑</span>聊得很好、結論很棒，下次開新對話全部重來一遍。</p>
+      <p><span class="gtag gt-w">現在的做法</span>每一段有結論的討論，都要求 AI 寫進檔案（Markdown、Notion、Sheet 都行），標準是「下一個 session 不靠這段對話也能接手」。</p>
+      <div class="gprompt">把這段討論的結論寫進〔檔案或 Notion 頁面〕。標準：之後任何一個新的 session 讀了那份檔案，不需要看這段對話就能接手繼續做。</div>
+      <button class="gcopy">📋 複製指令</button>
+    </div>
+
+    <div class="gcard">
+      <h2>③ 要反對意見，不要附和</h2>
+      <p><span class="gtag gt-w">為什麼</span>AI 預設容易順著你講。但決策需要的是不同視角——會提出風險和反例的夥伴，比只會說好的助手有用得多。</p>
+      <div class="gprompt">不要順著我。給我你真正的判斷：這個做法的風險和反例是什麼？有沒有更簡單的替代方案？如果你是我，你會不會做這件事、為什麼？</div>
+      <button class="gcopy">📋 複製指令</button>
+    </div>
+
+    <div class="gcard">
+      <h2>④ 探索性問題：先給建議和取捨，確認了再動手</h2>
+      <p><span class="gtag gt-t">踩過的坑</span>隨口問一句「你覺得 X 怎麼樣」，AI 直接動手改了一堆東西。</p>
+      <p><span class="gtag gt-w">現在的做法</span>把「我在想」跟「我要你做」分開。開放式問題先要建議＋主要取捨，人做完判斷才執行。</p>
+      <div class="gprompt">這是開放式問題，不是執行指令：先給我你的建議和主要取捨（一兩段就好），等我確認方向之後再動手。</div>
+      <button class="gcopy">📋 複製指令</button>
+    </div>
+
+    <div class="gcard">
+      <h2>⑤ 給背景和原因，不要只給請求</h2>
+      <p><span class="gtag gt-w">為什麼</span>AI 知道「這個產出要拿去做什麼、給誰用」的時候，做出來的東西完全不一樣。這是最容易上手、效果最大的一招。</p>
+      <div class="gprompt">我在為〔誰〕做〔什麼事〕，這個產出會拿來〔用途〕。基於這個背景：〔你的請求〕。</div>
+      <button class="gcopy">📋 複製指令</button>
+    </div>
+
+    <div class="gcard">
+      <h2>⑥ 驗證狀態要誠實：沒查證過就不准標「已查證」</h2>
+      <p><span class="gtag gt-t">踩過的坑</span>AI 為了讓資料「看起來完整」，把沒讀過來源的內容標成已查證——資料庫的信任基礎直接崩掉。</p>
+      <p><span class="gtag gt-w">現在的做法</span>在資料庫加「驗證狀態」欄位，規則寫死：</p>
+      <div class="gprompt">驗證狀態要誠實填。只有真的打開過「連結」欄位指向的原始來源、確認內容一致，才能標「已查證屬實」；讀不到來源就老實標「待驗證」，不要為了讓資料看起來完整而亂標。讀不到內容是正常現象，如實記錄即可，不要編造摘要當真的寫進去。</div>
+      <button class="gcopy">📋 複製指令</button>
+      <p class="gcase">實例：<a onclick="jumpToCase('Notion 資源整理')">Notion 資源整理系統</a>——IG 連結常讀不到，這條規則讓「讀不到」也能誠實入庫。</p>
+    </div>
+
+    <div class="gcard">
+      <h2>⑦ 單一真相來源：檔案有紀律，AI 才不會亂</h2>
+      <p><span class="gtag gt-w">為什麼</span>同一份資訊散在對話、筆記、好幾個檔案裡，AI（和人）遲早引用到過期版本。每個專案指定唯一真相來源，其他地方只放索引。</p>
+      <div class="gprompt">這個專案的唯一真相來源是〔某檔案／某 Notion 頁〕，其他檔案只放輕量索引，不鏡像完整內容。歷史紀錄區（如 Phase Record）只能往後追加，不能回頭改寫。</div>
+      <button class="gcopy">📋 複製指令</button>
+      <p class="gcase">實例：Notion 是收藏庫的真相來源，repo 裡的 RESOURCES.md 只是索引。</p>
+    </div>
+
+    <div class="gcard">
+      <h2>⑧ 密鑰紀律：憑證絕不進 git</h2>
+      <p><span class="gtag gt-t">踩過的坑</span>自動化腳本很方便，但憑證只要進過一次 commit，就等於永遠洩漏過。</p>
+      <div class="gprompt">所有 API 金鑰與憑證一律放在 ~/.config/ 底下（或環境變數），由程式在執行時讀取。絕對不寫進任何會被 git commit 的路徑，包括範例檔和註解。</div>
+      <button class="gcopy">📋 複製指令</button>
+      <p class="gcase">實例：<a onclick="jumpToCase('Sona Sheet')">Sona Sheet 自動化</a>——憑證放 ~/.config/sonasns/，repo 乾乾淨淨。</p>
+    </div>
+
+    <div class="gcard">
+      <h2>⑨ 禁 AI 腔：文案要像真人講話</h2>
+      <p><span class="gtag gt-w">為什麼</span>經營品牌帳號，讀者一眼就聞得出 AI 味。具體細節永遠贏過形容詞堆疊。</p>
+      <div class="gprompt">禁止 AI 腔：不堆疊最高級形容詞、不用「還在等什麼呢？」這種反問式結尾、不用空泛的旅遊陳腔濫調。用具體的細節說話，優點和要避開的坑都要寫，讀起來要像一個真的去過的人在講。</div>
+      <button class="gcopy">📋 複製指令</button>
+    </div>
+
+    <div class="gcard">
+      <h2>⑩ 人機分工要畫清楚：AI 填內容，人做決策</h2>
+      <p><span class="gtag gt-w">為什麼</span>自動化最怕的不是 AI 做不到，是 AI 越界。哪些欄位 AI 可以動、哪些只有人能動，白紙黑字寫下來。</p>
+      <div class="gprompt">你只負責填〔AI 該填的欄位〕，〔決策欄位〕永遠留給我填，就算你覺得答案很明顯也不要動。</div>
+      <button class="gcopy">📋 複製指令</button>
+      <p class="gcase">實例：<a onclick="jumpToCase('Sona Sheet')">Sona Sheet</a>——AI 只填 IG/FB 文案和 Threads 文案，「發佈版本」由 SS 決定。</p>
+    </div>
+
+  </div>
+
+  <footer>Suniverse AI 學院 · 案例持續更新中 · 教材原始檔在 ai-academy/cases/</footer>
+</div>
+
+<script>
+// ====== 資料區：新增案例往這裡加 ======
+// cat: 資訊整理 | 社群自動化 | 資料抓取 | 商業營運 | 內容與知識
+// status: "完整教材" | "營運中" | "待寫教材"
+const CASES = [
+ {
+  cat:"資訊整理", title:"手機連動 + Notion 資源整理系統",
+  desc:"在手機上隨手丟連結（IG 貼文、文章、課程）給 Claude Code，AI 讀懂口語說明、整理成摘要寫進 Notion 資料庫，每週再一起 review 待整理項目。",
+  project:"Notion 工具 + AINewsSuni repo", status:"完整教材",
+  lessons:[
+   "手機連動的兩條路：Remote Control vs Claude Code on the Web 的差異與限制",
+   "訂閱方案取捨：個人 Pro vs Team，門檻與划算與否怎麼判斷",
+   "Notion vs Obsidian：依實際使用情境選，不是比功能表",
+   "資料庫欄位隨需求逐步擴充（IG → 課程/文章 → 驗證狀態），「一庫多檢視」vs「拆多表」的取捨",
+   "AI 讀不到 IG 內容是預期限制：狀態標「待整理」照樣入庫，不編造"
+  ],
+  links:[],
+  note:"完整過程記錄與資料庫在 Notion（私人頁面，未公開分享）",
+  prompt:`（貼上連結）這個是講〔主題〕的，我覺得重點是〔你順口想到的點，很口語沒關係〕。幫我收進資源庫：讀懂我的說明整理成重點摘要，再試著讀連結內容補充細節；讀不到就老實標「待驗證」，狀態填「待整理」先入庫。`
+ },
+ {
+  cat:"社群自動化", title:"Sona Sheet：多品牌社群貼文半自動化",
+  desc:"OKIBLUES、The Blues、OKIPLAYGROUND 多個品牌帳號的貼文管理。AI 從本機憑證自動更新 Google Sheet、只填文案欄位；發佈版本的最終決定權留在人手上。",
+  project:"SonaSNS-Platform", status:"營運中",
+  lessons:[
+   "人機分工畫線：AI 填 IG/FB 文案和 Threads 文案，「發佈版本」欄位永遠由人決定",
+   "憑證放 ~/.config/sonasns/，絕不進 git——自動化方便，密鑰紀律不能鬆",
+   "「自動更新、無需下指令」的工作流怎麼設計：把規則寫成 AI 每次都會讀的檔案"
+  ],
+  links:[],
+  prompt:`你負責把生成的文案自動填進 Sheet 的「IG/FB文案」和「Threads文案」欄位，憑證從 ~/.config/ 讀取。「發佈版本」欄位永遠留給我填，就算你覺得哪個版本明顯比較好也不要動。`
+ },
+ {
+  cat:"資料抓取", title:"AINewsSuni：每日 AI 新聞摘要機器人",
+  desc:"每天自動抓 AI 新聞、整理成繁體中文摘要的排程機器人。同一個 repo 也兼作手機丟連結的快速收集入口——一個專案長出第二個用途的例子。",
+  project:"AINewsSuni", status:"營運中",
+  lessons:[
+   "排程自動化的基本盤：GitHub Actions / cron 跑每日任務",
+   "簡繁轉換的坑：機械轉換會出現同音異字亂碼，要讓 AI「真正讀懂後用繁體中文重寫」",
+   "一個 repo 可以承載多個角色，但要在 CLAUDE.md 裡寫清楚各角色的規則"
+  ],
+  links:[],
+  prompt:`輸出永遠用繁體中文，不管來源是簡中、英文還是日文：真正讀懂內容後用繁體中文重新寫一遍（像雙語使用者會做的事），不要用機械式簡繁轉換——那會產生同音異字的亂碼。不確定某個詞的繁體寫法，寧可換句話說。`
+ },
+ {
+  cat:"商業營運", title:"Okiblues 租車：動態定價 + 自動化報表",
+  desc:"幫沖繩租車業務加上動態定價邏輯與自動化報表，把重複的營運回報工作交給自動化，人專注在定價策略的判斷。",
+  project:"Okiblues（客戶業務）", status:"營運中",
+  lessons:[
+   "先確認哪些決策必須留在人手上（定價策略），再自動化其餘的重複工作（報表）",
+   "對外的商業數字要有查核點，不能讓自動化直接改對客戶的輸出"
+  ],
+  links:[],
+  prompt:``
+ },
+ {
+  cat:"資料抓取", title:"WeatherLab：天氣資料工具",
+  desc:"天氣資料的抓取與整理實驗，服務沖繩在地的旅遊與潛水場景。",
+  project:"weatherLab", status:"待寫教材",
+  lessons:[], links:[], prompt:``
+ },
+ {
+  cat:"資料抓取", title:"FlightNews：航班資訊工具",
+  desc:"航班資訊的抓取與整理，跟旅遊內容和家族旅行規劃的需求連動。",
+  project:"FlightNews", status:"待寫教材",
+  lessons:[], links:[], prompt:``
+ },
+ {
+  cat:"內容與知識", title:"InvestUni 投資學堂",
+  desc:"投資學習平台實驗：把美港台股與加密貨幣的學習內容系統化。",
+  project:"InvestUni-LearnHub", status:"待寫教材",
+  lessons:[], links:[], prompt:``
+ },
+ {
+  cat:"內容與知識", title:"MoralJury 道德陪審團短片",
+  desc:"AI 生成內容實驗：道德兩難題材的短影音企劃與產製流程。",
+  project:"MoralJury-Shorts", status:"待寫教材",
+  lessons:[], links:[], prompt:``
+ },
+ {
+  cat:"內容與知識", title:"CapyChill：AI 內容實驗",
+  desc:"chill 系 AI 生成內容的小規模實驗場。",
+  project:"CapyChill", status:"待寫教材",
+  lessons:[], links:[], prompt:``
+ },
+ {
+  cat:"資訊整理", title:"PersonalFootage：十年影像資產整理",
+  desc:"十年份的個人影片與照片素材，跟 AI 一起建立整理系統，最終目標是留給家人的數位資產。",
+  project:"PersonalFootage", status:"待寫教材",
+  lessons:[], links:[], prompt:``
+ }
+];
+
+// ====== 收集箱：別人的好用 Skill / Agent / 案例 / 教學，往這裡加 ======
+// type: Skill | Agent | 案例 | 教學
+const COLLECT = [
+ {
+  type:"Skill", title:"Anthropic 官方 Skills 資源庫",
+  desc:"官方開源的 Skills 集合：docx / pptx / xlsx / pdf 文件處理、skill-creator（做自己的 skill）等，裝進 Claude Code 就能用。想學「Skill 該怎麼寫」直接看官方原始碼最快。",
+  author:"Anthropic", url:"https://github.com/anthropics/skills",
+  prompt:``
+ },
+ {
+  type:"案例", title:"等時圈旅行時間地圖（Mollick 招牌測試）",
+  desc:"讓 AI 自主派子代理查 2,200+ 航班與鐵路時刻，邊研究邊寫碼邊驗證，數小時交付互動地圖。是「交辦一整件事而不是一個指令」的代表案例。",
+  author:"Ethan Mollick（One Useful Thing）", url:"https://www.oneusefulthing.org/p/what-it-feels-like-to-work-with-mythos",
+  prompt:`i want you to build a fully researched and beautiful isochronic map that lets me pick various cities and see real isochronic lines based on real data. I want the design to be unique. You should take into account airports (and travel time to and from airports) trains, walking, driving. The data does not need to be live but should be real based on your research and data. You can start with a few cities but more general is better, this should be an entirely new project.`
+ },
+ {
+  type:"案例", title:"機械錶模擬：視覺自我驗證迴圈",
+  desc:"Three.js 做出真實齒輪比的機械錶。精髓在 prompt 設計：要求 AI 蓋一套相機系統、用視覺能力逐零件檢查、迴圈到 100% 滿意——「驗證迴圈」寫進 prompt 的範本。",
+  author:"@quanghuynt14（X）", url:"https://x.com/quanghuynt14/status/2064509430650065278",
+  prompt:`/goal Build the most realistic mechanical watch movement in Three.js — visible gears, escapement, balance wheel, all animated and mechanically coherent (gear ratios must actually make the hands tell real time). Build a camera system to inspect it from every angle and zoom level, use your vision capabilities to verify each part, and loop until you are 100% satisfied. Save a screenshot of every iteration to ./iterations/ so I can make a time-lapse.`
+ },
+ {
+  type:"案例", title:"McKinsey 等級報告複製",
+  desc:"上傳一份顧問報告當品質基準，要求 AI 做出同等品質的新主題文件。發布日最瘋傳的案例之一，拿來升級自己的營運報告很實用。",
+  author:"@rileybrown（X）", url:"https://x.com/rileybrown/status/2064407515752722521",
+  prompt:`(附上一份高品質報告 PDF)\n\nCreate a brand-new document of the same quality on [你的主題]: same analytical depth, same chart quality, same layout polish and visual language. Research the topic properly before writing. Deliver as a polished HTML report I can print to PDF.`
+ },
+ {
+  type:"案例", title:"awesome-claude-fable-5 案例合集",
+  desc:"GitHub 上持續更新的 Fable 5 案例、教學、整合與 benchmark 合集，附來源連結。找靈感的起點。",
+  author:"Anil-matcha（GitHub）", url:"https://github.com/Anil-matcha/awesome-claude-fable-5",
+  prompt:``
+ },
+ {
+  type:"教學", title:"Boris Cherny：每天在用的 15 個 Claude Code 功能",
+  desc:"Claude Code 創始者親自示範日常工作流：排程自動化（Routines）、語音寫程式等。想知道「工具作者自己怎麼用」看這篇。",
+  author:"INSIDE（中文報導）", url:"https://www.inside.com.tw/article/40974-claude-code-boris-cherny-hidden-features-voice-scheduling-workflow-2026",
+  prompt:``
+ },
+ {
+  type:"教學", title:"Claude Code 官方提示詞資源庫",
+  desc:"官方整理的五十多則指令範本，從規劃到自動化一頁涵蓋。寫 prompt 卡住的時候先來這裡抄。",
+  author:"INSIDE（中文報導）", url:"https://www.inside.com.tw/article/41726-claude-code-prompt-library",
+  prompt:``
+ },
+ {
+  type:"教學", title:"Claude Code 業務自動化 10 事例（日文）",
+  desc:"議事錄自動化、週報製作等 10 個辦公自動化實例，附實作 prompt 全公開。非工程背景也能照做，跟 SolsLab 的自動化路線最對味。",
+  author:"株式会社Uravation", url:"https://uravation.com/media/claude-code-automation-case-studies-2026/",
+  prompt:``
+ },
+ {
+  type:"Agent", title:"驗證用子代理：讓別的 AI 檢查工作",
+  desc:"長跑任務把「驗證」交給獨立的子代理，勝過讓 AI 自己檢查自己（self-critique）。一句 prompt 就能啟用的模式。",
+  author:"官方 Prompting 指南歸納", url:"https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5",
+  prompt:`Establish a method for checking your own work at an interval of [X] as you build. Run this every [X interval], verifying your work with subagents against the specification. Delegate independent subtasks to subagents and keep working while they run.`
+ }
+];
+
+// ====== 以下是渲染邏輯，通常不用動 ======
+const CAT_COLORS = {
+  "資訊整理":"#6ea8ff",
+  "社群自動化":"#4fd1b0",
+  "資料抓取":"#b48cff",
+  "商業營運":"#e0b45c",
+  "內容與知識":"#f08fb0"
+};
+const STATUS_CLASS = { "完整教材":"b-full", "營運中":"b-live", "待寫教材":"b-todo" };
+
+let curCat = "all", curStatus = "all", curQ = "";
+
+function render() {
+  const grid = document.getElementById("grid");
+  grid.innerHTML = "";
+  let shown = 0;
+  CASES.forEach((c, i) => {
+    if (curCat !== "all" && c.cat !== curCat) return;
+    if (curStatus !== "all" && c.status !== curStatus) return;
+    const hay = (c.title + c.desc + c.cat + c.project + (c.lessons||[]).join(" ")).toLowerCase();
+    if (curQ && !hay.includes(curQ)) return;
+    shown++;
+    const color = CAT_COLORS[c.cat] || "#6ea8ff";
+    const card = document.createElement("div");
+    card.className = "card";
+    card.dataset.title = c.title;
+    let detail = "";
+    if ((c.lessons||[]).length) detail += `<ul class="lessons">${c.lessons.map(l=>`<li>${l}</li>`).join("")}</ul>`;
+    if ((c.links||[]).length) detail += `<div class="meta">${c.links.map(([t,u])=>`<a href="${u}" target="_blank">🔗 ${t}</a>`).join("　")}</div>`;
+    if (c.note) detail += `<div class="meta">🔒 ${c.note}</div>`;
+    if (c.prompt) detail += `<div class="prompt">${c.prompt.replace(/</g,"&lt;")}</div><button class="copy">📋 複製 prompt</button>`;
+    const hasDetail = detail !== "";
+    card.innerHTML = `
+      <div class="stripe" style="background:${color}"></div>
+      <div class="body">
+        <div class="cat" style="color:${color}">${c.cat}</div>
+        <h3>${c.title}<span class="badge ${STATUS_CLASS[c.status]}">${c.status}</span></h3>
+        <div class="desc">${c.desc}</div>
+        <div class="meta">📁 ${c.project}</div>
+        ${hasDetail ? `<span class="ptoggle">▸ 展開重點與 prompt</span><div class="detail">${detail}</div>` : ``}
+      </div>`;
+    if (hasDetail) {
+      card.querySelector(".ptoggle").addEventListener("click", () => {
+        card.classList.toggle("open");
+        card.querySelector(".ptoggle").textContent = card.classList.contains("open") ? "▾ 收合" : "▸ 展開重點與 prompt";
+      });
+      const cp = card.querySelector(".copy");
+      if (cp) cp.addEventListener("click", () => copyText(cp, c.prompt));
+    }
+    grid.appendChild(card);
+  });
+  document.getElementById("empty").style.display = shown ? "none" : "block";
+  const full = CASES.filter(c=>c.status==="完整教材").length;
+  const live = CASES.filter(c=>c.status==="營運中").length;
+  document.getElementById("stats").textContent = `共 ${CASES.length} 個專案案例 · ${full} 個完整教材 · ${live} 個營運中 · 收集箱 ${COLLECT.length} 筆`;
+}
+
+// ====== 收集箱渲染 ======
+const TYPE_COLORS = { "Skill":"#5fd39a", "Agent":"#b48cff", "案例":"#6ea8ff", "教學":"#e0b45c" };
+let curType = "all", curCQ = "";
+
+function renderCollect() {
+  const grid = document.getElementById("cgrid");
+  grid.innerHTML = "";
+  let shown = 0;
+  COLLECT.forEach(c => {
+    if (curType !== "all" && c.type !== curType) return;
+    const hay = (c.title + c.desc + c.type + c.author).toLowerCase();
+    if (curCQ && !hay.includes(curCQ)) return;
+    shown++;
+    const color = TYPE_COLORS[c.type] || "#6ea8ff";
+    const card = document.createElement("div");
+    card.className = "card";
+    let detail = "";
+    if (c.prompt) detail += `<div class="prompt">${c.prompt.replace(/</g,"&lt;")}</div><button class="copy">📋 複製 prompt</button>`;
+    card.innerHTML = `
+      <div class="stripe" style="background:${color}"></div>
+      <div class="body">
+        <div class="cat" style="color:${color}">${c.type}</div>
+        <h3>${c.title}</h3>
+        <div class="desc">${c.desc}</div>
+        <div class="meta">✍️ ${c.author}　<a href="${c.url}" target="_blank">🔗 原始出處</a></div>
+        ${detail ? `<span class="ptoggle">▸ 展開 prompt</span><div class="detail">${detail}</div>` : ``}
+      </div>`;
+    if (detail) {
+      card.querySelector(".ptoggle").addEventListener("click", () => {
+        card.classList.toggle("open");
+        card.querySelector(".ptoggle").textContent = card.classList.contains("open") ? "▾ 收合" : "▸ 展開 prompt";
+      });
+      const cp = card.querySelector(".copy");
+      if (cp) cp.addEventListener("click", () => copyText(cp, c.prompt));
+    }
+    grid.appendChild(card);
+  });
+  document.getElementById("cempty").style.display = shown ? "none" : "block";
+}
+
+function copyText(btn, text) {
+  navigator.clipboard.writeText(text).then(() => {
+    btn.classList.add("done");
+    const orig = btn.textContent;
+    btn.textContent = "✓ 已複製";
+    setTimeout(() => { btn.classList.remove("done"); btn.textContent = orig; }, 1500);
+  });
+}
+
+// 分類 chips
+(function(){
+  const cats = ["all", ...new Set(CASES.map(c=>c.cat))];
+  const bar = document.getElementById("cats");
+  cats.forEach(cat => {
+    const el = document.createElement("span");
+    el.className = "chip" + (cat==="all" ? " on" : "");
+    el.textContent = cat==="all" ? "全部分類" : cat;
+    el.addEventListener("click", () => {
+      curCat = cat;
+      bar.querySelectorAll(".chip").forEach(x=>x.classList.remove("on"));
+      el.classList.add("on");
+      render();
+    });
+    bar.appendChild(el);
+  });
+})();
+
+// 狀態 chips
+document.querySelectorAll("[data-p]").forEach(el => {
+  el.addEventListener("click", () => {
+    curStatus = el.dataset.p === "all" ? "all" : el.dataset.p;
+    document.querySelectorAll("[data-p]").forEach(x=>x.classList.remove("on"));
+    el.classList.add("on");
+    render();
+  });
+});
+
+// 搜尋
+document.getElementById("q").addEventListener("input", e => {
+  curQ = e.target.value.trim().toLowerCase();
+  render();
+});
+
+// 收集箱類型 chips
+(function(){
+  const types = ["all", ...new Set(COLLECT.map(c=>c.type))];
+  const bar = document.getElementById("ctypes");
+  types.forEach(t => {
+    const el = document.createElement("span");
+    el.className = "chip" + (t==="all" ? " on" : "");
+    el.textContent = t==="all" ? "全部類型" : t;
+    el.addEventListener("click", () => {
+      curType = t;
+      bar.querySelectorAll(".chip").forEach(x=>x.classList.remove("on"));
+      el.classList.add("on");
+      renderCollect();
+    });
+    bar.appendChild(el);
+  });
+})();
+
+// 收集箱搜尋
+document.getElementById("cq").addEventListener("input", e => {
+  curCQ = e.target.value.trim().toLowerCase();
+  renderCollect();
+});
+
+// 分頁
+document.querySelectorAll(".tab").forEach(tab => {
+  tab.addEventListener("click", () => {
+    document.querySelectorAll(".tab").forEach(t=>t.classList.remove("on"));
+    tab.classList.add("on");
+    ["cases","collect","guide"].forEach(t => {
+      document.getElementById("tab-"+t).style.display = tab.dataset.t===t ? "" : "none";
+    });
+  });
+});
+
+// 心法 → 案例跳轉
+function jumpToCase(keyword) {
+  document.querySelector('.tab[data-t="cases"]').click();
+  curCat = "all"; curStatus = "all"; curQ = "";
+  document.getElementById("q").value = "";
+  document.querySelectorAll("#cats .chip").forEach((x,i)=>x.classList.toggle("on", i===0));
+  render();
+  const target = [...document.querySelectorAll(".card")].find(c => c.dataset.title.includes(keyword));
+  if (target) {
+    target.scrollIntoView({behavior:"smooth", block:"center"});
+    if (!target.classList.contains("open") && target.querySelector(".ptoggle")) target.querySelector(".ptoggle").click();
+    target.style.borderColor = "#4f7cff";
+    setTimeout(()=>{ target.style.borderColor = ""; }, 2000);
+  }
+}
+
+// 心法複製按鈕
+document.querySelectorAll(".gcopy").forEach(btn => {
+  btn.addEventListener("click", () => copyText(btn, btn.previousElementSibling.textContent));
+});
+
+render();
+renderCollect();
+</script>
+</body>
+</html>
