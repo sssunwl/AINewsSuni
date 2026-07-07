@@ -1,78 +1,108 @@
 {
-  "updated": "2026-07-06 13:08 HKT",
+  "updated": "2026-07-07 12:49 HKT",
   "news": [
     {
-      "title": "一些國家的富人正在讓人工智慧教導他們的孩子",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "summary": "大多數美國人不信任人工智慧。事實證明，它不知道什麼是安全的披薩配料。人們甚至不想...",
+      "title": "我間諜",
+      "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "summary": "長期以來，我一直認為好萊塢既設定了我們對智慧眼鏡的期望，也破壞了我們對智慧眼鏡的期望。但狂歡過後…",
       "source": "The Verge"
     },
     {
-      "title": "令人憤怒的Google廣告想像創辦人擁抱人工智慧",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "summary": "「集體項目，但定在1776年。」這就是 Google Workspace 的新廣告的開頭。而事情只會變得更令人毛骨悚然…",
+      "title": "微軟將裁員 4,800 名員工",
+      "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "summary": "在裁員約 9,100 名員工一年後，微軟今天在新的財務年度開始之際進一步裁員…",
       "source": "The Verge"
     },
     {
-      "title": "亞馬遜將停止接受 Mechanical Turk 新客戶",
-      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "summary": "這可能是亞馬遜土耳其機器人的最後日子。",
+      "title": "「第一次」人工智慧運行的勒索軟體攻擊仍然需要人類",
+      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+      "summary": "人工智慧代理首次對現實世界的勒索軟體攻擊進行了技術執行，但新的詳細資訊…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "美國投資者很快將有機會投資另一家乘著人工智慧熱潮的記憶體製造商SK海力士",
+      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+      "summary": "SK 海力士正經歷人工智慧帶來的繁榮。它將藉此進行數十億美元的美國首次公開募股，預計將於...",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Vercel 執行長 Gulermo Rauch 談論模特兒與經紀人分離的鬥爭",
+      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "summary": "「現實情況是，當您優化生產時，您會開始考慮性價比，」Guillermo Rauch 告訴…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "現在，您可以在最新的 iOS 27 Beta 中自訂 Siri 的節奏和表現力",
+      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "summary": "此次更新是蘋果公司為讓 Siri 感覺更加自然和個性化而做出的更廣泛努力的一部分，因為它將助手重新構建為…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "2026 年每一次重大科技裁員都涉及人工智慧",
+      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "summary": "以時間倒序順序觀察已宣布大幅裁員的大型科技公司…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "如果你使用谷歌，你就是在訓練它的人工智慧。以下是如何選擇退出。",
+      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "summary": "將此視為遲來的公益廣告：谷歌最近對隱私設定進行了更改，允許該公司存儲更多...",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "文件Alot (DocsAlot)",
-      "link": "https://www.producthunt.com/products/docsalot-2",
-      "desc": "適用於人類和人工智慧系統的文檔關聯",
-      "title_en": "DocsAlot"
+      "title": "史丹利工作室 (Stanley Studio)",
+      "link": "https://www.producthunt.com/products/stanley-studio",
+      "desc": "您僱用的人工智慧影片編輯器可以像人類一樣進行編輯關聯",
+      "title_en": "Stanley Studio"
     },
     {
-      "title": "提及Drop MCP (MentionDrop MCP)",
-      "link": "https://www.producthunt.com/products/mentiondrop",
-      "desc": "為您的人工智慧代理提供即時市場訊號關聯",
-      "title_en": "MentionDrop MCP"
+      "title": "提前輸入 2.0 (Typeahead 2.0)",
+      "link": "https://www.producthunt.com/products/typeahead",
+      "desc": "為 Mac 上的每個應用程式提供私人 AI 自動完成功能關聯",
+      "title_en": "Typeahead 2.0"
     },
     {
-      "title": "圈聊 (CircleChat)",
-      "link": "https://www.producthunt.com/products/circlechat",
-      "desc": "給你的人工智慧代理一個寬鬆的空間、一個任務板和一個老闆關聯",
-      "title_en": "CircleChat"
+      "title": "Edgee Claude 代碼壓縮器 V2 (Edgee Claude Code Compressor V2)",
+      "link": "https://www.producthunt.com/products/edgee",
+      "desc": "更少的代幣，相同的上下文，成本降低 50% 討論 |關聯",
+      "title_en": "Edgee Claude Code Compressor V2"
     },
     {
-      "title": "佩內​​恩 (Pennen)",
-      "link": "https://www.producthunt.com/products/pennen",
-      "desc": "每天安靜地手寫一頁。沒有飼料，就沒有人工智慧。討論 |關聯",
-      "title_en": "Pennen"
+      "title": "代碼莫特 (CodeMote)",
+      "link": "https://www.producthunt.com/products/codemote-remote-control-for-any-ai",
+      "desc": "Claude Code、Codex、任何 CLI 代理程式。從您的 iPhone 驅動討論 |關聯",
+      "title_en": "CodeMote"
     },
     {
-      "title": "嘗試案例 (TryCase)",
-      "link": "https://www.producthunt.com/products/trycase",
-      "desc": "AI 編碼代理程式的一次性測試環境 討論 |關聯",
-      "title_en": "TryCase"
+      "title": "莫札伊克 (Mozaik)",
+      "link": "https://www.producthunt.com/products/mozaik-4",
+      "desc": "自組織 AI 代理的 TypeScript 運行時討論 |關聯",
+      "title_en": "Mozaik"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [],
   "pick": {
-    "title": "一些國家的富人正在讓人工智慧教導他們的孩子",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-    "summary": "大多數美國人不信任人工智慧。事實證明，它不知道什麼是安全的披薩配料。人們甚至不想...",
+    "title": "我間諜",
+    "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+    "summary": "長期以來，我一直認為好萊塢既設定了我們對智慧眼鏡的期望，也破壞了我們對智慧眼鏡的期望。但狂歡過後…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "AI 旅遊內容創作",
-      "detail": "用 CircleChat 幫助 SS 的 AI 代理創建旅遊內容，發在 Instagram 和 TikTok，預計 3 天出成果"
+      "title": "用Stanley Studio剪輯旅遊影片",
+      "detail": "使用Stanley Studio編輯器剪輯旅遊影片，發在Instagram Reel，預計3天出成果"
     },
     {
-      "title": "智能市場洞察",
-      "detail": "利用 MentionDrop MCP 提供即時市場訊息，幫助 SS 的品牌做出更明智的決定，發在 Newsletter，預計 1 周出成果"
+      "title": "優化代碼以節省資源",
+      "detail": "使用Edgee Claude Code Compressor V2壓縮代碼，減少50%成本，發在公司的技術博客，預計1周出成果"
     },
     {
-      "title": "AI 日記寫作",
-      "detail": "使用 Pennen 每天手寫一頁日記，訓練 AI 寫作能力，發在Medium，預計 2 周出成果"
+      "title": "自動完成旅遊內容編寫",
+      "detail": "使用Typeahead 2.0自動完成旅遊內容編寫，發在公司的旅遊部落格，預計2天出成果"
     }
   ],
   "history": {
@@ -2882,6 +2912,113 @@
         {
           "title": "AI 日記寫作",
           "detail": "使用 Pennen 每天手寫一頁日記，訓練 AI 寫作能力，發在Medium，預計 2 周出成果"
+        }
+      ]
+    },
+    "2026-07-07": {
+      "news": [
+        {
+          "title": "我間諜",
+          "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+          "summary": "長期以來，我一直認為好萊塢既設定了我們對智慧眼鏡的期望，也破壞了我們對智慧眼鏡的期望。但狂歡過後…",
+          "source": "The Verge"
+        },
+        {
+          "title": "微軟將裁員 4,800 名員工",
+          "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+          "summary": "在裁員約 9,100 名員工一年後，微軟今天在新的財務年度開始之際進一步裁員…",
+          "source": "The Verge"
+        },
+        {
+          "title": "「第一次」人工智慧運行的勒索軟體攻擊仍然需要人類",
+          "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
+          "summary": "人工智慧代理首次對現實世界的勒索軟體攻擊進行了技術執行，但新的詳細資訊…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "美國投資者很快將有機會投資另一家乘著人工智慧熱潮的記憶體製造商SK海力士",
+          "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
+          "summary": "SK 海力士正經歷人工智慧帶來的繁榮。它將藉此進行數十億美元的美國首次公開募股，預計將於...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Vercel 執行長 Gulermo Rauch 談論模特兒與經紀人分離的鬥爭",
+          "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+          "summary": "「現實情況是，當您優化生產時，您會開始考慮性價比，」Guillermo Rauch 告訴…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "現在，您可以在最新的 iOS 27 Beta 中自訂 Siri 的節奏和表現力",
+          "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+          "summary": "此次更新是蘋果公司為讓 Siri 感覺更加自然和個性化而做出的更廣泛努力的一部分，因為它將助手重新構建為…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "2026 年每一次重大科技裁員都涉及人工智慧",
+          "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "summary": "以時間倒序順序觀察已宣布大幅裁員的大型科技公司…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "如果你使用谷歌，你就是在訓練它的人工智慧。以下是如何選擇退出。",
+          "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+          "summary": "將此視為遲來的公益廣告：谷歌最近對隱私設定進行了更改，允許該公司存儲更多...",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "史丹利工作室 (Stanley Studio)",
+          "link": "https://www.producthunt.com/products/stanley-studio",
+          "desc": "您僱用的人工智慧影片編輯器可以像人類一樣進行編輯關聯",
+          "title_en": "Stanley Studio"
+        },
+        {
+          "title": "提前輸入 2.0 (Typeahead 2.0)",
+          "link": "https://www.producthunt.com/products/typeahead",
+          "desc": "為 Mac 上的每個應用程式提供私人 AI 自動完成功能關聯",
+          "title_en": "Typeahead 2.0"
+        },
+        {
+          "title": "Edgee Claude 代碼壓縮器 V2 (Edgee Claude Code Compressor V2)",
+          "link": "https://www.producthunt.com/products/edgee",
+          "desc": "更少的代幣，相同的上下文，成本降低 50% 討論 |關聯",
+          "title_en": "Edgee Claude Code Compressor V2"
+        },
+        {
+          "title": "代碼莫特 (CodeMote)",
+          "link": "https://www.producthunt.com/products/codemote-remote-control-for-any-ai",
+          "desc": "Claude Code、Codex、任何 CLI 代理程式。從您的 iPhone 驅動討論 |關聯",
+          "title_en": "CodeMote"
+        },
+        {
+          "title": "莫札伊克 (Mozaik)",
+          "link": "https://www.producthunt.com/products/mozaik-4",
+          "desc": "自組織 AI 代理的 TypeScript 運行時討論 |關聯",
+          "title_en": "Mozaik"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [],
+      "pick": {
+        "title": "我間諜",
+        "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+        "summary": "長期以來，我一直認為好萊塢既設定了我們對智慧眼鏡的期望，也破壞了我們對智慧眼鏡的期望。但狂歡過後…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用Stanley Studio剪輯旅遊影片",
+          "detail": "使用Stanley Studio編輯器剪輯旅遊影片，發在Instagram Reel，預計3天出成果"
+        },
+        {
+          "title": "優化代碼以節省資源",
+          "detail": "使用Edgee Claude Code Compressor V2壓縮代碼，減少50%成本，發在公司的技術博客，預計1周出成果"
+        },
+        {
+          "title": "自動完成旅遊內容編寫",
+          "detail": "使用Typeahead 2.0自動完成旅遊內容編寫，發在公司的旅遊部落格，預計2天出成果"
         }
       ]
     }
