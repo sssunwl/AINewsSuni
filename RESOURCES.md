@@ -24,6 +24,5 @@
 
 正常情況下這區應該是空的。**只有當 Notion 寫入失敗時**（網路問題、rate limit 等——不是分類錯誤，分類錯誤直接用「其他」），才把完整資料暫存在這裡，避免資料遺失，等問題解決後盡快補寫進 Notion，成功後把該筆從這裡移除、加進上面的索引。
 
-<!-- 目前無新增暫存項目 -->
-
-**⏳ 另有 5 筆既有頁面的亂碼修正待套用**：見 [notion-sync/PENDING_NOTION_UPDATES.md](notion-sync/PENDING_NOTION_UPDATES.md)（本 session Notion 寫入需核准未通過，內容已重寫完成，待下次可寫入時套用）。
+<!-- 目前無暫存項目 -->
+<!-- 2026-07-07：5 筆亂碼頁面重寫已全部套用回 Notion，暫存檔已移除（歷史見 git log notion-sync/） -->
