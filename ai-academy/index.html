@@ -342,6 +342,61 @@ const COLLECT = [
   author:"株式会社Uravation", url:"https://uravation.com/media/claude-code-automation-case-studies-2026/",
   prompt:``
  },
+ // ---- 來源：持續追蹤用的即時目錄 / 社群 / 電子報 ----
+ {
+  type:"來源", title:"ClaudeMarketplaces.com：最大社群目錄",
+  desc:"Skill＋Plugin＋MCP 的社群目錄，每天從 GitHub 自動更新。找「有沒有人做過這個」先來這裡。",
+  author:"社群維護", url:"https://claudemarketplaces.com/",
+  prompt:``
+ },
+ {
+  type:"來源", title:"aitmpl.com：數千個 agent / command / skill 索引",
+  desc:"開源目錄 claude-code-templates 的網站版，附 CLI 一鍵安裝。量最大，適合挖冷門工具。",
+  author:"davila7（GitHub）", url:"https://github.com/davila7/claude-code-templates",
+  prompt:``
+ },
+ {
+  type:"來源", title:"官方 Plugin Marketplace（/plugin）",
+  desc:"Claude Code 裡直接打 /plugin 就能逛：官方 100+ 個，加上通過 Anthropic 安全審查的社群版。安全性最有保障的安裝來源。",
+  author:"Anthropic", url:"https://code.claude.com/docs/en/discover-plugins",
+  prompt:`/plugin`
+ },
+ {
+  type:"來源", title:"awesome-claude-code：公認的正典精選清單",
+  desc:"36.8k 星的手工精選：skills、subagents、開發工具、plugins。小技巧：網址加 /commits/main.atom 變 RSS，訂閱「清單本身的更新」。",
+  author:"hesreallyhim（GitHub）", url:"https://github.com/hesreallyhim/awesome-claude-code",
+  prompt:``
+ },
+ {
+  type:"來源", title:"awesome-claude-skills：1000+ 實用 Skill 精選",
+  desc:"ComposioHQ 維護的 Skill 專門清單，偏實戰可直接用的。",
+  author:"ComposioHQ（GitHub）", url:"https://github.com/ComposioHQ/awesome-claude-skills",
+  prompt:``
+ },
+ {
+  type:"來源", title:"awesome-agent-skills：跨工具通用 Skill 清單",
+  desc:"1000+ 個官方與社群 skill，Claude Code / Codex / Cursor / Gemini CLI 都能用——工具換了收藏還在。",
+  author:"VoltAgent（GitHub）", url:"https://github.com/VoltAgent/awesome-agent-skills",
+  prompt:``
+ },
+ {
+  type:"來源", title:"Reddit：r/ClaudeAI 與 r/ClaudeCode",
+  desc:"每天都有實測貼文和第一手踩坑經驗，看「大家實際怎麼用、卡在哪」最即時的地方。",
+  author:"Reddit 社群", url:"https://www.reddit.com/r/ClaudeAI/",
+  prompt:``
+ },
+ {
+  type:"來源", title:"Simon Willison 部落格",
+  desc:"新模型、新工具發布當天就有可靠實測，判斷冷靜不吹捧。想快速知道「這個新東西值不值得看」就讀他。",
+  author:"Simon Willison", url:"https://simonwillison.net/",
+  prompt:``
+ },
+ {
+  type:"來源", title:"Lenny's Newsletter：50 個非工程師用法",
+  desc:"從 500+ 人的分享整理出 50 個非技術背景的 Claude Code 應用——自動化文件、日誌分析等。找「不寫程式的人怎麼用」的代表作。",
+  author:"Lenny's Newsletter", url:"https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code",
+  prompt:``
+ },
  {
   type:"Agent", title:"驗證用子代理：讓別的 AI 檢查工作",
   desc:"長跑任務把「驗證」交給獨立的子代理，勝過讓 AI 自己檢查自己（self-critique）。一句 prompt 就能啟用的模式。",
@@ -408,7 +463,7 @@ function render() {
 }
 
 // ====== 收集箱渲染 ======
-const TYPE_COLORS = { "Skill":"#5fd39a", "Agent":"#b48cff", "案例":"#6ea8ff", "教學":"#e0b45c" };
+const TYPE_COLORS = { "Skill":"#5fd39a", "Agent":"#b48cff", "案例":"#6ea8ff", "教學":"#e0b45c", "來源":"#f08fb0" };
 let curType = "all", curCQ = "";
 
 function renderCollect() {

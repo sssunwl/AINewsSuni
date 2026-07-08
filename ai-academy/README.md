@@ -7,6 +7,8 @@
 - **線上版**：<https://sssunwl.github.io/Fablecase/>（repo：[sssunwl/Fablecase](https://github.com/sssunwl/Fablecase)，公開）
 - **單一真相來源是這裡的 index.html**，Fablecase repo 只是部署鏡像。更新流程：改這裡 → 複製 `index.html`（和 `cases/`）到 Fablecase repo → commit push，Pages 會自動重建。
 
+**收集箱週報（排程自動化）**：每週一 09:00 排程任務（`claude-weekly-collect-digest`）掃描來源、產最多 5 筆候選寫進 [collect-inbox.md](collect-inbox.md)，**只進候選區、不自動上站**。SS 回「上 N」才由當時的 session 把該筆加進 index.html 的 `COLLECT` 陣列（＋Notion）並同步部署；沒審核的候選留著併入每週 review。狀態：候選 / 已上站 / 略過。
+
 每個案例對應 `/Users/sws/Downloads/claude` 底下的一個實際專案（例如 AINewsSuni、InvestUni-LearnHub、WeatherLab...），記錄的不只是「做出了什麼」，而是**需求 → 設計討論 → 取捨決策**的完整過程。
 
 ## 案例索引
