@@ -44,16 +44,22 @@ Fablecase repo 的 README 說源頭是「本機 `AINewsSuni/ai-academy/index.htm
 | [Fablecase](https://github.com/sssunwl/Fablecase) | 自動上網找資源/Cases/Skills + **工具資源庫網站**（分類展示、可展開詳細、同類比較） | 不自己另存資料，一律寫進 Notion |
 | [SunFamilyTrip](https://github.com/sssunwl/SunFamilyTrip) | 家庭旅遊發佈出口（餐廳、8月釜山等） | 不做收集 |
 | [okinews](https://github.com/sssunwl/okinews) | 沖繩相關發佈出口 | 不做收集 |
-| [sosolsunday](https://github.com/sssunwl/sosolsunday) | 生活類發佈出口 | 不做收集 |
+| [sosolsunday](https://github.com/sssunwl/sosolsunday) | 旅遊優惠站 + **口袋地點地圖**（發佈到多選＝Sosolsundays）✅ 已上線 | 不做收集 |
 
-## Notion 資料庫要加的欄位
+## Notion 資料庫欄位（✅ 2026-07-08 已建立）
+
+以下為 SS 實際建立的欄位與選項名，生成腳本以此為準：
 
 | 欄位 | 型別 | 選項 | 用途 |
 |---|---|---|---|
-| 來源 | select | 手動 / IG捷徑 / FableCase自動 | 區分 SS 丟的、捷徑快收的、機器找的 |
-| 發佈到 | **multi-select** | FableCase / 地圖站 / SunFamilyTrip / okinews / 不發佈 | 發佈路由，一筆可多站；大多可從「分類」自動推，此欄位供手動覆蓋 |
-| 地區 | select | 釜山 / 沖繩 / 首爾 / 台北 / 東京 / 福岡 / 石垣 / 宮古島 /（可增） | 地圖站分區篩選 |
+| 來源 | text | 自由填（手動 / IG捷徑 / FableCase自動） | 區分 SS 丟的、捷徑快收的、機器找的 |
+| 發佈到多選 | **multi-select** | `Fablecase` / `AInewssuni` / `SunfamilyTrip` / `Sosolsundays` | 發佈路由，一筆可多站 |
+| 地區 | text | 自由填（釜山 / 沖繩 / 首爾 …） | 地圖站分區篩選 |
 | 座標 | text | 例 `35.1796,129.0756` | 地圖 pin；整理時由 Claude 查填，查不到留空週會補 |
+
+**選項名對照（重要）**：地圖站 = `Sosolsundays`（發佈到多選勾此 → 進 sosolsunday 口袋地點）。釜山口袋名單 = 地區「釜山」＋發佈到多選含 `SunfamilyTrip`。
+
+**places.json 生成規則**：撈 Notion 中「狀態 ∈ {已整理, 已彙整}」且「發佈到多選含 Sosolsundays」的項目 → 每筆輸出 `{name(標題), region(地區), category(分類), lat/lon(座標拆分), summary(重點摘要), tags, link(連結或Notion頁), publishTo(發佈到多選), verified}` 到 `sosolsunday/docs/data/places.json`。座標空的先跳過 pin（卡片仍顯示）。
 
 > 欄位由 SS 或 Sun（本機 session）在 Notion 加，雲端 session 不自行新增選項（沿用 CLAUDE.md 規則）。
 
