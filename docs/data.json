@@ -1,108 +1,140 @@
 {
-  "updated": "2026-07-07 12:49 HKT",
+  "updated": "2026-07-08 12:11 HKT",
   "news": [
     {
-      "title": "我間諜",
-      "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-      "summary": "長期以來，我一直認為好萊塢既設定了我們對智慧眼鏡的期望，也破壞了我們對智慧眼鏡的期望。但狂歡過後…",
+      "title": "Meta的新Muse Image模型可以將其他Instagram用戶拉入AI照片中",
+      "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "summary": "Meta 正在推出由其超級智慧實驗室部門製作的第一個人工智慧影像生成模型。繆斯形像模型…",
       "source": "The Verge"
     },
     {
-      "title": "微軟將裁員 4,800 名員工",
-      "link": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
-      "summary": "在裁員約 9,100 名員工一年後，微軟今天在新的財務年度開始之際進一步裁員…",
+      "title": "Anthropic 正在行動和網路上推出 Claude Cowork",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "summary": "從週二開始，Anthropic 的 Claude Cowork 人工智慧平台將首次在行動和網路上推出。拓展…",
       "source": "The Verge"
     },
     {
-      "title": "「第一次」人工智慧運行的勒索軟體攻擊仍然需要人類",
-      "link": "https://techcrunch.com/2026/07/06/the-first-ai-run-ransomware-attack-still-needed-a-human/",
-      "summary": "人工智慧代理首次對現實世界的勒索軟體攻擊進行了技術執行，但新的詳細資訊…",
+      "title": "Solos 推出了更輕的無相機智慧眼鏡版本",
+      "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+      "summary": "Solos 宣布推出新版 AirGo 智慧眼鏡，放棄了鏡頭，採用更時尚的設計和人工智慧輔助…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Meta 剛剛推出了一款新的人工智慧產生器 Muse Image，用戶已經開始拒絕使用他們的照片",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "summary": "新的圖像生成模型有許多用例，包括廣告和裝飾，以及基於創作者的機會…",
       "source": "TechCrunch"
     },
     {
-      "title": "美國投資者很快將有機會投資另一家乘著人工智慧熱潮的記憶體製造商SK海力士",
-      "link": "https://techcrunch.com/2026/07/06/us-investors-will-soon-get-access-to-sk-hynix-another-memory-maker-riding-the-ai-boom/",
-      "summary": "SK 海力士正經歷人工智慧帶來的繁榮。它將藉此進行數十億美元的美國首次公開募股，預計將於...",
+      "title": "為什麼開源人工智慧的興起還沒有傷害 Anthropic…",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "summary": "開源模型的成功並不以犧牲前沿實驗室為代價。相反，他們似乎都捕捉了兩個階段…",
       "source": "TechCrunch"
     },
     {
-      "title": "Vercel 執行長 Gulermo Rauch 談論模特兒與經紀人分離的鬥爭",
-      "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
-      "summary": "「現實情況是，當您優化生產時，您會開始考慮性價比，」Guillermo Rauch 告訴…",
+      "title": "微軟更依賴自有模型加入人工智慧成本削減趨勢",
+      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+      "summary": "微軟是最新一家削減人工智慧支出的矽谷巨頭。",
       "source": "TechCrunch"
     },
     {
-      "title": "現在，您可以在最新的 iOS 27 Beta 中自訂 Siri 的節奏和表現力",
-      "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
-      "summary": "此次更新是蘋果公司為讓 Siri 感覺更加自然和個性化而做出的更廣泛努力的一部分，因為它將助手重新構建為…",
+      "title": "Discord 承認人工智慧審核錯誤地禁止使用者查看無害影像",
+      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+      "summary": "該公司證實，該問題自 5 月以來一直影響著帳戶，另外 200 名用戶在這段時間被禁止…",
       "source": "TechCrunch"
     },
     {
-      "title": "2026 年每一次重大科技裁員都涉及人工智慧",
-      "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "summary": "以時間倒序順序觀察已宣布大幅裁員的大型科技公司…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "如果你使用谷歌，你就是在訓練它的人工智慧。以下是如何選擇退出。",
-      "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-      "summary": "將此視為遲來的公益廣告：谷歌最近對隱私設定進行了更改，允許該公司存儲更多...",
+      "title": "Claude Cowork 擴展到行動和網絡",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "summary": "透過此更新，使用者可以在辦公桌上啟動任務，在手機上獲取狀態更新，並拿起已完成的任務...",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "史丹利工作室 (Stanley Studio)",
-      "link": "https://www.producthunt.com/products/stanley-studio",
-      "desc": "您僱用的人工智慧影片編輯器可以像人類一樣進行編輯關聯",
-      "title_en": "Stanley Studio"
+      "title": "催化劑 (Katalyst)",
+      "link": "https://www.producthunt.com/products/katalyst",
+      "desc": "適用於 Salesforce Pipeline 的 AI 代理討論 |關聯",
+      "title_en": "Katalyst"
     },
     {
-      "title": "提前輸入 2.0 (Typeahead 2.0)",
-      "link": "https://www.producthunt.com/products/typeahead",
-      "desc": "為 Mac 上的每個應用程式提供私人 AI 自動完成功能關聯",
-      "title_en": "Typeahead 2.0"
+      "title": "塗鴉網絡 (Scribble Network)",
+      "link": "https://www.producthunt.com/products/scribble-network",
+      "desc": "讓AI推薦你的品牌的產品 討論 |關聯",
+      "title_en": "Scribble Network"
     },
     {
-      "title": "Edgee Claude 代碼壓縮器 V2 (Edgee Claude Code Compressor V2)",
-      "link": "https://www.producthunt.com/products/edgee",
-      "desc": "更少的代幣，相同的上下文，成本降低 50% 討論 |關聯",
-      "title_en": "Edgee Claude Code Compressor V2"
+      "title": "卡多因克人工智慧 (Kadoink AI)",
+      "link": "https://www.producthunt.com/products/say-who-say-why-kadoink-gathers-everyone",
+      "desc": "透過人工智慧文字、視訊或電話鈴聲立即聚集人員討論 |關聯",
+      "title_en": "Kadoink AI"
     },
     {
-      "title": "代碼莫特 (CodeMote)",
-      "link": "https://www.producthunt.com/products/codemote-remote-control-for-any-ai",
-      "desc": "Claude Code、Codex、任何 CLI 代理程式。從您的 iPhone 驅動討論 |關聯",
-      "title_en": "CodeMote"
+      "title": "徽章 (Badge)",
+      "link": "https://www.producthunt.com/products/badge-3",
+      "desc": "人工智慧代理收集同儕審查以產生工作證明關聯",
+      "title_en": "Badge"
     },
     {
-      "title": "莫札伊克 (Mozaik)",
-      "link": "https://www.producthunt.com/products/mozaik-4",
-      "desc": "自組織 AI 代理的 TypeScript 運行時討論 |關聯",
-      "title_en": "Mozaik"
+      "title": "人工智慧電子郵件 (AI Emaily)",
+      "link": "https://www.producthunt.com/products/ai-emaily-unified-ai-inbox",
+      "desc": "你的人工智慧收件匣會像你一樣寫作+在自動駕駛儀上回覆關聯",
+      "title_en": "AI Emaily"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "Meta的新Muse Image模型可以將其他Instagram用戶拉入AI照片中",
+      "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+      "summary": "Meta 正在推出由其超級智慧實驗室部門製作的第一個人工智慧影像生成模型。繆斯形像模型…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Meta 剛剛推出了一款新的人工智慧產生器 Muse Image，用戶已經開始拒絕使用他們的照片",
+      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+      "summary": "新的圖像生成模型有許多用例，包括廣告和裝飾，以及基於創作者的機會…",
+      "source": "TechCrunch"
+    }
+  ],
   "suniverse_tools": [],
-  "major": [],
+  "major": [
+    {
+      "title": "Anthropic 正在行動和網路上推出 Claude Cowork",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+      "summary": "從週二開始，Anthropic 的 Claude Cowork 人工智慧平台將首次在行動和網路上推出。拓展…",
+      "source": "The Verge"
+    },
+    {
+      "title": "為什麼開源人工智慧的興起還沒有傷害 Anthropic…",
+      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+      "summary": "開源模型的成功並不以犧牲前沿實驗室為代價。相反，他們似乎都捕捉了兩個階段…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Claude Cowork 擴展到行動和網絡",
+      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+      "summary": "透過此更新，使用者可以在辦公桌上啟動任務，在手機上獲取狀態更新，並拿起已完成的任務...",
+      "source": "TechCrunch"
+    }
+  ],
   "pick": {
-    "title": "我間諜",
-    "link": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
-    "summary": "長期以來，我一直認為好萊塢既設定了我們對智慧眼鏡的期望，也破壞了我們對智慧眼鏡的期望。但狂歡過後…",
+    "title": "Anthropic 正在行動和網路上推出 Claude Cowork",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+    "summary": "從週二開始，Anthropic 的 Claude Cowork 人工智慧平台將首次在行動和網路上推出。拓展…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用Stanley Studio剪輯旅遊影片",
-      "detail": "使用Stanley Studio編輯器剪輯旅遊影片，發在Instagram Reel，預計3天出成果"
+      "title": "今日推廣旅遊商品",
+      "detail": "用Scribble Network讓AI推薦我們的旅遊商品，發在Instagram和Facebook，預計3天出成果"
     },
     {
-      "title": "優化代碼以節省資源",
-      "detail": "使用Edgee Claude Code Compressor V2壓縮代碼，減少50%成本，發在公司的技術博客，預計1周出成果"
+      "title": "即時旅遊直播討論",
+      "detail": "利用Kadoink AI聚集人們討論旅遊直播，透過電話鈴聲或視訊邀請嘉賓，發在YouTube和社交媒體，預計1周出成果"
     },
     {
-      "title": "自動完成旅遊內容編寫",
-      "detail": "使用Typeahead 2.0自動完成旅遊內容編寫，發在公司的旅遊部落格，預計2天出成果"
+      "title": "AI生成旅遊證明",
+      "detail": "用Badge讓AI代理收集同儕審查，生成旅遊工作證明，發在我們的官方網站和社交媒體，預計2周出成果"
     }
   ],
   "history": {
@@ -3019,6 +3051,145 @@
         {
           "title": "自動完成旅遊內容編寫",
           "detail": "使用Typeahead 2.0自動完成旅遊內容編寫，發在公司的旅遊部落格，預計2天出成果"
+        }
+      ]
+    },
+    "2026-07-08": {
+      "news": [
+        {
+          "title": "Meta的新Muse Image模型可以將其他Instagram用戶拉入AI照片中",
+          "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+          "summary": "Meta 正在推出由其超級智慧實驗室部門製作的第一個人工智慧影像生成模型。繆斯形像模型…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 正在行動和網路上推出 Claude Cowork",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+          "summary": "從週二開始，Anthropic 的 Claude Cowork 人工智慧平台將首次在行動和網路上推出。拓展…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Solos 推出了更輕的無相機智慧眼鏡版本",
+          "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
+          "summary": "Solos 宣布推出新版 AirGo 智慧眼鏡，放棄了鏡頭，採用更時尚的設計和人工智慧輔助…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta 剛剛推出了一款新的人工智慧產生器 Muse Image，用戶已經開始拒絕使用他們的照片",
+          "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+          "summary": "新的圖像生成模型有許多用例，包括廣告和裝飾，以及基於創作者的機會…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "為什麼開源人工智慧的興起還沒有傷害 Anthropic…",
+          "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+          "summary": "開源模型的成功並不以犧牲前沿實驗室為代價。相反，他們似乎都捕捉了兩個階段…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "微軟更依賴自有模型加入人工智慧成本削減趨勢",
+          "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+          "summary": "微軟是最新一家削減人工智慧支出的矽谷巨頭。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Discord 承認人工智慧審核錯誤地禁止使用者查看無害影像",
+          "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+          "summary": "該公司證實，該問題自 5 月以來一直影響著帳戶，另外 200 名用戶在這段時間被禁止…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Claude Cowork 擴展到行動和網絡",
+          "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+          "summary": "透過此更新，使用者可以在辦公桌上啟動任務，在手機上獲取狀態更新，並拿起已完成的任務...",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "催化劑 (Katalyst)",
+          "link": "https://www.producthunt.com/products/katalyst",
+          "desc": "適用於 Salesforce Pipeline 的 AI 代理討論 |關聯",
+          "title_en": "Katalyst"
+        },
+        {
+          "title": "塗鴉網絡 (Scribble Network)",
+          "link": "https://www.producthunt.com/products/scribble-network",
+          "desc": "讓AI推薦你的品牌的產品 討論 |關聯",
+          "title_en": "Scribble Network"
+        },
+        {
+          "title": "卡多因克人工智慧 (Kadoink AI)",
+          "link": "https://www.producthunt.com/products/say-who-say-why-kadoink-gathers-everyone",
+          "desc": "透過人工智慧文字、視訊或電話鈴聲立即聚集人員討論 |關聯",
+          "title_en": "Kadoink AI"
+        },
+        {
+          "title": "徽章 (Badge)",
+          "link": "https://www.producthunt.com/products/badge-3",
+          "desc": "人工智慧代理收集同儕審查以產生工作證明關聯",
+          "title_en": "Badge"
+        },
+        {
+          "title": "人工智慧電子郵件 (AI Emaily)",
+          "link": "https://www.producthunt.com/products/ai-emaily-unified-ai-inbox",
+          "desc": "你的人工智慧收件匣會像你一樣寫作+在自動駕駛儀上回覆關聯",
+          "title_en": "AI Emaily"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Meta的新Muse Image模型可以將其他Instagram用戶拉入AI照片中",
+          "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
+          "summary": "Meta 正在推出由其超級智慧實驗室部門製作的第一個人工智慧影像生成模型。繆斯形像模型…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta 剛剛推出了一款新的人工智慧產生器 Muse Image，用戶已經開始拒絕使用他們的照片",
+          "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
+          "summary": "新的圖像生成模型有許多用例，包括廣告和裝飾，以及基於創作者的機會…",
+          "source": "TechCrunch"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Anthropic 正在行動和網路上推出 Claude Cowork",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+          "summary": "從週二開始，Anthropic 的 Claude Cowork 人工智慧平台將首次在行動和網路上推出。拓展…",
+          "source": "The Verge"
+        },
+        {
+          "title": "為什麼開源人工智慧的興起還沒有傷害 Anthropic…",
+          "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+          "summary": "開源模型的成功並不以犧牲前沿實驗室為代價。相反，他們似乎都捕捉了兩個階段…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Claude Cowork 擴展到行動和網絡",
+          "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+          "summary": "透過此更新，使用者可以在辦公桌上啟動任務，在手機上獲取狀態更新，並拿起已完成的任務...",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Anthropic 正在行動和網路上推出 Claude Cowork",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
+        "summary": "從週二開始，Anthropic 的 Claude Cowork 人工智慧平台將首次在行動和網路上推出。拓展…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "今日推廣旅遊商品",
+          "detail": "用Scribble Network讓AI推薦我們的旅遊商品，發在Instagram和Facebook，預計3天出成果"
+        },
+        {
+          "title": "即時旅遊直播討論",
+          "detail": "利用Kadoink AI聚集人們討論旅遊直播，透過電話鈴聲或視訊邀請嘉賓，發在YouTube和社交媒體，預計1周出成果"
+        },
+        {
+          "title": "AI生成旅遊證明",
+          "detail": "用Badge讓AI代理收集同儕審查，生成旅遊工作證明，發在我們的官方網站和社交媒體，預計2周出成果"
         }
       ]
     }
