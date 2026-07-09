@@ -9,6 +9,8 @@
 
 **收集箱週報（排程自動化）**：每週一 09:00 排程任務（`claude-weekly-collect-digest`）掃描來源、產最多 5 筆候選寫進 [collect-inbox.md](collect-inbox.md)，**只進候選區、不自動上站**。沒審核的候選留著併入每週 review。狀態：候選 / 已上站 / 略過。
 
+**⚠️ Notion 才是 AI 工具/教學收藏的唯一真相來源，COLLECT 是它的精選公開版**——SS 手機隨手丟連結進 Notion「IG 收藏整理」（分類「Claude Code 教學」「其他」）跟這裡的週報收集箱是同一種內容的兩個入口。2026-07-08 發現這條規則沒有真正落實：Notion 裡已有 Agent Sprite Forge、OpenMontage、Codex & Claude Code 實戰分享、Social Cards Engine、Vibe Reader 共 5 筆從沒被同步成 COLLECT 公開版；週報 prompt 已補上「先查 Notion 避免重複推薦候選」，但**既有的 5 筆要不要公開化仍待 SS 審核**（見待辦池）。
+
 SS 回「上 N」之後，當時的 session 必須**一次做完下面四件事**，不可以只做前兩項——上站跟 Notion 分開做是資料分裂的根源，之前已經因為漏做而被抓到過一次：
 
 1. 把該筆加進本機 `index.html` 的 `COLLECT` 陣列
