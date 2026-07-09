@@ -9,7 +9,13 @@
 
 **收集箱週報（排程自動化）**：每週一 09:00 排程任務（`claude-weekly-collect-digest`）掃描來源、產最多 5 筆候選寫進 [collect-inbox.md](collect-inbox.md)，**只進候選區、不自動上站**。沒審核的候選留著併入每週 review。狀態：候選 / 已上站 / 略過。
 
-**⚠️ Notion 才是 AI 工具/教學收藏的唯一真相來源，COLLECT 是它的精選公開版**——SS 手機隨手丟連結進 Notion「IG 收藏整理」（分類「Claude Code 教學」「其他」）跟這裡的週報收集箱是同一種內容的兩個入口。2026-07-08 發現這條規則沒有真正落實：Notion 裡已有 Agent Sprite Forge、OpenMontage、Codex & Claude Code 實戰分享、Social Cards Engine、Vibe Reader 共 5 筆從沒被同步成 COLLECT 公開版；週報 prompt 已補上「先查 Notion 避免重複推薦候選」，但**既有的 5 筆要不要公開化仍待 SS 審核**（見待辦池）。
+**⚠️ Notion 才是 AI 工具/教學收藏的唯一真相來源，COLLECT 是它的精選公開版**——SS 手機隨手丟連結進 Notion「IG 收藏整理」（分類「Claude Code 教學」「其他」），這裡的週報收集箱是同一種內容的公開出口。2026-07-08 發現這條規則沒有真正落實：Notion 裡已有 Agent Sprite Forge、OpenMontage、Codex & Claude Code 實戰分享等 5 筆從沒被同步成 COLLECT 公開版。
+
+**已修：`claude-weekly-collect-digest` 現在跑兩軌**（見任務檔 `~/.claude/scheduled-tasks/claude-weekly-collect-digest/SKILL.md`）：
+- **A 軌**：跟原本一樣，掃外部來源找新東西，最多 5 筆
+- **B 軌**：直接查 Notion「IG 收藏整理」，把「分類=Claude Code教學/其他 且 狀態=已整理 且 驗證狀態=已查證屬實」的項目當成「私人收藏已成熟，建議公開」的候選——這個判斷不是新發明的品質標準，就是沿用 SS 在每週 review 時已經填好的 狀態/驗證狀態 欄位，B 軌只是把「已經審過的東西」接到公開流程，不重新審內容好壞
+
+兩軌都只進 [collect-inbox.md](collect-inbox.md) 候選區,SS 回「上 N」才真的公開。下週一(下次排程執行)B 軌會自動把現有 5 筆裡「已查證屬實」的部分列出來。
 
 SS 回「上 N」之後，當時的 session 必須**一次做完下面四件事**，不可以只做前兩項——上站跟 Notion 分開做是資料分裂的根源，之前已經因為漏做而被抓到過一次：
 
