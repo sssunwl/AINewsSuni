@@ -16,19 +16,39 @@ SS 回「上 N」之後，當時的 session 必須**一次做完下面四件事*
 3. **寫進 Notion「IG 收藏整理」資料庫**（同一個庫，分類選「Claude Code 教學」）——這是所有收集項目的唯一真相來源，網站只是精選公開版，兩邊都要有
 4. 把 `collect-inbox.md` 裡該筆的狀態從「候選」改成「已上站」
 
-每個案例對應 `/Users/sws/Downloads/claude` 底下的一個實際專案（例如 AINewsSuni、InvestUni-LearnHub、WeatherLab...），記錄的不只是「做出了什麼」，而是**需求 → 設計討論 → 取捨決策**的完整過程。
+每個案例對應 `/Users/sws/Downloads/claude` 底下的一個實際專案（例如 AINewsSuni、SonaSNS-Platform、WeatherLab...），記錄的不只是「做出了什麼」，而是**需求 → 設計討論 → 取捨決策**的完整過程。
+
+**⚠️ 這張表要跟 `index.html` 的 `CASES` 陣列保持一致**——2026-07-08 發現兩邊脫鉤過（陣列 10 筆，這裡只列 1 筆），已補齊。之後新增/改案例時兩邊一起改。
 
 ## 案例索引
 
-| 案例 | 對應專案 | 重點 |
-|---|---|---|
-| [IG / 資源整理系統](cases/ig-resource-organizer.md) | (Notion 工具，非本機專案) | 手機連動 Claude Code、訂閱方案取捨、Notion 資料庫設計 |
+| 案例 | 分類 | 對應專案 | 狀態 | 深度筆記 |
+|---|---|---|---|---|
+| 手機連動 + Notion 資源整理系統 | 資訊整理 | Notion 工具 + AINewsSuni repo | 完整教材 | [cases/ig-resource-organizer.md](cases/ig-resource-organizer.md) |
+| Sona Sheet：多品牌社群貼文半自動化 | 社群自動化 | SonaSNS-Platform | 營運中 | 待寫 |
+| AINewsSuni：每日 AI 新聞摘要機器人 | 資料抓取 | AINewsSuni | 營運中 | 待寫 |
+| Okiblues 租車：動態定價 + 自動化報表 | 商業營運 | Okiblues（客戶業務） | 營運中 | 待寫 |
+| WeatherLab：天氣資料工具 | 資料抓取 | weatherLab | 待寫教材 | — |
+| FlightNews：航班資訊工具 | 資料抓取 | FlightNews | 待寫教材 | — |
+| InvestUni 投資學堂 | 內容與知識 | InvestUni-LearnHub | 待寫教材 | — |
+| MoralJury 道德陪審團短片 | 內容與知識 | MoralJury-Shorts | 待寫教材 | — |
+| CapyChill：AI 內容實驗 | 內容與知識 | CapyChill | 待寫教材 | — |
+| PersonalFootage：十年影像資產整理 | 資訊整理 | PersonalFootage | 待寫教材 | — |
+
+## 跟 course-ai-saas（結構化課程）的分工
+
+`course-ai-saas/SYLLABUS.md` 是**讀書順序索引**，不是第三份內容倉庫：
+- 課綱裡「對應某個既有/待寫 CASES 專案」的課 → 直接把內容寫進該專案的 `cases/*.md`（順便補齊上面表格的「待寫教材」缺口），SYLLABUS 只放連結
+- 課綱裡「跨專案的純概念課」（例如 API Key/OAuth 安全事故、系統健檢與監控）→ 才在 `course-ai-saas/concepts/` 新寫檔案
+- 一件事只寫一次：寫 CASES 案例的同時就是在寫課，不是寫兩份
 
 ## 結構
 
 ```
 ai-academy/
-├── README.md          ← 本文件，案例索引
-├── index.html         ← 案例庫網站（單檔，可直接開或部署 GitHub Pages）
-└── cases/             ← 逐一案例的教學筆記
+├── README.md              ← 本文件，案例索引 + 三套系統分工說明
+├── index.html             ← 案例庫網站（單檔，CASES + COLLECT 兩個陣列）
+├── cases/                 ← CASES 逐一深度筆記
+├── collect-inbox.md       ← COLLECT 候選區（claude-weekly-collect-digest 每週一自動產生，SS 審核）
+└── course-ai-saas/        ← 讀書順序索引，內容連回 cases/ 或新寫 concepts/
 ```
