@@ -1,79 +1,79 @@
 {
-  "updated": "2026-07-08 12:11 HKT",
+  "updated": "2026-07-09 12:49 HKT",
   "news": [
     {
-      "title": "Meta的新Muse Image模型可以將其他Instagram用戶拉入AI照片中",
-      "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "summary": "Meta 正在推出由其超級智慧實驗室部門製作的第一個人工智慧影像生成模型。繆斯形像模型…",
+      "title": "ChatGPT升級語音模式更能閉嘴",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "summary": "OpenAI 正在用一種新模型徹底改革 ChatGPT 的語音模式，據稱該模型更像是「與另一個人交談」。然後…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 正在行動和網路上推出 Claude Cowork",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "summary": "從週二開始，Anthropic 的 Claude Cowork 人工智慧平台將首次在行動和網路上推出。拓展…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Solos 推出了更輕的無相機智慧眼鏡版本",
-      "link": "https://www.theverge.com/tech/961711/solos-airgo-a6-smart-glasses-ai-assistant-privacy",
-      "summary": "Solos 宣布推出新版 AirGo 智慧眼鏡，放棄了鏡頭，採用更時尚的設計和人工智慧輔助…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Meta 剛剛推出了一款新的人工智慧產生器 Muse Image，用戶已經開始拒絕使用他們的照片",
-      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "summary": "新的圖像生成模型有許多用例，包括廣告和裝飾，以及基於創作者的機會…",
+      "title": "據報道 Lovable 正在談判將其估值翻倍至 $13.2B",
+      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+      "summary": "根據 Sifted 報道，這輪 3 億美元的融資預計將由 Menlo Ventures 領投。",
       "source": "TechCrunch"
     },
     {
-      "title": "為什麼開源人工智慧的興起還沒有傷害 Anthropic…",
-      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "summary": "開源模型的成功並不以犧牲前沿實驗室為代價。相反，他們似乎都捕捉了兩個階段…",
+      "title": "谷歌的深度偽造檢測系統用於揭穿麥康奈爾騙局圖片",
+      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+      "summary": "本週早些時候，一張照片似乎顯示肯塔基州參議員米奇·麥康奈爾在醫院的病床上被管子覆蓋…",
       "source": "TechCrunch"
     },
     {
-      "title": "微軟更依賴自有模型加入人工智慧成本削減趨勢",
-      "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
-      "summary": "微軟是最新一家削減人工智慧支出的矽谷巨頭。",
+      "title": "SpaceXAI 發布了 Grok 4.5，Elon 將其描述為“Opus 級模型”",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "summary": "馬斯克 (Elon Musk) 的科技公司週三發布了最新版本的 Grok，承諾提供一種更便宜、更有效率的替代方案…",
       "source": "TechCrunch"
     },
     {
-      "title": "Discord 承認人工智慧審核錯誤地禁止使用者查看無害影像",
-      "link": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
-      "summary": "該公司證實，該問題自 5 月以來一直影響著帳戶，另外 200 名用戶在這段時間被禁止…",
+      "title": "這家新創公司認為機器人技術即將迎來它的 ChatGPT 時刻",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "summary": "General Intuition 押注數百萬小時的電玩資料可以訓練實體人工智慧的基礎模型，使…",
       "source": "TechCrunch"
     },
     {
-      "title": "Claude Cowork 擴展到行動和網絡",
-      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "summary": "透過此更新，使用者可以在辦公桌上啟動任務，在手機上獲取狀態更新，並拿起已完成的任務...",
+      "title": "谷歌照片添加了新的人工智慧「影片混音」工具",
+      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+      "summary": "該功能可以執行諸如應用電影重新照明來照亮黑暗剪輯、更換普通背景等操作…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "為什麼這位執行長認為電玩遊戲比網路提供更好的訓練數據",
+      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+      "summary": "當談到實現通用人工智慧 (AGI) 時，大型語言模式根本不具備所需的能力。米…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta 希望其人工智慧眼鏡看起來不那麼令人毛骨悚然。它的人工智慧策略卻另有說法。",
+      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+      "summary": "Meta 正在增加一項新的保護措施，以阻止人們用 AI 眼鏡秘密錄製他人的影片。但更新來了…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "催化劑 (Katalyst)",
-      "link": "https://www.producthunt.com/products/katalyst",
-      "desc": "適用於 Salesforce Pipeline 的 AI 代理討論 |關聯",
-      "title_en": "Katalyst"
+      "title": "奧魯斯 (Orus)",
+      "link": "https://www.producthunt.com/products/farao",
+      "desc": "Claude投資永續債券討論|關聯",
+      "title_en": "Orus"
     },
     {
-      "title": "塗鴉網絡 (Scribble Network)",
-      "link": "https://www.producthunt.com/products/scribble-network",
-      "desc": "讓AI推薦你的品牌的產品 討論 |關聯",
-      "title_en": "Scribble Network"
+      "title": "通用-3.5 Pro (Universal-3.5 Pro)",
+      "link": "https://www.producthunt.com/products/assemblyai",
+      "desc": "AssemblyAI 提供的最準確的 STT 模型。討論 |關聯",
+      "title_en": "Universal-3.5 Pro"
     },
     {
-      "title": "卡多因克人工智慧 (Kadoink AI)",
-      "link": "https://www.producthunt.com/products/say-who-say-why-kadoink-gathers-everyone",
-      "desc": "透過人工智慧文字、視訊或電話鈴聲立即聚集人員討論 |關聯",
-      "title_en": "Kadoink AI"
+      "title": "NanoKVM-Go",
+      "link": "https://www.producthunt.com/products/nanokvm-go",
+      "desc": "讓您的 AI 代理程式對任何螢幕進行實體控制關聯",
+      "title_en": "NanoKVM-Go"
     },
     {
-      "title": "徽章 (Badge)",
-      "link": "https://www.producthunt.com/products/badge-3",
-      "desc": "人工智慧代理收集同儕審查以產生工作證明關聯",
-      "title_en": "Badge"
+      "title": "波諾艾 (Bono AI)",
+      "link": "https://www.producthunt.com/products/bono-ai",
+      "desc": "談一次。到處發布。討論 |關聯",
+      "title_en": "Bono AI"
     },
     {
       "title": "人工智慧電子郵件 (AI Emaily)",
@@ -82,59 +82,46 @@
       "title_en": "AI Emaily"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "Meta的新Muse Image模型可以將其他Instagram用戶拉入AI照片中",
-      "link": "https://www.theverge.com/tech/962485/meta-muse-image-ai-model-instagram",
-      "summary": "Meta 正在推出由其超級智慧實驗室部門製作的第一個人工智慧影像生成模型。繆斯形像模型…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Meta 剛剛推出了一款新的人工智慧產生器 Muse Image，用戶已經開始拒絕使用他們的照片",
-      "link": "https://techcrunch.com/2026/07/07/meta-rolls-out-muse-a-new-ai-image-generator/",
-      "summary": "新的圖像生成模型有許多用例，包括廣告和裝飾，以及基於創作者的機會…",
-      "source": "TechCrunch"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic 正在行動和網路上推出 Claude Cowork",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-      "summary": "從週二開始，Anthropic 的 Claude Cowork 人工智慧平台將首次在行動和網路上推出。拓展…",
+      "title": "ChatGPT升級語音模式更能閉嘴",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+      "summary": "OpenAI 正在用一種新模型徹底改革 ChatGPT 的語音模式，據稱該模型更像是「與另一個人交談」。然後…",
       "source": "The Verge"
     },
     {
-      "title": "為什麼開源人工智慧的興起還沒有傷害 Anthropic…",
-      "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
-      "summary": "開源模型的成功並不以犧牲前沿實驗室為代價。相反，他們似乎都捕捉了兩個階段…",
+      "title": "SpaceXAI 發布了 Grok 4.5，Elon 將其描述為“Opus 級模型”",
+      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "summary": "馬斯克 (Elon Musk) 的科技公司週三發布了最新版本的 Grok，承諾提供一種更便宜、更有效率的替代方案…",
       "source": "TechCrunch"
     },
     {
-      "title": "Claude Cowork 擴展到行動和網絡",
-      "link": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-      "summary": "透過此更新，使用者可以在辦公桌上啟動任務，在手機上獲取狀態更新，並拿起已完成的任務...",
+      "title": "這家新創公司認為機器人技術即將迎來它的 ChatGPT 時刻",
+      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+      "summary": "General Intuition 押注數百萬小時的電玩資料可以訓練實體人工智慧的基礎模型，使…",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Anthropic 正在行動和網路上推出 Claude Cowork",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/961978/anthropic-claude-cowork-mobile-web",
-    "summary": "從週二開始，Anthropic 的 Claude Cowork 人工智慧平台將首次在行動和網路上推出。拓展…",
+    "title": "ChatGPT升級語音模式更能閉嘴",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+    "summary": "OpenAI 正在用一種新模型徹底改革 ChatGPT 的語音模式，據稱該模型更像是「與另一個人交談」。然後…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "今日推廣旅遊商品",
-      "detail": "用Scribble Network讓AI推薦我們的旅遊商品，發在Instagram和Facebook，預計3天出成果"
+      "title": "用Bono AI發布多平台內容",
+      "detail": "用Bono AI錄一段旅遊評論，直接發布在YouTube、TikTok、Facebook，預計一週內就能出成果"
     },
     {
-      "title": "即時旅遊直播討論",
-      "detail": "利用Kadoink AI聚集人們討論旅遊直播，透過電話鈴聲或視訊邀請嘉賓，發在YouTube和社交媒體，預計1周出成果"
+      "title": "Orus投資債券分析",
+      "detail": "利用Orus分析永續債券投資，然後發布在Suniverse的部落格和社交媒體，預計三天內就能出成果"
     },
     {
-      "title": "AI生成旅遊證明",
-      "detail": "用Badge讓AI代理收集同儕審查，生成旅遊工作證明，發在我們的官方網站和社交媒體，預計2周出成果"
+      "title": "Universal-3.5 Pro轉錄音頻",
+      "detail": "用Universal-3.5 Pro轉錄最近的旅遊音頻，然後在Suniverse官網發布，預計兩天內就能出成果"
     }
   ],
   "history": {
@@ -3190,6 +3177,132 @@
         {
           "title": "AI生成旅遊證明",
           "detail": "用Badge讓AI代理收集同儕審查，生成旅遊工作證明，發在我們的官方網站和社交媒體，預計2周出成果"
+        }
+      ]
+    },
+    "2026-07-09": {
+      "news": [
+        {
+          "title": "ChatGPT升級語音模式更能閉嘴",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+          "summary": "OpenAI 正在用一種新模型徹底改革 ChatGPT 的語音模式，據稱該模型更像是「與另一個人交談」。然後…",
+          "source": "The Verge"
+        },
+        {
+          "title": "據報道 Lovable 正在談判將其估值翻倍至 $13.2B",
+          "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+          "summary": "根據 Sifted 報道，這輪 3 億美元的融資預計將由 Menlo Ventures 領投。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "谷歌的深度偽造檢測系統用於揭穿麥康奈爾騙局圖片",
+          "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+          "summary": "本週早些時候，一張照片似乎顯示肯塔基州參議員米奇·麥康奈爾在醫院的病床上被管子覆蓋…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "SpaceXAI 發布了 Grok 4.5，Elon 將其描述為“Opus 級模型”",
+          "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+          "summary": "馬斯克 (Elon Musk) 的科技公司週三發布了最新版本的 Grok，承諾提供一種更便宜、更有效率的替代方案…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "這家新創公司認為機器人技術即將迎來它的 ChatGPT 時刻",
+          "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+          "summary": "General Intuition 押注數百萬小時的電玩資料可以訓練實體人工智慧的基礎模型，使…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "谷歌照片添加了新的人工智慧「影片混音」工具",
+          "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+          "summary": "該功能可以執行諸如應用電影重新照明來照亮黑暗剪輯、更換普通背景等操作…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "為什麼這位執行長認為電玩遊戲比網路提供更好的訓練數據",
+          "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+          "summary": "當談到實現通用人工智慧 (AGI) 時，大型語言模式根本不具備所需的能力。米…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta 希望其人工智慧眼鏡看起來不那麼令人毛骨悚然。它的人工智慧策略卻另有說法。",
+          "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+          "summary": "Meta 正在增加一項新的保護措施，以阻止人們用 AI 眼鏡秘密錄製他人的影片。但更新來了…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "奧魯斯 (Orus)",
+          "link": "https://www.producthunt.com/products/farao",
+          "desc": "Claude投資永續債券討論|關聯",
+          "title_en": "Orus"
+        },
+        {
+          "title": "通用-3.5 Pro (Universal-3.5 Pro)",
+          "link": "https://www.producthunt.com/products/assemblyai",
+          "desc": "AssemblyAI 提供的最準確的 STT 模型。討論 |關聯",
+          "title_en": "Universal-3.5 Pro"
+        },
+        {
+          "title": "NanoKVM-Go",
+          "link": "https://www.producthunt.com/products/nanokvm-go",
+          "desc": "讓您的 AI 代理程式對任何螢幕進行實體控制關聯",
+          "title_en": "NanoKVM-Go"
+        },
+        {
+          "title": "波諾艾 (Bono AI)",
+          "link": "https://www.producthunt.com/products/bono-ai",
+          "desc": "談一次。到處發布。討論 |關聯",
+          "title_en": "Bono AI"
+        },
+        {
+          "title": "人工智慧電子郵件 (AI Emaily)",
+          "link": "https://www.producthunt.com/products/ai-emaily-unified-ai-inbox",
+          "desc": "你的人工智慧收件匣會像你一樣寫作+在自動駕駛儀上回覆關聯",
+          "title_en": "AI Emaily"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "ChatGPT升級語音模式更能閉嘴",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+          "summary": "OpenAI 正在用一種新模型徹底改革 ChatGPT 的語音模式，據稱該模型更像是「與另一個人交談」。然後…",
+          "source": "The Verge"
+        },
+        {
+          "title": "SpaceXAI 發布了 Grok 4.5，Elon 將其描述為“Opus 級模型”",
+          "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+          "summary": "馬斯克 (Elon Musk) 的科技公司週三發布了最新版本的 Grok，承諾提供一種更便宜、更有效率的替代方案…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "這家新創公司認為機器人技術即將迎來它的 ChatGPT 時刻",
+          "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+          "summary": "General Intuition 押注數百萬小時的電玩資料可以訓練實體人工智慧的基礎模型，使…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "ChatGPT升級語音模式更能閉嘴",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
+        "summary": "OpenAI 正在用一種新模型徹底改革 ChatGPT 的語音模式，據稱該模型更像是「與另一個人交談」。然後…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用Bono AI發布多平台內容",
+          "detail": "用Bono AI錄一段旅遊評論，直接發布在YouTube、TikTok、Facebook，預計一週內就能出成果"
+        },
+        {
+          "title": "Orus投資債券分析",
+          "detail": "利用Orus分析永續債券投資，然後發布在Suniverse的部落格和社交媒體，預計三天內就能出成果"
+        },
+        {
+          "title": "Universal-3.5 Pro轉錄音頻",
+          "detail": "用Universal-3.5 Pro轉錄最近的旅遊音頻，然後在Suniverse官網發布，預計兩天內就能出成果"
         }
       ]
     }
