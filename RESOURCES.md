@@ -17,6 +17,22 @@
 | Vibe Reader - AI 內容速讀卡片工具 | 其他 | 把長文章、YouTube 影片轉成重點卡片，快速篩選值得看的內容 | 已整理 | [連結](https://app.notion.com/p/39230727f52581329f43c54909d4b8d0) |
 | Gemini 的最佳實作：YouTube 逐字稿轉知識庫 | 文章/網頁 | 用 Gemini 長上下文把 YouTube 逐字稿整理寫入 Obsidian 知識庫 | 已整理 | [連結](https://app.notion.com/p/39230727f52581b89b72e19b8f65f057) |
 | 一個散戶的上升之路：12 個月從技術分析新手到量化交易媒體品牌 | 文章/網頁 | 12 個月工具路線圖，從看不懂 K 線到量化交易媒體品牌 | 已整理 | [連結](https://app.notion.com/p/39230727f525811eb865c1ea5c3b12fc) |
+| IG 貼文 待整理（DaDBZf8nzVx） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f52581e38172e966732b4bc5) |
+| IG Reel 待整理（DaacxWXj0Xz） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f5258183bd6bd6354880b885) |
+| IG 貼文 待整理（DaAhH5oiLm9） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f52581dabf3bd0b92a166b11) |
+| IG 貼文 待整理（DaVHoW5CC21） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f52581299917e36234338022) |
+| IG 貼文 待整理（DaiFAwHEvQV） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f5258192ad7eda0af63f9499) |
+| IG 貼文 待整理（Dac7MmgEnYR） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f5258168b8a1f055e4a01ecd) |
+| IG 貼文 待整理（Dahlh4GEw-o） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f5258121a54dcaf4971c0759) |
+| IG Reel 待整理（DagrtjNSxHe） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f52581909d00ea18cb261e0d) |
+| IG 貼文 待整理（Dah6VsLiew2） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f52581cf95a6c968a577c6d6) |
+| IG Reel 待整理（DagmLL4lNrV） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f52581d9b528da2e88bd806b) |
+| IG Reel 待整理（DaZZ7DvTeCd） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f52581a08d91e11a430b9a1d) |
+| IG Reel 待整理（DXrC4RoE_cS） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f52581c8bb52d035ae134c1f) |
+| IG Reel 待整理（DZpcymoSd52） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f5258113b589fb46003c89e0) |
+| IG Reel 待整理（DaXhCMXvp9M） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f52581c9b452cd2a52a403c9) |
+| IG Reel 待整理（DZMroi9TP-v） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f52581e1940dfc83de6e52ee) |
+| IG Reel 待整理（DYRytA9APam） | 待分類 | 純連結無說明，IG 讀取失敗，待週會確認 | 待整理 | [連結](https://app.notion.com/p/39830727f5258159b662f2170e34adcd) |
 
 ---
 
