@@ -1,127 +1,140 @@
 {
-  "updated": "2026-07-09 12:49 HKT",
+  "updated": "2026-07-10 12:47 HKT",
   "news": [
     {
-      "title": "ChatGPT升級語音模式更能閉嘴",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "summary": "OpenAI 正在用一種新模型徹底改革 ChatGPT 的語音模式，據稱該模型更像是「與另一個人交談」。然後…",
+      "title": "微軟去年的碳排放量增加了 25%",
+      "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+      "summary": "根據其 2026 年永續發展報告，微軟可能再次難以跟上自己的氣候目標…",
       "source": "The Verge"
     },
     {
-      "title": "據報道 Lovable 正在談判將其估值翻倍至 $13.2B",
-      "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-      "summary": "根據 Sifted 報道，這輪 3 億美元的融資預計將由 Menlo Ventures 領投。",
-      "source": "TechCrunch"
+      "title": "Fidji Simo 因病辭去 OpenAI AGI 工作領導職務",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "summary": "OpenAI 的 Fidji Simo 即將辭去公司 AGI 負責人的全職職務，並正在轉型為“兼職…”",
+      "source": "The Verge"
     },
     {
-      "title": "谷歌的深度偽造檢測系統用於揭穿麥康奈爾騙局圖片",
-      "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
-      "summary": "本週早些時候，一張照片似乎顯示肯塔基州參議員米奇·麥康奈爾在醫院的病床上被管子覆蓋…",
-      "source": "TechCrunch"
+      "title": "ChatGPT 瀏覽器已經死了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "summary": "OpenAI 已經關閉了 ChatGPT Atlas，它的瀏覽器可以代表你執行任務，不到一年...",
+      "source": "The Verge"
     },
     {
-      "title": "SpaceXAI 發布了 Grok 4.5，Elon 將其描述為“Opus 級模型”",
-      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "summary": "馬斯克 (Elon Musk) 的科技公司週三發布了最新版本的 Grok，承諾提供一種更便宜、更有效率的替代方案…",
-      "source": "TechCrunch"
+      "title": "谷歌現在會告訴你廣告是否是用人工智慧製作的",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+      "summary": "您可以從 Goo 的新部分中查看 Google 搜尋、Google Discover 和 YouTube 上的廣告是否是使用 AI 製作或編輯的…",
+      "source": "The Verge"
     },
     {
-      "title": "這家新創公司認為機器人技術即將迎來它的 ChatGPT 時刻",
-      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "summary": "General Intuition 押注數百萬小時的電玩資料可以訓練實體人工智慧的基礎模型，使…",
-      "source": "TechCrunch"
+      "title": "微軟週二的補丁將會更大",
+      "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+      "summary": "Windows 11 更新可能很快就會包含更多安全性問題的修復。微軟在周四的部落格文章中表示…",
+      "source": "The Verge"
     },
     {
-      "title": "谷歌照片添加了新的人工智慧「影片混音」工具",
-      "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-      "summary": "該功能可以執行諸如應用電影重新照明來照亮黑暗剪輯、更換普通背景等操作…",
-      "source": "TechCrunch"
+      "title": "OpenAI 在政府批准後推出 GPT-5.6，並宣布“ChatGPT Work”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "summary": "大約兩週後，OpenAI 的 GPT-5.6 陷入監管困境——僅向政府批准的組織推出…",
+      "source": "The Verge"
     },
     {
-      "title": "為什麼這位執行長認為電玩遊戲比網路提供更好的訓練數據",
-      "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-      "summary": "當談到實現通用人工智慧 (AGI) 時，大型語言模式根本不具備所需的能力。米…",
-      "source": "TechCrunch"
+      "title": "Meta 表示其新的人工智慧模型已準備好在程式設計領域競爭",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+      "summary": "在四月憑藉其首個內部 Muse Spark 模型重新進入人工智慧競賽後，Meta 現在打開了開發之門…",
+      "source": "The Verge"
     },
     {
-      "title": "Meta 希望其人工智慧眼鏡看起來不那麼令人毛骨悚然。它的人工智慧策略卻另有說法。",
-      "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-      "summary": "Meta 正在增加一項新的保護措施，以阻止人們用 AI 眼鏡秘密錄製他人的影片。但更新來了…",
-      "source": "TechCrunch"
+      "title": "向Claude包裹問好",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+      "summary": "Spotify Wrapped 的流行引發了從 YouTube 到 Uber 等應用程式上廣泛的年度回顧功能 -...",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "奧魯斯 (Orus)",
-      "link": "https://www.producthunt.com/products/farao",
-      "desc": "Claude投資永續債券討論|關聯",
-      "title_en": "Orus"
+      "title": "佩菲安全 (Perfai Security)",
+      "link": "https://www.producthunt.com/products/perfai-security-for-vibe-coded-apps",
+      "desc": "透過 1 提示尋找並修復 Vibe 應用程式中的即時漏洞。討論 |關聯",
+      "title_en": "Perfai Security"
     },
     {
-      "title": "通用-3.5 Pro (Universal-3.5 Pro)",
-      "link": "https://www.producthunt.com/products/assemblyai",
-      "desc": "AssemblyAI 提供的最準確的 STT 模型。討論 |關聯",
-      "title_en": "Universal-3.5 Pro"
+      "title": "東洋 (Toyo)",
+      "link": "https://www.producthunt.com/products/toyo",
+      "desc": "執行助理，住在 iMessage 並撥打您的電話 討論 |關聯",
+      "title_en": "Toyo"
     },
     {
-      "title": "NanoKVM-Go",
-      "link": "https://www.producthunt.com/products/nanokvm-go",
-      "desc": "讓您的 AI 代理程式對任何螢幕進行實體控制關聯",
-      "title_en": "NanoKVM-Go"
+      "title": "只需透過 SEORCE 詢問即可 (Just Ask by SEORCE)",
+      "link": "https://www.producthunt.com/products/seorce",
+      "desc": "在 WhatsApp 上查看您的 SEO 和 AI 可見度數據。討論 |關聯",
+      "title_en": "Just Ask by SEORCE"
     },
     {
-      "title": "波諾艾 (Bono AI)",
-      "link": "https://www.producthunt.com/products/bono-ai",
-      "desc": "談一次。到處發布。討論 |關聯",
-      "title_en": "Bono AI"
+      "title": "奧里科 (Auriko)",
+      "link": "https://www.producthunt.com/products/auriko",
+      "desc": "LLM 電話交易台 討論 |關聯",
+      "title_en": "Auriko"
     },
     {
-      "title": "人工智慧電子郵件 (AI Emaily)",
-      "link": "https://www.producthunt.com/products/ai-emaily-unified-ai-inbox",
-      "desc": "你的人工智慧收件匣會像你一樣寫作+在自動駕駛儀上回覆關聯",
-      "title_en": "AI Emaily"
+      "title": "會標人工智慧 (Monogram AI)",
+      "link": "https://www.producthunt.com/products/monogram-ai",
+      "desc": "具有可視化和互動介面的人工智慧討論 |關聯",
+      "title_en": "Monogram AI"
     }
   ],
-  "suniverse_news": [],
-  "suniverse_tools": [],
-  "major": [
+  "suniverse_news": [
     {
-      "title": "ChatGPT升級語音模式更能閉嘴",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-      "summary": "OpenAI 正在用一種新模型徹底改革 ChatGPT 的語音模式，據稱該模型更像是「與另一個人交談」。然後…",
+      "title": "谷歌現在會告訴你廣告是否是用人工智慧製作的",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+      "summary": "您可以從 Goo 的新部分中查看 Google 搜尋、Google Discover 和 YouTube 上的廣告是否是使用 AI 製作或編輯的…",
       "source": "The Verge"
     },
     {
-      "title": "SpaceXAI 發布了 Grok 4.5，Elon 將其描述為“Opus 級模型”",
-      "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-      "summary": "馬斯克 (Elon Musk) 的科技公司週三發布了最新版本的 Grok，承諾提供一種更便宜、更有效率的替代方案…",
-      "source": "TechCrunch"
+      "title": "向Claude包裹問好",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+      "summary": "Spotify Wrapped 的流行引發了從 YouTube 到 Uber 等應用程式上廣泛的年度回顧功能 -...",
+      "source": "The Verge"
+    }
+  ],
+  "suniverse_tools": [],
+  "major": [
+    {
+      "title": "Fidji Simo 因病辭去 OpenAI AGI 工作領導職務",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+      "summary": "OpenAI 的 Fidji Simo 即將辭去公司 AGI 負責人的全職職務，並正在轉型為“兼職…”",
+      "source": "The Verge"
     },
     {
-      "title": "這家新創公司認為機器人技術即將迎來它的 ChatGPT 時刻",
-      "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-      "summary": "General Intuition 押注數百萬小時的電玩資料可以訓練實體人工智慧的基礎模型，使…",
-      "source": "TechCrunch"
+      "title": "ChatGPT 瀏覽器已經死了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+      "summary": "OpenAI 已經關閉了 ChatGPT Atlas，它的瀏覽器可以代表你執行任務，不到一年...",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI 在政府批准後推出 GPT-5.6，並宣布“ChatGPT Work”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+      "summary": "大約兩週後，OpenAI 的 GPT-5.6 陷入監管困境——僅向政府批准的組織推出…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "ChatGPT升級語音模式更能閉嘴",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/962856/chatgpt-upgraded-voice-mode-gpt-live",
-    "summary": "OpenAI 正在用一種新模型徹底改革 ChatGPT 的語音模式，據稱該模型更像是「與另一個人交談」。然後…",
+    "title": "Fidji Simo 因病辭去 OpenAI AGI 工作領導職務",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+    "summary": "OpenAI 的 Fidji Simo 即將辭去公司 AGI 負責人的全職職務，並正在轉型為“兼職…”",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用Bono AI發布多平台內容",
-      "detail": "用Bono AI錄一段旅遊評論，直接發布在YouTube、TikTok、Facebook，預計一週內就能出成果"
+      "title": "用Perfai安全優化旅遊App",
+      "detail": "用 Perfai Security 檢查 Vibe 應用程式的漏洞，修復後發在 Suniverse 官網，預計 3 天出成果"
     },
     {
-      "title": "Orus投資債券分析",
-      "detail": "利用Orus分析永續債券投資，然後發布在Suniverse的部落格和社交媒體，預計三天內就能出成果"
+      "title": "東洋助理發佈旅遊訊息",
+      "detail": "設定 Toyo 執行助理，讓它在 iMessage 上自動發佈旅遊訊息，預計 2 天出成果"
     },
     {
-      "title": "Universal-3.5 Pro轉錄音頻",
-      "detail": "用Universal-3.5 Pro轉錄最近的旅遊音頻，然後在Suniverse官網發布，預計兩天內就能出成果"
+      "title": "Just Ask by SEORCE優化內容",
+      "detail": "用 Just Ask by SEORCE 檢查 Suniverse 的 SEO 數據，優化旅遊內容後發在社交媒體，預計 5 天出成果"
     }
   ],
   "history": {
@@ -3303,6 +3316,145 @@
         {
           "title": "Universal-3.5 Pro轉錄音頻",
           "detail": "用Universal-3.5 Pro轉錄最近的旅遊音頻，然後在Suniverse官網發布，預計兩天內就能出成果"
+        }
+      ]
+    },
+    "2026-07-10": {
+      "news": [
+        {
+          "title": "微軟去年的碳排放量增加了 25%",
+          "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
+          "summary": "根據其 2026 年永續發展報告，微軟可能再次難以跟上自己的氣候目標…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Fidji Simo 因病辭去 OpenAI AGI 工作領導職務",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+          "summary": "OpenAI 的 Fidji Simo 即將辭去公司 AGI 負責人的全職職務，並正在轉型為“兼職…”",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT 瀏覽器已經死了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+          "summary": "OpenAI 已經關閉了 ChatGPT Atlas，它的瀏覽器可以代表你執行任務，不到一年...",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌現在會告訴你廣告是否是用人工智慧製作的",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+          "summary": "您可以從 Goo 的新部分中查看 Google 搜尋、Google Discover 和 YouTube 上的廣告是否是使用 AI 製作或編輯的…",
+          "source": "The Verge"
+        },
+        {
+          "title": "微軟週二的補丁將會更大",
+          "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
+          "summary": "Windows 11 更新可能很快就會包含更多安全性問題的修復。微軟在周四的部落格文章中表示…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 在政府批准後推出 GPT-5.6，並宣布“ChatGPT Work”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+          "summary": "大約兩週後，OpenAI 的 GPT-5.6 陷入監管困境——僅向政府批准的組織推出…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta 表示其新的人工智慧模型已準備好在程式設計領域競爭",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
+          "summary": "在四月憑藉其首個內部 Muse Spark 模型重新進入人工智慧競賽後，Meta 現在打開了開發之門…",
+          "source": "The Verge"
+        },
+        {
+          "title": "向Claude包裹問好",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+          "summary": "Spotify Wrapped 的流行引發了從 YouTube 到 Uber 等應用程式上廣泛的年度回顧功能 -...",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "佩菲安全 (Perfai Security)",
+          "link": "https://www.producthunt.com/products/perfai-security-for-vibe-coded-apps",
+          "desc": "透過 1 提示尋找並修復 Vibe 應用程式中的即時漏洞。討論 |關聯",
+          "title_en": "Perfai Security"
+        },
+        {
+          "title": "東洋 (Toyo)",
+          "link": "https://www.producthunt.com/products/toyo",
+          "desc": "執行助理，住在 iMessage 並撥打您的電話 討論 |關聯",
+          "title_en": "Toyo"
+        },
+        {
+          "title": "只需透過 SEORCE 詢問即可 (Just Ask by SEORCE)",
+          "link": "https://www.producthunt.com/products/seorce",
+          "desc": "在 WhatsApp 上查看您的 SEO 和 AI 可見度數據。討論 |關聯",
+          "title_en": "Just Ask by SEORCE"
+        },
+        {
+          "title": "奧里科 (Auriko)",
+          "link": "https://www.producthunt.com/products/auriko",
+          "desc": "LLM 電話交易台 討論 |關聯",
+          "title_en": "Auriko"
+        },
+        {
+          "title": "會標人工智慧 (Monogram AI)",
+          "link": "https://www.producthunt.com/products/monogram-ai",
+          "desc": "具有可視化和互動介面的人工智慧討論 |關聯",
+          "title_en": "Monogram AI"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "谷歌現在會告訴你廣告是否是用人工智慧製作的",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
+          "summary": "您可以從 Goo 的新部分中查看 Google 搜尋、Google Discover 和 YouTube 上的廣告是否是使用 AI 製作或編輯的…",
+          "source": "The Verge"
+        },
+        {
+          "title": "向Claude包裹問好",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
+          "summary": "Spotify Wrapped 的流行引發了從 YouTube 到 Uber 等應用程式上廣泛的年度回顧功能 -...",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Fidji Simo 因病辭去 OpenAI AGI 工作領導職務",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+          "summary": "OpenAI 的 Fidji Simo 即將辭去公司 AGI 負責人的全職職務，並正在轉型為“兼職…”",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT 瀏覽器已經死了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
+          "summary": "OpenAI 已經關閉了 ChatGPT Atlas，它的瀏覽器可以代表你執行任務，不到一年...",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 在政府批准後推出 GPT-5.6，並宣布“ChatGPT Work”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
+          "summary": "大約兩週後，OpenAI 的 GPT-5.6 陷入監管困境——僅向政府批准的組織推出…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Fidji Simo 因病辭去 OpenAI AGI 工作領導職務",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
+        "summary": "OpenAI 的 Fidji Simo 即將辭去公司 AGI 負責人的全職職務，並正在轉型為“兼職…”",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用Perfai安全優化旅遊App",
+          "detail": "用 Perfai Security 檢查 Vibe 應用程式的漏洞，修復後發在 Suniverse 官網，預計 3 天出成果"
+        },
+        {
+          "title": "東洋助理發佈旅遊訊息",
+          "detail": "設定 Toyo 執行助理，讓它在 iMessage 上自動發佈旅遊訊息，預計 2 天出成果"
+        },
+        {
+          "title": "Just Ask by SEORCE優化內容",
+          "detail": "用 Just Ask by SEORCE 檢查 Suniverse 的 SEO 數據，優化旅遊內容後發在社交媒體，預計 5 天出成果"
         }
       ]
     }
