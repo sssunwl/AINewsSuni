@@ -1,140 +1,141 @@
 {
-  "updated": "2026-07-10 12:47 HKT",
+  "updated": "2026-07-11 12:10 HKT",
   "news": [
     {
-      "title": "微軟去年的碳排放量增加了 25%",
-      "link": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
-      "summary": "根據其 2026 年永續發展報告，微軟可能再次難以跟上自己的氣候目標…",
+      "title": "Meta 關閉了 Instagram 功能，該功能允許用戶對公共帳戶進行人工智慧深度偽造",
+      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images…",
       "source": "The Verge"
     },
     {
-      "title": "Fidji Simo 因病辭去 OpenAI AGI 工作領導職務",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-      "summary": "OpenAI 的 Fidji Simo 即將辭去公司 AGI 負責人的全職職務，並正在轉型為“兼職…”",
+      "title": "蘋果起訴 OpenAI 涉嫌竊取硬體機密",
+      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "summary": "蘋果起訴 OpenAI，指控工程師竊取蘋果機密以推進這家人工智慧新創公司的硬體計劃。在其合作…",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT 瀏覽器已經死了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "summary": "OpenAI 已經關閉了 ChatGPT Atlas，它的瀏覽器可以代表你執行任務，不到一年...",
+      "title": "Instagram 的 Adam Mosseri：如果你不喜歡人工智慧，“那麼你就不應該把它放在你的動態中”",
+      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "summary": "儘管 Instagram 負責人 Adam Mosseri 不想過濾掉平台上的人工智慧內容，但他認為你「不應該…",
       "source": "The Verge"
     },
     {
-      "title": "谷歌現在會告訴你廣告是否是用人工智慧製作的",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-      "summary": "您可以從 Goo 的新部分中查看 Google 搜尋、Google Discover 和 YouTube 上的廣告是否是使用 AI 製作或編輯的…",
+      "title": "您會在家中託管部分人工智慧資料中心嗎？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "summary": "一家太陽能和家庭儲能公司正在向人工智慧資料中心擴張，但不是透過建造一個資料中心——相反，它提供…",
       "source": "The Verge"
     },
     {
-      "title": "微軟週二的補丁將會更大",
-      "link": "https://www.theverge.com/tech/963307/microsoft-patch-tuesday-ai-security-updates",
-      "summary": "Windows 11 更新可能很快就會包含更多安全性問題的修復。微軟在周四的部落格文章中表示…",
-      "source": "The Verge"
+      "title": "強烈反對後，Meta 刪除了 Instagram 上有爭議的人工智慧功能",
+      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+      "summary": "「我們的目的是提供一個有用的創意工具，讓人們控制他們的公開內容是否可以...",
+      "source": "TechCrunch"
     },
     {
-      "title": "OpenAI 在政府批准後推出 GPT-5.6，並宣布“ChatGPT Work”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-      "summary": "大約兩週後，OpenAI 的 GPT-5.6 陷入監管困境——僅向政府批准的組織推出…",
-      "source": "The Verge"
+      "title": "蘋果起訴 OpenAI 涉嫌竊取商業機密",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "summary": "蘋果聲稱，這一不當行為是由 OpenAI 的高級領導層指揮的，其中包括一名長期前員工。",
+      "source": "TechCrunch"
     },
     {
-      "title": "Meta 表示其新的人工智慧模型已準備好在程式設計領域競爭",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963193/meta-muse-spark-model-api",
-      "summary": "在四月憑藉其首個內部 Muse Spark 模型重新進入人工智慧競賽後，Meta 現在打開了開發之門…",
-      "source": "The Verge"
+      "title": "Hugging Face 的 Clem Delangue 表示，開源人工智慧比以往任何時候都更重要",
+      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "summary": "Hugging Face 執行長 Clem Delangue 表示，開源人工智慧正在蓬勃發展。该公司已经发展成为类似 GitH 的公司……",
+      "source": "TechCrunch"
     },
     {
-      "title": "向Claude包裹問好",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "summary": "Spotify Wrapped 的流行引發了從 YouTube 到 Uber 等應用程式上廣泛的年度回顧功能 -...",
-      "source": "The Verge"
+      "title": "SK海力士在美國歷史上最大的海外IPO中籌集了26.5億美元，敦促在美國建造新的晶圓廠",
+      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+      "summary": "人工智慧晶片的繁榮剛剛帶來了華爾街迄今為止最大的時刻。现在 SK 海力士和三星被要求在美国建造……",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "佩菲安全 (Perfai Security)",
-      "link": "https://www.producthunt.com/products/perfai-security-for-vibe-coded-apps",
-      "desc": "透過 1 提示尋找並修復 Vibe 應用程式中的即時漏洞。討論 |關聯",
-      "title_en": "Perfai Security"
+      "title": "聊天剪輯 (ChatCut)",
+      "link": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+      "desc": "Your AI video editor in ChatGPT, desktop, and web Discussion | Link",
+      "title_en": "ChatCut"
     },
     {
-      "title": "東洋 (Toyo)",
-      "link": "https://www.producthunt.com/products/toyo",
-      "desc": "執行助理，住在 iMessage 並撥打您的電話 討論 |關聯",
-      "title_en": "Toyo"
+      "title": "辛 (Sim)",
+      "link": "https://www.producthunt.com/products/sim-studio",
+      "desc": "AI 代理和工作流程的開源工作區關聯",
+      "title_en": "Sim"
     },
     {
-      "title": "只需透過 SEORCE 詢問即可 (Just Ask by SEORCE)",
-      "link": "https://www.producthunt.com/products/seorce",
-      "desc": "在 WhatsApp 上查看您的 SEO 和 AI 可見度數據。討論 |關聯",
-      "title_en": "Just Ask by SEORCE"
+      "title": "亞斯敏作品 (Yasmine Works)",
+      "link": "https://www.producthunt.com/products/yasmine-works",
+      "desc": "一位人工智慧同事住在你的 Slack 中來完成工作關聯",
+      "title_en": "Yasmine Works"
     },
     {
-      "title": "奧里科 (Auriko)",
-      "link": "https://www.producthunt.com/products/auriko",
-      "desc": "LLM 電話交易台 討論 |關聯",
-      "title_en": "Auriko"
+      "title": "GPT-5.6",
+      "link": "https://www.producthunt.com/products/openai",
+      "desc": "智能與效率新標準 討論|關聯",
+      "title_en": "GPT-5.6"
     },
     {
-      "title": "會標人工智慧 (Monogram AI)",
-      "link": "https://www.producthunt.com/products/monogram-ai",
-      "desc": "具有可視化和互動介面的人工智慧討論 |關聯",
-      "title_en": "Monogram AI"
+      "title": "斯嘉麗。 (Scarlett.)",
+      "link": "https://www.producthunt.com/products/tryscarlett",
+      "desc": "Slack 和 iMessage 討論中的 AI 同事 |關聯",
+      "title_en": "Scarlett."
     }
   ],
   "suniverse_news": [
     {
-      "title": "谷歌現在會告訴你廣告是否是用人工智慧製作的",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963628/google-ai-generated-ads-label",
-      "summary": "您可以從 Goo 的新部分中查看 Google 搜尋、Google Discover 和 YouTube 上的廣告是否是使用 AI 製作或編輯的…",
+      "title": "Meta 關閉了 Instagram 功能，該功能允許用戶對公共帳戶進行人工智慧深度偽造",
+      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images…",
       "source": "The Verge"
     },
     {
-      "title": "向Claude包裹問好",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963105/anthropic-claude-wrapped-reflection-ai-usage",
-      "summary": "Spotify Wrapped 的流行引發了從 YouTube 到 Uber 等應用程式上廣泛的年度回顧功能 -...",
+      "title": "Instagram 的 Adam Mosseri：如果你不喜歡人工智慧，“那麼你就不應該把它放在你的動態中”",
+      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "summary": "儘管 Instagram 負責人 Adam Mosseri 不想過濾掉平台上的人工智慧內容，但他認為你「不應該…",
       "source": "The Verge"
     }
   ],
-  "suniverse_tools": [],
+  "suniverse_tools": [
+    {
+      "title": "聊天剪輯 (ChatCut)",
+      "link": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+      "desc": "Your AI video editor in ChatGPT, desktop, and web Discussion | Link",
+      "title_en": "ChatCut"
+    }
+  ],
   "major": [
     {
-      "title": "Fidji Simo 因病辭去 OpenAI AGI 工作領導職務",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-      "summary": "OpenAI 的 Fidji Simo 即將辭去公司 AGI 負責人的全職職務，並正在轉型為“兼職…”",
+      "title": "蘋果起訴 OpenAI 涉嫌竊取硬體機密",
+      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "summary": "蘋果起訴 OpenAI，指控工程師竊取蘋果機密以推進這家人工智慧新創公司的硬體計劃。在其合作…",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT 瀏覽器已經死了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963654/openai-chatgpt-atlas-ai-browser-shut-down-sunset",
-      "summary": "OpenAI 已經關閉了 ChatGPT Atlas，它的瀏覽器可以代表你執行任務，不到一年...",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI 在政府批准後推出 GPT-5.6，並宣布“ChatGPT Work”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963464/openai-gpt-5-6-codex-chatgpt-work",
-      "summary": "大約兩週後，OpenAI 的 GPT-5.6 陷入監管困境——僅向政府批准的組織推出…",
-      "source": "The Verge"
+      "title": "蘋果起訴 OpenAI 涉嫌竊取商業機密",
+      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "summary": "蘋果聲稱，這一不當行為是由 OpenAI 的高級領導層指揮的，其中包括一名長期前員工。",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Fidji Simo 因病辭去 OpenAI AGI 工作領導職務",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/963738/openai-fidji-simo-steps-down-ceo-advisor",
-    "summary": "OpenAI 的 Fidji Simo 即將辭去公司 AGI 負責人的全職職務，並正在轉型為“兼職…”",
+    "title": "蘋果起訴 OpenAI 涉嫌竊取硬體機密",
+    "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+    "summary": "蘋果起訴 OpenAI，指控工程師竊取蘋果機密以推進這家人工智慧新創公司的硬體計劃。在其合作…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用Perfai安全優化旅遊App",
-      "detail": "用 Perfai Security 檢查 Vibe 應用程式的漏洞，修復後發在 Suniverse 官網，預計 3 天出成果"
+      "title": "ChatCut 剪輯旅遊視頻",
+      "detail": "用 ChatCut 把旅遊視頻剪輯成多個 10 秒的片段，發在 Instagram 和 TikTok 上，預計 3 天內出成果"
     },
     {
-      "title": "東洋助理發佈旅遊訊息",
-      "detail": "設定 Toyo 執行助理，讓它在 iMessage 上自動發佈旅遊訊息，預計 2 天出成果"
+      "title": "Sim 自動化內容",
+      "detail": "用 Sim 創建一個工作流程，自動生成旅遊內容，發在 SS 旅遊博客和社交媒體上，預計 1 周內出成果"
     },
     {
-      "title": "Just Ask by SEORCE優化內容",
-      "detail": "用 Just Ask by SEORCE 檢查 Suniverse 的 SEO 數據，優化旅遊內容後發在社交媒體，預計 5 天出成果"
+      "title": "GPT-5.6 旅遊文案",
+      "detail": "用 GPT-5.6 生成旅遊文案，發在 SS 旅遊網站和廣告平台上，預計 2 周內出成果"
     }
   ],
   "history": {
@@ -3455,6 +3456,146 @@
         {
           "title": "Just Ask by SEORCE優化內容",
           "detail": "用 Just Ask by SEORCE 檢查 Suniverse 的 SEO 數據，優化旅遊內容後發在社交媒體，預計 5 天出成果"
+        }
+      ]
+    },
+    "2026-07-11": {
+      "news": [
+        {
+          "title": "Meta 關閉了 Instagram 功能，該功能允許用戶對公共帳戶進行人工智慧深度偽造",
+          "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images…",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果起訴 OpenAI 涉嫌竊取硬體機密",
+          "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+          "summary": "蘋果起訴 OpenAI，指控工程師竊取蘋果機密以推進這家人工智慧新創公司的硬體計劃。在其合作…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Instagram 的 Adam Mosseri：如果你不喜歡人工智慧，“那麼你就不應該把它放在你的動態中”",
+          "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+          "summary": "儘管 Instagram 負責人 Adam Mosseri 不想過濾掉平台上的人工智慧內容，但他認為你「不應該…",
+          "source": "The Verge"
+        },
+        {
+          "title": "您會在家中託管部分人工智慧資料中心嗎？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+          "summary": "一家太陽能和家庭儲能公司正在向人工智慧資料中心擴張，但不是透過建造一個資料中心——相反，它提供…",
+          "source": "The Verge"
+        },
+        {
+          "title": "強烈反對後，Meta 刪除了 Instagram 上有爭議的人工智慧功能",
+          "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
+          "summary": "「我們的目的是提供一個有用的創意工具，讓人們控制他們的公開內容是否可以...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "蘋果起訴 OpenAI 涉嫌竊取商業機密",
+          "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+          "summary": "蘋果聲稱，這一不當行為是由 OpenAI 的高級領導層指揮的，其中包括一名長期前員工。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hugging Face 的 Clem Delangue 表示，開源人工智慧比以往任何時候都更重要",
+          "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+          "summary": "Hugging Face 執行長 Clem Delangue 表示，開源人工智慧正在蓬勃發展。该公司已经发展成为类似 GitH 的公司……",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "SK海力士在美國歷史上最大的海外IPO中籌集了26.5億美元，敦促在美國建造新的晶圓廠",
+          "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+          "summary": "人工智慧晶片的繁榮剛剛帶來了華爾街迄今為止最大的時刻。现在 SK 海力士和三星被要求在美国建造……",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "聊天剪輯 (ChatCut)",
+          "link": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+          "desc": "Your AI video editor in ChatGPT, desktop, and web Discussion | Link",
+          "title_en": "ChatCut"
+        },
+        {
+          "title": "辛 (Sim)",
+          "link": "https://www.producthunt.com/products/sim-studio",
+          "desc": "AI 代理和工作流程的開源工作區關聯",
+          "title_en": "Sim"
+        },
+        {
+          "title": "亞斯敏作品 (Yasmine Works)",
+          "link": "https://www.producthunt.com/products/yasmine-works",
+          "desc": "一位人工智慧同事住在你的 Slack 中來完成工作關聯",
+          "title_en": "Yasmine Works"
+        },
+        {
+          "title": "GPT-5.6",
+          "link": "https://www.producthunt.com/products/openai",
+          "desc": "智能與效率新標準 討論|關聯",
+          "title_en": "GPT-5.6"
+        },
+        {
+          "title": "斯嘉麗。 (Scarlett.)",
+          "link": "https://www.producthunt.com/products/tryscarlett",
+          "desc": "Slack 和 iMessage 討論中的 AI 同事 |關聯",
+          "title_en": "Scarlett."
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Meta 關閉了 Instagram 功能，該功能允許用戶對公共帳戶進行人工智慧深度偽造",
+          "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
+          "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Instagram 的 Adam Mosseri：如果你不喜歡人工智慧，“那麼你就不應該把它放在你的動態中”",
+          "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+          "summary": "儘管 Instagram 負責人 Adam Mosseri 不想過濾掉平台上的人工智慧內容，但他認為你「不應該…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [
+        {
+          "title": "聊天剪輯 (ChatCut)",
+          "link": "https://www.producthunt.com/products/chatcut-ai-video-editor",
+          "desc": "Your AI video editor in ChatGPT, desktop, and web Discussion | Link",
+          "title_en": "ChatCut"
+        }
+      ],
+      "major": [
+        {
+          "title": "蘋果起訴 OpenAI 涉嫌竊取硬體機密",
+          "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+          "summary": "蘋果起訴 OpenAI，指控工程師竊取蘋果機密以推進這家人工智慧新創公司的硬體計劃。在其合作…",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果起訴 OpenAI 涉嫌竊取商業機密",
+          "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+          "summary": "蘋果聲稱，這一不當行為是由 OpenAI 的高級領導層指揮的，其中包括一名長期前員工。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "蘋果起訴 OpenAI 涉嫌竊取硬體機密",
+        "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+        "summary": "蘋果起訴 OpenAI，指控工程師竊取蘋果機密以推進這家人工智慧新創公司的硬體計劃。在其合作…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "ChatCut 剪輯旅遊視頻",
+          "detail": "用 ChatCut 把旅遊視頻剪輯成多個 10 秒的片段，發在 Instagram 和 TikTok 上，預計 3 天內出成果"
+        },
+        {
+          "title": "Sim 自動化內容",
+          "detail": "用 Sim 創建一個工作流程，自動生成旅遊內容，發在 SS 旅遊博客和社交媒體上，預計 1 周內出成果"
+        },
+        {
+          "title": "GPT-5.6 旅遊文案",
+          "detail": "用 GPT-5.6 生成旅遊文案，發在 SS 旅遊網站和廣告平台上，預計 2 周內出成果"
         }
       ]
     }
