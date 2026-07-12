@@ -1,19 +1,25 @@
 {
-  "updated": "2026-07-12 12:23 HKT",
+  "updated": "2026-07-12 17:49 HKT",
   "news": [
     {
       "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
       "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according…",
+      "summary": "據報道，ChatGPT 正在招募一名專門的產品經理，為家庭、照護人員和老年人打造體驗。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "回扣 CLI (Kickbacks CLI)",
-      "link": "https://www.producthunt.com/products/kickbacks-cli",
-      "desc": "Kickbacks.ai 的終端機和 Mac 選單列伴侶關聯",
-      "title_en": "Kickbacks CLI"
+      "title": "服務鬍子 (ServiceBeard)",
+      "link": "https://www.producthunt.com/products/servicebeard",
+      "desc": "將您的郵箱與問題追蹤器同步關聯",
+      "title_en": "ServiceBeard"
+    },
+    {
+      "title": "AI 第二腦 v2 (Second Brain for AI v2)",
+      "link": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "desc": "人工智慧記憶將每個工具的各個點連結起來關聯",
+      "title_en": "Second Brain for AI v2"
     },
     {
       "title": "ChatGPT工作 (ChatGPT Work)",
@@ -22,22 +28,16 @@
       "title_en": "ChatGPT Work"
     },
     {
+      "title": "回扣 CLI (Kickbacks CLI)",
+      "link": "https://www.producthunt.com/products/kickbacks-cli",
+      "desc": "Kickbacks.ai 的終端機和 Mac 選單列伴侶關聯",
+      "title_en": "Kickbacks CLI"
+    },
+    {
       "title": "效果SDK (Effects SDK)",
       "link": "https://www.producthunt.com/products/effects-sdk",
       "desc": "適用於即時應用程式的 AI 視訊和音訊效果 SDK 討論 |關聯",
       "title_en": "Effects SDK"
-    },
-    {
-      "title": "故事首席連接 (StoryChief Connect)",
-      "link": "https://www.producthunt.com/products/storychief-io",
-      "desc": "將Claude的內容發佈到您的網站和社交媒體關聯",
-      "title_en": "StoryChief Connect"
-    },
-    {
-      "title": "辛 (Sim)",
-      "link": "https://www.producthunt.com/products/sim-studio",
-      "desc": "AI 代理和工作流程的開源工作區關聯",
-      "title_en": "Sim"
     }
   ],
   "suniverse_news": [],
@@ -46,28 +46,28 @@
     {
       "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
       "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according…",
+      "summary": "據報道，ChatGPT 正在招募一名專門的產品經理，為家庭、照護人員和老年人打造體驗。",
       "source": "TechCrunch"
     }
   ],
   "pick": {
     "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
     "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according…",
+    "summary": "據報道，ChatGPT 正在招募一名專門的產品經理，為家庭、照護人員和老年人打造體驗。",
     "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用回扣CLI賺外快",
-      "detail": "用Kickbacks CLI創建推薦連結，發在SS的社交媒體，預計1週出成果，增加收入"
+      "title": "用 ChatGPT Work 賺旅費",
+      "detail": "用 ChatGPT Work 討論旅遊內容創作，發在 SS 社交媒體平台，預計 3 天出成果"
     },
     {
-      "title": "ChatGPT工作合作",
-      "detail": "用ChatGPT Work和SS合作創建旅遊內容，發在SS的網站和社交媒體，預計3天出成果，提高內容質量"
+      "title": "服務郵件自動化",
+      "detail": "用 ServiceBeard 將郵件與問題追蹤器同步，自動化 SS 的郵件回覆，預計 1 周出成果"
     },
     {
-      "title": "效果SDK旅遊Vlog",
-      "detail": "用Effects SDK為SS的旅遊Vlog添加 đặc效，發在TikTok和Instagram，預計2天出成果，增加觀看次數"
+      "title": "AI 二腦旅遊內容",
+      "detail": "用 Second Brain for AI v2 生成旅遊內容創意，發在 SS 旅遊博客，預計 5 天出成果"
     }
   ],
   "history": {
@@ -3536,16 +3536,22 @@
         {
           "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
           "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-          "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according…",
+          "summary": "據報道，ChatGPT 正在招募一名專門的產品經理，為家庭、照護人員和老年人打造體驗。",
           "source": "TechCrunch"
         }
       ],
       "tools": [
         {
-          "title": "回扣 CLI (Kickbacks CLI)",
-          "link": "https://www.producthunt.com/products/kickbacks-cli",
-          "desc": "Kickbacks.ai 的終端機和 Mac 選單列伴侶關聯",
-          "title_en": "Kickbacks CLI"
+          "title": "服務鬍子 (ServiceBeard)",
+          "link": "https://www.producthunt.com/products/servicebeard",
+          "desc": "將您的郵箱與問題追蹤器同步關聯",
+          "title_en": "ServiceBeard"
+        },
+        {
+          "title": "AI 第二腦 v2 (Second Brain for AI v2)",
+          "link": "https://www.producthunt.com/products/second-brain-cloudflare",
+          "desc": "人工智慧記憶將每個工具的各個點連結起來關聯",
+          "title_en": "Second Brain for AI v2"
         },
         {
           "title": "ChatGPT工作 (ChatGPT Work)",
@@ -3554,22 +3560,16 @@
           "title_en": "ChatGPT Work"
         },
         {
+          "title": "回扣 CLI (Kickbacks CLI)",
+          "link": "https://www.producthunt.com/products/kickbacks-cli",
+          "desc": "Kickbacks.ai 的終端機和 Mac 選單列伴侶關聯",
+          "title_en": "Kickbacks CLI"
+        },
+        {
           "title": "效果SDK (Effects SDK)",
           "link": "https://www.producthunt.com/products/effects-sdk",
           "desc": "適用於即時應用程式的 AI 視訊和音訊效果 SDK 討論 |關聯",
           "title_en": "Effects SDK"
-        },
-        {
-          "title": "故事首席連接 (StoryChief Connect)",
-          "link": "https://www.producthunt.com/products/storychief-io",
-          "desc": "將Claude的內容發佈到您的網站和社交媒體關聯",
-          "title_en": "StoryChief Connect"
-        },
-        {
-          "title": "辛 (Sim)",
-          "link": "https://www.producthunt.com/products/sim-studio",
-          "desc": "AI 代理和工作流程的開源工作區關聯",
-          "title_en": "Sim"
         }
       ],
       "suniverse_news": [],
@@ -3578,28 +3578,28 @@
         {
           "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
           "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-          "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according…",
+          "summary": "據報道，ChatGPT 正在招募一名專門的產品經理，為家庭、照護人員和老年人打造體驗。",
           "source": "TechCrunch"
         }
       ],
       "pick": {
         "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
         "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-        "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according…",
+        "summary": "據報道，ChatGPT 正在招募一名專門的產品經理，為家庭、照護人員和老年人打造體驗。",
         "source": "TechCrunch"
       },
       "steve_ideas": [
         {
-          "title": "用回扣CLI賺外快",
-          "detail": "用Kickbacks CLI創建推薦連結，發在SS的社交媒體，預計1週出成果，增加收入"
+          "title": "用 ChatGPT Work 賺旅費",
+          "detail": "用 ChatGPT Work 討論旅遊內容創作，發在 SS 社交媒體平台，預計 3 天出成果"
         },
         {
-          "title": "ChatGPT工作合作",
-          "detail": "用ChatGPT Work和SS合作創建旅遊內容，發在SS的網站和社交媒體，預計3天出成果，提高內容質量"
+          "title": "服務郵件自動化",
+          "detail": "用 ServiceBeard 將郵件與問題追蹤器同步，自動化 SS 的郵件回覆，預計 1 周出成果"
         },
         {
-          "title": "效果SDK旅遊Vlog",
-          "detail": "用Effects SDK為SS的旅遊Vlog添加 đặc效，發在TikTok和Instagram，預計2天出成果，增加觀看次數"
+          "title": "AI 二腦旅遊內容",
+          "detail": "用 Second Brain for AI v2 生成旅遊內容創意，發在 SS 旅遊博客，預計 5 天出成果"
         }
       ]
     }
