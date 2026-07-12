@@ -345,6 +345,11 @@ def build_tg(news, tools, sun_news, sun_tools, major, pick, ideas=None):
 
 # ── 發送 ─────────────────────────────────────────────────────────────
 def send_telegram(text):
+    try:  # 同時鏡射到 Discord #n-ainews(失敗不影響 TG)
+        from _discord import notify_discord
+        notify_discord(text)
+    except Exception:
+        pass
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     resp = requests.post(url, json={
         "chat_id": CHAT_ID, "text": text,
