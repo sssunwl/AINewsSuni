@@ -268,7 +268,7 @@ const CASES = [
  {
   cat:"內容與知識", title:"InvestUni 投資學堂",
   desc:"投資學習平台實驗：把美港台股與加密貨幣的學習內容系統化。",
-  project:"InvestUni-LearnHub", status:"待寫教材",
+  project:"InvestUniS", status:"待寫教材",
   lessons:[], links:[], prompt:``
  },
  {
@@ -288,6 +288,23 @@ const CASES = [
   desc:"十年份的個人影片與照片素材，跟 AI 一起建立整理系統，最終目標是留給家人的數位資產。",
   project:"PersonalFootage", status:"待寫教材",
   lessons:[], links:[], prompt:``
+ },
+ {
+  cat:"資料抓取", title:"SakiDiveDB → DiveInOut：雙 AI 自動囤庫做潛旅生活誌",
+  desc:"Gemini 每週自動抓潛水情報囤成乾淨 MD 當「資料倉庫」，Claude 只讀庫回答與補深度內容當「顧問」；資料引擎 SakiDiveDB 餵養對外的 DiveInOut 潛旅生活誌（Leaflet 互動地圖 + 生物圖鑑）。一套可複製到任何範疇的「AI 自動建庫」模式。",
+  project:"DiveInOut（引擎 SakiDiveDB）", status:"營運中",
+  lessons:[
+   "雙 AI 分工「倉管 × 顧問」：Gemini 2.5 Flash 便宜、負責每週定時抓取囤資料，Claude 只讀乾淨的庫回答＝大幅省 token，也各自做最擅長的事",
+   "深度內容不能交給抓取用的 LLM：Gemini 只做情報彙整，會腦補的深度內容改由 Claude 每月排程查證後補，分開兩軌",
+   "macOS 保護目錄的坑：vault 在 ~/Downloads，launchd 自動寫會 Operation not permitted；解法是實體檔放非保護位置 + 在 vault 內建 symlink 指回去，Obsidian 照樣看得到",
+   "抓取防呆：用程式帶入的正確 URL 覆蓋 LLM 產出的來源連結（LLM 常抄錯網址編碼），時效資料一律標「⚠️需覆核」不腦補",
+   "資料層與呈現層分離：repo 的 main 是給自己看的原始 MD，GitHub Pages 是對外漂亮的公開版，同一份資料兩種面貌"
+  ],
+  links:[
+   ["DiveInOut 對外站","https://sssunwl.github.io/SakiDive/diveinout/"],
+   ["SakiDive 內部儀表板","https://sssunwl.github.io/SakiDive/"]
+  ],
+  prompt:`幫我建一個「AI 自動囤資料」的庫：用便宜的模型（Gemini）寫純 Python stdlib 腳本，每週 launchd 定時抓〔某範疇〕來源、摘要成乾淨 MD、自動 commit 推 GitHub，完全不動用 Claude token。每筆附來源＋抓取日期，時效性標「⚠️需覆核」，不確定就別寫。之後 Claude 只讀這個庫回答。注意 vault 在 ~/Downloads 受保護，實體檔要放非保護位置再用 symlink 接回來。`
  }
 ];
 
