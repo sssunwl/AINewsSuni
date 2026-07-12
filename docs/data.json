@@ -1,141 +1,73 @@
 {
-  "updated": "2026-07-11 12:10 HKT",
+  "updated": "2026-07-12 12:23 HKT",
   "news": [
     {
-      "title": "Meta 關閉了 Instagram 功能，該功能允許用戶對公共帳戶進行人工智慧深度偽造",
-      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images…",
-      "source": "The Verge"
-    },
-    {
-      "title": "蘋果起訴 OpenAI 涉嫌竊取硬體機密",
-      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "summary": "蘋果起訴 OpenAI，指控工程師竊取蘋果機密以推進這家人工智慧新創公司的硬體計劃。在其合作…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Instagram 的 Adam Mosseri：如果你不喜歡人工智慧，“那麼你就不應該把它放在你的動態中”",
-      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "summary": "儘管 Instagram 負責人 Adam Mosseri 不想過濾掉平台上的人工智慧內容，但他認為你「不應該…",
-      "source": "The Verge"
-    },
-    {
-      "title": "您會在家中託管部分人工智慧資料中心嗎？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-      "summary": "一家太陽能和家庭儲能公司正在向人工智慧資料中心擴張，但不是透過建造一個資料中心——相反，它提供…",
-      "source": "The Verge"
-    },
-    {
-      "title": "強烈反對後，Meta 刪除了 Instagram 上有爭議的人工智慧功能",
-      "link": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "summary": "「我們的目的是提供一個有用的創意工具，讓人們控制他們的公開內容是否可以...",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "蘋果起訴 OpenAI 涉嫌竊取商業機密",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "summary": "蘋果聲稱，這一不當行為是由 OpenAI 的高級領導層指揮的，其中包括一名長期前員工。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Hugging Face 的 Clem Delangue 表示，開源人工智慧比以往任何時候都更重要",
-      "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-      "summary": "Hugging Face 執行長 Clem Delangue 表示，開源人工智慧正在蓬勃發展。该公司已经发展成为类似 GitH 的公司……",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "SK海力士在美國歷史上最大的海外IPO中籌集了26.5億美元，敦促在美國建造新的晶圓廠",
-      "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
-      "summary": "人工智慧晶片的繁榮剛剛帶來了華爾街迄今為止最大的時刻。现在 SK 海力士和三星被要求在美国建造……",
+      "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "聊天剪輯 (ChatCut)",
-      "link": "https://www.producthunt.com/products/chatcut-ai-video-editor",
-      "desc": "Your AI video editor in ChatGPT, desktop, and web Discussion | Link",
-      "title_en": "ChatCut"
+      "title": "回扣 CLI (Kickbacks CLI)",
+      "link": "https://www.producthunt.com/products/kickbacks-cli",
+      "desc": "Kickbacks.ai 的終端機和 Mac 選單列伴侶關聯",
+      "title_en": "Kickbacks CLI"
+    },
+    {
+      "title": "ChatGPT工作 (ChatGPT Work)",
+      "link": "https://www.producthunt.com/products/chatgpt-work",
+      "desc": "為您最雄心勃勃的工作提供合作夥伴 討論 |關聯",
+      "title_en": "ChatGPT Work"
+    },
+    {
+      "title": "效果SDK (Effects SDK)",
+      "link": "https://www.producthunt.com/products/effects-sdk",
+      "desc": "適用於即時應用程式的 AI 視訊和音訊效果 SDK 討論 |關聯",
+      "title_en": "Effects SDK"
+    },
+    {
+      "title": "故事首席連接 (StoryChief Connect)",
+      "link": "https://www.producthunt.com/products/storychief-io",
+      "desc": "將Claude的內容發佈到您的網站和社交媒體關聯",
+      "title_en": "StoryChief Connect"
     },
     {
       "title": "辛 (Sim)",
       "link": "https://www.producthunt.com/products/sim-studio",
       "desc": "AI 代理和工作流程的開源工作區關聯",
       "title_en": "Sim"
-    },
-    {
-      "title": "亞斯敏作品 (Yasmine Works)",
-      "link": "https://www.producthunt.com/products/yasmine-works",
-      "desc": "一位人工智慧同事住在你的 Slack 中來完成工作關聯",
-      "title_en": "Yasmine Works"
-    },
-    {
-      "title": "GPT-5.6",
-      "link": "https://www.producthunt.com/products/openai",
-      "desc": "智能與效率新標準 討論|關聯",
-      "title_en": "GPT-5.6"
-    },
-    {
-      "title": "斯嘉麗。 (Scarlett.)",
-      "link": "https://www.producthunt.com/products/tryscarlett",
-      "desc": "Slack 和 iMessage 討論中的 AI 同事 |關聯",
-      "title_en": "Scarlett."
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "Meta 關閉了 Instagram 功能，該功能允許用戶對公共帳戶進行人工智慧深度偽造",
-      "link": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "summary": "Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Instagram 的 Adam Mosseri：如果你不喜歡人工智慧，“那麼你就不應該把它放在你的動態中”",
-      "link": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
-      "summary": "儘管 Instagram 負責人 Adam Mosseri 不想過濾掉平台上的人工智慧內容，但他認為你「不應該…",
-      "source": "The Verge"
-    }
-  ],
-  "suniverse_tools": [
-    {
-      "title": "聊天剪輯 (ChatCut)",
-      "link": "https://www.producthunt.com/products/chatcut-ai-video-editor",
-      "desc": "Your AI video editor in ChatGPT, desktop, and web Discussion | Link",
-      "title_en": "ChatCut"
-    }
-  ],
+  "suniverse_news": [],
+  "suniverse_tools": [],
   "major": [
     {
-      "title": "蘋果起訴 OpenAI 涉嫌竊取硬體機密",
-      "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "summary": "蘋果起訴 OpenAI，指控工程師竊取蘋果機密以推進這家人工智慧新創公司的硬體計劃。在其合作…",
-      "source": "The Verge"
-    },
-    {
-      "title": "蘋果起訴 OpenAI 涉嫌竊取商業機密",
-      "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
-      "summary": "蘋果聲稱，這一不當行為是由 OpenAI 的高級領導層指揮的，其中包括一名長期前員工。",
+      "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
+      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according…",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "蘋果起訴 OpenAI 涉嫌竊取硬體機密",
-    "link": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-    "summary": "蘋果起訴 OpenAI，指控工程師竊取蘋果機密以推進這家人工智慧新創公司的硬體計劃。在其合作…",
-    "source": "The Verge"
+    "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
+    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according…",
+    "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "ChatCut 剪輯旅遊視頻",
-      "detail": "用 ChatCut 把旅遊視頻剪輯成多個 10 秒的片段，發在 Instagram 和 TikTok 上，預計 3 天內出成果"
+      "title": "用回扣CLI賺外快",
+      "detail": "用Kickbacks CLI創建推薦連結，發在SS的社交媒體，預計1週出成果，增加收入"
     },
     {
-      "title": "Sim 自動化內容",
-      "detail": "用 Sim 創建一個工作流程，自動生成旅遊內容，發在 SS 旅遊博客和社交媒體上，預計 1 周內出成果"
+      "title": "ChatGPT工作合作",
+      "detail": "用ChatGPT Work和SS合作創建旅遊內容，發在SS的網站和社交媒體，預計3天出成果，提高內容質量"
     },
     {
-      "title": "GPT-5.6 旅遊文案",
-      "detail": "用 GPT-5.6 生成旅遊文案，發在 SS 旅遊網站和廣告平台上，預計 2 周內出成果"
+      "title": "效果SDK旅遊Vlog",
+      "detail": "用Effects SDK為SS的旅遊Vlog添加 đặc效，發在TikTok和Instagram，預計2天出成果，增加觀看次數"
     }
   ],
   "history": {
@@ -3596,6 +3528,78 @@
         {
           "title": "GPT-5.6 旅遊文案",
           "detail": "用 GPT-5.6 生成旅遊文案，發在 SS 旅遊網站和廣告平台上，預計 2 周內出成果"
+        }
+      ]
+    },
+    "2026-07-12": {
+      "news": [
+        {
+          "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
+          "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+          "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "回扣 CLI (Kickbacks CLI)",
+          "link": "https://www.producthunt.com/products/kickbacks-cli",
+          "desc": "Kickbacks.ai 的終端機和 Mac 選單列伴侶關聯",
+          "title_en": "Kickbacks CLI"
+        },
+        {
+          "title": "ChatGPT工作 (ChatGPT Work)",
+          "link": "https://www.producthunt.com/products/chatgpt-work",
+          "desc": "為您最雄心勃勃的工作提供合作夥伴 討論 |關聯",
+          "title_en": "ChatGPT Work"
+        },
+        {
+          "title": "效果SDK (Effects SDK)",
+          "link": "https://www.producthunt.com/products/effects-sdk",
+          "desc": "適用於即時應用程式的 AI 視訊和音訊效果 SDK 討論 |關聯",
+          "title_en": "Effects SDK"
+        },
+        {
+          "title": "故事首席連接 (StoryChief Connect)",
+          "link": "https://www.producthunt.com/products/storychief-io",
+          "desc": "將Claude的內容發佈到您的網站和社交媒體關聯",
+          "title_en": "StoryChief Connect"
+        },
+        {
+          "title": "辛 (Sim)",
+          "link": "https://www.producthunt.com/products/sim-studio",
+          "desc": "AI 代理和工作流程的開源工作區關聯",
+          "title_en": "Sim"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
+          "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+          "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
+        "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+        "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according…",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "用回扣CLI賺外快",
+          "detail": "用Kickbacks CLI創建推薦連結，發在SS的社交媒體，預計1週出成果，增加收入"
+        },
+        {
+          "title": "ChatGPT工作合作",
+          "detail": "用ChatGPT Work和SS合作創建旅遊內容，發在SS的網站和社交媒體，預計3天出成果，提高內容質量"
+        },
+        {
+          "title": "效果SDK旅遊Vlog",
+          "detail": "用Effects SDK為SS的旅遊Vlog添加 đặc效，發在TikTok和Instagram，預計2天出成果，增加觀看次數"
         }
       ]
     }
