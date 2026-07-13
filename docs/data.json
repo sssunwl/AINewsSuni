@@ -1,6 +1,12 @@
 {
-  "updated": "2026-07-13 12:27 HKT",
+  "updated": "2026-07-13 21:01 HKT",
   "news": [
+    {
+      "title": "Waze 獲得了一系列新的人工智慧功能",
+      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "summary": "Waze 正在進行人工智慧改造。谷歌正在將其旗艦人工智慧助理 Gemini 整合到駕駛應用程式中，...",
+      "source": "The Verge"
+    },
     {
       "title": "洛德表示雷朋 Meta AI 眼鏡“並不性感”",
       "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
@@ -18,61 +24,74 @@
       "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
       "summary": "這是《The Stepback》，一份每週簡訊，詳細介紹了科技界的重要故事。有關資料中心的更多資訊...",
       "source": "The Verge"
+    },
+    {
+      "title": "下載：捐贈者受孕上限和人工智慧世界模型",
+      "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+      "summary": "這是今天的《下載》版本，這是我們的工作日通訊，每天提供世界上正在發生的事情…",
+      "source": "MIT Tech"
     }
   ],
   "tools": [
     {
-      "title": "服務鬍子 (ServiceBeard)",
-      "link": "https://www.producthunt.com/products/servicebeard",
-      "desc": "將您的郵箱與問題追蹤器同步關聯",
-      "title_en": "ServiceBeard"
+      "title": "Creatify 的 AI 媒體買家 (AI Media Buyer By Creatify)",
+      "link": "https://www.producthunt.com/products/creatify",
+      "desc": "您的廣告由人工智慧管理，每天都變得更加聰明。討論 |關聯",
+      "title_en": "AI Media Buyer By Creatify"
     },
     {
-      "title": "AI 第二腦 v2 (Second Brain for AI v2)",
-      "link": "https://www.producthunt.com/products/second-brain-cloudflare",
-      "desc": "人工智慧記憶將每個工具的各個點連結起來關聯",
-      "title_en": "Second Brain for AI v2"
+      "title": "聯付 (UnitPay)",
+      "link": "https://www.producthunt.com/products/unitpay",
+      "desc": "人工智慧產品的價格、帳單和證明價值討論 |關聯",
+      "title_en": "UnitPay"
     },
     {
-      "title": "回扣 CLI (Kickbacks CLI)",
-      "link": "https://www.producthunt.com/products/kickbacks-cli",
-      "desc": "Kickbacks.ai 的終端機和 Mac 選單列伴侶關聯",
-      "title_en": "Kickbacks CLI"
+      "title": "操場 (Playground)",
+      "link": "https://www.producthunt.com/products/nyx-4",
+      "desc": "駭客 AI 代理每周可獲得超過 10 萬美元的獎勵。討論 |關聯",
+      "title_en": "Playground"
     },
     {
-      "title": "效果SDK (Effects SDK)",
-      "link": "https://www.producthunt.com/products/effects-sdk",
-      "desc": "適用於即時應用程式的 AI 視訊和音訊效果 SDK 討論 |關聯",
-      "title_en": "Effects SDK"
+      "title": "NoMac.app",
+      "link": "https://www.producthunt.com/products/nomac",
+      "desc": "用於 AI 代理的無頭 iOS 應用程式發布管道。討論 |關聯",
+      "title_en": "NoMac.app"
     },
     {
-      "title": "ChatGPT工作 (ChatGPT Work)",
-      "link": "https://www.producthunt.com/products/chatgpt-work",
-      "desc": "為您最雄心勃勃的工作提供合作夥伴 討論 |關聯",
-      "title_en": "ChatGPT Work"
+      "title": "福吉MCP (Fudge MCP)",
+      "link": "https://www.producthunt.com/products/fudge-mcp",
+      "desc": "為您的 AI 代理商提供現有網站的設計品味 討論 |關聯",
+      "title_en": "Fudge MCP"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
-  "major": [],
+  "major": [
+    {
+      "title": "Waze 獲得了一系列新的人工智慧功能",
+      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "summary": "Waze 正在進行人工智慧改造。谷歌正在將其旗艦人工智慧助理 Gemini 整合到駕駛應用程式中，...",
+      "source": "The Verge"
+    }
+  ],
   "pick": {
-    "title": "洛德表示雷朋 Meta AI 眼鏡“並不性感”",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-    "summary": "週四，洛德在馬德里的 Real Cool 音樂節上表演，並在演出期間花了一些時間再次發聲…",
+    "title": "Waze 獲得了一系列新的人工智慧功能",
+    "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+    "summary": "Waze 正在進行人工智慧改造。谷歌正在將其旗艦人工智慧助理 Gemini 整合到駕駛應用程式中，...",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "AI 旅遊短片",
-      "detail": "用 Midjourney 生成旅遊景點圖片，然後用 CapCut 製作短片，發在 Instagram Reel，預計 3 天出成果"
+      "title": "智能廣告投放",
+      "detail": "用 Creatify 的 AI 媒體買家規劃旅行美食廣告，自動優化投放，發佈於 Instagram 和 Facebook，預計 3 天出初步成果"
     },
     {
-      "title": "智能郵箱整理",
-      "detail": "用 ServiceBeard 將郵箱與問題追蹤器同步，然後用 Second Brain for AI v2 關聯各個工具，發在 SS 的社交媒體，預計 1 周出成果"
+      "title": "AI 視頻內容盈利",
+      "detail": "利用 Playground 的駭客 AI 代理，製作旅遊 Vlog，發佈於 YouTube 和 TikTok，預計 1 周出初步成果"
     },
     {
-      "title": "AI 自動化回扣",
-      "detail": "用 Kickbacks CLI 自動化回扣程序，然後用 Effects SDK 加入 AI 視訊效果，發在 SS 的 YouTube 頻道，預計 2 周出成果"
+      "title": "AI 營銷自動化",
+      "detail": "用 NoMac.app 發佈 AI 代理的無頭 iOS 應用程式，自動化旅行美食品牌的營銷工作，發佈於 App Store，預計 2 周出初步成果"
     }
   ],
   "history": {
@@ -3611,6 +3630,12 @@
     "2026-07-13": {
       "news": [
         {
+          "title": "Waze 獲得了一系列新的人工智慧功能",
+          "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+          "summary": "Waze 正在進行人工智慧改造。谷歌正在將其旗艦人工智慧助理 Gemini 整合到駕駛應用程式中，...",
+          "source": "The Verge"
+        },
+        {
           "title": "洛德表示雷朋 Meta AI 眼鏡“並不性感”",
           "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
           "summary": "週四，洛德在馬德里的 Real Cool 音樂節上表演，並在演出期間花了一些時間再次發聲…",
@@ -3627,61 +3652,74 @@
           "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
           "summary": "這是《The Stepback》，一份每週簡訊，詳細介紹了科技界的重要故事。有關資料中心的更多資訊...",
           "source": "The Verge"
+        },
+        {
+          "title": "下載：捐贈者受孕上限和人工智慧世界模型",
+          "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+          "summary": "這是今天的《下載》版本，這是我們的工作日通訊，每天提供世界上正在發生的事情…",
+          "source": "MIT Tech"
         }
       ],
       "tools": [
         {
-          "title": "服務鬍子 (ServiceBeard)",
-          "link": "https://www.producthunt.com/products/servicebeard",
-          "desc": "將您的郵箱與問題追蹤器同步關聯",
-          "title_en": "ServiceBeard"
+          "title": "Creatify 的 AI 媒體買家 (AI Media Buyer By Creatify)",
+          "link": "https://www.producthunt.com/products/creatify",
+          "desc": "您的廣告由人工智慧管理，每天都變得更加聰明。討論 |關聯",
+          "title_en": "AI Media Buyer By Creatify"
         },
         {
-          "title": "AI 第二腦 v2 (Second Brain for AI v2)",
-          "link": "https://www.producthunt.com/products/second-brain-cloudflare",
-          "desc": "人工智慧記憶將每個工具的各個點連結起來關聯",
-          "title_en": "Second Brain for AI v2"
+          "title": "聯付 (UnitPay)",
+          "link": "https://www.producthunt.com/products/unitpay",
+          "desc": "人工智慧產品的價格、帳單和證明價值討論 |關聯",
+          "title_en": "UnitPay"
         },
         {
-          "title": "回扣 CLI (Kickbacks CLI)",
-          "link": "https://www.producthunt.com/products/kickbacks-cli",
-          "desc": "Kickbacks.ai 的終端機和 Mac 選單列伴侶關聯",
-          "title_en": "Kickbacks CLI"
+          "title": "操場 (Playground)",
+          "link": "https://www.producthunt.com/products/nyx-4",
+          "desc": "駭客 AI 代理每周可獲得超過 10 萬美元的獎勵。討論 |關聯",
+          "title_en": "Playground"
         },
         {
-          "title": "效果SDK (Effects SDK)",
-          "link": "https://www.producthunt.com/products/effects-sdk",
-          "desc": "適用於即時應用程式的 AI 視訊和音訊效果 SDK 討論 |關聯",
-          "title_en": "Effects SDK"
+          "title": "NoMac.app",
+          "link": "https://www.producthunt.com/products/nomac",
+          "desc": "用於 AI 代理的無頭 iOS 應用程式發布管道。討論 |關聯",
+          "title_en": "NoMac.app"
         },
         {
-          "title": "ChatGPT工作 (ChatGPT Work)",
-          "link": "https://www.producthunt.com/products/chatgpt-work",
-          "desc": "為您最雄心勃勃的工作提供合作夥伴 討論 |關聯",
-          "title_en": "ChatGPT Work"
+          "title": "福吉MCP (Fudge MCP)",
+          "link": "https://www.producthunt.com/products/fudge-mcp",
+          "desc": "為您的 AI 代理商提供現有網站的設計品味 討論 |關聯",
+          "title_en": "Fudge MCP"
         }
       ],
       "suniverse_news": [],
       "suniverse_tools": [],
-      "major": [],
+      "major": [
+        {
+          "title": "Waze 獲得了一系列新的人工智慧功能",
+          "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+          "summary": "Waze 正在進行人工智慧改造。谷歌正在將其旗艦人工智慧助理 Gemini 整合到駕駛應用程式中，...",
+          "source": "The Verge"
+        }
+      ],
       "pick": {
-        "title": "洛德表示雷朋 Meta AI 眼鏡“並不性感”",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-        "summary": "週四，洛德在馬德里的 Real Cool 音樂節上表演，並在演出期間花了一些時間再次發聲…",
+        "title": "Waze 獲得了一系列新的人工智慧功能",
+        "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+        "summary": "Waze 正在進行人工智慧改造。谷歌正在將其旗艦人工智慧助理 Gemini 整合到駕駛應用程式中，...",
         "source": "The Verge"
       },
       "steve_ideas": [
         {
-          "title": "AI 旅遊短片",
-          "detail": "用 Midjourney 生成旅遊景點圖片，然後用 CapCut 製作短片，發在 Instagram Reel，預計 3 天出成果"
+          "title": "智能廣告投放",
+          "detail": "用 Creatify 的 AI 媒體買家規劃旅行美食廣告，自動優化投放，發佈於 Instagram 和 Facebook，預計 3 天出初步成果"
         },
         {
-          "title": "智能郵箱整理",
-          "detail": "用 ServiceBeard 將郵箱與問題追蹤器同步，然後用 Second Brain for AI v2 關聯各個工具，發在 SS 的社交媒體，預計 1 周出成果"
+          "title": "AI 視頻內容盈利",
+          "detail": "利用 Playground 的駭客 AI 代理，製作旅遊 Vlog，發佈於 YouTube 和 TikTok，預計 1 周出初步成果"
         },
         {
-          "title": "AI 自動化回扣",
-          "detail": "用 Kickbacks CLI 自動化回扣程序，然後用 Effects SDK 加入 AI 視訊效果，發在 SS 的 YouTube 頻道，預計 2 周出成果"
+          "title": "AI 營銷自動化",
+          "detail": "用 NoMac.app 發佈 AI 代理的無頭 iOS 應用程式，自動化旅行美食品牌的營銷工作，發佈於 App Store，預計 2 周出初步成果"
         }
       ]
     }
