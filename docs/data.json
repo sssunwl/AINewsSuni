@@ -1,11 +1,23 @@
 {
-  "updated": "2026-07-12 17:49 HKT",
+  "updated": "2026-07-13 12:27 HKT",
   "news": [
     {
-      "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "summary": "據報道，ChatGPT 正在招募一名專門的產品經理，為家庭、照護人員和老年人打造體驗。",
-      "source": "TechCrunch"
+      "title": "洛德表示雷朋 Meta AI 眼鏡“並不性感”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+      "summary": "週四，洛德在馬德里的 Real Cool 音樂節上表演，並在演出期間花了一些時間再次發聲…",
+      "source": "The Verge"
+    },
+    {
+      "title": "蘋果失敗的自動駕駛汽車計劃留下了強大的人工智慧晶片的遺產",
+      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+      "summary": "蘋果的自動駕駛汽車計劃從未真正啟動，但這可能是該公司晶片成為…的原因。",
+      "source": "The Verge"
+    },
+    {
+      "title": "對抗人工智慧資料中心的戰鬥才剛開始",
+      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "summary": "這是《The Stepback》，一份每週簡訊，詳細介紹了科技界的重要故事。有關資料中心的更多資訊...",
+      "source": "The Verge"
     }
   ],
   "tools": [
@@ -22,12 +34,6 @@
       "title_en": "Second Brain for AI v2"
     },
     {
-      "title": "ChatGPT工作 (ChatGPT Work)",
-      "link": "https://www.producthunt.com/products/chatgpt-work",
-      "desc": "為您最雄心勃勃的工作提供合作夥伴 討論 |關聯",
-      "title_en": "ChatGPT Work"
-    },
-    {
       "title": "回扣 CLI (Kickbacks CLI)",
       "link": "https://www.producthunt.com/products/kickbacks-cli",
       "desc": "Kickbacks.ai 的終端機和 Mac 選單列伴侶關聯",
@@ -38,36 +44,35 @@
       "link": "https://www.producthunt.com/products/effects-sdk",
       "desc": "適用於即時應用程式的 AI 視訊和音訊效果 SDK 討論 |關聯",
       "title_en": "Effects SDK"
+    },
+    {
+      "title": "ChatGPT工作 (ChatGPT Work)",
+      "link": "https://www.producthunt.com/products/chatgpt-work",
+      "desc": "為您最雄心勃勃的工作提供合作夥伴 討論 |關聯",
+      "title_en": "ChatGPT Work"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
-  "major": [
-    {
-      "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
-      "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-      "summary": "據報道，ChatGPT 正在招募一名專門的產品經理，為家庭、照護人員和老年人打造體驗。",
-      "source": "TechCrunch"
-    }
-  ],
+  "major": [],
   "pick": {
-    "title": "隨著 ChatGPT 深入家庭，OpenAI 押注家庭",
-    "link": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-    "summary": "據報道，ChatGPT 正在招募一名專門的產品經理，為家庭、照護人員和老年人打造體驗。",
-    "source": "TechCrunch"
+    "title": "洛德表示雷朋 Meta AI 眼鏡“並不性感”",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+    "summary": "週四，洛德在馬德里的 Real Cool 音樂節上表演，並在演出期間花了一些時間再次發聲…",
+    "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用 ChatGPT Work 賺旅費",
-      "detail": "用 ChatGPT Work 討論旅遊內容創作，發在 SS 社交媒體平台，預計 3 天出成果"
+      "title": "AI 旅遊短片",
+      "detail": "用 Midjourney 生成旅遊景點圖片，然後用 CapCut 製作短片，發在 Instagram Reel，預計 3 天出成果"
     },
     {
-      "title": "服務郵件自動化",
-      "detail": "用 ServiceBeard 將郵件與問題追蹤器同步，自動化 SS 的郵件回覆，預計 1 周出成果"
+      "title": "智能郵箱整理",
+      "detail": "用 ServiceBeard 將郵箱與問題追蹤器同步，然後用 Second Brain for AI v2 關聯各個工具，發在 SS 的社交媒體，預計 1 周出成果"
     },
     {
-      "title": "AI 二腦旅遊內容",
-      "detail": "用 Second Brain for AI v2 生成旅遊內容創意，發在 SS 旅遊博客，預計 5 天出成果"
+      "title": "AI 自動化回扣",
+      "detail": "用 Kickbacks CLI 自動化回扣程序，然後用 Effects SDK 加入 AI 視訊效果，發在 SS 的 YouTube 頻道，預計 2 周出成果"
     }
   ],
   "history": {
@@ -3600,6 +3605,83 @@
         {
           "title": "AI 二腦旅遊內容",
           "detail": "用 Second Brain for AI v2 生成旅遊內容創意，發在 SS 旅遊博客，預計 5 天出成果"
+        }
+      ]
+    },
+    "2026-07-13": {
+      "news": [
+        {
+          "title": "洛德表示雷朋 Meta AI 眼鏡“並不性感”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+          "summary": "週四，洛德在馬德里的 Real Cool 音樂節上表演，並在演出期間花了一些時間再次發聲…",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果失敗的自動駕駛汽車計劃留下了強大的人工智慧晶片的遺產",
+          "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+          "summary": "蘋果的自動駕駛汽車計劃從未真正啟動，但這可能是該公司晶片成為…的原因。",
+          "source": "The Verge"
+        },
+        {
+          "title": "對抗人工智慧資料中心的戰鬥才剛開始",
+          "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+          "summary": "這是《The Stepback》，一份每週簡訊，詳細介紹了科技界的重要故事。有關資料中心的更多資訊...",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "服務鬍子 (ServiceBeard)",
+          "link": "https://www.producthunt.com/products/servicebeard",
+          "desc": "將您的郵箱與問題追蹤器同步關聯",
+          "title_en": "ServiceBeard"
+        },
+        {
+          "title": "AI 第二腦 v2 (Second Brain for AI v2)",
+          "link": "https://www.producthunt.com/products/second-brain-cloudflare",
+          "desc": "人工智慧記憶將每個工具的各個點連結起來關聯",
+          "title_en": "Second Brain for AI v2"
+        },
+        {
+          "title": "回扣 CLI (Kickbacks CLI)",
+          "link": "https://www.producthunt.com/products/kickbacks-cli",
+          "desc": "Kickbacks.ai 的終端機和 Mac 選單列伴侶關聯",
+          "title_en": "Kickbacks CLI"
+        },
+        {
+          "title": "效果SDK (Effects SDK)",
+          "link": "https://www.producthunt.com/products/effects-sdk",
+          "desc": "適用於即時應用程式的 AI 視訊和音訊效果 SDK 討論 |關聯",
+          "title_en": "Effects SDK"
+        },
+        {
+          "title": "ChatGPT工作 (ChatGPT Work)",
+          "link": "https://www.producthunt.com/products/chatgpt-work",
+          "desc": "為您最雄心勃勃的工作提供合作夥伴 討論 |關聯",
+          "title_en": "ChatGPT Work"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [],
+      "pick": {
+        "title": "洛德表示雷朋 Meta AI 眼鏡“並不性感”",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
+        "summary": "週四，洛德在馬德里的 Real Cool 音樂節上表演，並在演出期間花了一些時間再次發聲…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "AI 旅遊短片",
+          "detail": "用 Midjourney 生成旅遊景點圖片，然後用 CapCut 製作短片，發在 Instagram Reel，預計 3 天出成果"
+        },
+        {
+          "title": "智能郵箱整理",
+          "detail": "用 ServiceBeard 將郵箱與問題追蹤器同步，然後用 Second Brain for AI v2 關聯各個工具，發在 SS 的社交媒體，預計 1 周出成果"
+        },
+        {
+          "title": "AI 自動化回扣",
+          "detail": "用 Kickbacks CLI 自動化回扣程序，然後用 Effects SDK 加入 AI 視訊效果，發在 SS 的 YouTube 頻道，預計 2 周出成果"
         }
       ]
     }
