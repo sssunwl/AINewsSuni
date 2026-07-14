@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-13 21:01 HKT",
+  "updated": "2026-07-14 11:54 HKT",
   "news": [
+    {
+      "title": "Siri AI 已經在改變我使用 iPhone 的方式",
+      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+      "summary": "iOS 27 今天隨著第一個公開測試版的推出而脫離了開發者世界。我一直在測試新的操作...",
+      "source": "The Verge"
+    },
+    {
+      "title": "蘋果針對 OpenAI 的訴訟中最瘋狂的 6 項指控",
+      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "summary": "當蘋果員工面試 OpenAI 職位時，這家人工智慧新創公司的硬體負責人據稱要求他們帶著…",
+      "source": "The Verge"
+    },
     {
       "title": "Waze 獲得了一系列新的人工智慧功能",
       "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
@@ -8,28 +20,34 @@
       "source": "The Verge"
     },
     {
-      "title": "洛德表示雷朋 Meta AI 眼鏡“並不性感”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-      "summary": "週四，洛德在馬德里的 Real Cool 音樂節上表演，並在演出期間花了一些時間再次發聲…",
-      "source": "The Verge"
+      "title": "已經富有、已經成功，為什麼最後一波科技贏家在苦苦掙扎",
+      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+      "summary": "他們再次捲起袖子，似乎是因為擔心錯過人工智慧的決定性時刻，並且可能是不顧一切的…",
+      "source": "TechCrunch"
     },
     {
-      "title": "蘋果失敗的自動駕駛汽車計劃留下了強大的人工智慧晶片的遺產",
-      "link": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-      "summary": "蘋果的自動駕駛汽車計劃從未真正啟動，但這可能是該公司晶片成為…的原因。",
-      "source": "The Verge"
+      "title": "Uber 酒店、機器人出租車產品負責人以及該公司為何不想“為所有人提供一切”",
+      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+      "summary": "Uber 首席產品長 Sachin Kansal 向 TechCrunch 介紹了該公司的金融服務雄心、其成長…",
+      "source": "TechCrunch"
     },
     {
-      "title": "對抗人工智慧資料中心的戰鬥才剛開始",
-      "link": "https://www.theverge.com/column/963346/ai-data-centers-fight",
-      "summary": "這是《The Stepback》，一份每週簡訊，詳細介紹了科技界的重要故事。有關資料中心的更多資訊...",
-      "source": "The Verge"
+      "title": "影片生成新創公司 PixVerse 融資 4.39 億美元，估值飆升至 20 億美元以上",
+      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+      "summary": "該公司計劃利用這筆現金擴大其全球車型產品範圍並覆蓋各個地區的客戶。",
+      "source": "TechCrunch"
     },
     {
-      "title": "下載：捐贈者受孕上限和人工智慧世界模型",
-      "link": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-      "summary": "這是今天的《下載》版本，這是我們的工作日通訊，每天提供世界上正在發生的事情…",
-      "source": "MIT Tech"
+      "title": "Hermes 代理製造商 Nous Research 正在以 1.5B 美元估值洽談新融資",
+      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+      "summary": "該公司正在籌集至少 7500 萬美元資金，由 Robot Ventures 領投，USV 和其他項目的大力參與…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "薩蒂亞·納德拉 (Satya Nadella) 對使用人工智慧的公司發出了令人震驚的警告",
+      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+      "summary": "在所有關於人工智慧潛在缺點的激烈爭論中，有一個擔憂最讓 A 人感到不安…",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
@@ -40,10 +58,16 @@
       "title_en": "AI Media Buyer By Creatify"
     },
     {
-      "title": "聯付 (UnitPay)",
-      "link": "https://www.producthunt.com/products/unitpay",
-      "desc": "人工智慧產品的價格、帳單和證明價值討論 |關聯",
-      "title_en": "UnitPay"
+      "title": "福吉MCP (Fudge MCP)",
+      "link": "https://www.producthunt.com/products/fudge-mcp",
+      "desc": "為您的 AI 代理商提供現有網站的設計品味 討論 |關聯",
+      "title_en": "Fudge MCP"
+    },
+    {
+      "title": "尾部復用器 (TailMux)",
+      "link": "https://www.producthunt.com/products/tailmux",
+      "desc": "一次多個 Tailscale tailnet，無需切換+無需 VM 討論 |關聯",
+      "title_en": "TailMux"
     },
     {
       "title": "操場 (Playground)",
@@ -52,21 +76,21 @@
       "title_en": "Playground"
     },
     {
-      "title": "NoMac.app",
-      "link": "https://www.producthunt.com/products/nomac",
-      "desc": "用於 AI 代理的無頭 iOS 應用程式發布管道。討論 |關聯",
-      "title_en": "NoMac.app"
-    },
-    {
-      "title": "福吉MCP (Fudge MCP)",
-      "link": "https://www.producthunt.com/products/fudge-mcp",
-      "desc": "為您的 AI 代理商提供現有網站的設計品味 討論 |關聯",
-      "title_en": "Fudge MCP"
+      "title": "聯付 (UnitPay)",
+      "link": "https://www.producthunt.com/products/unitpay",
+      "desc": "人工智慧產品的價格、帳單和證明價值討論 |關聯",
+      "title_en": "UnitPay"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
+    {
+      "title": "蘋果針對 OpenAI 的訴訟中最瘋狂的 6 項指控",
+      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "summary": "當蘋果員工面試 OpenAI 職位時，這家人工智慧新創公司的硬體負責人據稱要求他們帶著…",
+      "source": "The Verge"
+    },
     {
       "title": "Waze 獲得了一系列新的人工智慧功能",
       "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
@@ -75,23 +99,23 @@
     }
   ],
   "pick": {
-    "title": "Waze 獲得了一系列新的人工智慧功能",
-    "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-    "summary": "Waze 正在進行人工智慧改造。谷歌正在將其旗艦人工智慧助理 Gemini 整合到駕駛應用程式中，...",
+    "title": "蘋果針對 OpenAI 的訴訟中最瘋狂的 6 項指控",
+    "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+    "summary": "當蘋果員工面試 OpenAI 職位時，這家人工智慧新創公司的硬體負責人據稱要求他們帶著…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "智能廣告投放",
-      "detail": "用 Creatify 的 AI 媒體買家規劃旅行美食廣告，自動優化投放，發佈於 Instagram 和 Facebook，預計 3 天出初步成果"
+      "title": "智能廣告賺錢",
+      "detail": "用Creatify的AI媒體買家，自動優化廣告投放，提高點擊率和轉換率，發在Facebook和Instagram，預計1周出成果"
     },
     {
-      "title": "AI 視頻內容盈利",
-      "detail": "利用 Playground 的駭客 AI 代理，製作旅遊 Vlog，發佈於 YouTube 和 TikTok，預計 1 周出初步成果"
+      "title": "AI生成旅遊內容",
+      "detail": "利用Fudge MCP設計一個旅遊網站，然後用ChatGPT生成內容，發在YouTube和TikTok，預計3天出成果"
     },
     {
-      "title": "AI 營銷自動化",
-      "detail": "用 NoMac.app 發佈 AI 代理的無頭 iOS 應用程式，自動化旅行美食品牌的營銷工作，發佈於 App Store，預計 2 周出初步成果"
+      "title": "駭客AI獎勵",
+      "detail": "加入操場平台，參加駭客AI挑戰賽，每周可獲得超過10萬美元的獎勵，發在個人社交媒體，預計1周出成果"
     }
   ],
   "history": {
@@ -3720,6 +3744,126 @@
         {
           "title": "AI 營銷自動化",
           "detail": "用 NoMac.app 發佈 AI 代理的無頭 iOS 應用程式，自動化旅行美食品牌的營銷工作，發佈於 App Store，預計 2 周出初步成果"
+        }
+      ]
+    },
+    "2026-07-14": {
+      "news": [
+        {
+          "title": "Siri AI 已經在改變我使用 iPhone 的方式",
+          "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
+          "summary": "iOS 27 今天隨著第一個公開測試版的推出而脫離了開發者世界。我一直在測試新的操作...",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果針對 OpenAI 的訴訟中最瘋狂的 6 項指控",
+          "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+          "summary": "當蘋果員工面試 OpenAI 職位時，這家人工智慧新創公司的硬體負責人據稱要求他們帶著…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Waze 獲得了一系列新的人工智慧功能",
+          "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+          "summary": "Waze 正在進行人工智慧改造。谷歌正在將其旗艦人工智慧助理 Gemini 整合到駕駛應用程式中，...",
+          "source": "The Verge"
+        },
+        {
+          "title": "已經富有、已經成功，為什麼最後一波科技贏家在苦苦掙扎",
+          "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
+          "summary": "他們再次捲起袖子，似乎是因為擔心錯過人工智慧的決定性時刻，並且可能是不顧一切的…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Uber 酒店、機器人出租車產品負責人以及該公司為何不想“為所有人提供一切”",
+          "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
+          "summary": "Uber 首席產品長 Sachin Kansal 向 TechCrunch 介紹了該公司的金融服務雄心、其成長…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "影片生成新創公司 PixVerse 融資 4.39 億美元，估值飆升至 20 億美元以上",
+          "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
+          "summary": "該公司計劃利用這筆現金擴大其全球車型產品範圍並覆蓋各個地區的客戶。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hermes 代理製造商 Nous Research 正在以 1.5B 美元估值洽談新融資",
+          "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
+          "summary": "該公司正在籌集至少 7500 萬美元資金，由 Robot Ventures 領投，USV 和其他項目的大力參與…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "薩蒂亞·納德拉 (Satya Nadella) 對使用人工智慧的公司發出了令人震驚的警告",
+          "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+          "summary": "在所有關於人工智慧潛在缺點的激烈爭論中，有一個擔憂最讓 A 人感到不安…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Creatify 的 AI 媒體買家 (AI Media Buyer By Creatify)",
+          "link": "https://www.producthunt.com/products/creatify",
+          "desc": "您的廣告由人工智慧管理，每天都變得更加聰明。討論 |關聯",
+          "title_en": "AI Media Buyer By Creatify"
+        },
+        {
+          "title": "福吉MCP (Fudge MCP)",
+          "link": "https://www.producthunt.com/products/fudge-mcp",
+          "desc": "為您的 AI 代理商提供現有網站的設計品味 討論 |關聯",
+          "title_en": "Fudge MCP"
+        },
+        {
+          "title": "尾部復用器 (TailMux)",
+          "link": "https://www.producthunt.com/products/tailmux",
+          "desc": "一次多個 Tailscale tailnet，無需切換+無需 VM 討論 |關聯",
+          "title_en": "TailMux"
+        },
+        {
+          "title": "操場 (Playground)",
+          "link": "https://www.producthunt.com/products/nyx-4",
+          "desc": "駭客 AI 代理每周可獲得超過 10 萬美元的獎勵。討論 |關聯",
+          "title_en": "Playground"
+        },
+        {
+          "title": "聯付 (UnitPay)",
+          "link": "https://www.producthunt.com/products/unitpay",
+          "desc": "人工智慧產品的價格、帳單和證明價值討論 |關聯",
+          "title_en": "UnitPay"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "蘋果針對 OpenAI 的訴訟中最瘋狂的 6 項指控",
+          "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+          "summary": "當蘋果員工面試 OpenAI 職位時，這家人工智慧新創公司的硬體負責人據稱要求他們帶著…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Waze 獲得了一系列新的人工智慧功能",
+          "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+          "summary": "Waze 正在進行人工智慧改造。谷歌正在將其旗艦人工智慧助理 Gemini 整合到駕駛應用程式中，...",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "蘋果針對 OpenAI 的訴訟中最瘋狂的 6 項指控",
+        "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+        "summary": "當蘋果員工面試 OpenAI 職位時，這家人工智慧新創公司的硬體負責人據稱要求他們帶著…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "智能廣告賺錢",
+          "detail": "用Creatify的AI媒體買家，自動優化廣告投放，提高點擊率和轉換率，發在Facebook和Instagram，預計1周出成果"
+        },
+        {
+          "title": "AI生成旅遊內容",
+          "detail": "利用Fudge MCP設計一個旅遊網站，然後用ChatGPT生成內容，發在YouTube和TikTok，預計3天出成果"
+        },
+        {
+          "title": "駭客AI獎勵",
+          "detail": "加入操場平台，參加駭客AI挑戰賽，每周可獲得超過10萬美元的獎勵，發在個人社交媒體，預計1周出成果"
         }
       ]
     }
