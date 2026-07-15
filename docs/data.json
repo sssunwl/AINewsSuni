@@ -1,121 +1,127 @@
 {
-  "updated": "2026-07-14 11:54 HKT",
+  "updated": "2026-07-15 11:55 HKT",
   "news": [
     {
-      "title": "Siri AI 已經在改變我使用 iPhone 的方式",
-      "link": "https://www.theverge.com/tech/964714/siri-ai-public-beta-preview-ios-27-hands-on",
-      "summary": "iOS 27 今天隨著第一個公開測試版的推出而脫離了開發者世界。我一直在測試新的操作...",
+      "title": "OpenAI 今年可能會推出 ChatGPT 智慧音箱",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "summary": "根據彭博社報道，OpenAI 的第一款設備將是一款智慧揚聲器，可讓你與 ChatGPT 交談…",
       "source": "The Verge"
     },
     {
-      "title": "蘋果針對 OpenAI 的訴訟中最瘋狂的 6 項指控",
-      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "summary": "當蘋果員工面試 OpenAI 職位時，這家人工智慧新創公司的硬體負責人據稱要求他們帶著…",
+      "title": "SpaceXAI 的 Grok 程式設計工具正在將用戶的整個程式碼庫上傳到雲端存儲",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "summary": "SpaceXAI 的 Grok Build AI 編碼工具被發現在被報導之前將用戶的整個程式碼庫上傳到Google雲端...",
       "source": "The Verge"
     },
     {
-      "title": "Waze 獲得了一系列新的人工智慧功能",
-      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "summary": "Waze 正在進行人工智慧改造。谷歌正在將其旗艦人工智慧助理 Gemini 整合到駕駛應用程式中，...",
+      "title": "Meta 被指控使用有偏見的人工智慧定位進行大規模裁員",
+      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+      "summary": "由 26 名前 Meta 員工組成的團體正在起訴該公司，指控該公司使用人工智慧工具不公平地針對...",
       "source": "The Verge"
     },
     {
-      "title": "已經富有、已經成功，為什麼最後一波科技贏家在苦苦掙扎",
-      "link": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-      "summary": "他們再次捲起袖子，似乎是因為擔心錯過人工智慧的決定性時刻，並且可能是不顧一切的…",
-      "source": "TechCrunch"
+      "title": "Google 圖片首頁甚至會在您搜尋之前推薦照片",
+      "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+      "summary": "谷歌本周宣布對 Google 圖片主頁進行重大更改，以紀念該平台成立 25 週年。我…",
+      "source": "The Verge"
     },
     {
-      "title": "Uber 酒店、機器人出租車產品負責人以及該公司為何不想“為所有人提供一切”",
-      "link": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-      "summary": "Uber 首席產品長 Sachin Kansal 向 TechCrunch 介紹了該公司的金融服務雄心、其成長…",
-      "source": "TechCrunch"
+      "title": "Spotify 現在也是人工智慧聊天機器人",
+      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+      "summary": "Spotify 正在試驗一項新的人工智慧功能，讓 Premium 訂閱者播放和探索音樂、有聲書等…",
+      "source": "The Verge"
     },
     {
-      "title": "影片生成新創公司 PixVerse 融資 4.39 億美元，估值飆升至 20 億美元以上",
-      "link": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-      "summary": "該公司計劃利用這筆現金擴大其全球車型產品範圍並覆蓋各個地區的客戶。",
-      "source": "TechCrunch"
+      "title": "薩姆·奧爾特曼不需要再提起訴訟",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "summary": "OpenAI 今年的大部分時間都在捲入一場又一場的訴訟，其中包括來自世界上最富有的富豪的訴訟…",
+      "source": "The Verge"
     },
     {
-      "title": "Hermes 代理製造商 Nous Research 正在以 1.5B 美元估值洽談新融資",
-      "link": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-      "summary": "該公司正在籌集至少 7500 萬美元資金，由 Robot Ventures 領投，USV 和其他項目的大力參與…",
-      "source": "TechCrunch"
+      "title": "谷歌的傑米斯·哈薩比斯 (Demis Hassabis) 表示，現在是由美國領導的全球人工智慧監管機構的時候了",
+      "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+      "summary": "Demis Hassabis 認為世界需要一個人工智慧看門狗，如果前沿模型變得太危險，它有能力踩剎車…",
+      "source": "The Verge"
     },
     {
-      "title": "薩蒂亞·納德拉 (Satya Nadella) 對使用人工智慧的公司發出了令人震驚的警告",
-      "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
-      "summary": "在所有關於人工智慧潛在缺點的激烈爭論中，有一個擔憂最讓 A 人感到不安…",
-      "source": "TechCrunch"
+      "title": "紐約成為第一個暫停資料中心的州",
+      "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+      "summary": "由於州長 Kathy Hochul (D) 簽署了…新的超大規模資料中心在一年內無法在紐約設立商店。",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "Creatify 的 AI 媒體買家 (AI Media Buyer By Creatify)",
-      "link": "https://www.producthunt.com/products/creatify",
-      "desc": "您的廣告由人工智慧管理，每天都變得更加聰明。討論 |關聯",
-      "title_en": "AI Media Buyer By Creatify"
+      "title": "爪隊 (ClawTeams)",
+      "link": "https://www.producthunt.com/products/clawteams",
+      "desc": "第一個目標驅動、積極主動的電子商務人工智慧團隊 討論 |關聯",
+      "title_en": "ClawTeams"
     },
     {
-      "title": "福吉MCP (Fudge MCP)",
-      "link": "https://www.producthunt.com/products/fudge-mcp",
-      "desc": "為您的 AI 代理商提供現有網站的設計品味 討論 |關聯",
-      "title_en": "Fudge MCP"
+      "title": "Claude·疊加 (Claude Overlay)",
+      "link": "https://www.producthunt.com/products/claude-overlay",
+      "desc": "浮動的Claude代碼聊天可以看到您的螢幕關聯",
+      "title_en": "Claude Overlay"
     },
     {
-      "title": "尾部復用器 (TailMux)",
-      "link": "https://www.producthunt.com/products/tailmux",
-      "desc": "一次多個 Tailscale tailnet，無需切換+無需 VM 討論 |關聯",
-      "title_en": "TailMux"
+      "title": "循環俱樂部 (loopclub)",
+      "link": "https://www.producthunt.com/products/loopclub",
+      "desc": "與陌生人或Claude一起即興演奏的共享鼓機 討論 |關聯",
+      "title_en": "loopclub"
     },
     {
-      "title": "操場 (Playground)",
-      "link": "https://www.producthunt.com/products/nyx-4",
-      "desc": "駭客 AI 代理每周可獲得超過 10 萬美元的獎勵。討論 |關聯",
-      "title_en": "Playground"
+      "title": "布蘭達 (Branda)",
+      "link": "https://www.producthunt.com/products/branda-open-source-on-brand-ad-maker",
+      "desc": "將任何網域轉變為品牌廣告，麻省理工學院開源討論 |關聯",
+      "title_en": "Branda"
     },
     {
-      "title": "聯付 (UnitPay)",
-      "link": "https://www.producthunt.com/products/unitpay",
-      "desc": "人工智慧產品的價格、帳單和證明價值討論 |關聯",
-      "title_en": "UnitPay"
+      "title": "莫哈韋油漆 (Mojave Paint)",
+      "link": "https://www.producthunt.com/products/mojave-paint",
+      "desc": "Mac平台直接操作靜態圖片討論|關聯",
+      "title_en": "Mojave Paint"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "蘋果針對 OpenAI 的訴訟中最瘋狂的 6 項指控",
-      "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-      "summary": "當蘋果員工面試 OpenAI 職位時，這家人工智慧新創公司的硬體負責人據稱要求他們帶著…",
+      "title": "OpenAI 今年可能會推出 ChatGPT 智慧音箱",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+      "summary": "根據彭博社報道，OpenAI 的第一款設備將是一款智慧揚聲器，可讓你與 ChatGPT 交談…",
       "source": "The Verge"
     },
     {
-      "title": "Waze 獲得了一系列新的人工智慧功能",
-      "link": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-      "summary": "Waze 正在進行人工智慧改造。谷歌正在將其旗艦人工智慧助理 Gemini 整合到駕駛應用程式中，...",
+      "title": "SpaceXAI 的 Grok 程式設計工具正在將用戶的整個程式碼庫上傳到雲端存儲",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+      "summary": "SpaceXAI 的 Grok Build AI 編碼工具被發現在被報導之前將用戶的整個程式碼庫上傳到Google雲端...",
+      "source": "The Verge"
+    },
+    {
+      "title": "薩姆·奧爾特曼不需要再提起訴訟",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+      "summary": "OpenAI 今年的大部分時間都在捲入一場又一場的訴訟，其中包括來自世界上最富有的富豪的訴訟…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "蘋果針對 OpenAI 的訴訟中最瘋狂的 6 項指控",
-    "link": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
-    "summary": "當蘋果員工面試 OpenAI 職位時，這家人工智慧新創公司的硬體負責人據稱要求他們帶著…",
+    "title": "OpenAI 今年可能會推出 ChatGPT 智慧音箱",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+    "summary": "根據彭博社報道，OpenAI 的第一款設備將是一款智慧揚聲器，可讓你與 ChatGPT 交談…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "智能廣告賺錢",
-      "detail": "用Creatify的AI媒體買家，自動優化廣告投放，提高點擊率和轉換率，發在Facebook和Instagram，預計1周出成果"
+      "title": "用 Claude Overlay 出旅遊影片",
+      "detail": "我會用 Claude Overlay 幫你產生旅遊內容的字幕和標題，然後發在 Instagram 上，預計 3 天出成果"
     },
     {
-      "title": "AI生成旅遊內容",
-      "detail": "利用Fudge MCP設計一個旅遊網站，然後用ChatGPT生成內容，發在YouTube和TikTok，預計3天出成果"
+      "title": "Branda 打造品牌網站",
+      "detail": "利用 Branda 將你的旅遊網站轉變為品牌網站，包含廣告和介紹，然後發在 Facebook 上，預計 1 周出成果"
     },
     {
-      "title": "駭客AI獎勵",
-      "detail": "加入操場平台，參加駭客AI挑戰賽，每周可獲得超過10萬美元的獎勵，發在個人社交媒體，預計1周出成果"
+      "title": "爪隊直播聊旅遊",
+      "detail": "我會用爪隊的功能開啟直播聊天室，和你的粉絲討論旅遊話題，然後發在 YouTube 上，預計 2 天出成果"
     }
   ],
   "history": {
@@ -3864,6 +3870,132 @@
         {
           "title": "駭客AI獎勵",
           "detail": "加入操場平台，參加駭客AI挑戰賽，每周可獲得超過10萬美元的獎勵，發在個人社交媒體，預計1周出成果"
+        }
+      ]
+    },
+    "2026-07-15": {
+      "news": [
+        {
+          "title": "OpenAI 今年可能會推出 ChatGPT 智慧音箱",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+          "summary": "根據彭博社報道，OpenAI 的第一款設備將是一款智慧揚聲器，可讓你與 ChatGPT 交談…",
+          "source": "The Verge"
+        },
+        {
+          "title": "SpaceXAI 的 Grok 程式設計工具正在將用戶的整個程式碼庫上傳到雲端存儲",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+          "summary": "SpaceXAI 的 Grok Build AI 編碼工具被發現在被報導之前將用戶的整個程式碼庫上傳到Google雲端...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta 被指控使用有偏見的人工智慧定位進行大規模裁員",
+          "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
+          "summary": "由 26 名前 Meta 員工組成的團體正在起訴該公司，指控該公司使用人工智慧工具不公平地針對...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google 圖片首頁甚至會在您搜尋之前推薦照片",
+          "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
+          "summary": "谷歌本周宣布對 Google 圖片主頁進行重大更改，以紀念該平台成立 25 週年。我…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Spotify 現在也是人工智慧聊天機器人",
+          "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
+          "summary": "Spotify 正在試驗一項新的人工智慧功能，讓 Premium 訂閱者播放和探索音樂、有聲書等…",
+          "source": "The Verge"
+        },
+        {
+          "title": "薩姆·奧爾特曼不需要再提起訴訟",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+          "summary": "OpenAI 今年的大部分時間都在捲入一場又一場的訴訟，其中包括來自世界上最富有的富豪的訴訟…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌的傑米斯·哈薩比斯 (Demis Hassabis) 表示，現在是由美國領導的全球人工智慧監管機構的時候了",
+          "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
+          "summary": "Demis Hassabis 認為世界需要一個人工智慧看門狗，如果前沿模型變得太危險，它有能力踩剎車…",
+          "source": "The Verge"
+        },
+        {
+          "title": "紐約成為第一個暫停資料中心的州",
+          "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
+          "summary": "由於州長 Kathy Hochul (D) 簽署了…新的超大規模資料中心在一年內無法在紐約設立商店。",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "爪隊 (ClawTeams)",
+          "link": "https://www.producthunt.com/products/clawteams",
+          "desc": "第一個目標驅動、積極主動的電子商務人工智慧團隊 討論 |關聯",
+          "title_en": "ClawTeams"
+        },
+        {
+          "title": "Claude·疊加 (Claude Overlay)",
+          "link": "https://www.producthunt.com/products/claude-overlay",
+          "desc": "浮動的Claude代碼聊天可以看到您的螢幕關聯",
+          "title_en": "Claude Overlay"
+        },
+        {
+          "title": "循環俱樂部 (loopclub)",
+          "link": "https://www.producthunt.com/products/loopclub",
+          "desc": "與陌生人或Claude一起即興演奏的共享鼓機 討論 |關聯",
+          "title_en": "loopclub"
+        },
+        {
+          "title": "布蘭達 (Branda)",
+          "link": "https://www.producthunt.com/products/branda-open-source-on-brand-ad-maker",
+          "desc": "將任何網域轉變為品牌廣告，麻省理工學院開源討論 |關聯",
+          "title_en": "Branda"
+        },
+        {
+          "title": "莫哈韋油漆 (Mojave Paint)",
+          "link": "https://www.producthunt.com/products/mojave-paint",
+          "desc": "Mac平台直接操作靜態圖片討論|關聯",
+          "title_en": "Mojave Paint"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 今年可能會推出 ChatGPT 智慧音箱",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+          "summary": "根據彭博社報道，OpenAI 的第一款設備將是一款智慧揚聲器，可讓你與 ChatGPT 交談…",
+          "source": "The Verge"
+        },
+        {
+          "title": "SpaceXAI 的 Grok 程式設計工具正在將用戶的整個程式碼庫上傳到雲端存儲",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
+          "summary": "SpaceXAI 的 Grok Build AI 編碼工具被發現在被報導之前將用戶的整個程式碼庫上傳到Google雲端...",
+          "source": "The Verge"
+        },
+        {
+          "title": "薩姆·奧爾特曼不需要再提起訴訟",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
+          "summary": "OpenAI 今年的大部分時間都在捲入一場又一場的訴訟，其中包括來自世界上最富有的富豪的訴訟…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 今年可能會推出 ChatGPT 智慧音箱",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
+        "summary": "根據彭博社報道，OpenAI 的第一款設備將是一款智慧揚聲器，可讓你與 ChatGPT 交談…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Claude Overlay 出旅遊影片",
+          "detail": "我會用 Claude Overlay 幫你產生旅遊內容的字幕和標題，然後發在 Instagram 上，預計 3 天出成果"
+        },
+        {
+          "title": "Branda 打造品牌網站",
+          "detail": "利用 Branda 將你的旅遊網站轉變為品牌網站，包含廣告和介紹，然後發在 Facebook 上，預計 1 周出成果"
+        },
+        {
+          "title": "爪隊直播聊旅遊",
+          "detail": "我會用爪隊的功能開啟直播聊天室，和你的粉絲討論旅遊話題，然後發在 YouTube 上，預計 2 天出成果"
         }
       ]
     }
