@@ -1,127 +1,134 @@
 {
-  "updated": "2026-07-15 11:55 HKT",
+  "updated": "2026-07-16 11:58 HKT",
   "news": [
     {
-      "title": "OpenAI 今年可能會推出 ChatGPT 智慧音箱",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "summary": "根據彭博社報道，OpenAI 的第一款設備將是一款智慧揚聲器，可讓你與 ChatGPT 交談…",
+      "title": "xAI 起訴一名男子使用 Grok 產生 CSAM“deepfakes”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "summary": "馬斯克 (Elon Musk) 旗下的 xAI 正在起訴一名南卡羅來納州男子，據稱該男子使用該公司的 Grok AI 聊天機器人來產生孩子…",
       "source": "The Verge"
     },
     {
-      "title": "SpaceXAI 的 Grok 程式設計工具正在將用戶的整個程式碼庫上傳到雲端存儲",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "summary": "SpaceXAI 的 Grok Build AI 編碼工具被發現在被報導之前將用戶的整個程式碼庫上傳到Google雲端...",
+      "title": "AI 爛片成為新的影片直接搶錢管道",
+      "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "summary": "這個週末，世界各地的影迷將前往當地的劇院，一飽眼福克里斯托弗諾蘭的…",
       "source": "The Verge"
     },
     {
-      "title": "Meta 被指控使用有偏見的人工智慧定位進行大規模裁員",
-      "link": "https://www.theverge.com/tech/965486/meta-lawsuit-former-employees-ai-layoffs",
-      "summary": "由 26 名前 Meta 員工組成的團體正在起訴該公司，指控該公司使用人工智慧工具不公平地針對...",
+      "title": "Suno 從 YouTube、Genius 和 Deezer 搶走了數百萬首歌曲",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "summary": "Suno在一次駭客事件中獲得的資料顯示，AI音樂產生器是透過抓取數百萬子資料來訓練的…",
       "source": "The Verge"
     },
     {
-      "title": "Google 圖片首頁甚至會在您搜尋之前推薦照片",
-      "link": "https://www.theverge.com/tech/965138/google-images-homepage-ai-overviews-search-nano-banana",
-      "summary": "谷歌本周宣布對 Google 圖片主頁進行重大更改，以紀念該平台成立 25 週年。我…",
+      "title": "OpenAI 終於為 Codex 推出了硬件",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "summary": "OpenAI 終於發布了一些硬體。不，這不是該公司正在開發的神秘的人工智慧設備…",
       "source": "The Verge"
     },
     {
-      "title": "Spotify 現在也是人工智慧聊天機器人",
-      "link": "https://www.theverge.com/entertainment/965358/spotify-ai-chatbot-interface-music-audiobooks-podcasts",
-      "summary": "Spotify 正在試驗一項新的人工智慧功能，讓 Premium 訂閱者播放和探索音樂、有聲書等…",
-      "source": "The Verge"
+      "title": "據報導，微軟正在培訓銷售人員談論 OpenAI 和 Anthropic",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "summary": "微軟希望出售其內部人工智慧模型，使其比競爭對手的模型更有效率、更具成本效益。",
+      "source": "TechCrunch"
     },
     {
-      "title": "薩姆·奧爾特曼不需要再提起訴訟",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-      "summary": "OpenAI 今年的大部分時間都在捲入一場又一場的訴訟，其中包括來自世界上最富有的富豪的訴訟…",
-      "source": "The Verge"
+      "title": "在硬體法律戰中，OpenAI 為 Codex 發布了售價 230 美元的鍵盤",
+      "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+      "summary": "OpenAI 正與蘋果就硬體貿易竊盜指控展開法律訴訟，剛剛發布了一份…",
+      "source": "TechCrunch"
     },
     {
-      "title": "谷歌的傑米斯·哈薩比斯 (Demis Hassabis) 表示，現在是由美國領導的全球人工智慧監管機構的時候了",
-      "link": "https://www.theverge.com/tech/965270/google-deepmind-demis-hassabis-global-ai-watchdog",
-      "summary": "Demis Hassabis 認為世界需要一個人工智慧看門狗，如果前沿模型變得太危險，它有能力踩剎車…",
-      "source": "The Verge"
+      "title": "Starship 發射前 SpaceX IPO 價格跌至 135 美元",
+      "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+      "summary": "該股已從首次公開募股後的欣欣向榮高點穩步下跌，表明市場可能正在清醒地認識到公司的承諾…",
+      "source": "TechCrunch"
     },
     {
-      "title": "紐約成為第一個暫停資料中心的州",
-      "link": "https://www.theverge.com/policy/965110/new-york-ai-data-center-moratorium",
-      "summary": "由於州長 Kathy Hochul (D) 簽署了…新的超大規模資料中心在一年內無法在紐約設立商店。",
-      "source": "The Verge"
+      "title": "Thinking Machines 透過其第一個開放式模型 Inkling 加大了對通用人工智慧的賭注",
+      "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+      "summary": "這是該公司在花了一年半的時間建造人工智慧基礎設施（基本上不公開）之後的第一個公開證明點…",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "爪隊 (ClawTeams)",
-      "link": "https://www.producthunt.com/products/clawteams",
-      "desc": "第一個目標驅動、積極主動的電子商務人工智慧團隊 討論 |關聯",
-      "title_en": "ClawTeams"
+      "title": "文員|資本表人工智慧助手 (Clerk | AI Assistant for Cap Tables)",
+      "link": "https://www.producthunt.com/products/withmantle",
+      "desc": "發放補助金、示範融資輪次、詢問任何問題 股權討論 |關聯",
+      "title_en": "Clerk | AI Assistant for Cap Tables"
     },
     {
-      "title": "Claude·疊加 (Claude Overlay)",
-      "link": "https://www.producthunt.com/products/claude-overlay",
-      "desc": "浮動的Claude代碼聊天可以看到您的螢幕關聯",
-      "title_en": "Claude Overlay"
+      "title": "V2趣 (V2Fun)",
+      "link": "https://www.producthunt.com/products/v2fun",
+      "desc": "使用 8K 紋理和 AI 動作捕捉產生 3D 角色 討論 |關聯",
+      "title_en": "V2Fun"
     },
     {
-      "title": "循環俱樂部 (loopclub)",
-      "link": "https://www.producthunt.com/products/loopclub",
-      "desc": "與陌生人或Claude一起即興演奏的共享鼓機 討論 |關聯",
-      "title_en": "loopclub"
+      "title": "助推2.0 (nudge2.0)",
+      "link": "https://www.producthunt.com/products/nudge-26",
+      "desc": "AI 安排你一整個星期採取行動 討論 |關聯",
+      "title_en": "nudge2.0"
     },
     {
-      "title": "布蘭達 (Branda)",
-      "link": "https://www.producthunt.com/products/branda-open-source-on-brand-ad-maker",
-      "desc": "將任何網域轉變為品牌廣告，麻省理工學院開源討論 |關聯",
-      "title_en": "Branda"
+      "title": "EQK",
+      "link": "https://www.producthunt.com/products/eqk-eq-with-ai",
+      "desc": "具有動態 AI EQ 討論的 Mac 應用程式關聯",
+      "title_en": "EQK"
     },
     {
-      "title": "莫哈韋油漆 (Mojave Paint)",
-      "link": "https://www.producthunt.com/products/mojave-paint",
-      "desc": "Mac平台直接操作靜態圖片討論|關聯",
-      "title_en": "Mojave Paint"
+      "title": "IFTTT 的新人工智慧工具 (New AI tools by IFTTT)",
+      "link": "https://www.producthunt.com/products/ifttt",
+      "desc": "使用 Grok、Gemini、Perplexity 等實現自動化 討論 |關聯",
+      "title_en": "New AI tools by IFTTT"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "Suno 從 YouTube、Genius 和 Deezer 搶走了數百萬首歌曲",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+      "summary": "Suno在一次駭客事件中獲得的資料顯示，AI音樂產生器是透過抓取數百萬子資料來訓練的…",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 今年可能會推出 ChatGPT 智慧音箱",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-      "summary": "根據彭博社報道，OpenAI 的第一款設備將是一款智慧揚聲器，可讓你與 ChatGPT 交談…",
+      "title": "xAI 起訴一名男子使用 Grok 產生 CSAM“deepfakes”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+      "summary": "馬斯克 (Elon Musk) 旗下的 xAI 正在起訴一名南卡羅來納州男子，據稱該男子使用該公司的 Grok AI 聊天機器人來產生孩子…",
       "source": "The Verge"
     },
     {
-      "title": "SpaceXAI 的 Grok 程式設計工具正在將用戶的整個程式碼庫上傳到雲端存儲",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965600/spacexai-grok-build-repository-upload",
-      "summary": "SpaceXAI 的 Grok Build AI 編碼工具被發現在被報導之前將用戶的整個程式碼庫上傳到Google雲端...",
+      "title": "OpenAI 終於為 Codex 推出了硬件",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+      "summary": "OpenAI 終於發布了一些硬體。不，這不是該公司正在開發的神秘的人工智慧設備…",
       "source": "The Verge"
     },
     {
-      "title": "薩姆·奧爾特曼不需要再提起訴訟",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965294/openai-apple-trade-secrets-lawsuit-sam-altman-ipo",
-      "summary": "OpenAI 今年的大部分時間都在捲入一場又一場的訴訟，其中包括來自世界上最富有的富豪的訴訟…",
-      "source": "The Verge"
+      "title": "據報導，微軟正在培訓銷售人員談論 OpenAI 和 Anthropic",
+      "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+      "summary": "微軟希望出售其內部人工智慧模型，使其比競爭對手的模型更有效率、更具成本效益。",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "OpenAI 今年可能會推出 ChatGPT 智慧音箱",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/965670/openai-chatgpt-ai-smart-speaker-hardware-device",
-    "summary": "根據彭博社報道，OpenAI 的第一款設備將是一款智慧揚聲器，可讓你與 ChatGPT 交談…",
+    "title": "xAI 起訴一名男子使用 Grok 產生 CSAM“deepfakes”",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+    "summary": "馬斯克 (Elon Musk) 旗下的 xAI 正在起訴一名南卡羅來納州男子，據稱該男子使用該公司的 Grok AI 聊天機器人來產生孩子…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用 Claude Overlay 出旅遊影片",
-      "detail": "我會用 Claude Overlay 幫你產生旅遊內容的字幕和標題，然後發在 Instagram 上，預計 3 天出成果"
+      "title": "用V2趣拍3D旅遊照",
+      "detail": "用V2趣製作3D角色，模擬旅遊景點，然後發在Instagram上，預計2天出成果"
     },
     {
-      "title": "Branda 打造品牌網站",
-      "detail": "利用 Branda 將你的旅遊網站轉變為品牌網站，包含廣告和介紹，然後發在 Facebook 上，預計 1 周出成果"
+      "title": "EQK優化音頻",
+      "detail": "用EQK調整音頻的EQ，讓旅遊Vlog的音質更好，然後發在YouTube上，預計1天出成果"
     },
     {
-      "title": "爪隊直播聊旅遊",
-      "detail": "我會用爪隊的功能開啟直播聊天室，和你的粉絲討論旅遊話題，然後發在 YouTube 上，預計 2 天出成果"
+      "title": "助推2.0安排內容",
+      "detail": "用助推2.0安排一周的內容，包括發布時間和內容類型，然後發在TikTok上，預計3天出成果"
     }
   ],
   "history": {
@@ -3996,6 +4003,139 @@
         {
           "title": "爪隊直播聊旅遊",
           "detail": "我會用爪隊的功能開啟直播聊天室，和你的粉絲討論旅遊話題，然後發在 YouTube 上，預計 2 天出成果"
+        }
+      ]
+    },
+    "2026-07-16": {
+      "news": [
+        {
+          "title": "xAI 起訴一名男子使用 Grok 產生 CSAM“deepfakes”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+          "summary": "馬斯克 (Elon Musk) 旗下的 xAI 正在起訴一名南卡羅來納州男子，據稱該男子使用該公司的 Grok AI 聊天機器人來產生孩子…",
+          "source": "The Verge"
+        },
+        {
+          "title": "AI 爛片成為新的影片直接搶錢管道",
+          "link": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+          "summary": "這個週末，世界各地的影迷將前往當地的劇院，一飽眼福克里斯托弗諾蘭的…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Suno 從 YouTube、Genius 和 Deezer 搶走了數百萬首歌曲",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+          "summary": "Suno在一次駭客事件中獲得的資料顯示，AI音樂產生器是透過抓取數百萬子資料來訓練的…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 終於為 Codex 推出了硬件",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+          "summary": "OpenAI 終於發布了一些硬體。不，這不是該公司正在開發的神秘的人工智慧設備…",
+          "source": "The Verge"
+        },
+        {
+          "title": "據報導，微軟正在培訓銷售人員談論 OpenAI 和 Anthropic",
+          "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+          "summary": "微軟希望出售其內部人工智慧模型，使其比競爭對手的模型更有效率、更具成本效益。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "在硬體法律戰中，OpenAI 為 Codex 發布了售價 230 美元的鍵盤",
+          "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+          "summary": "OpenAI 正與蘋果就硬體貿易竊盜指控展開法律訴訟，剛剛發布了一份…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Starship 發射前 SpaceX IPO 價格跌至 135 美元",
+          "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+          "summary": "該股已從首次公開募股後的欣欣向榮高點穩步下跌，表明市場可能正在清醒地認識到公司的承諾…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Thinking Machines 透過其第一個開放式模型 Inkling 加大了對通用人工智慧的賭注",
+          "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+          "summary": "這是該公司在花了一年半的時間建造人工智慧基礎設施（基本上不公開）之後的第一個公開證明點…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "文員|資本表人工智慧助手 (Clerk | AI Assistant for Cap Tables)",
+          "link": "https://www.producthunt.com/products/withmantle",
+          "desc": "發放補助金、示範融資輪次、詢問任何問題 股權討論 |關聯",
+          "title_en": "Clerk | AI Assistant for Cap Tables"
+        },
+        {
+          "title": "V2趣 (V2Fun)",
+          "link": "https://www.producthunt.com/products/v2fun",
+          "desc": "使用 8K 紋理和 AI 動作捕捉產生 3D 角色 討論 |關聯",
+          "title_en": "V2Fun"
+        },
+        {
+          "title": "助推2.0 (nudge2.0)",
+          "link": "https://www.producthunt.com/products/nudge-26",
+          "desc": "AI 安排你一整個星期採取行動 討論 |關聯",
+          "title_en": "nudge2.0"
+        },
+        {
+          "title": "EQK",
+          "link": "https://www.producthunt.com/products/eqk-eq-with-ai",
+          "desc": "具有動態 AI EQ 討論的 Mac 應用程式關聯",
+          "title_en": "EQK"
+        },
+        {
+          "title": "IFTTT 的新人工智慧工具 (New AI tools by IFTTT)",
+          "link": "https://www.producthunt.com/products/ifttt",
+          "desc": "使用 Grok、Gemini、Perplexity 等實現自動化 討論 |關聯",
+          "title_en": "New AI tools by IFTTT"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Suno 從 YouTube、Genius 和 Deezer 搶走了數百萬首歌曲",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+          "summary": "Suno在一次駭客事件中獲得的資料顯示，AI音樂產生器是透過抓取數百萬子資料來訓練的…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "xAI 起訴一名男子使用 Grok 產生 CSAM“deepfakes”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+          "summary": "馬斯克 (Elon Musk) 旗下的 xAI 正在起訴一名南卡羅來納州男子，據稱該男子使用該公司的 Grok AI 聊天機器人來產生孩子…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 終於為 Codex 推出了硬件",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+          "summary": "OpenAI 終於發布了一些硬體。不，這不是該公司正在開發的神秘的人工智慧設備…",
+          "source": "The Verge"
+        },
+        {
+          "title": "據報導，微軟正在培訓銷售人員談論 OpenAI 和 Anthropic",
+          "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+          "summary": "微軟希望出售其內部人工智慧模型，使其比競爭對手的模型更有效率、更具成本效益。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "xAI 起訴一名男子使用 Grok 產生 CSAM“deepfakes”",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
+        "summary": "馬斯克 (Elon Musk) 旗下的 xAI 正在起訴一名南卡羅來納州男子，據稱該男子使用該公司的 Grok AI 聊天機器人來產生孩子…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用V2趣拍3D旅遊照",
+          "detail": "用V2趣製作3D角色，模擬旅遊景點，然後發在Instagram上，預計2天出成果"
+        },
+        {
+          "title": "EQK優化音頻",
+          "detail": "用EQK調整音頻的EQ，讓旅遊Vlog的音質更好，然後發在YouTube上，預計1天出成果"
+        },
+        {
+          "title": "助推2.0安排內容",
+          "detail": "用助推2.0安排一周的內容，包括發布時間和內容類型，然後發在TikTok上，預計3天出成果"
         }
       ]
     }
