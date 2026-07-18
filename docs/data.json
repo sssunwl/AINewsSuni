@@ -1,121 +1,128 @@
 {
-  "updated": "2026-07-17 11:57 HKT",
+  "updated": "2026-07-18 11:52 HKT",
   "news": [
     {
-      "title": "紐約州州長表示，她正在使用人工智慧來分析該州的“每一條規則”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/966647/new-york-governor-kathy-hochul-ai-policies",
-      "summary": "紐約州州長 Kathy Hochul 可能剛剛簽署了暫停在該州新建人工智慧資料中心的協議，但她並不反對…",
+      "title": "TikTok 正在測試人工智慧相似度檢測工具",
+      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "summary": "TikTok 正在開始測試一種選擇加入工具，該工具可以掃描人工智慧相似之處，並讓創作者向公司報告，因為…",
       "source": "The Verge"
     },
     {
-      "title": "Google 正在將 NotebookLM 更名為 Gemini Notebook",
-      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-      "summary": "谷歌正在給其人工智慧筆記應用程式一個新名稱。該公司週四宣布 NotebookLM 即將更名為 Gemini…",
+      "title": "蘋果粉碎 OpenAI 的陰謀",
+      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "summary": "蘋果正在起訴 OpenAI。这种抱怨是可读且激烈的，就像这些事情经常发生的那样，尽管许多专家似乎认为……",
       "source": "The Verge"
     },
     {
-      "title": "Claude 現在可以為您使用您的 1Password 憑證",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "summary": "1Password 為 Claude 推出了新的瀏覽器集成，允許 Anthropic 聊天機器人存取儲存的安全性…",
-      "source": "The Verge"
-    },
-    {
-      "title": "谷歌被勒令向歐洲競爭對手開放Android和搜索",
-      "link": "https://www.theverge.com/policy/966438/eu-google-android-ai-interoperability-search-data-dma",
-      "summary": "谷歌必須讓競爭對手的人工智慧助理和搜尋引擎更好地訪問Android和谷歌搜尋的關鍵部分…",
-      "source": "The Verge"
-    },
-    {
-      "title": "電腦警察",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/965066/ai-police-cops",
-      "summary": "我站在德州沃思堡市中心一棟巨大的玻璃和磚造建築前。數千人聚集在裡面觀看…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Google Vids 現在可讓您在自己的 AI 影片中擔任主演",
-      "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-      "summary": "谷歌正在將個性化的人工智慧頭像添加到視頻中，讓用戶可以創建以自己的數位版本為主角的視頻，…",
+      "title": "Vertu 希望高管支付 6,880 美元購買人工智慧代理商——以下是它的實際表現",
+      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "summary": "從人工智慧工作流程到電池壽命和安全性，這就是 Vertu 豪華可折疊手機的真實感受…",
       "source": "TechCrunch"
     },
     {
-      "title": "Roblox 在其行動應用程式中推出了人工智慧驅動的遊戲創建功能",
-      "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-      "summary": "Roblox 的新「建構」功能可讓使用者使用單一文字提示產生基本遊戲。",
+      "title": "Databricks 估值達到 188B 美元，延續了其作為人工智慧最受歡迎的第二幕的地位",
+      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+      "summary": "Databricks 將自己的形象重塑為 AI 公司，並發表了關於開放權重 AI 模式節省成本的研究…",
       "source": "TechCrunch"
     },
     {
-      "title": "谷歌的人工智慧模式現在可以讓你與選定的應用程式連結和交互",
-      "link": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
-      "summary": "透過這次新的更新，谷歌正在將人工智慧模式擴展到回答問題之外，並完成跨應用程式的任務...",
+      "title": "Zoom 駭客說：“別錄我”",
+      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+      "summary": "如果每次會議、飲水機談話和日期都被轉錄和總結，那麼誰真正在閱讀其中的內容呢？",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Agility Robotics 在特斯拉後院插上了自己的旗幟",
+      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+      "summary": "Agility 正在加州弗里蒙特開設一個新的 Digit 機器人培訓中心。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "人工智慧驅動的記憶體緊縮震動了印度智慧型手機市場",
+      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+      "summary": "印度智慧型手機的放緩凸顯了人工智慧熱潮如何重塑消費性電子產品，從定價和需求到相關…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "蘋果的大訴訟如何擾亂 OpenAI 的 IPO 計劃",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "summary": "蘋果上週五對 OpenAI 提起商業機密訴訟，這可不是鬧著玩的。投訴稱拍…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "阿爾巴託人工智慧 (Albato AI)",
-      "link": "https://www.producthunt.com/products/albato",
-      "desc": "跨 1,000 多個應用程式建立 AI 驅動的工作流程關聯",
-      "title_en": "Albato AI"
+      "title": "及時 (Timely)",
+      "link": "https://www.producthunt.com/products/timely-9",
+      "desc": "3 秒內拉出您的日曆可用性關聯",
+      "title_en": "Timely"
     },
     {
-      "title": "詩 (Verse)",
-      "link": "https://www.producthunt.com/products/verse-6",
-      "desc": "透過單一提示建立和僱用自主人工智慧員工 討論 |關聯",
-      "title_en": "Verse"
+      "title": "鵝卵石艾 (Pebbles Ai)",
+      "link": "https://www.producthunt.com/products/pebbles-ai",
+      "desc": "現代B2B團隊的人工智慧銷售平台討論|關聯",
+      "title_en": "Pebbles Ai"
     },
     {
-      "title": "奄美 (Amami)",
-      "link": "https://www.producthunt.com/products/amami",
-      "desc": "人工智慧助理中的分析功能關聯",
-      "title_en": "Amami"
+      "title": "Claude的深淵 (Unabyss for Claude)",
+      "link": "https://www.producthunt.com/products/unabyss",
+      "desc": "所有應用程式和法學碩士共享記憶體。Claude討論|關聯",
+      "title_en": "Unabyss for Claude"
     },
     {
-      "title": "並行 MCP (In Parallel MCP)",
-      "link": "https://www.producthunt.com/products/in-parallel",
-      "desc": "您的背景資訊可供每個代理商使用。討論 |關聯",
-      "title_en": "In Parallel MCP"
+      "title": "是啊 (Aye)",
+      "link": "https://www.producthunt.com/products/aye-browser",
+      "desc": "您的可教 AI 實習生，從事日常瀏覽器工作關聯",
+      "title_en": "Aye"
     },
     {
-      "title": "尤里卡資料庫 (The Eureka Database)",
-      "link": "https://www.producthunt.com/products/the-eureka-database",
-      "desc": "將 Reddit 投訴轉化為您的下一家公司關聯",
-      "title_en": "The Eureka Database"
+      "title": "基礎建議 (Basedash Suggestions)",
+      "link": "https://www.producthunt.com/products/basedash",
+      "desc": "您的人工智慧資料分析師現在有了自己的想法。討論 |關聯",
+      "title_en": "Basedash Suggestions"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "TikTok 正在測試人工智慧相似度檢測工具",
+      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+      "summary": "TikTok 正在開始測試一種選擇加入工具，該工具可以掃描人工智慧相似之處，並讓創作者向公司報告，因為…",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Google 正在將 NotebookLM 更名為 Gemini Notebook",
-      "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-      "summary": "谷歌正在給其人工智慧筆記應用程式一個新名稱。該公司週四宣布 NotebookLM 即將更名為 Gemini…",
+      "title": "蘋果粉碎 OpenAI 的陰謀",
+      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "summary": "蘋果正在起訴 OpenAI。这种抱怨是可读且激烈的，就像这些事情经常发生的那样，尽管许多专家似乎认为……",
       "source": "The Verge"
     },
     {
-      "title": "Claude 現在可以為您使用您的 1Password 憑證",
-      "link": "https://www.theverge.com/tech/966442/1password-anthropic-claude-browser-integration",
-      "summary": "1Password 為 Claude 推出了新的瀏覽器集成，允許 Anthropic 聊天機器人存取儲存的安全性…",
-      "source": "The Verge"
+      "title": "蘋果的大訴訟如何擾亂 OpenAI 的 IPO 計劃",
+      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+      "summary": "蘋果上週五對 OpenAI 提起商業機密訴訟，這可不是鬧著玩的。投訴稱拍…",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Google 正在將 NotebookLM 更名為 Gemini Notebook",
-    "link": "https://www.theverge.com/tech/966112/google-gemini-notebook-notebooklm",
-    "summary": "谷歌正在給其人工智慧筆記應用程式一個新名稱。該公司週四宣布 NotebookLM 即將更名為 Gemini…",
+    "title": "蘋果粉碎 OpenAI 的陰謀",
+    "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+    "summary": "蘋果正在起訴 OpenAI。这种抱怨是可读且激烈的，就像这些事情经常发生的那样，尽管许多专家似乎认为……",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "旅遊 Reel 自動化",
-      "detail": "用 Albato AI 連接 Instagram 和 YouTube，自動發佈旅遊 Reel，每天出成果"
+      "title": "AI 旅遊 Reel",
+      "detail": "用 CapCut 拿 SS 旅遊影片，加入特殊效果，再發在 TikTok 和 Instagram，預計 3 天出成果"
     },
     {
-      "title": "AI 旅遊博客",
-      "detail": "用 Verse 創建自主人工智慧員工，幫助寫旅遊博客，發在 SS 官網，3 天出成果"
+      "title": "智能行程安排",
+      "detail": "利用 Timely 來幫助 SS 管理行程，設定 3 秒內的可用時間，發在 SS 的官方網站上，預計 1 周出成果"
     },
     {
-      "title": "旅遊視頻分析",
-      "detail": "用 Amami 分析旅遊視頻的觀眾反饋，優化內容，發在 YouTube，1 周出成果"
+      "title": "AI 銷售推薦",
+      "detail": "用 Pebbles Ai 來分析 SS 的旅遊內容，提供給企業客戶智能化的銷售方案，發在公司的 LinkedIn 上，預計 2 周出成果"
     }
   ],
   "history": {
@@ -4243,6 +4250,133 @@
         {
           "title": "旅遊視頻分析",
           "detail": "用 Amami 分析旅遊視頻的觀眾反饋，優化內容，發在 YouTube，1 周出成果"
+        }
+      ]
+    },
+    "2026-07-18": {
+      "news": [
+        {
+          "title": "TikTok 正在測試人工智慧相似度檢測工具",
+          "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+          "summary": "TikTok 正在開始測試一種選擇加入工具，該工具可以掃描人工智慧相似之處，並讓創作者向公司報告，因為…",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果粉碎 OpenAI 的陰謀",
+          "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+          "summary": "蘋果正在起訴 OpenAI。这种抱怨是可读且激烈的，就像这些事情经常发生的那样，尽管许多专家似乎认为……",
+          "source": "The Verge"
+        },
+        {
+          "title": "Vertu 希望高管支付 6,880 美元購買人工智慧代理商——以下是它的實際表現",
+          "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+          "summary": "從人工智慧工作流程到電池壽命和安全性，這就是 Vertu 豪華可折疊手機的真實感受…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Databricks 估值達到 188B 美元，延續了其作為人工智慧最受歡迎的第二幕的地位",
+          "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "summary": "Databricks 將自己的形象重塑為 AI 公司，並發表了關於開放權重 AI 模式節省成本的研究…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Zoom 駭客說：“別錄我”",
+          "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+          "summary": "如果每次會議、飲水機談話和日期都被轉錄和總結，那麼誰真正在閱讀其中的內容呢？",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Agility Robotics 在特斯拉後院插上了自己的旗幟",
+          "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+          "summary": "Agility 正在加州弗里蒙特開設一個新的 Digit 機器人培訓中心。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "人工智慧驅動的記憶體緊縮震動了印度智慧型手機市場",
+          "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+          "summary": "印度智慧型手機的放緩凸顯了人工智慧熱潮如何重塑消費性電子產品，從定價和需求到相關…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "蘋果的大訴訟如何擾亂 OpenAI 的 IPO 計劃",
+          "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+          "summary": "蘋果上週五對 OpenAI 提起商業機密訴訟，這可不是鬧著玩的。投訴稱拍…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "及時 (Timely)",
+          "link": "https://www.producthunt.com/products/timely-9",
+          "desc": "3 秒內拉出您的日曆可用性關聯",
+          "title_en": "Timely"
+        },
+        {
+          "title": "鵝卵石艾 (Pebbles Ai)",
+          "link": "https://www.producthunt.com/products/pebbles-ai",
+          "desc": "現代B2B團隊的人工智慧銷售平台討論|關聯",
+          "title_en": "Pebbles Ai"
+        },
+        {
+          "title": "Claude的深淵 (Unabyss for Claude)",
+          "link": "https://www.producthunt.com/products/unabyss",
+          "desc": "所有應用程式和法學碩士共享記憶體。Claude討論|關聯",
+          "title_en": "Unabyss for Claude"
+        },
+        {
+          "title": "是啊 (Aye)",
+          "link": "https://www.producthunt.com/products/aye-browser",
+          "desc": "您的可教 AI 實習生，從事日常瀏覽器工作關聯",
+          "title_en": "Aye"
+        },
+        {
+          "title": "基礎建議 (Basedash Suggestions)",
+          "link": "https://www.producthunt.com/products/basedash",
+          "desc": "您的人工智慧資料分析師現在有了自己的想法。討論 |關聯",
+          "title_en": "Basedash Suggestions"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "TikTok 正在測試人工智慧相似度檢測工具",
+          "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
+          "summary": "TikTok 正在開始測試一種選擇加入工具，該工具可以掃描人工智慧相似之處，並讓創作者向公司報告，因為…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "蘋果粉碎 OpenAI 的陰謀",
+          "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+          "summary": "蘋果正在起訴 OpenAI。这种抱怨是可读且激烈的，就像这些事情经常发生的那样，尽管许多专家似乎认为……",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果的大訴訟如何擾亂 OpenAI 的 IPO 計劃",
+          "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+          "summary": "蘋果上週五對 OpenAI 提起商業機密訴訟，這可不是鬧著玩的。投訴稱拍…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "蘋果粉碎 OpenAI 的陰謀",
+        "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+        "summary": "蘋果正在起訴 OpenAI。这种抱怨是可读且激烈的，就像这些事情经常发生的那样，尽管许多专家似乎认为……",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "AI 旅遊 Reel",
+          "detail": "用 CapCut 拿 SS 旅遊影片，加入特殊效果，再發在 TikTok 和 Instagram，預計 3 天出成果"
+        },
+        {
+          "title": "智能行程安排",
+          "detail": "利用 Timely 來幫助 SS 管理行程，設定 3 秒內的可用時間，發在 SS 的官方網站上，預計 1 周出成果"
+        },
+        {
+          "title": "AI 銷售推薦",
+          "detail": "用 Pebbles Ai 來分析 SS 的旅遊內容，提供給企業客戶智能化的銷售方案，發在公司的 LinkedIn 上，預計 2 周出成果"
         }
       ]
     }
