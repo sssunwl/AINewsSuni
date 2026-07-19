@@ -1,128 +1,91 @@
 {
-  "updated": "2026-07-18 11:52 HKT",
+  "updated": "2026-07-19 12:19 HKT",
   "news": [
     {
-      "title": "TikTok 正在測試人工智慧相似度檢測工具",
-      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "summary": "TikTok 正在開始測試一種選擇加入工具，該工具可以掃描人工智慧相似之處，並讓創作者向公司報告，因為…",
+      "title": "Dave Eggers 告訴 OpenAI 員工，ChatGPT 正在“壓制整整一代人的聲音”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "summary": "去年，Sam Altman 邀請作家 Dave Eggers 為約 200 名 OpenAI 員工發表演講。那個人已經寫了數字...",
       "source": "The Verge"
     },
     {
-      "title": "蘋果粉碎 OpenAI 的陰謀",
-      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "summary": "蘋果正在起訴 OpenAI。这种抱怨是可读且激烈的，就像这些事情经常发生的那样，尽管许多专家似乎认为……",
+      "title": "每個讀者都需要的應用程式、小工具和工具",
+      "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "summary": "嗨，朋友們！歡迎來到 Installer No. 136，這是您了解世界上最好、最前沿的東西的指南。 （如果你是新來的...",
       "source": "The Verge"
     },
     {
-      "title": "Vertu 希望高管支付 6,880 美元購買人工智慧代理商——以下是它的實際表現",
-      "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "summary": "從人工智慧工作流程到電池壽命和安全性，這就是 Vertu 豪華可折疊手機的真實感受…",
+      "title": "Kimi：威脅還是威脅？",
+      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+      "summary": "中國公司探月AI本週發布了新版Kimi模型，引發了人們對「全人工智慧社群…」的擔憂。",
       "source": "TechCrunch"
     },
     {
-      "title": "Databricks 估值達到 188B 美元，延續了其作為人工智慧最受歡迎的第二幕的地位",
-      "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "summary": "Databricks 將自己的形象重塑為 AI 公司，並發表了關於開放權重 AI 模式節省成本的研究…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Zoom 駭客說：“別錄我”",
-      "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
-      "summary": "如果每次會議、飲水機談話和日期都被轉錄和總結，那麼誰真正在閱讀其中的內容呢？",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Agility Robotics 在特斯拉後院插上了自己的旗幟",
-      "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
-      "summary": "Agility 正在加州弗里蒙特開設一個新的 Digit 機器人培訓中心。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "人工智慧驅動的記憶體緊縮震動了印度智慧型手機市場",
-      "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "summary": "印度智慧型手機的放緩凸顯了人工智慧熱潮如何重塑消費性電子產品，從定價和需求到相關…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "蘋果的大訴訟如何擾亂 OpenAI 的 IPO 計劃",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "summary": "蘋果上週五對 OpenAI 提起商業機密訴訟，這可不是鬧著玩的。投訴稱拍…",
+      "title": "尼爾·裡默 (Neil Rimer) 認為人工智慧資金正在回歸",
+      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+      "summary": "Index Ventures 聯合創始人、風險投資家尼爾·裡默 (Neil Rimer) 預測人工智慧將在 Silic 中創造歷史性的財富…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "及時 (Timely)",
-      "link": "https://www.producthunt.com/products/timely-9",
-      "desc": "3 秒內拉出您的日曆可用性關聯",
-      "title_en": "Timely"
+      "title": "文檔智能AI (DocuSmart AI)",
+      "link": "https://www.producthunt.com/products/docusmart-ai",
+      "desc": "將碎片化的知識變成一個簡單的系統 討論 |關聯",
+      "title_en": "DocuSmart AI"
     },
     {
-      "title": "鵝卵石艾 (Pebbles Ai)",
-      "link": "https://www.producthunt.com/products/pebbles-ai",
-      "desc": "現代B2B團隊的人工智慧銷售平台討論|關聯",
-      "title_en": "Pebbles Ai"
+      "title": "每日 (Mainichi)",
+      "link": "https://www.producthunt.com/products/mainichi-2",
+      "desc": "一次一個都道府縣學習日語。討論 |關聯",
+      "title_en": "Mainichi"
     },
     {
-      "title": "Claude的深淵 (Unabyss for Claude)",
-      "link": "https://www.producthunt.com/products/unabyss",
-      "desc": "所有應用程式和法學碩士共享記憶體。Claude討論|關聯",
-      "title_en": "Unabyss for Claude"
+      "title": "克拉克 (Clark)",
+      "link": "https://www.producthunt.com/products/clark-agent",
+      "desc": "擁有自己的雲端計算機的 AI 同事討論 |關聯",
+      "title_en": "Clark"
     },
     {
-      "title": "是啊 (Aye)",
-      "link": "https://www.producthunt.com/products/aye-browser",
-      "desc": "您的可教 AI 實習生，從事日常瀏覽器工作關聯",
-      "title_en": "Aye"
+      "title": "動物園數據 (ZooData)",
+      "link": "https://www.producthunt.com/products/zoodata",
+      "desc": "AI 代理的資料層討論 |關聯",
+      "title_en": "ZooData"
     },
     {
-      "title": "基礎建議 (Basedash Suggestions)",
-      "link": "https://www.producthunt.com/products/basedash",
-      "desc": "您的人工智慧資料分析師現在有了自己的想法。討論 |關聯",
-      "title_en": "Basedash Suggestions"
+      "title": "王X (WX)",
+      "link": "https://www.producthunt.com/products/wx",
+      "desc": "一個用於可播放生成聲音的實驗合成器關聯",
+      "title_en": "WX"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "TikTok 正在測試人工智慧相似度檢測工具",
-      "link": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "summary": "TikTok 正在開始測試一種選擇加入工具，該工具可以掃描人工智慧相似之處，並讓創作者向公司報告，因為…",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "蘋果粉碎 OpenAI 的陰謀",
-      "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "summary": "蘋果正在起訴 OpenAI。这种抱怨是可读且激烈的，就像这些事情经常发生的那样，尽管许多专家似乎认为……",
+      "title": "Dave Eggers 告訴 OpenAI 員工，ChatGPT 正在“壓制整整一代人的聲音”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "summary": "去年，Sam Altman 邀請作家 Dave Eggers 為約 200 名 OpenAI 員工發表演講。那個人已經寫了數字...",
       "source": "The Verge"
-    },
-    {
-      "title": "蘋果的大訴訟如何擾亂 OpenAI 的 IPO 計劃",
-      "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "summary": "蘋果上週五對 OpenAI 提起商業機密訴訟，這可不是鬧著玩的。投訴稱拍…",
-      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "蘋果粉碎 OpenAI 的陰謀",
-    "link": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-    "summary": "蘋果正在起訴 OpenAI。这种抱怨是可读且激烈的，就像这些事情经常发生的那样，尽管许多专家似乎认为……",
+    "title": "Dave Eggers 告訴 OpenAI 員工，ChatGPT 正在“壓制整整一代人的聲音”",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+    "summary": "去年，Sam Altman 邀請作家 Dave Eggers 為約 200 名 OpenAI 員工發表演講。那個人已經寫了數字...",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "AI 旅遊 Reel",
-      "detail": "用 CapCut 拿 SS 旅遊影片，加入特殊效果，再發在 TikTok 和 Instagram，預計 3 天出成果"
+      "title": "旅遊 Vlog 智能剪輯",
+      "detail": "用 DocuSmart AI 將旅遊經驗的碎片化內容變成系統化的故事，發在 SS 的 YouTube 頻道，預計 3 天出成果"
     },
     {
-      "title": "智能行程安排",
-      "detail": "利用 Timely 來幫助 SS 管理行程，設定 3 秒內的可用時間，發在 SS 的官方網站上，預計 1 周出成果"
+      "title": "日語旅遊指南",
+      "detail": "利用 Mainichi 學習日語的每日一課，製造日語版的旅遊指南，發在 SS 的社交媒體，預計 1 周出成果"
     },
     {
-      "title": "AI 銷售推薦",
-      "detail": "用 Pebbles Ai 來分析 SS 的旅遊內容，提供給企業客戶智能化的銷售方案，發在公司的 LinkedIn 上，預計 2 周出成果"
+      "title": "智能旅遊規劃",
+      "detail": "用 Clark 的雲端計算機為用戶量身定制旅遊行程，根據用戶的需求和偏好，發在 SS 的網站，預計 2 周出成果"
     }
   ],
   "history": {
@@ -4377,6 +4340,96 @@
         {
           "title": "AI 銷售推薦",
           "detail": "用 Pebbles Ai 來分析 SS 的旅遊內容，提供給企業客戶智能化的銷售方案，發在公司的 LinkedIn 上，預計 2 周出成果"
+        }
+      ]
+    },
+    "2026-07-19": {
+      "news": [
+        {
+          "title": "Dave Eggers 告訴 OpenAI 員工，ChatGPT 正在“壓制整整一代人的聲音”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+          "summary": "去年，Sam Altman 邀請作家 Dave Eggers 為約 200 名 OpenAI 員工發表演講。那個人已經寫了數字...",
+          "source": "The Verge"
+        },
+        {
+          "title": "每個讀者都需要的應用程式、小工具和工具",
+          "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+          "summary": "嗨，朋友們！歡迎來到 Installer No. 136，這是您了解世界上最好、最前沿的東西的指南。 （如果你是新來的...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Kimi：威脅還是威脅？",
+          "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+          "summary": "中國公司探月AI本週發布了新版Kimi模型，引發了人們對「全人工智慧社群…」的擔憂。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "尼爾·裡默 (Neil Rimer) 認為人工智慧資金正在回歸",
+          "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
+          "summary": "Index Ventures 聯合創始人、風險投資家尼爾·裡默 (Neil Rimer) 預測人工智慧將在 Silic 中創造歷史性的財富…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "文檔智能AI (DocuSmart AI)",
+          "link": "https://www.producthunt.com/products/docusmart-ai",
+          "desc": "將碎片化的知識變成一個簡單的系統 討論 |關聯",
+          "title_en": "DocuSmart AI"
+        },
+        {
+          "title": "每日 (Mainichi)",
+          "link": "https://www.producthunt.com/products/mainichi-2",
+          "desc": "一次一個都道府縣學習日語。討論 |關聯",
+          "title_en": "Mainichi"
+        },
+        {
+          "title": "克拉克 (Clark)",
+          "link": "https://www.producthunt.com/products/clark-agent",
+          "desc": "擁有自己的雲端計算機的 AI 同事討論 |關聯",
+          "title_en": "Clark"
+        },
+        {
+          "title": "動物園數據 (ZooData)",
+          "link": "https://www.producthunt.com/products/zoodata",
+          "desc": "AI 代理的資料層討論 |關聯",
+          "title_en": "ZooData"
+        },
+        {
+          "title": "王X (WX)",
+          "link": "https://www.producthunt.com/products/wx",
+          "desc": "一個用於可播放生成聲音的實驗合成器關聯",
+          "title_en": "WX"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Dave Eggers 告訴 OpenAI 員工，ChatGPT 正在“壓制整整一代人的聲音”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+          "summary": "去年，Sam Altman 邀請作家 Dave Eggers 為約 200 名 OpenAI 員工發表演講。那個人已經寫了數字...",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Dave Eggers 告訴 OpenAI 員工，ChatGPT 正在“壓制整整一代人的聲音”",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+        "summary": "去年，Sam Altman 邀請作家 Dave Eggers 為約 200 名 OpenAI 員工發表演講。那個人已經寫了數字...",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "旅遊 Vlog 智能剪輯",
+          "detail": "用 DocuSmart AI 將旅遊經驗的碎片化內容變成系統化的故事，發在 SS 的 YouTube 頻道，預計 3 天出成果"
+        },
+        {
+          "title": "日語旅遊指南",
+          "detail": "利用 Mainichi 學習日語的每日一課，製造日語版的旅遊指南，發在 SS 的社交媒體，預計 1 周出成果"
+        },
+        {
+          "title": "智能旅遊規劃",
+          "detail": "用 Clark 的雲端計算機為用戶量身定制旅遊行程，根據用戶的需求和偏好，發在 SS 的網站，預計 2 周出成果"
         }
       ]
     }
