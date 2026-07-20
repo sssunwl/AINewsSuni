@@ -1,49 +1,55 @@
 {
-  "updated": "2026-07-19 12:19 HKT",
+  "updated": "2026-07-20 12:33 HKT",
   "news": [
     {
-      "title": "Dave Eggers 告訴 OpenAI 員工，ChatGPT 正在“壓制整整一代人的聲音”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "summary": "去年，Sam Altman 邀請作家 Dave Eggers 為約 200 名 OpenAI 員工發表演講。那個人已經寫了數字...",
+      "title": "我討厭我不討厭這首和Suno一起做的歌",
+      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "summary": "我絕對不會說人工智慧在音樂中沒有立足之地（畢竟我是 Holly Herndon 的粉絲）。但我一般...",
       "source": "The Verge"
     },
     {
-      "title": "每個讀者都需要的應用程式、小工具和工具",
-      "link": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
-      "summary": "嗨，朋友們！歡迎來到 Installer No. 136，這是您了解世界上最好、最前沿的東西的指南。 （如果你是新來的...",
-      "source": "The Verge"
-    },
-    {
-      "title": "Kimi：威脅還是威脅？",
-      "link": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
-      "summary": "中國公司探月AI本週發布了新版Kimi模型，引發了人們對「全人工智慧社群…」的擔憂。",
+      "title": "黃仁勳訪日後要注意什麼",
+      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+      "summary": "黃仁勳帶著跨越日本整個科技生態系統的交易離開了東京。",
       "source": "TechCrunch"
     },
     {
-      "title": "尼爾·裡默 (Neil Rimer) 認為人工智慧資金正在回歸",
-      "link": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "summary": "Index Ventures 聯合創始人、風險投資家尼爾·裡默 (Neil Rimer) 預測人工智慧將在 Silic 中創造歷史性的財富…",
+      "title": "蘋果的訴訟會破壞 OpenAI 的硬體計畫嗎？",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "summary": "在最新一期的 Equity 節目中，我們討論蘋果的訴訟是否會影響 OpenAi 備受討論的計劃，以獲取...",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "《奧德賽》導演克里斯多福諾蘭稱人工智慧是明顯的“特洛伊木馬”",
+      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "summary": "“每個人都知道希臘人在裡面。”",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "非營利組織 Current AI 正在競相建立免費的人工智慧萬維網",
+      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "summary": "目前的人工智慧是一種非營利的人工智慧，不讓任何一種文化落後，在設備、人工智慧等領域取得了顯著的進步…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
+      "title": "間諜成本 (Spycost)",
+      "link": "https://www.producthunt.com/products/spycost",
+      "desc": "又遇上折扣了？討論 |關聯",
+      "title_en": "Spycost"
+    },
+    {
+      "title": "王X (WX)",
+      "link": "https://www.producthunt.com/products/wx",
+      "desc": "一個用於可播放生成聲音的實驗合成器關聯",
+      "title_en": "WX"
+    },
+    {
       "title": "文檔智能AI (DocuSmart AI)",
       "link": "https://www.producthunt.com/products/docusmart-ai",
       "desc": "將碎片化的知識變成一個簡單的系統 討論 |關聯",
       "title_en": "DocuSmart AI"
-    },
-    {
-      "title": "每日 (Mainichi)",
-      "link": "https://www.producthunt.com/products/mainichi-2",
-      "desc": "一次一個都道府縣學習日語。討論 |關聯",
-      "title_en": "Mainichi"
-    },
-    {
-      "title": "克拉克 (Clark)",
-      "link": "https://www.producthunt.com/products/clark-agent",
-      "desc": "擁有自己的雲端計算機的 AI 同事討論 |關聯",
-      "title_en": "Clark"
     },
     {
       "title": "動物園數據 (ZooData)",
@@ -52,40 +58,40 @@
       "title_en": "ZooData"
     },
     {
-      "title": "王X (WX)",
-      "link": "https://www.producthunt.com/products/wx",
-      "desc": "一個用於可播放生成聲音的實驗合成器關聯",
-      "title_en": "WX"
+      "title": "每日 (Mainichi)",
+      "link": "https://www.producthunt.com/products/mainichi-2",
+      "desc": "一次一個都道府縣學習日語。討論 |關聯",
+      "title_en": "Mainichi"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Dave Eggers 告訴 OpenAI 員工，ChatGPT 正在“壓制整整一代人的聲音”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-      "summary": "去年，Sam Altman 邀請作家 Dave Eggers 為約 200 名 OpenAI 員工發表演講。那個人已經寫了數字...",
-      "source": "The Verge"
+      "title": "蘋果的訴訟會破壞 OpenAI 的硬體計畫嗎？",
+      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+      "summary": "在最新一期的 Equity 節目中，我們討論蘋果的訴訟是否會影響 OpenAi 備受討論的計劃，以獲取...",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Dave Eggers 告訴 OpenAI 員工，ChatGPT 正在“壓制整整一代人的聲音”",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-    "summary": "去年，Sam Altman 邀請作家 Dave Eggers 為約 200 名 OpenAI 員工發表演講。那個人已經寫了數字...",
-    "source": "The Verge"
+    "title": "蘋果的訴訟會破壞 OpenAI 的硬體計畫嗎？",
+    "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "summary": "在最新一期的 Equity 節目中，我們討論蘋果的訴訟是否會影響 OpenAi 備受討論的計劃，以獲取...",
+    "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "旅遊 Vlog 智能剪輯",
-      "detail": "用 DocuSmart AI 將旅遊經驗的碎片化內容變成系統化的故事，發在 SS 的 YouTube 頻道，預計 3 天出成果"
+      "title": "用 WX 生成聲音",
+      "detail": "用 WX 生成旅遊音頻，發在 Instagram，預計 3 天出成果"
     },
     {
-      "title": "日語旅遊指南",
-      "detail": "利用 Mainichi 學習日語的每日一課，製造日語版的旅遊指南，發在 SS 的社交媒體，預計 1 周出成果"
+      "title": "旅遊文檔智能",
+      "detail": "用 DocuSmart AI 整理旅遊攻略，發在品牌網站，預計 1 周出成果"
     },
     {
-      "title": "智能旅遊規劃",
-      "detail": "用 Clark 的雲端計算機為用戶量身定制旅遊行程，根據用戶的需求和偏好，發在 SS 的網站，預計 2 周出成果"
+      "title": "動物園數據分析",
+      "detail": "用 ZooData 分析旅遊數據，發在 Telegram，預計 2 天出成果"
     }
   ],
   "history": {
@@ -4430,6 +4436,102 @@
         {
           "title": "智能旅遊規劃",
           "detail": "用 Clark 的雲端計算機為用戶量身定制旅遊行程，根據用戶的需求和偏好，發在 SS 的網站，預計 2 周出成果"
+        }
+      ]
+    },
+    "2026-07-20": {
+      "news": [
+        {
+          "title": "我討厭我不討厭這首和Suno一起做的歌",
+          "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+          "summary": "我絕對不會說人工智慧在音樂中沒有立足之地（畢竟我是 Holly Herndon 的粉絲）。但我一般...",
+          "source": "The Verge"
+        },
+        {
+          "title": "黃仁勳訪日後要注意什麼",
+          "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
+          "summary": "黃仁勳帶著跨越日本整個科技生態系統的交易離開了東京。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "蘋果的訴訟會破壞 OpenAI 的硬體計畫嗎？",
+          "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "summary": "在最新一期的 Equity 節目中，我們討論蘋果的訴訟是否會影響 OpenAi 備受討論的計劃，以獲取...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "《奧德賽》導演克里斯多福諾蘭稱人工智慧是明顯的“特洛伊木馬”",
+          "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+          "summary": "“每個人都知道希臘人在裡面。”",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "非營利組織 Current AI 正在競相建立免費的人工智慧萬維網",
+          "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+          "summary": "目前的人工智慧是一種非營利的人工智慧，不讓任何一種文化落後，在設備、人工智慧等領域取得了顯著的進步…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "間諜成本 (Spycost)",
+          "link": "https://www.producthunt.com/products/spycost",
+          "desc": "又遇上折扣了？討論 |關聯",
+          "title_en": "Spycost"
+        },
+        {
+          "title": "王X (WX)",
+          "link": "https://www.producthunt.com/products/wx",
+          "desc": "一個用於可播放生成聲音的實驗合成器關聯",
+          "title_en": "WX"
+        },
+        {
+          "title": "文檔智能AI (DocuSmart AI)",
+          "link": "https://www.producthunt.com/products/docusmart-ai",
+          "desc": "將碎片化的知識變成一個簡單的系統 討論 |關聯",
+          "title_en": "DocuSmart AI"
+        },
+        {
+          "title": "動物園數據 (ZooData)",
+          "link": "https://www.producthunt.com/products/zoodata",
+          "desc": "AI 代理的資料層討論 |關聯",
+          "title_en": "ZooData"
+        },
+        {
+          "title": "每日 (Mainichi)",
+          "link": "https://www.producthunt.com/products/mainichi-2",
+          "desc": "一次一個都道府縣學習日語。討論 |關聯",
+          "title_en": "Mainichi"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "蘋果的訴訟會破壞 OpenAI 的硬體計畫嗎？",
+          "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+          "summary": "在最新一期的 Equity 節目中，我們討論蘋果的訴訟是否會影響 OpenAi 備受討論的計劃，以獲取...",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "蘋果的訴訟會破壞 OpenAI 的硬體計畫嗎？",
+        "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+        "summary": "在最新一期的 Equity 節目中，我們討論蘋果的訴訟是否會影響 OpenAi 備受討論的計劃，以獲取...",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 WX 生成聲音",
+          "detail": "用 WX 生成旅遊音頻，發在 Instagram，預計 3 天出成果"
+        },
+        {
+          "title": "旅遊文檔智能",
+          "detail": "用 DocuSmart AI 整理旅遊攻略，發在品牌網站，預計 1 周出成果"
+        },
+        {
+          "title": "動物園數據分析",
+          "detail": "用 ZooData 分析旅遊數據，發在 Telegram，預計 2 天出成果"
         }
       ]
     }
