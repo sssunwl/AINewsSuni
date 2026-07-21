@@ -1,97 +1,121 @@
 {
-  "updated": "2026-07-20 12:33 HKT",
+  "updated": "2026-07-21 12:13 HKT",
   "news": [
     {
-      "title": "我討厭我不討厭這首和Suno一起做的歌",
-      "link": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
-      "summary": "我絕對不會說人工智慧在音樂中沒有立足之地（畢竟我是 Holly Herndon 的粉絲）。但我一般...",
+      "title": "以下是索尼起訴 Udio 人工智慧音樂產生器的 30,000 首歌曲",
+      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+      "summary": "索尼音樂娛樂公司又對 Udio 提起訴訟，指控 AI 音樂生成器侵犯了複製者的權利…",
       "source": "The Verge"
     },
     {
-      "title": "黃仁勳訪日後要注意什麼",
-      "link": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit/",
-      "summary": "黃仁勳帶著跨越日本整個科技生態系統的交易離開了東京。",
+      "title": "解釋說 SpaceX 在你的指數基金中",
+      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+      "summary": "指數基金被譽為最安全的投資方式之一。指數不是挑選個股，而是…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Adobe 的「自然外觀」相機應用程式擁抱生成式 AI",
+      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+      "summary": "Adobe 的實驗性相機應用程式發生了意想不到的轉變。去年 Indigo 計畫推出後，旨在提供「…",
+      "source": "The Verge"
+    },
+    {
+      "title": "中國對美國人工智慧主導地位發起一記二拳",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+      "summary": "隨著Moonshot和阿里巴巴推出了他們的模型，中國領先的人工智慧公司正在加大對矽谷的壓力…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic 里程碑式的 1.5B 美元版權和解協議獲得批准",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "summary": "最終的批准解決了一個案件，但它並沒有解決使用受版權保護的作品來訓練人工智慧模型的更廣泛的問題...",
       "source": "TechCrunch"
     },
     {
-      "title": "蘋果的訴訟會破壞 OpenAI 的硬體計畫嗎？",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "summary": "在最新一期的 Equity 節目中，我們討論蘋果的訴訟是否會影響 OpenAi 備受討論的計劃，以獲取...",
+      "title": "川普最新的人工智慧沙皇已經辭職",
+      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+      "summary": "自大衛薩克斯 (David Sacks) 上任以來，人工智慧標準與創新中心 (CAISI) 的主任一職已成為旋轉門…",
       "source": "TechCrunch"
     },
     {
-      "title": "《奧德賽》導演克里斯多福諾蘭稱人工智慧是明顯的“特洛伊木馬”",
-      "link": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
-      "summary": "“每個人都知道希臘人在裡面。”",
+      "title": "谷歌正在開發一款新的人工智慧晶片，旨在提高 Gemini 的效率",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "summary": "據報道，Google母公司 Alphabet 正在開發一種新晶片，旨在使其 Gemini 車型運行得更快…",
       "source": "TechCrunch"
     },
     {
-      "title": "非營利組織 Current AI 正在競相建立免費的人工智慧萬維網",
-      "link": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
-      "summary": "目前的人工智慧是一種非營利的人工智慧，不讓任何一種文化落後，在設備、人工智慧等領域取得了顯著的進步…",
+      "title": "人工智慧最重要的協議變得更容易使用",
+      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+      "summary": "在新系統下，協定將對伺服器端的會話ID採取更寬鬆的「無狀態」方法，類似於...",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "間諜成本 (Spycost)",
-      "link": "https://www.producthunt.com/products/spycost",
-      "desc": "又遇上折扣了？討論 |關聯",
-      "title_en": "Spycost"
+      "title": "Blockscope聊天室 (BlockscopeChat)",
+      "link": "https://www.producthunt.com/products/blockscopechat",
+      "desc": "AI 加密貨幣調查/研究代理討論 |關聯",
+      "title_en": "BlockscopeChat"
     },
     {
-      "title": "王X (WX)",
-      "link": "https://www.producthunt.com/products/wx",
-      "desc": "一個用於可播放生成聲音的實驗合成器關聯",
-      "title_en": "WX"
+      "title": "雷克斯 (Rex)",
+      "link": "https://www.producthunt.com/products/rex-7",
+      "desc": "運行訂單到現金操作的人工智慧代理關聯",
+      "title_en": "Rex"
     },
     {
-      "title": "文檔智能AI (DocuSmart AI)",
-      "link": "https://www.producthunt.com/products/docusmart-ai",
-      "desc": "將碎片化的知識變成一個簡單的系統 討論 |關聯",
-      "title_en": "DocuSmart AI"
+      "title": "甲板 (Deck)",
+      "link": "https://www.producthunt.com/products/deck-9",
+      "desc": "最強大的人工智慧助手，擁有自己的收件匣 討論 |關聯",
+      "title_en": "Deck"
     },
     {
-      "title": "動物園數據 (ZooData)",
-      "link": "https://www.producthunt.com/products/zoodata",
-      "desc": "AI 代理的資料層討論 |關聯",
-      "title_en": "ZooData"
+      "title": "免費人工智慧工具 (Free AI Tools)",
+      "link": "https://www.producthunt.com/products/free-ai-tools-4",
+      "desc": "用於日常任務的免費瀏覽器工具，無需登入 討論 |關聯",
+      "title_en": "Free AI Tools"
     },
     {
-      "title": "每日 (Mainichi)",
-      "link": "https://www.producthunt.com/products/mainichi-2",
-      "desc": "一次一個都道府縣學習日語。討論 |關聯",
-      "title_en": "Mainichi"
+      "title": "斯基普人工智慧 (Skippr AI)",
+      "link": "https://www.producthunt.com/products/skippr-3",
+      "desc": "產品中的即時人工智慧員工，為每位用戶提供服務關聯",
+      "title_en": "Skippr AI"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "蘋果的訴訟會破壞 OpenAI 的硬體計畫嗎？",
-      "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-      "summary": "在最新一期的 Equity 節目中，我們討論蘋果的訴訟是否會影響 OpenAi 備受討論的計劃，以獲取...",
+      "title": "Anthropic 里程碑式的 1.5B 美元版權和解協議獲得批准",
+      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+      "summary": "最終的批准解決了一個案件，但它並沒有解決使用受版權保護的作品來訓練人工智慧模型的更廣泛的問題...",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "谷歌正在開發一款新的人工智慧晶片，旨在提高 Gemini 的效率",
+      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+      "summary": "據報道，Google母公司 Alphabet 正在開發一種新晶片，旨在使其 Gemini 車型運行得更快…",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "蘋果的訴訟會破壞 OpenAI 的硬體計畫嗎？",
-    "link": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
-    "summary": "在最新一期的 Equity 節目中，我們討論蘋果的訴訟是否會影響 OpenAi 備受討論的計劃，以獲取...",
+    "title": "Anthropic 里程碑式的 1.5B 美元版權和解協議獲得批准",
+    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+    "summary": "最終的批准解決了一個案件，但它並沒有解決使用受版權保護的作品來訓練人工智慧模型的更廣泛的問題...",
     "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用 WX 生成聲音",
-      "detail": "用 WX 生成旅遊音頻，發在 Instagram，預計 3 天出成果"
+      "title": "用 Deck 造旅遊內容",
+      "detail": "用 Deck 製作旅遊攻略，發佈在 IG 和 FB，預計 3 天出成果"
     },
     {
-      "title": "旅遊文檔智能",
-      "detail": "用 DocuSmart AI 整理旅遊攻略，發在品牌網站，預計 1 周出成果"
+      "title": "BlockscopeChat 研究旅行趨勢",
+      "detail": "用 BlockscopeChat 研究最新旅行趨勢，整理內容發佈在 YouTube 和 blog，預計 1 周出成果"
     },
     {
-      "title": "動物園數據分析",
-      "detail": "用 ZooData 分析旅遊數據，發在 Telegram，預計 2 天出成果"
+      "title": "Rex 打造訂單系統",
+      "detail": "用 Rex 建立自動訂單系統，連接到旅遊產品，發佈在官網，預計 2 周出成果"
     }
   ],
   "history": {
@@ -4532,6 +4556,126 @@
         {
           "title": "動物園數據分析",
           "detail": "用 ZooData 分析旅遊數據，發在 Telegram，預計 2 天出成果"
+        }
+      ]
+    },
+    "2026-07-21": {
+      "news": [
+        {
+          "title": "以下是索尼起訴 Udio 人工智慧音樂產生器的 30,000 首歌曲",
+          "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+          "summary": "索尼音樂娛樂公司又對 Udio 提起訴訟，指控 AI 音樂生成器侵犯了複製者的權利…",
+          "source": "The Verge"
+        },
+        {
+          "title": "解釋說 SpaceX 在你的指數基金中",
+          "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+          "summary": "指數基金被譽為最安全的投資方式之一。指數不是挑選個股，而是…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Adobe 的「自然外觀」相機應用程式擁抱生成式 AI",
+          "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
+          "summary": "Adobe 的實驗性相機應用程式發生了意想不到的轉變。去年 Indigo 計畫推出後，旨在提供「…",
+          "source": "The Verge"
+        },
+        {
+          "title": "中國對美國人工智慧主導地位發起一記二拳",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+          "summary": "隨著Moonshot和阿里巴巴推出了他們的模型，中國領先的人工智慧公司正在加大對矽谷的壓力…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 里程碑式的 1.5B 美元版權和解協議獲得批准",
+          "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+          "summary": "最終的批准解決了一個案件，但它並沒有解決使用受版權保護的作品來訓練人工智慧模型的更廣泛的問題...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "川普最新的人工智慧沙皇已經辭職",
+          "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
+          "summary": "自大衛薩克斯 (David Sacks) 上任以來，人工智慧標準與創新中心 (CAISI) 的主任一職已成為旋轉門…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "谷歌正在開發一款新的人工智慧晶片，旨在提高 Gemini 的效率",
+          "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "summary": "據報道，Google母公司 Alphabet 正在開發一種新晶片，旨在使其 Gemini 車型運行得更快…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "人工智慧最重要的協議變得更容易使用",
+          "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+          "summary": "在新系統下，協定將對伺服器端的會話ID採取更寬鬆的「無狀態」方法，類似於...",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Blockscope聊天室 (BlockscopeChat)",
+          "link": "https://www.producthunt.com/products/blockscopechat",
+          "desc": "AI 加密貨幣調查/研究代理討論 |關聯",
+          "title_en": "BlockscopeChat"
+        },
+        {
+          "title": "雷克斯 (Rex)",
+          "link": "https://www.producthunt.com/products/rex-7",
+          "desc": "運行訂單到現金操作的人工智慧代理關聯",
+          "title_en": "Rex"
+        },
+        {
+          "title": "甲板 (Deck)",
+          "link": "https://www.producthunt.com/products/deck-9",
+          "desc": "最強大的人工智慧助手，擁有自己的收件匣 討論 |關聯",
+          "title_en": "Deck"
+        },
+        {
+          "title": "免費人工智慧工具 (Free AI Tools)",
+          "link": "https://www.producthunt.com/products/free-ai-tools-4",
+          "desc": "用於日常任務的免費瀏覽器工具，無需登入 討論 |關聯",
+          "title_en": "Free AI Tools"
+        },
+        {
+          "title": "斯基普人工智慧 (Skippr AI)",
+          "link": "https://www.producthunt.com/products/skippr-3",
+          "desc": "產品中的即時人工智慧員工，為每位用戶提供服務關聯",
+          "title_en": "Skippr AI"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Anthropic 里程碑式的 1.5B 美元版權和解協議獲得批准",
+          "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+          "summary": "最終的批准解決了一個案件，但它並沒有解決使用受版權保護的作品來訓練人工智慧模型的更廣泛的問題...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "谷歌正在開發一款新的人工智慧晶片，旨在提高 Gemini 的效率",
+          "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "summary": "據報道，Google母公司 Alphabet 正在開發一種新晶片，旨在使其 Gemini 車型運行得更快…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Anthropic 里程碑式的 1.5B 美元版權和解協議獲得批准",
+        "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+        "summary": "最終的批准解決了一個案件，但它並沒有解決使用受版權保護的作品來訓練人工智慧模型的更廣泛的問題...",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Deck 造旅遊內容",
+          "detail": "用 Deck 製作旅遊攻略，發佈在 IG 和 FB，預計 3 天出成果"
+        },
+        {
+          "title": "BlockscopeChat 研究旅行趨勢",
+          "detail": "用 BlockscopeChat 研究最新旅行趨勢，整理內容發佈在 YouTube 和 blog，預計 1 周出成果"
+        },
+        {
+          "title": "Rex 打造訂單系統",
+          "detail": "用 Rex 建立自動訂單系統，連接到旅遊產品，發佈在官網，預計 2 周出成果"
         }
       ]
     }
