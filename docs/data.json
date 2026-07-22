@@ -1,121 +1,127 @@
 {
-  "updated": "2026-07-21 12:13 HKT",
+  "updated": "2026-07-22 12:14 HKT",
   "news": [
     {
-      "title": "以下是索尼起訴 Udio 人工智慧音樂產生器的 30,000 首歌曲",
-      "link": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
-      "summary": "索尼音樂娛樂公司又對 Udio 提起訴訟，指控 AI 音樂生成器侵犯了複製者的權利…",
+      "title": "尼爾布洛姆坎普的新殭屍人工智慧「電影」剛剛預熱",
+      "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+      "summary": "週一，《第九區》和《Gran Turismo》導演尼爾布洛姆坎普 (Neill Blomkamp) 公佈了他的最新項目：一部 13 分鐘的科幻短片…",
       "source": "The Verge"
     },
     {
-      "title": "解釋說 SpaceX 在你的指數基金中",
-      "link": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
-      "summary": "指數基金被譽為最安全的投資方式之一。指數不是挑選個股，而是…",
+      "title": "OpenAI 表示，它使用新的人工智慧系統意外黑了 Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "summary": "OpenAI 表示，其人工智慧模式在內部測試期間錯誤地破壞了開源人工智慧平台 Hugging Face。在博客中...",
       "source": "The Verge"
     },
     {
-      "title": "Adobe 的「自然外觀」相機應用程式擁抱生成式 AI",
-      "link": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update",
-      "summary": "Adobe 的實驗性相機應用程式發生了意想不到的轉變。去年 Indigo 計畫推出後，旨在提供「…",
+      "title": "Substack 添加了一個 AI 檢測器，以幫助發現無人撰寫的博客",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+      "summary": "Substack 現在將幫助用戶確定他們正在閱讀的內容是否是由人工智慧編寫的。一種新工具即將到來…",
       "source": "The Verge"
     },
     {
-      "title": "中國對美國人工智慧主導地位發起一記二拳",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
-      "summary": "隨著Moonshot和阿里巴巴推出了他們的模型，中國領先的人工智慧公司正在加大對矽谷的壓力…",
+      "title": "Anthropic 15 億美元的圖書盜版和解協議獲得法官批准",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "summary": "一名聯邦法官簽署了 Anthropic 與指控該公司的作者達成的 15 億美元集體訴訟和解協議…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 里程碑式的 1.5B 美元版權和解協議獲得批准",
-      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "summary": "最終的批准解決了一個案件，但它並沒有解決使用受版權保護的作品來訓練人工智慧模型的更廣泛的問題...",
-      "source": "TechCrunch"
+      "title": "谷歌推出了一種更便宜的替代方案來替代 Mythos 等大型人工智慧安全模型",
+      "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+      "summary": "谷歌正在推出 Gemini 3.6 Flash 以及新的安全模型，致力於快速尋找和修補安全漏洞...",
+      "source": "The Verge"
     },
     {
-      "title": "川普最新的人工智慧沙皇已經辭職",
-      "link": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned/",
-      "summary": "自大衛薩克斯 (David Sacks) 上任以來，人工智慧標準與創新中心 (CAISI) 的主任一職已成為旋轉門…",
-      "source": "TechCrunch"
+      "title": "Halliday 最新的智慧眼鏡具有大幅改進的顯示屏",
+      "link": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
+      "summary": "我第一次戴上 Halliday 的原創智慧眼鏡是在 CES 2025 上。我不是它的粉絲。眼鏡有一個微小的、可移動的顯示器…",
+      "source": "The Verge"
     },
     {
-      "title": "谷歌正在開發一款新的人工智慧晶片，旨在提高 Gemini 的效率",
-      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "summary": "據報道，Google母公司 Alphabet 正在開發一種新晶片，旨在使其 Gemini 車型運行得更快…",
-      "source": "TechCrunch"
+      "title": "美國需要停止對中國人工智慧感到震驚",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+      "summary": "上週，兩家中國人工智慧公司推出了他們認為可以與 OpenAI 的最佳系統進行可靠競爭的模型，並且…",
+      "source": "The Verge"
     },
     {
-      "title": "人工智慧最重要的協議變得更容易使用",
-      "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
-      "summary": "在新系統下，協定將對伺服器端的會話ID採取更寬鬆的「無狀態」方法，類似於...",
+      "title": "人工智慧 Twitter 上掀起「人形智慧」謠言",
+      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+      "summary": "Anthropic 和 OpenAI 在 2026 年大舉收購，為週末謠言奠定了基礎。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Blockscope聊天室 (BlockscopeChat)",
-      "link": "https://www.producthunt.com/products/blockscopechat",
-      "desc": "AI 加密貨幣調查/研究代理討論 |關聯",
-      "title_en": "BlockscopeChat"
+      "title": "卡特人工智慧 (CartAI)",
+      "link": "https://www.producthunt.com/products/cartai",
+      "desc": "處理結帳的人工智慧代理。討論 |關聯",
+      "title_en": "CartAI"
     },
     {
-      "title": "雷克斯 (Rex)",
-      "link": "https://www.producthunt.com/products/rex-7",
-      "desc": "運行訂單到現金操作的人工智慧代理關聯",
-      "title_en": "Rex"
+      "title": "迪夫史密斯 (Diffsmith)",
+      "link": "https://www.producthunt.com/products/diffsmith-code-review-studio",
+      "desc": "評論您的 AI 代理程式的程式碼並協作進行更改 討論 |關聯",
+      "title_en": "Diffsmith"
     },
     {
-      "title": "甲板 (Deck)",
-      "link": "https://www.producthunt.com/products/deck-9",
-      "desc": "最強大的人工智慧助手，擁有自己的收件匣 討論 |關聯",
-      "title_en": "Deck"
+      "title": "術語 (tterm)",
+      "link": "https://www.producthunt.com/products/tterm",
+      "desc": "一個終端機、一個真正的瀏覽器和 Claude Code 同一個屋簷下 討論 |關聯",
+      "title_en": "tterm"
     },
     {
-      "title": "免費人工智慧工具 (Free AI Tools)",
-      "link": "https://www.producthunt.com/products/free-ai-tools-4",
-      "desc": "用於日常任務的免費瀏覽器工具，無需登入 討論 |關聯",
-      "title_en": "Free AI Tools"
+      "title": "博爾納代理工作室 (Bolna Agent Studio)",
+      "link": "https://www.producthunt.com/products/bolna-2",
+      "desc": "10 分鐘內建立語音 AI 代理討論 |關聯",
+      "title_en": "Bolna Agent Studio"
     },
     {
-      "title": "斯基普人工智慧 (Skippr AI)",
-      "link": "https://www.producthunt.com/products/skippr-3",
-      "desc": "產品中的即時人工智慧員工，為每位用戶提供服務關聯",
-      "title_en": "Skippr AI"
+      "title": "顯現 (Manifest)",
+      "link": "https://www.producthunt.com/products/manifest-363",
+      "desc": "將任何網頁變成 AI 代理程式的操作清單 討論 |關聯",
+      "title_en": "Manifest"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic 里程碑式的 1.5B 美元版權和解協議獲得批准",
-      "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-      "summary": "最終的批准解決了一個案件，但它並沒有解決使用受版權保護的作品來訓練人工智慧模型的更廣泛的問題...",
-      "source": "TechCrunch"
+      "title": "OpenAI 表示，它使用新的人工智慧系統意外黑了 Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+      "summary": "OpenAI 表示，其人工智慧模式在內部測試期間錯誤地破壞了開源人工智慧平台 Hugging Face。在博客中...",
+      "source": "The Verge"
     },
     {
-      "title": "谷歌正在開發一款新的人工智慧晶片，旨在提高 Gemini 的效率",
-      "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
-      "summary": "據報道，Google母公司 Alphabet 正在開發一種新晶片，旨在使其 Gemini 車型運行得更快…",
-      "source": "TechCrunch"
+      "title": "Anthropic 15 億美元的圖書盜版和解協議獲得法官批准",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+      "summary": "一名聯邦法官簽署了 Anthropic 與指控該公司的作者達成的 15 億美元集體訴訟和解協議…",
+      "source": "The Verge"
+    },
+    {
+      "title": "谷歌推出了一種更便宜的替代方案來替代 Mythos 等大型人工智慧安全模型",
+      "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+      "summary": "谷歌正在推出 Gemini 3.6 Flash 以及新的安全模型，致力於快速尋找和修補安全漏洞...",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Anthropic 里程碑式的 1.5B 美元版權和解協議獲得批准",
-    "link": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
-    "summary": "最終的批准解決了一個案件，但它並沒有解決使用受版權保護的作品來訓練人工智慧模型的更廣泛的問題...",
-    "source": "TechCrunch"
+    "title": "OpenAI 表示，它使用新的人工智慧系統意外黑了 Hugging Face",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+    "summary": "OpenAI 表示，其人工智慧模式在內部測試期間錯誤地破壞了開源人工智慧平台 Hugging Face。在博客中...",
+    "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用 Deck 造旅遊內容",
-      "detail": "用 Deck 製作旅遊攻略，發佈在 IG 和 FB，預計 3 天出成果"
+      "title": "CartAI 賺錢機會",
+      "detail": "用 CartAI Thiết lập結帳流程，節省時間，然後發佈在 SS 的社交媒體上，預計 3 天出成果"
     },
     {
-      "title": "BlockscopeChat 研究旅行趨勢",
-      "detail": "用 BlockscopeChat 研究最新旅行趨勢，整理內容發佈在 YouTube 和 blog，預計 1 周出成果"
+      "title": " Diffsmith 優化代碼",
+      "detail": "使用 Diffsmith 評估和優化博客的 AI 代理程式，然後發佈在 Substack 上，預計 1 周出成果"
     },
     {
-      "title": "Rex 打造訂單系統",
-      "detail": "用 Rex 建立自動訂單系統，連接到旅遊產品，發佈在官網，預計 2 周出成果"
+      "title": " Bolna Agent Studio 旅遊聊天",
+      "detail": "用 Bolna Agent Studio 創建語音 AI 旅遊聊天機器人，發佈在 SS 的官網上，預計 2 周出成果"
     }
   ],
   "history": {
@@ -4676,6 +4682,132 @@
         {
           "title": "Rex 打造訂單系統",
           "detail": "用 Rex 建立自動訂單系統，連接到旅遊產品，發佈在官網，預計 2 周出成果"
+        }
+      ]
+    },
+    "2026-07-22": {
+      "news": [
+        {
+          "title": "尼爾布洛姆坎普的新殭屍人工智慧「電影」剛剛預熱",
+          "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
+          "summary": "週一，《第九區》和《Gran Turismo》導演尼爾布洛姆坎普 (Neill Blomkamp) 公佈了他的最新項目：一部 13 分鐘的科幻短片…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 表示，它使用新的人工智慧系統意外黑了 Hugging Face",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+          "summary": "OpenAI 表示，其人工智慧模式在內部測試期間錯誤地破壞了開源人工智慧平台 Hugging Face。在博客中...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Substack 添加了一個 AI 檢測器，以幫助發現無人撰寫的博客",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
+          "summary": "Substack 現在將幫助用戶確定他們正在閱讀的內容是否是由人工智慧編寫的。一種新工具即將到來…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 15 億美元的圖書盜版和解協議獲得法官批准",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+          "summary": "一名聯邦法官簽署了 Anthropic 與指控該公司的作者達成的 15 億美元集體訴訟和解協議…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌推出了一種更便宜的替代方案來替代 Mythos 等大型人工智慧安全模型",
+          "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+          "summary": "谷歌正在推出 Gemini 3.6 Flash 以及新的安全模型，致力於快速尋找和修補安全漏洞...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Halliday 最新的智慧眼鏡具有大幅改進的顯示屏",
+          "link": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
+          "summary": "我第一次戴上 Halliday 的原創智慧眼鏡是在 CES 2025 上。我不是它的粉絲。眼鏡有一個微小的、可移動的顯示器…",
+          "source": "The Verge"
+        },
+        {
+          "title": "美國需要停止對中國人工智慧感到震驚",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
+          "summary": "上週，兩家中國人工智慧公司推出了他們認為可以與 OpenAI 的最佳系統進行可靠競爭的模型，並且…",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧 Twitter 上掀起「人形智慧」謠言",
+          "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+          "summary": "Anthropic 和 OpenAI 在 2026 年大舉收購，為週末謠言奠定了基礎。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "卡特人工智慧 (CartAI)",
+          "link": "https://www.producthunt.com/products/cartai",
+          "desc": "處理結帳的人工智慧代理。討論 |關聯",
+          "title_en": "CartAI"
+        },
+        {
+          "title": "迪夫史密斯 (Diffsmith)",
+          "link": "https://www.producthunt.com/products/diffsmith-code-review-studio",
+          "desc": "評論您的 AI 代理程式的程式碼並協作進行更改 討論 |關聯",
+          "title_en": "Diffsmith"
+        },
+        {
+          "title": "術語 (tterm)",
+          "link": "https://www.producthunt.com/products/tterm",
+          "desc": "一個終端機、一個真正的瀏覽器和 Claude Code 同一個屋簷下 討論 |關聯",
+          "title_en": "tterm"
+        },
+        {
+          "title": "博爾納代理工作室 (Bolna Agent Studio)",
+          "link": "https://www.producthunt.com/products/bolna-2",
+          "desc": "10 分鐘內建立語音 AI 代理討論 |關聯",
+          "title_en": "Bolna Agent Studio"
+        },
+        {
+          "title": "顯現 (Manifest)",
+          "link": "https://www.producthunt.com/products/manifest-363",
+          "desc": "將任何網頁變成 AI 代理程式的操作清單 討論 |關聯",
+          "title_en": "Manifest"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 表示，它使用新的人工智慧系統意外黑了 Hugging Face",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+          "summary": "OpenAI 表示，其人工智慧模式在內部測試期間錯誤地破壞了開源人工智慧平台 Hugging Face。在博客中...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 15 億美元的圖書盜版和解協議獲得法官批准",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
+          "summary": "一名聯邦法官簽署了 Anthropic 與指控該公司的作者達成的 15 億美元集體訴訟和解協議…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌推出了一種更便宜的替代方案來替代 Mythos 等大型人工智慧安全模型",
+          "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
+          "summary": "谷歌正在推出 Gemini 3.6 Flash 以及新的安全模型，致力於快速尋找和修補安全漏洞...",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 表示，它使用新的人工智慧系統意外黑了 Hugging Face",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
+        "summary": "OpenAI 表示，其人工智慧模式在內部測試期間錯誤地破壞了開源人工智慧平台 Hugging Face。在博客中...",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "CartAI 賺錢機會",
+          "detail": "用 CartAI Thiết lập結帳流程，節省時間，然後發佈在 SS 的社交媒體上，預計 3 天出成果"
+        },
+        {
+          "title": " Diffsmith 優化代碼",
+          "detail": "使用 Diffsmith 評估和優化博客的 AI 代理程式，然後發佈在 Substack 上，預計 1 周出成果"
+        },
+        {
+          "title": " Bolna Agent Studio 旅遊聊天",
+          "detail": "用 Bolna Agent Studio 創建語音 AI 旅遊聊天機器人，發佈在 SS 的官網上，預計 2 周出成果"
         }
       ]
     }
