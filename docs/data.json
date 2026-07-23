@@ -1,127 +1,121 @@
 {
-  "updated": "2026-07-22 12:14 HKT",
+  "updated": "2026-07-23 12:12 HKT",
   "news": [
     {
-      "title": "尼爾布洛姆坎普的新殭屍人工智慧「電影」剛剛預熱",
-      "link": "https://www.theverge.com/entertainment/968703/neill-blomkamps-nightborne-barley-studios-seedance",
-      "summary": "週一，《第九區》和《Gran Turismo》導演尼爾布洛姆坎普 (Neill Blomkamp) 公佈了他的最新項目：一部 13 分鐘的科幻短片…",
+      "title": "這是三星智慧眼鏡的實際外觀",
+      "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+      "summary": "三星讓我們第一次有機會親眼目睹其即將推出的智慧眼鏡，展示了兩種新設計和…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 表示，它使用新的人工智慧系統意外黑了 Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "summary": "OpenAI 表示，其人工智慧模式在內部測試期間錯誤地破壞了開源人工智慧平台 Hugging Face。在博客中...",
+      "title": "AMD 承諾向 Anthropic 投資高達 50 億美元",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "summary": "AMD 表示將向 Anthropic 投資高達 50 億美元，同時幫助擴大這家 AI 公司的運算能力，...",
       "source": "The Verge"
     },
     {
-      "title": "Substack 添加了一個 AI 檢測器，以幫助發現無人撰寫的博客",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968855/substack-pangram-ai-detecting-tool",
-      "summary": "Substack 現在將幫助用戶確定他們正在閱讀的內容是否是由人工智慧編寫的。一種新工具即將到來…",
+      "title": "Meta製作了自己的AI檢測系統。它應該只是使用谷歌的",
+      "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+      "summary": "三月，Meta 監督委員會呼籲該公司「履行其公開承諾並使用自己的工具」來幫助…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 15 億美元的圖書盜版和解協議獲得法官批准",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-      "summary": "一名聯邦法官簽署了 Anthropic 與指控該公司的作者達成的 15 億美元集體訴訟和解協議…",
+      "title": "公用事業公司承諾讓我們免受人工智慧的能源帳單影響",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+      "summary": "面對人們​​對人工智慧熱潮將增加消費者電費的擔憂，最大的公用事業公司…",
       "source": "The Verge"
     },
     {
-      "title": "谷歌推出了一種更便宜的替代方案來替代 Mythos 等大型人工智慧安全模型",
-      "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-      "summary": "谷歌正在推出 Gemini 3.6 Flash 以及新的安全模型，致力於快速尋找和修補安全漏洞...",
-      "source": "The Verge"
+      "title": "在經歷了令人震驚的季度後，IBM 堅稱人工智慧不會殺死大型主機",
+      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+      "summary": "上週 IBM 因大型主機銷售不佳的警告而股價暴跌後，執行長解釋說人工智慧破壞了企業的發展…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Halliday 最新的智慧眼鏡具有大幅改進的顯示屏",
-      "link": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables",
-      "summary": "我第一次戴上 Halliday 的原創智慧眼鏡是在 CES 2025 上。我不是它的粉絲。眼鏡有一個微小的、可移動的顯示器…",
-      "source": "The Verge"
+      "title": "谷歌透過蓬勃發展的雲端業務證明其大規模人工智慧支出的合理性",
+      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+      "summary": "谷歌的雲端業務正在蓬勃發展，因為採用其人工智慧和人工智慧基礎設施服務的公司幫助這家科技巨頭…",
+      "source": "TechCrunch"
     },
     {
-      "title": "美國需要停止對中國人工智慧感到震驚",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment",
-      "summary": "上週，兩家中國人工智慧公司推出了他們認為可以與 OpenAI 的最佳系統進行可靠競爭的模型，並且…",
-      "source": "The Verge"
+      "title": "白宮聲稱登月計畫提煉了人類Fable後，財政部威脅實施制裁",
+      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "summary": "這起事件也加劇了華盛頓有關中國開放模式湧入的更廣泛辯論。",
+      "source": "TechCrunch"
     },
     {
-      "title": "人工智慧 Twitter 上掀起「人形智慧」謠言",
-      "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-      "summary": "Anthropic 和 OpenAI 在 2026 年大舉收購，為週末謠言奠定了基礎。",
+      "title": "OpenAI 的人為錯誤如何導致人工智慧驅動的 Hugging Face 駭客攻擊",
+      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "summary": "OpenAI 在設定所謂的「高度隔離」測試環境和沙箱時犯了一個錯誤。據網路人士稱...",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "卡特人工智慧 (CartAI)",
-      "link": "https://www.producthunt.com/products/cartai",
-      "desc": "處理結帳的人工智慧代理。討論 |關聯",
-      "title_en": "CartAI"
+      "title": "卡斯特拉 (Kastra)",
+      "link": "https://www.producthunt.com/products/kastra",
+      "desc": "Claude、Cursor、Codex 和 OpenClaw 的運行時授權討論 |關聯",
+      "title_en": "Kastra"
     },
     {
-      "title": "迪夫史密斯 (Diffsmith)",
-      "link": "https://www.producthunt.com/products/diffsmith-code-review-studio",
-      "desc": "評論您的 AI 代理程式的程式碼並協作進行更改 討論 |關聯",
-      "title_en": "Diffsmith"
+      "title": "ACME機器人 (ACME.BOT)",
+      "link": "https://www.producthunt.com/products/acme-bot",
+      "desc": "No-slop AI SEO 代理首先採訪你 討論 |關聯",
+      "title_en": "ACME.BOT"
     },
     {
-      "title": "術語 (tterm)",
-      "link": "https://www.producthunt.com/products/tterm",
-      "desc": "一個終端機、一個真正的瀏覽器和 Claude Code 同一個屋簷下 討論 |關聯",
-      "title_en": "tterm"
+      "title": "嗡嗡聲 (Buzzy)",
+      "link": "https://www.producthunt.com/products/buzzy-2",
+      "desc": "您的創意 AI 聯合總監 討論 |關聯",
+      "title_en": "Buzzy"
     },
     {
-      "title": "博爾納代理工作室 (Bolna Agent Studio)",
-      "link": "https://www.producthunt.com/products/bolna-2",
-      "desc": "10 分鐘內建立語音 AI 代理討論 |關聯",
-      "title_en": "Bolna Agent Studio"
+      "title": "阿金學院 (AGINE Academy)",
+      "link": "https://www.producthunt.com/products/agine-academy",
+      "desc": "一個故事驅動的遊戲，透過討論來學習Claude |關聯",
+      "title_en": "AGINE Academy"
     },
     {
-      "title": "顯現 (Manifest)",
-      "link": "https://www.producthunt.com/products/manifest-363",
-      "desc": "將任何網頁變成 AI 代理程式的操作清單 討論 |關聯",
-      "title_en": "Manifest"
+      "title": "聊天中的人工智慧代理 (AI Agents in Chat)",
+      "link": "https://www.producthunt.com/products/cometchat",
+      "desc": "您的聊天 UI 剛剛迎來了 AI 室友討論 |關聯",
+      "title_en": "AI Agents in Chat"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 表示，它使用新的人工智慧系統意外黑了 Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-      "summary": "OpenAI 表示，其人工智慧模式在內部測試期間錯誤地破壞了開源人工智慧平台 Hugging Face。在博客中...",
+      "title": "AMD 承諾向 Anthropic 投資高達 50 億美元",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+      "summary": "AMD 表示將向 Anthropic 投資高達 50 億美元，同時幫助擴大這家 AI 公司的運算能力，...",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 15 億美元的圖書盜版和解協議獲得法官批准",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved",
-      "summary": "一名聯邦法官簽署了 Anthropic 與指控該公司的作者達成的 15 億美元集體訴訟和解協議…",
-      "source": "The Verge"
-    },
-    {
-      "title": "谷歌推出了一種更便宜的替代方案來替代 Mythos 等大型人工智慧安全模型",
-      "link": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model",
-      "summary": "谷歌正在推出 Gemini 3.6 Flash 以及新的安全模型，致力於快速尋找和修補安全漏洞...",
-      "source": "The Verge"
+      "title": "OpenAI 的人為錯誤如何導致人工智慧驅動的 Hugging Face 駭客攻擊",
+      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "summary": "OpenAI 在設定所謂的「高度隔離」測試環境和沙箱時犯了一個錯誤。據網路人士稱...",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "OpenAI 表示，它使用新的人工智慧系統意外黑了 Hugging Face",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-    "summary": "OpenAI 表示，其人工智慧模式在內部測試期間錯誤地破壞了開源人工智慧平台 Hugging Face。在博客中...",
+    "title": "AMD 承諾向 Anthropic 投資高達 50 億美元",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+    "summary": "AMD 表示將向 Anthropic 投資高達 50 億美元，同時幫助擴大這家 AI 公司的運算能力，...",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "CartAI 賺錢機會",
-      "detail": "用 CartAI Thiết lập結帳流程，節省時間，然後發佈在 SS 的社交媒體上，預計 3 天出成果"
+      "title": "今日旅遊 SEO",
+      "detail": "用 ACME.BOT 進行 SEO 代理，為旅遊內容做優化，發在 Instagram 上，預計 3 天出成果"
     },
     {
-      "title": " Diffsmith 優化代碼",
-      "detail": "使用 Diffsmith 評估和優化博客的 AI 代理程式，然後發佈在 Substack 上，預計 1 周出成果"
+      "title": "AI 旅遊創意",
+      "detail": "用 Buzzy 生成創意旅遊內容，然後用 CapCut 編輯視頻，發在 TikTok 上，預計 2 天出成果"
     },
     {
-      "title": " Bolna Agent Studio 旅遊聊天",
-      "detail": "用 Bolna Agent Studio 創建語音 AI 旅遊聊天機器人，發佈在 SS 的官網上，預計 2 周出成果"
+      "title": "Claude 旅遊學院",
+      "detail": "用 AGINE Academy 學習 Claude 的旅遊應用，創建互動旅遊故事，發在 YouTube 上，預計 5 天出成果"
     }
   ],
   "history": {
@@ -4808,6 +4802,126 @@
         {
           "title": " Bolna Agent Studio 旅遊聊天",
           "detail": "用 Bolna Agent Studio 創建語音 AI 旅遊聊天機器人，發佈在 SS 的官網上，預計 2 周出成果"
+        }
+      ]
+    },
+    "2026-07-23": {
+      "news": [
+        {
+          "title": "這是三星智慧眼鏡的實際外觀",
+          "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
+          "summary": "三星讓我們第一次有機會親眼目睹其即將推出的智慧眼鏡，展示了兩種新設計和…",
+          "source": "The Verge"
+        },
+        {
+          "title": "AMD 承諾向 Anthropic 投資高達 50 億美元",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+          "summary": "AMD 表示將向 Anthropic 投資高達 50 億美元，同時幫助擴大這家 AI 公司的運算能力，...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta製作了自己的AI檢測系統。它應該只是使用谷歌的",
+          "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
+          "summary": "三月，Meta 監督委員會呼籲該公司「履行其公開承諾並使用自己的工具」來幫助…",
+          "source": "The Verge"
+        },
+        {
+          "title": "公用事業公司承諾讓我們免受人工智慧的能源帳單影響",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
+          "summary": "面對人們​​對人工智慧熱潮將增加消費者電費的擔憂，最大的公用事業公司…",
+          "source": "The Verge"
+        },
+        {
+          "title": "在經歷了令人震驚的季度後，IBM 堅稱人工智慧不會殺死大型主機",
+          "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+          "summary": "上週 IBM 因大型主機銷售不佳的警告而股價暴跌後，執行長解釋說人工智慧破壞了企業的發展…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "谷歌透過蓬勃發展的雲端業務證明其大規模人工智慧支出的合理性",
+          "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+          "summary": "谷歌的雲端業務正在蓬勃發展，因為採用其人工智慧和人工智慧基礎設施服務的公司幫助這家科技巨頭…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "白宮聲稱登月計畫提煉了人類Fable後，財政部威脅實施制裁",
+          "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+          "summary": "這起事件也加劇了華盛頓有關中國開放模式湧入的更廣泛辯論。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI 的人為錯誤如何導致人工智慧驅動的 Hugging Face 駭客攻擊",
+          "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+          "summary": "OpenAI 在設定所謂的「高度隔離」測試環境和沙箱時犯了一個錯誤。據網路人士稱...",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "卡斯特拉 (Kastra)",
+          "link": "https://www.producthunt.com/products/kastra",
+          "desc": "Claude、Cursor、Codex 和 OpenClaw 的運行時授權討論 |關聯",
+          "title_en": "Kastra"
+        },
+        {
+          "title": "ACME機器人 (ACME.BOT)",
+          "link": "https://www.producthunt.com/products/acme-bot",
+          "desc": "No-slop AI SEO 代理首先採訪你 討論 |關聯",
+          "title_en": "ACME.BOT"
+        },
+        {
+          "title": "嗡嗡聲 (Buzzy)",
+          "link": "https://www.producthunt.com/products/buzzy-2",
+          "desc": "您的創意 AI 聯合總監 討論 |關聯",
+          "title_en": "Buzzy"
+        },
+        {
+          "title": "阿金學院 (AGINE Academy)",
+          "link": "https://www.producthunt.com/products/agine-academy",
+          "desc": "一個故事驅動的遊戲，透過討論來學習Claude |關聯",
+          "title_en": "AGINE Academy"
+        },
+        {
+          "title": "聊天中的人工智慧代理 (AI Agents in Chat)",
+          "link": "https://www.producthunt.com/products/cometchat",
+          "desc": "您的聊天 UI 剛剛迎來了 AI 室友討論 |關聯",
+          "title_en": "AI Agents in Chat"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "AMD 承諾向 Anthropic 投資高達 50 億美元",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+          "summary": "AMD 表示將向 Anthropic 投資高達 50 億美元，同時幫助擴大這家 AI 公司的運算能力，...",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 的人為錯誤如何導致人工智慧驅動的 Hugging Face 駭客攻擊",
+          "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+          "summary": "OpenAI 在設定所謂的「高度隔離」測試環境和沙箱時犯了一個錯誤。據網路人士稱...",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "AMD 承諾向 Anthropic 投資高達 50 億美元",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
+        "summary": "AMD 表示將向 Anthropic 投資高達 50 億美元，同時幫助擴大這家 AI 公司的運算能力，...",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "今日旅遊 SEO",
+          "detail": "用 ACME.BOT 進行 SEO 代理，為旅遊內容做優化，發在 Instagram 上，預計 3 天出成果"
+        },
+        {
+          "title": "AI 旅遊創意",
+          "detail": "用 Buzzy 生成創意旅遊內容，然後用 CapCut 編輯視頻，發在 TikTok 上，預計 2 天出成果"
+        },
+        {
+          "title": "Claude 旅遊學院",
+          "detail": "用 AGINE Academy 學習 Claude 的旅遊應用，創建互動旅遊故事，發在 YouTube 上，預計 5 天出成果"
         }
       ]
     }
