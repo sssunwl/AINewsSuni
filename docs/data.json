@@ -1,121 +1,127 @@
 {
-  "updated": "2026-07-23 12:12 HKT",
+  "updated": "2026-07-24 12:11 HKT",
   "news": [
     {
-      "title": "這是三星智慧眼鏡的實際外觀",
-      "link": "https://www.theverge.com/tech/969382/samsung-google-smart-glasses-gentle-monster-warby-parker",
-      "summary": "三星讓我們第一次有機會親眼目睹其即將推出的智慧眼鏡，展示了兩種新設計和…",
+      "title": "Alexa Plus 正在進行人工智慧更新以處理更複雜的指令",
+      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+      "summary": "亞馬遜正在推出 Alexa Plus 助理的更新，使其能夠以新的方式連接到智慧家庭設備…",
       "source": "The Verge"
     },
     {
-      "title": "AMD 承諾向 Anthropic 投資高達 50 億美元",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-      "summary": "AMD 表示將向 Anthropic 投資高達 50 億美元，同時幫助擴大這家 AI 公司的運算能力，...",
+      "title": "Claude的語音模式現在可用於 Opus 和 Sonnet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "summary": "到目前為止，語音模式僅適用於 Claude Haiku，Anthropic 的速度更快但功能較弱的型號。現在公司…",
       "source": "The Verge"
     },
     {
-      "title": "Meta製作了自己的AI檢測系統。它應該只是使用谷歌的",
-      "link": "https://www.theverge.com/tech/968680/meta-ai-detection-labeling-content-seal-watermarks-synthid",
-      "summary": "三月，Meta 監督委員會呼籲該公司「履行其公開承諾並使用自己的工具」來幫助…",
+      "title": "Patreon 將解僱 20% 的員工",
+      "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+      "summary": "根據 404 Media 早些時候報道，Patreon 將解僱 20% 的員工，即約 93 名員工。在一份備忘錄中...",
       "source": "The Verge"
     },
     {
-      "title": "公用事業公司承諾讓我們免受人工智慧的能源帳單影響",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969137/us-utility-ai-electricty-data-center-rate-pledge-trump",
-      "summary": "面對人們​​對人工智慧熱潮將增加消費者電費的擔憂，最大的公用事業公司…",
+      "title": "OpenAI 向所有人推出 ChatGPT Health 時發出了重大聲明",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "summary": "OpenAI 將於週四向美國所有人推出 ChatGPT Health，讓更多人能夠連接他們的醫療資源…",
       "source": "The Verge"
     },
     {
-      "title": "在經歷了令人震驚的季度後，IBM 堅稱人工智慧不會殺死大型主機",
-      "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
-      "summary": "上週 IBM 因大型主機銷售不佳的警告而股價暴跌後，執行長解釋說人工智慧破壞了企業的發展…",
-      "source": "TechCrunch"
+      "title": "立法者準備法案要求人工智慧“終止開關”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+      "summary": "立法者正準備推出一項“人工智慧殺戮開關法案”，要求人工智慧公司關閉或扼殺…",
+      "source": "The Verge"
     },
     {
-      "title": "谷歌透過蓬勃發展的雲端業務證明其大規模人工智慧支出的合理性",
-      "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
-      "summary": "谷歌的雲端業務正在蓬勃發展，因為採用其人工智慧和人工智慧基礎設施服務的公司幫助這家科技巨頭…",
-      "source": "TechCrunch"
+      "title": "蘋果的 OpenAI 訴訟關乎誰來定義後智慧型手機時代",
+      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "summary": "今天，我在 Decoder 上與 The Verge 的高級 AI 記者 Hayden Field 討論了…",
+      "source": "The Verge"
     },
     {
-      "title": "白宮聲稱登月計畫提煉了人類Fable後，財政部威脅實施制裁",
-      "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
-      "summary": "這起事件也加劇了華盛頓有關中國開放模式湧入的更廣泛辯論。",
-      "source": "TechCrunch"
+      "title": "抗議資料中心的右翼嬰兒潮世代與左翼有許多共同點",
+      "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+      "summary": "在佛羅裡達州中部一個灰濛濛、潮濕的星期六早晨，不到十二個人聚集在斯普林山布拉......",
+      "source": "The Verge"
     },
     {
-      "title": "OpenAI 的人為錯誤如何導致人工智慧驅動的 Hugging Face 駭客攻擊",
-      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "summary": "OpenAI 在設定所謂的「高度隔離」測試環境和沙箱時犯了一個錯誤。據網路人士稱...",
+      "title": "人工智慧護欄如何阻礙進攻性網路安全研究人員的工作",
+      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+      "summary": "我們採訪了幾位網路安全研究人員，他們尋找未知的漏洞並開發利用它們的工具，…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "卡斯特拉 (Kastra)",
-      "link": "https://www.producthunt.com/products/kastra",
-      "desc": "Claude、Cursor、Codex 和 OpenClaw 的運行時授權討論 |關聯",
-      "title_en": "Kastra"
+      "title": "Basedash人工智慧套件 (Basedash AI Kit)",
+      "link": "https://www.producthunt.com/products/basedash",
+      "desc": "由 GPT-5.6 提供支持，在您的產品中提供 AI 分析關聯",
+      "title_en": "Basedash AI Kit"
     },
     {
-      "title": "ACME機器人 (ACME.BOT)",
-      "link": "https://www.producthunt.com/products/acme-bot",
-      "desc": "No-slop AI SEO 代理首先採訪你 討論 |關聯",
-      "title_en": "ACME.BOT"
+      "title": "播客人工智慧 (PodcastorAI)",
+      "link": "https://www.producthunt.com/products/podcastorai",
+      "desc": "您的 AI 雙胞胎主持您的視訊播客關聯",
+      "title_en": "PodcastorAI"
     },
     {
-      "title": "嗡嗡聲 (Buzzy)",
-      "link": "https://www.producthunt.com/products/buzzy-2",
-      "desc": "您的創意 AI 聯合總監 討論 |關聯",
-      "title_en": "Buzzy"
+      "title": "霍爾守衛 (HOL Guard)",
+      "link": "https://www.producthunt.com/products/hol-guard",
+      "desc": "第一個人工智慧代理防火牆討論 |關聯",
+      "title_en": "HOL Guard"
     },
     {
-      "title": "阿金學院 (AGINE Academy)",
-      "link": "https://www.producthunt.com/products/agine-academy",
-      "desc": "一個故事驅動的遊戲，透過討論來學習Claude |關聯",
-      "title_en": "AGINE Academy"
+      "title": "誇索 (Quaso)",
+      "link": "https://www.producthunt.com/products/notte",
+      "desc": "人工智慧自動化代理程式可跨應用程式或瀏覽器完成工作關聯",
+      "title_en": "Quaso"
     },
     {
-      "title": "聊天中的人工智慧代理 (AI Agents in Chat)",
-      "link": "https://www.producthunt.com/products/cometchat",
-      "desc": "您的聊天 UI 剛剛迎來了 AI 室友討論 |關聯",
-      "title_en": "AI Agents in Chat"
+      "title": "提示QL (PromptQL)",
+      "link": "https://www.producthunt.com/products/promptql",
+      "desc": "取代 Slack Discussion 的多人 AI關聯",
+      "title_en": "PromptQL"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "AMD 承諾向 Anthropic 投資高達 50 億美元",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-      "summary": "AMD 表示將向 Anthropic 投資高達 50 億美元，同時幫助擴大這家 AI 公司的運算能力，...",
+      "title": "Claude的語音模式現在可用於 Opus 和 Sonnet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+      "summary": "到目前為止，語音模式僅適用於 Claude Haiku，Anthropic 的速度更快但功能較弱的型號。現在公司…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 的人為錯誤如何導致人工智慧驅動的 Hugging Face 駭客攻擊",
-      "link": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-      "summary": "OpenAI 在設定所謂的「高度隔離」測試環境和沙箱時犯了一個錯誤。據網路人士稱...",
-      "source": "TechCrunch"
+      "title": "OpenAI 向所有人推出 ChatGPT Health 時發出了重大聲明",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+      "summary": "OpenAI 將於週四向美國所有人推出 ChatGPT Health，讓更多人能夠連接他們的醫療資源…",
+      "source": "The Verge"
+    },
+    {
+      "title": "蘋果的 OpenAI 訴訟關乎誰來定義後智慧型手機時代",
+      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+      "summary": "今天，我在 Decoder 上與 The Verge 的高級 AI 記者 Hayden Field 討論了…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "AMD 承諾向 Anthropic 投資高達 50 億美元",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/969285/amd-anthropic-ai-infrastructure-deal",
-    "summary": "AMD 表示將向 Anthropic 投資高達 50 億美元，同時幫助擴大這家 AI 公司的運算能力，...",
+    "title": "Claude的語音模式現在可用於 Opus 和 Sonnet",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+    "summary": "到目前為止，語音模式僅適用於 Claude Haiku，Anthropic 的速度更快但功能較弱的型號。現在公司…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "今日旅遊 SEO",
-      "detail": "用 ACME.BOT 進行 SEO 代理，為旅遊內容做優化，發在 Instagram 上，預計 3 天出成果"
+      "title": "AI 分析旅遊趨勢",
+      "detail": "用 Basedash AI Kit 分析旅遊資料，找出熱門路線和美食，發在 SS 的社交媒體，預計 3 天出成果"
     },
     {
-      "title": "AI 旅遊創意",
-      "detail": "用 Buzzy 生成創意旅遊內容，然後用 CapCut 編輯視頻，發在 TikTok 上，預計 2 天出成果"
+      "title": "AI 主持旅遊播客",
+      "detail": "用 PodcastorAI 創建旅遊播客，邀請 SS 作嘉賓，討論最新旅遊趨勢，發在 Patreon 和 YouTube，預計 1 周出成果"
     },
     {
-      "title": "Claude 旅遊學院",
-      "detail": "用 AGINE Academy 學習 Claude 的旅遊應用，創建互動旅遊故事，發在 YouTube 上，預計 5 天出成果"
+      "title": "AI 自動化旅遊內容",
+      "detail": "用 Quaso 自動化生成旅遊內容，例如旅遊攻略和美食推薦，發在 SS 的網站和社交媒體，預計 2 天出成果"
     }
   ],
   "history": {
@@ -4922,6 +4928,132 @@
         {
           "title": "Claude 旅遊學院",
           "detail": "用 AGINE Academy 學習 Claude 的旅遊應用，創建互動旅遊故事，發在 YouTube 上，預計 5 天出成果"
+        }
+      ]
+    },
+    "2026-07-24": {
+      "news": [
+        {
+          "title": "Alexa Plus 正在進行人工智慧更新以處理更複雜的指令",
+          "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
+          "summary": "亞馬遜正在推出 Alexa Plus 助理的更新，使其能夠以新的方式連接到智慧家庭設備…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Claude的語音模式現在可用於 Opus 和 Sonnet",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+          "summary": "到目前為止，語音模式僅適用於 Claude Haiku，Anthropic 的速度更快但功能較弱的型號。現在公司…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Patreon 將解僱 20% 的員工",
+          "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
+          "summary": "根據 404 Media 早些時候報道，Patreon 將解僱 20% 的員工，即約 93 名員工。在一份備忘錄中...",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 向所有人推出 ChatGPT Health 時發出了重大聲明",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+          "summary": "OpenAI 將於週四向美國所有人推出 ChatGPT Health，讓更多人能夠連接他們的醫療資源…",
+          "source": "The Verge"
+        },
+        {
+          "title": "立法者準備法案要求人工智慧“終止開關”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
+          "summary": "立法者正準備推出一項“人工智慧殺戮開關法案”，要求人工智慧公司關閉或扼殺…",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果的 OpenAI 訴訟關乎誰來定義後智慧型手機時代",
+          "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+          "summary": "今天，我在 Decoder 上與 The Verge 的高級 AI 記者 Hayden Field 討論了…",
+          "source": "The Verge"
+        },
+        {
+          "title": "抗議資料中心的右翼嬰兒潮世代與左翼有許多共同點",
+          "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
+          "summary": "在佛羅裡達州中部一個灰濛濛、潮濕的星期六早晨，不到十二個人聚集在斯普林山布拉......",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧護欄如何阻礙進攻性網路安全研究人員的工作",
+          "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
+          "summary": "我們採訪了幾位網路安全研究人員，他們尋找未知的漏洞並開發利用它們的工具，…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Basedash人工智慧套件 (Basedash AI Kit)",
+          "link": "https://www.producthunt.com/products/basedash",
+          "desc": "由 GPT-5.6 提供支持，在您的產品中提供 AI 分析關聯",
+          "title_en": "Basedash AI Kit"
+        },
+        {
+          "title": "播客人工智慧 (PodcastorAI)",
+          "link": "https://www.producthunt.com/products/podcastorai",
+          "desc": "您的 AI 雙胞胎主持您的視訊播客關聯",
+          "title_en": "PodcastorAI"
+        },
+        {
+          "title": "霍爾守衛 (HOL Guard)",
+          "link": "https://www.producthunt.com/products/hol-guard",
+          "desc": "第一個人工智慧代理防火牆討論 |關聯",
+          "title_en": "HOL Guard"
+        },
+        {
+          "title": "誇索 (Quaso)",
+          "link": "https://www.producthunt.com/products/notte",
+          "desc": "人工智慧自動化代理程式可跨應用程式或瀏覽器完成工作關聯",
+          "title_en": "Quaso"
+        },
+        {
+          "title": "提示QL (PromptQL)",
+          "link": "https://www.producthunt.com/products/promptql",
+          "desc": "取代 Slack Discussion 的多人 AI關聯",
+          "title_en": "PromptQL"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Claude的語音模式現在可用於 Opus 和 Sonnet",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+          "summary": "到目前為止，語音模式僅適用於 Claude Haiku，Anthropic 的速度更快但功能較弱的型號。現在公司…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 向所有人推出 ChatGPT Health 時發出了重大聲明",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
+          "summary": "OpenAI 將於週四向美國所有人推出 ChatGPT Health，讓更多人能夠連接他們的醫療資源…",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果的 OpenAI 訴訟關乎誰來定義後智慧型手機時代",
+          "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
+          "summary": "今天，我在 Decoder 上與 The Verge 的高級 AI 記者 Hayden Field 討論了…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Claude的語音模式現在可用於 Opus 和 Sonnet",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
+        "summary": "到目前為止，語音模式僅適用於 Claude Haiku，Anthropic 的速度更快但功能較弱的型號。現在公司…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "AI 分析旅遊趨勢",
+          "detail": "用 Basedash AI Kit 分析旅遊資料，找出熱門路線和美食，發在 SS 的社交媒體，預計 3 天出成果"
+        },
+        {
+          "title": "AI 主持旅遊播客",
+          "detail": "用 PodcastorAI 創建旅遊播客，邀請 SS 作嘉賓，討論最新旅遊趨勢，發在 Patreon 和 YouTube，預計 1 周出成果"
+        },
+        {
+          "title": "AI 自動化旅遊內容",
+          "detail": "用 Quaso 自動化生成旅遊內容，例如旅遊攻略和美食推薦，發在 SS 的網站和社交媒體，預計 2 天出成果"
         }
       ]
     }
