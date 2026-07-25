@@ -1,127 +1,127 @@
 {
-  "updated": "2026-07-24 12:11 HKT",
+  "updated": "2026-07-25 12:06 HKT",
   "news": [
     {
-      "title": "Alexa Plus 正在進行人工智慧更新以處理更複雜的指令",
-      "link": "https://www.theverge.com/tech/970399/amazon-alexa-plus-ai-update-smart-home-devices",
-      "summary": "亞馬遜正在推出 Alexa Plus 助理的更新，使其能夠以新的方式連接到智慧家庭設備…",
+      "title": "Midjourney 購買了占星應用程式 Co-Star",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "summary": "Midjourney 已經從生成 AI 貓影像到全身超音波掃描，正在進入一個新領域：ast…",
       "source": "The Verge"
     },
     {
-      "title": "Claude的語音模式現在可用於 Opus 和 Sonnet",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-      "summary": "到目前為止，語音模式僅適用於 Claude Haiku，Anthropic 的速度更快但功能較弱的型號。現在公司…",
+      "title": "你不能再忽視 Google Zero",
+      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "summary": "網路和Google曾經達成協議：Google收集資料並為網頁建立索引，作為交換，將大量流量發送到…",
       "source": "The Verge"
     },
     {
-      "title": "Patreon 將解僱 20% 的員工",
-      "link": "https://www.theverge.com/tech/970211/patreon-layoffs-ai",
-      "summary": "根據 404 Media 早些時候報道，Patreon 將解僱 20% 的員工，即約 93 名員工。在一份備忘錄中...",
+      "title": "Anthropic 發布了 Opus 5，其功能「接近」《神鬼Fable 5》",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "summary": "在 Anthropic 與美國政府最近一次正面交鋒幾週後，以及一場主導 OpenAI 安全事件幾天后…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 向所有人推出 ChatGPT Health 時發出了重大聲明",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "summary": "OpenAI 將於週四向美國所有人推出 ChatGPT Health，讓更多人能夠連接他們的醫療資源…",
+      "title": "Meta 正在使其人工智慧聊天機器人更像助手",
+      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "summary": "Meta 正在升級其人工智慧聊天機器人，為其提供新的生產力功能，以與 Gemini、ChatGPT 等競爭對手競爭…",
       "source": "The Verge"
     },
     {
-      "title": "立法者準備法案要求人工智慧“終止開關”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal",
-      "summary": "立法者正準備推出一項“人工智慧殺戮開關法案”，要求人工智慧公司關閉或扼殺…",
+      "title": "美國科學的技術擴展正式開始",
+      "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+      "summary": "川普政府週四公佈了第一筆「創世紀任務」撥款，向數百名...",
       "source": "The Verge"
     },
     {
-      "title": "蘋果的 OpenAI 訴訟關乎誰來定義後智慧型手機時代",
-      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "summary": "今天，我在 Decoder 上與 The Verge 的高級 AI 記者 Hayden Field 討論了…",
-      "source": "The Verge"
+      "title": "我嘗試了 OpenAI 的新 AI 鍵盤——這對一些程式設計師來說會很有趣，但對其他人來說有點神秘",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "summary": "OpenAI 精美的新型 AI 鍵盤對某些人來說會很有趣，而其他許多人可能不會碰它。",
+      "source": "TechCrunch"
     },
     {
-      "title": "抗議資料中心的右翼嬰兒潮世代與左翼有許多共同點",
-      "link": "https://www.theverge.com/policy/969667/humans-first-data-center-protest-hernando-county-florida-republicans",
-      "summary": "在佛羅裡達州中部一個灰濛濛、潮濕的星期六早晨，不到十二個人聚集在斯普林山布拉......",
-      "source": "The Verge"
+      "title": "由 Reid Hoffman 和 Mark Pincus 共同創立的新人工智慧實驗室 Prentis 正在洽談融資 1 億美元",
+      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+      "summary": "Neolab 堅信，日常電腦任務的自動化很快就會超過編碼，成為人工智慧最大的用例。",
+      "source": "TechCrunch"
     },
     {
-      "title": "人工智慧護欄如何阻礙進攻性網路安全研究人員的工作",
-      "link": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-      "summary": "我們採訪了幾位網路安全研究人員，他們尋找未知的漏洞並開發利用它們的工具，…",
+      "title": "Cognition為何收購Poke：AI個性正成為競爭優勢",
+      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+      "summary": "此次收購將 Poke 的對話風格和互動模型帶給 Cognition 的編碼代理 Devin，反映出…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Basedash人工智慧套件 (Basedash AI Kit)",
-      "link": "https://www.producthunt.com/products/basedash",
-      "desc": "由 GPT-5.6 提供支持，在您的產品中提供 AI 分析關聯",
-      "title_en": "Basedash AI Kit"
+      "title": "水貂筆記 (MinkNote)",
+      "link": "https://www.producthunt.com/products/minknote",
+      "desc": "基於純 Markdown 文件構建的私人 macOS 筆記 討論 |關聯",
+      "title_en": "MinkNote"
     },
     {
-      "title": "播客人工智慧 (PodcastorAI)",
-      "link": "https://www.producthunt.com/products/podcastorai",
-      "desc": "您的 AI 雙胞胎主持您的視訊播客關聯",
-      "title_en": "PodcastorAI"
+      "title": "普什裡 (Pushary)",
+      "link": "https://www.producthunt.com/products/pushary",
+      "desc": "批准來自鎖定螢幕的 AI 請求關聯",
+      "title_en": "Pushary"
     },
     {
-      "title": "霍爾守衛 (HOL Guard)",
-      "link": "https://www.producthunt.com/products/hol-guard",
-      "desc": "第一個人工智慧代理防火牆討論 |關聯",
-      "title_en": "HOL Guard"
+      "title": "自由獨奏閃光 (Freesolo Flash)",
+      "link": "https://www.producthunt.com/products/freesolo-flash",
+      "desc": "小語言模型訓練全端平台討論|關聯",
+      "title_en": "Freesolo Flash"
     },
     {
-      "title": "誇索 (Quaso)",
-      "link": "https://www.producthunt.com/products/notte",
-      "desc": "人工智慧自動化代理程式可跨應用程式或瀏覽器完成工作關聯",
-      "title_en": "Quaso"
+      "title": "螢光人工智慧 (Fluree AI)",
+      "link": "https://www.producthunt.com/products/fluree",
+      "desc": "為每個 AI 代理提供可信上下文關聯",
+      "title_en": "Fluree AI"
     },
     {
-      "title": "提示QL (PromptQL)",
-      "link": "https://www.producthunt.com/products/promptql",
-      "desc": "取代 Slack Discussion 的多人 AI關聯",
-      "title_en": "PromptQL"
+      "title": "普魯塞德 (Prosed)",
+      "link": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "desc": "展示其作品的人工智慧圖書服務 討論 |關聯",
+      "title_en": "Prosed"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Claude的語音模式現在可用於 Opus 和 Sonnet",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-      "summary": "到目前為止，語音模式僅適用於 Claude Haiku，Anthropic 的速度更快但功能較弱的型號。現在公司…",
+      "title": "Anthropic 發布了 Opus 5，其功能「接近」《神鬼Fable 5》",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+      "summary": "在 Anthropic 與美國政府最近一次正面交鋒幾週後，以及一場主導 OpenAI 安全事件幾天后…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 向所有人推出 ChatGPT Health 時發出了重大聲明",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-      "summary": "OpenAI 將於週四向美國所有人推出 ChatGPT Health，讓更多人能夠連接他們的醫療資源…",
+      "title": "Meta 正在使其人工智慧聊天機器人更像助手",
+      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+      "summary": "Meta 正在升級其人工智慧聊天機器人，為其提供新的生產力功能，以與 Gemini、ChatGPT 等競爭對手競爭…",
       "source": "The Verge"
     },
     {
-      "title": "蘋果的 OpenAI 訴訟關乎誰來定義後智慧型手機時代",
-      "link": "https://www.theverge.com/podcast/968787/apple-openai-trade-secrets-lawsuit-ai-hardware-smartphone-jony-ive",
-      "summary": "今天，我在 Decoder 上與 The Verge 的高級 AI 記者 Hayden Field 討論了…",
-      "source": "The Verge"
+      "title": "我嘗試了 OpenAI 的新 AI 鍵盤——這對一些程式設計師來說會很有趣，但對其他人來說有點神秘",
+      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+      "summary": "OpenAI 精美的新型 AI 鍵盤對某些人來說會很有趣，而其他許多人可能不會碰它。",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Claude的語音模式現在可用於 Opus 和 Sonnet",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-    "summary": "到目前為止，語音模式僅適用於 Claude Haiku，Anthropic 的速度更快但功能較弱的型號。現在公司…",
+    "title": "Anthropic 發布了 Opus 5，其功能「接近」《神鬼Fable 5》",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+    "summary": "在 Anthropic 與美國政府最近一次正面交鋒幾週後，以及一場主導 OpenAI 安全事件幾天后…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "AI 分析旅遊趨勢",
-      "detail": "用 Basedash AI Kit 分析旅遊資料，找出熱門路線和美食，發在 SS 的社交媒體，預計 3 天出成果"
+      "title": "用 MinkNote 整理食譜",
+      "detail": "我會用 MinkNote 建立一個食譜庫，全部用 Markdown 格式，然後把它發到 SS 的博客上，預計 3 天後就會完成"
     },
     {
-      "title": "AI 主持旅遊播客",
-      "detail": "用 PodcastorAI 創建旅遊播客，邀請 SS 作嘉賓，討論最新旅遊趨勢，發在 Patreon 和 YouTube，預計 1 周出成果"
+      "title": "Pushary 旅遊提醒",
+      "detail": "我會設定 Pushary，讓鎖定螢幕显示旅遊提醒，然後把它連接到 SS 的 Instagram，預計 2 天後就會看到成果"
     },
     {
-      "title": "AI 自動化旅遊內容",
-      "detail": "用 Quaso 自動化生成旅遊內容，例如旅遊攻略和美食推薦，發在 SS 的網站和社交媒體，預計 2 天出成果"
+      "title": "Freesolo Flash 創建旅遊聊天機器人",
+      "detail": "我會用 Freesolo Flash 訓練一個小語言模型，創建一個旅遊聊天機器人，然後把它整合到 SS 的網站上，預計 5 天後就會完成"
     }
   ],
   "history": {
@@ -5054,6 +5054,132 @@
         {
           "title": "AI 自動化旅遊內容",
           "detail": "用 Quaso 自動化生成旅遊內容，例如旅遊攻略和美食推薦，發在 SS 的網站和社交媒體，預計 2 天出成果"
+        }
+      ]
+    },
+    "2026-07-25": {
+      "news": [
+        {
+          "title": "Midjourney 購買了占星應用程式 Co-Star",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+          "summary": "Midjourney 已經從生成 AI 貓影像到全身超音波掃描，正在進入一個新領域：ast…",
+          "source": "The Verge"
+        },
+        {
+          "title": "你不能再忽視 Google Zero",
+          "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+          "summary": "網路和Google曾經達成協議：Google收集資料並為網頁建立索引，作為交換，將大量流量發送到…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 發布了 Opus 5，其功能「接近」《神鬼Fable 5》",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+          "summary": "在 Anthropic 與美國政府最近一次正面交鋒幾週後，以及一場主導 OpenAI 安全事件幾天后…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta 正在使其人工智慧聊天機器人更像助手",
+          "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+          "summary": "Meta 正在升級其人工智慧聊天機器人，為其提供新的生產力功能，以與 Gemini、ChatGPT 等競爭對手競爭…",
+          "source": "The Verge"
+        },
+        {
+          "title": "美國科學的技術擴展正式開始",
+          "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+          "summary": "川普政府週四公佈了第一筆「創世紀任務」撥款，向數百名...",
+          "source": "The Verge"
+        },
+        {
+          "title": "我嘗試了 OpenAI 的新 AI 鍵盤——這對一些程式設計師來說會很有趣，但對其他人來說有點神秘",
+          "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+          "summary": "OpenAI 精美的新型 AI 鍵盤對某些人來說會很有趣，而其他許多人可能不會碰它。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "由 Reid Hoffman 和 Mark Pincus 共同創立的新人工智慧實驗室 Prentis 正在洽談融資 1 億美元",
+          "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
+          "summary": "Neolab 堅信，日常電腦任務的自動化很快就會超過編碼，成為人工智慧最大的用例。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Cognition為何收購Poke：AI個性正成為競爭優勢",
+          "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
+          "summary": "此次收購將 Poke 的對話風格和互動模型帶給 Cognition 的編碼代理 Devin，反映出…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "水貂筆記 (MinkNote)",
+          "link": "https://www.producthunt.com/products/minknote",
+          "desc": "基於純 Markdown 文件構建的私人 macOS 筆記 討論 |關聯",
+          "title_en": "MinkNote"
+        },
+        {
+          "title": "普什裡 (Pushary)",
+          "link": "https://www.producthunt.com/products/pushary",
+          "desc": "批准來自鎖定螢幕的 AI 請求關聯",
+          "title_en": "Pushary"
+        },
+        {
+          "title": "自由獨奏閃光 (Freesolo Flash)",
+          "link": "https://www.producthunt.com/products/freesolo-flash",
+          "desc": "小語言模型訓練全端平台討論|關聯",
+          "title_en": "Freesolo Flash"
+        },
+        {
+          "title": "螢光人工智慧 (Fluree AI)",
+          "link": "https://www.producthunt.com/products/fluree",
+          "desc": "為每個 AI 代理提供可信上下文關聯",
+          "title_en": "Fluree AI"
+        },
+        {
+          "title": "普魯塞德 (Prosed)",
+          "link": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "desc": "展示其作品的人工智慧圖書服務 討論 |關聯",
+          "title_en": "Prosed"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Anthropic 發布了 Opus 5，其功能「接近」《神鬼Fable 5》",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+          "summary": "在 Anthropic 與美國政府最近一次正面交鋒幾週後，以及一場主導 OpenAI 安全事件幾天后…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta 正在使其人工智慧聊天機器人更像助手",
+          "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+          "summary": "Meta 正在升級其人工智慧聊天機器人，為其提供新的生產力功能，以與 Gemini、ChatGPT 等競爭對手競爭…",
+          "source": "The Verge"
+        },
+        {
+          "title": "我嘗試了 OpenAI 的新 AI 鍵盤——這對一些程式設計師來說會很有趣，但對其他人來說有點神秘",
+          "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
+          "summary": "OpenAI 精美的新型 AI 鍵盤對某些人來說會很有趣，而其他許多人可能不會碰它。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Anthropic 發布了 Opus 5，其功能「接近」《神鬼Fable 5》",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+        "summary": "在 Anthropic 與美國政府最近一次正面交鋒幾週後，以及一場主導 OpenAI 安全事件幾天后…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 MinkNote 整理食譜",
+          "detail": "我會用 MinkNote 建立一個食譜庫，全部用 Markdown 格式，然後把它發到 SS 的博客上，預計 3 天後就會完成"
+        },
+        {
+          "title": "Pushary 旅遊提醒",
+          "detail": "我會設定 Pushary，讓鎖定螢幕显示旅遊提醒，然後把它連接到 SS 的 Instagram，預計 2 天後就會看到成果"
+        },
+        {
+          "title": "Freesolo Flash 創建旅遊聊天機器人",
+          "detail": "我會用 Freesolo Flash 訓練一個小語言模型，創建一個旅遊聊天機器人，然後把它整合到 SS 的網站上，預計 5 天後就會完成"
         }
       ]
     }
