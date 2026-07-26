@@ -1,127 +1,78 @@
 {
-  "updated": "2026-07-25 12:06 HKT",
+  "updated": "2026-07-26 12:23 HKT",
   "news": [
     {
-      "title": "Midjourney 購買了占星應用程式 Co-Star",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-      "summary": "Midjourney 已經從生成 AI 貓影像到全身超音波掃描，正在進入一個新領域：ast…",
-      "source": "The Verge"
-    },
-    {
-      "title": "你不能再忽視 Google Zero",
-      "link": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-      "summary": "網路和Google曾經達成協議：Google收集資料並為網頁建立索引，作為交換，將大量流量發送到…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic 發布了 Opus 5，其功能「接近」《神鬼Fable 5》",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "summary": "在 Anthropic 與美國政府最近一次正面交鋒幾週後，以及一場主導 OpenAI 安全事件幾天后…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Meta 正在使其人工智慧聊天機器人更像助手",
-      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "summary": "Meta 正在升級其人工智慧聊天機器人，為其提供新的生產力功能，以與 Gemini、ChatGPT 等競爭對手競爭…",
-      "source": "The Verge"
-    },
-    {
-      "title": "美國科學的技術擴展正式開始",
-      "link": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
-      "summary": "川普政府週四公佈了第一筆「創世紀任務」撥款，向數百名...",
-      "source": "The Verge"
-    },
-    {
-      "title": "我嘗試了 OpenAI 的新 AI 鍵盤——這對一些程式設計師來說會很有趣，但對其他人來說有點神秘",
-      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "summary": "OpenAI 精美的新型 AI 鍵盤對某些人來說會很有趣，而其他許多人可能不會碰它。",
+      "title": "Monday.com 是最新一家將裁員歸咎於人工智慧的科技公司——這裡還有另外 20 家公司",
+      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "summary": "以時間倒序順序觀察已宣布大幅裁員的大型科技公司…",
       "source": "TechCrunch"
     },
     {
-      "title": "由 Reid Hoffman 和 Mark Pincus 共同創立的新人工智慧實驗室 Prentis 正在洽談融資 1 億美元",
-      "link": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "summary": "Neolab 堅信，日常電腦任務的自動化很快就會超過編碼，成為人工智慧最大的用例。",
+      "title": "圖書館員正在為那些厭倦了大型科技的人們舉辦病毒式的「避免人工智慧」研討會",
+      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+      "summary": "在全國各地的圖書館，「避免人工智慧」研討會引發了前所未有的需求。",
       "source": "TechCrunch"
     },
     {
-      "title": "Cognition為何收購Poke：AI個性正成為競爭優勢",
-      "link": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
-      "summary": "此次收購將 Poke 的對話風格和互動模型帶給 Cognition 的編碼代理 Devin，反映出…",
+      "title": "一根倒下的電線暴露了人工智慧資料中心日益嚴重的問題。以下是修復方法。",
+      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "summary": "維吉尼亞州北部的一次千鈞一發事件揭示了資料中心對電網中斷的反應是多麼糟糕。以下是如何修復...",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "水貂筆記 (MinkNote)",
-      "link": "https://www.producthunt.com/products/minknote",
-      "desc": "基於純 Markdown 文件構建的私人 macOS 筆記 討論 |關聯",
-      "title_en": "MinkNote"
+      "title": "流利資料庫 (FluentDB)",
+      "link": "https://www.producthunt.com/products/fluentdb-2",
+      "desc": "Mac 版 AI 資料庫用戶端討論 |關聯",
+      "title_en": "FluentDB"
     },
     {
-      "title": "普什裡 (Pushary)",
-      "link": "https://www.producthunt.com/products/pushary",
-      "desc": "批准來自鎖定螢幕的 AI 請求關聯",
-      "title_en": "Pushary"
+      "title": "聽到 (Heard)",
+      "link": "https://www.producthunt.com/products/heard-2",
+      "desc": "給 Claude Code 和 Codex 一個語音討論 |關聯",
+      "title_en": "Heard"
     },
     {
-      "title": "自由獨奏閃光 (Freesolo Flash)",
-      "link": "https://www.producthunt.com/products/freesolo-flash",
-      "desc": "小語言模型訓練全端平台討論|關聯",
-      "title_en": "Freesolo Flash"
+      "title": "適用於 Mac 和 Windows 的第二大腦 (Second Brain for Mac and Windows)",
+      "link": "https://www.producthunt.com/products/second-brain-cloudflare",
+      "desc": "你的人工智慧記憶，無所不在關聯",
+      "title_en": "Second Brain for Mac and Windows"
     },
     {
-      "title": "螢光人工智慧 (Fluree AI)",
-      "link": "https://www.producthunt.com/products/fluree",
-      "desc": "為每個 AI 代理提供可信上下文關聯",
-      "title_en": "Fluree AI"
+      "title": "殼友 (ShellMate)",
+      "link": "https://www.producthunt.com/products/shellmate-2",
+      "desc": "使用討論 | 您實際上會喜歡的 SSH 工作區關聯",
+      "title_en": "ShellMate"
     },
     {
-      "title": "普魯塞德 (Prosed)",
-      "link": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "desc": "展示其作品的人工智慧圖書服務 討論 |關聯",
-      "title_en": "Prosed"
+      "title": "ChatGPT 中的健康狀況 (Health in ChatGPT)",
+      "link": "https://www.producthunt.com/products/openai",
+      "desc": "您的個人健康伴侶，由 ChatGPT 提供支援關聯",
+      "title_en": "Health in ChatGPT"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
-  "major": [
-    {
-      "title": "Anthropic 發布了 Opus 5，其功能「接近」《神鬼Fable 5》",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-      "summary": "在 Anthropic 與美國政府最近一次正面交鋒幾週後，以及一場主導 OpenAI 安全事件幾天后…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Meta 正在使其人工智慧聊天機器人更像助手",
-      "link": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
-      "summary": "Meta 正在升級其人工智慧聊天機器人，為其提供新的生產力功能，以與 Gemini、ChatGPT 等競爭對手競爭…",
-      "source": "The Verge"
-    },
-    {
-      "title": "我嘗試了 OpenAI 的新 AI 鍵盤——這對一些程式設計師來說會很有趣，但對其他人來說有點神秘",
-      "link": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "summary": "OpenAI 精美的新型 AI 鍵盤對某些人來說會很有趣，而其他許多人可能不會碰它。",
-      "source": "TechCrunch"
-    }
-  ],
+  "major": [],
   "pick": {
-    "title": "Anthropic 發布了 Opus 5，其功能「接近」《神鬼Fable 5》",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
-    "summary": "在 Anthropic 與美國政府最近一次正面交鋒幾週後，以及一場主導 OpenAI 安全事件幾天后…",
-    "source": "The Verge"
+    "title": "Monday.com 是最新一家將裁員歸咎於人工智慧的科技公司——這裡還有另外 20 家公司",
+    "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+    "summary": "以時間倒序順序觀察已宣布大幅裁員的大型科技公司…",
+    "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用 MinkNote 整理食譜",
-      "detail": "我會用 MinkNote 建立一個食譜庫，全部用 Markdown 格式，然後把它發到 SS 的博客上，預計 3 天後就會完成"
+      "title": "旅遊 Reel 10 分鐘出爐",
+      "detail": "用 CapCut 快速剪輯旅遊影片，加上適合的音樂和特效，然後發在 Instagram 上，預計 2 天內出成果"
     },
     {
-      "title": "Pushary 旅遊提醒",
-      "detail": "我會設定 Pushary，讓鎖定螢幕显示旅遊提醒，然後把它連接到 SS 的 Instagram，預計 2 天後就會看到成果"
+      "title": "AI 旅遊博客",
+      "detail": "利用 ChatGPT 生成旅遊博客內容，然後發在 SS 的官方網站和 Medium 上，預計 1 周內出成果"
     },
     {
-      "title": "Freesolo Flash 創建旅遊聊天機器人",
-      "detail": "我會用 Freesolo Flash 訓練一個小語言模型，創建一個旅遊聊天機器人，然後把它整合到 SS 的網站上，預計 5 天後就會完成"
+      "title": "旅遊 Vlog 自動字幕",
+      "detail": "用 Descript 將旅遊 Vlog 的聲音轉換成文字，自動添加字幕，然後發在 YouTube 上，預計 3 天內出成果"
     }
   ],
   "history": {
@@ -5180,6 +5131,83 @@
         {
           "title": "Freesolo Flash 創建旅遊聊天機器人",
           "detail": "我會用 Freesolo Flash 訓練一個小語言模型，創建一個旅遊聊天機器人，然後把它整合到 SS 的網站上，預計 5 天後就會完成"
+        }
+      ]
+    },
+    "2026-07-26": {
+      "news": [
+        {
+          "title": "Monday.com 是最新一家將裁員歸咎於人工智慧的科技公司——這裡還有另外 20 家公司",
+          "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "summary": "以時間倒序順序觀察已宣布大幅裁員的大型科技公司…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "圖書館員正在為那些厭倦了大型科技的人們舉辦病毒式的「避免人工智慧」研討會",
+          "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+          "summary": "在全國各地的圖書館，「避免人工智慧」研討會引發了前所未有的需求。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "一根倒下的電線暴露了人工智慧資料中心日益嚴重的問題。以下是修復方法。",
+          "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+          "summary": "維吉尼亞州北部的一次千鈞一發事件揭示了資料中心對電網中斷的反應是多麼糟糕。以下是如何修復...",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "流利資料庫 (FluentDB)",
+          "link": "https://www.producthunt.com/products/fluentdb-2",
+          "desc": "Mac 版 AI 資料庫用戶端討論 |關聯",
+          "title_en": "FluentDB"
+        },
+        {
+          "title": "聽到 (Heard)",
+          "link": "https://www.producthunt.com/products/heard-2",
+          "desc": "給 Claude Code 和 Codex 一個語音討論 |關聯",
+          "title_en": "Heard"
+        },
+        {
+          "title": "適用於 Mac 和 Windows 的第二大腦 (Second Brain for Mac and Windows)",
+          "link": "https://www.producthunt.com/products/second-brain-cloudflare",
+          "desc": "你的人工智慧記憶，無所不在關聯",
+          "title_en": "Second Brain for Mac and Windows"
+        },
+        {
+          "title": "殼友 (ShellMate)",
+          "link": "https://www.producthunt.com/products/shellmate-2",
+          "desc": "使用討論 | 您實際上會喜歡的 SSH 工作區關聯",
+          "title_en": "ShellMate"
+        },
+        {
+          "title": "ChatGPT 中的健康狀況 (Health in ChatGPT)",
+          "link": "https://www.producthunt.com/products/openai",
+          "desc": "您的個人健康伴侶，由 ChatGPT 提供支援關聯",
+          "title_en": "Health in ChatGPT"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [],
+      "pick": {
+        "title": "Monday.com 是最新一家將裁員歸咎於人工智慧的科技公司——這裡還有另外 20 家公司",
+        "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+        "summary": "以時間倒序順序觀察已宣布大幅裁員的大型科技公司…",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "旅遊 Reel 10 分鐘出爐",
+          "detail": "用 CapCut 快速剪輯旅遊影片，加上適合的音樂和特效，然後發在 Instagram 上，預計 2 天內出成果"
+        },
+        {
+          "title": "AI 旅遊博客",
+          "detail": "利用 ChatGPT 生成旅遊博客內容，然後發在 SS 的官方網站和 Medium 上，預計 1 周內出成果"
+        },
+        {
+          "title": "旅遊 Vlog 自動字幕",
+          "detail": "用 Descript 將旅遊 Vlog 的聲音轉換成文字，自動添加字幕，然後發在 YouTube 上，預計 3 天內出成果"
         }
       ]
     }
