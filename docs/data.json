@@ -1,78 +1,98 @@
 {
-  "updated": "2026-07-26 12:23 HKT",
+  "updated": "2026-07-27 12:33 HKT",
   "news": [
+    {
+      "title": "腦電波是實體人工智慧的下一個解鎖點嗎？",
+      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "summary": "忘掉 YouTube 影片吧——前沿的實體 AI 模型需要多個攝影機角度、密集的註釋，並且很快，腦電波重新…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "理解對中國人工智慧的恐慌",
+      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "summary": "在最新一期的 Equity 節目中，我們討論了為什麼 Moonshot AI 的 Kimi 似乎會讓矽谷和華爾街感到恐慌。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hugging Face 執行長在“史無前例”的 OpenAI 黑客攻擊後呼籲“徹底透明”",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "summary": "“第一次自主代理網路攻擊是前所未有的事件。它應該得到前所未有的回應！”",
+      "source": "TechCrunch"
+    },
     {
       "title": "Monday.com 是最新一家將裁員歸咎於人工智慧的科技公司——這裡還有另外 20 家公司",
       "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
       "summary": "以時間倒序順序觀察已宣布大幅裁員的大型科技公司…",
       "source": "TechCrunch"
-    },
-    {
-      "title": "圖書館員正在為那些厭倦了大型科技的人們舉辦病毒式的「避免人工智慧」研討會",
-      "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-      "summary": "在全國各地的圖書館，「避免人工智慧」研討會引發了前所未有的需求。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "一根倒下的電線暴露了人工智慧資料中心日益嚴重的問題。以下是修復方法。",
-      "link": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-      "summary": "維吉尼亞州北部的一次千鈞一發事件揭示了資料中心對電網中斷的反應是多麼糟糕。以下是如何修復...",
-      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "流利資料庫 (FluentDB)",
-      "link": "https://www.producthunt.com/products/fluentdb-2",
-      "desc": "Mac 版 AI 資料庫用戶端討論 |關聯",
-      "title_en": "FluentDB"
+      "title": "腦飼料 (BrainFeed)",
+      "link": "https://www.producthunt.com/products/brainfeed-scroll-better",
+      "desc": "個人化的學習提要，可重定向您的捲軸關聯",
+      "title_en": "BrainFeed"
     },
     {
-      "title": "聽到 (Heard)",
-      "link": "https://www.producthunt.com/products/heard-2",
-      "desc": "給 Claude Code 和 Codex 一個語音討論 |關聯",
-      "title_en": "Heard"
+      "title": "開放基地 (Openbase)",
+      "link": "https://www.producthunt.com/products/openbase-2",
+      "desc": "隨時隨地透過語音管理您的 AI 代理團隊關聯",
+      "title_en": "Openbase"
     },
     {
-      "title": "適用於 Mac 和 Windows 的第二大腦 (Second Brain for Mac and Windows)",
-      "link": "https://www.producthunt.com/products/second-brain-cloudflare",
-      "desc": "你的人工智慧記憶，無所不在關聯",
-      "title_en": "Second Brain for Mac and Windows"
+      "title": "艾莫人工智慧 (Aymo AI)",
+      "link": "https://www.producthunt.com/products/aymo-ai",
+      "desc": "用於團隊討論的一體化人工智慧平台 |關聯",
+      "title_en": "Aymo AI"
     },
     {
-      "title": "殼友 (ShellMate)",
-      "link": "https://www.producthunt.com/products/shellmate-2",
-      "desc": "使用討論 | 您實際上會喜歡的 SSH 工作區關聯",
-      "title_en": "ShellMate"
+      "title": "約吉 (Yoggi)",
+      "link": "https://www.producthunt.com/products/yoggi",
+      "desc": "兒童安全人工智慧聊天討論 |關聯",
+      "title_en": "Yoggi"
     },
     {
-      "title": "ChatGPT 中的健康狀況 (Health in ChatGPT)",
-      "link": "https://www.producthunt.com/products/openai",
-      "desc": "您的個人健康伴侶，由 ChatGPT 提供支援關聯",
-      "title_en": "Health in ChatGPT"
+      "title": "PureBox.ai",
+      "link": "https://www.producthunt.com/products/purebox-ai",
+      "desc": "針對您真正的 Gmail 收件匣進行審查優先的 AI 清理。討論 |關聯",
+      "title_en": "PureBox.ai"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "腦電波是實體人工智慧的下一個解鎖點嗎？",
+      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+      "summary": "忘掉 YouTube 影片吧——前沿的實體 AI 模型需要多個攝影機角度、密集的註釋，並且很快，腦電波重新…",
+      "source": "TechCrunch"
+    }
+  ],
   "suniverse_tools": [],
-  "major": [],
+  "major": [
+    {
+      "title": "Hugging Face 執行長在“史無前例”的 OpenAI 黑客攻擊後呼籲“徹底透明”",
+      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+      "summary": "“第一次自主代理網路攻擊是前所未有的事件。它應該得到前所未有的回應！”",
+      "source": "TechCrunch"
+    }
+  ],
   "pick": {
-    "title": "Monday.com 是最新一家將裁員歸咎於人工智慧的科技公司——這裡還有另外 20 家公司",
-    "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "summary": "以時間倒序順序觀察已宣布大幅裁員的大型科技公司…",
+    "title": "Hugging Face 執行長在“史無前例”的 OpenAI 黑客攻擊後呼籲“徹底透明”",
+    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "summary": "“第一次自主代理網路攻擊是前所未有的事件。它應該得到前所未有的回應！”",
     "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "旅遊 Reel 10 分鐘出爐",
-      "detail": "用 CapCut 快速剪輯旅遊影片，加上適合的音樂和特效，然後發在 Instagram 上，預計 2 天內出成果"
+      "title": "BrainFeed 個人化學習",
+      "detail": "用 BrainFeed 製作旅遊知識學習提要，發在 SS 社群，預計 3 天出成果"
     },
     {
-      "title": "AI 旅遊博客",
-      "detail": "利用 ChatGPT 生成旅遊博客內容，然後發在 SS 的官方網站和 Medium 上，預計 1 周內出成果"
+      "title": "Aymo AI 團隊合作",
+      "detail": "邀請 SS 團隊使用 Aymo AI 討論旅遊內容創意，發在 Instagram，預計 1 周出成果"
     },
     {
-      "title": "旅遊 Vlog 自動字幕",
-      "detail": "用 Descript 將旅遊 Vlog 的聲音轉換成文字，自動添加字幕，然後發在 YouTube 上，預計 3 天內出成果"
+      "title": "Yoggi 兒童安全聊天",
+      "detail": "開發兒童旅遊安全聊天機器人，使用 Yoggi，發在 Facebook，預計 2 周出成果"
     }
   ],
   "history": {
@@ -5208,6 +5228,103 @@
         {
           "title": "旅遊 Vlog 自動字幕",
           "detail": "用 Descript 將旅遊 Vlog 的聲音轉換成文字，自動添加字幕，然後發在 YouTube 上，預計 3 天內出成果"
+        }
+      ]
+    },
+    "2026-07-27": {
+      "news": [
+        {
+          "title": "腦電波是實體人工智慧的下一個解鎖點嗎？",
+          "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+          "summary": "忘掉 YouTube 影片吧——前沿的實體 AI 模型需要多個攝影機角度、密集的註釋，並且很快，腦電波重新…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "理解對中國人工智慧的恐慌",
+          "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+          "summary": "在最新一期的 Equity 節目中，我們討論了為什麼 Moonshot AI 的 Kimi 似乎會讓矽谷和華爾街感到恐慌。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hugging Face 執行長在“史無前例”的 OpenAI 黑客攻擊後呼籲“徹底透明”",
+          "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+          "summary": "“第一次自主代理網路攻擊是前所未有的事件。它應該得到前所未有的回應！”",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Monday.com 是最新一家將裁員歸咎於人工智慧的科技公司——這裡還有另外 20 家公司",
+          "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "summary": "以時間倒序順序觀察已宣布大幅裁員的大型科技公司…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "腦飼料 (BrainFeed)",
+          "link": "https://www.producthunt.com/products/brainfeed-scroll-better",
+          "desc": "個人化的學習提要，可重定向您的捲軸關聯",
+          "title_en": "BrainFeed"
+        },
+        {
+          "title": "開放基地 (Openbase)",
+          "link": "https://www.producthunt.com/products/openbase-2",
+          "desc": "隨時隨地透過語音管理您的 AI 代理團隊關聯",
+          "title_en": "Openbase"
+        },
+        {
+          "title": "艾莫人工智慧 (Aymo AI)",
+          "link": "https://www.producthunt.com/products/aymo-ai",
+          "desc": "用於團隊討論的一體化人工智慧平台 |關聯",
+          "title_en": "Aymo AI"
+        },
+        {
+          "title": "約吉 (Yoggi)",
+          "link": "https://www.producthunt.com/products/yoggi",
+          "desc": "兒童安全人工智慧聊天討論 |關聯",
+          "title_en": "Yoggi"
+        },
+        {
+          "title": "PureBox.ai",
+          "link": "https://www.producthunt.com/products/purebox-ai",
+          "desc": "針對您真正的 Gmail 收件匣進行審查優先的 AI 清理。討論 |關聯",
+          "title_en": "PureBox.ai"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "腦電波是實體人工智慧的下一個解鎖點嗎？",
+          "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+          "summary": "忘掉 YouTube 影片吧——前沿的實體 AI 模型需要多個攝影機角度、密集的註釋，並且很快，腦電波重新…",
+          "source": "TechCrunch"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Hugging Face 執行長在“史無前例”的 OpenAI 黑客攻擊後呼籲“徹底透明”",
+          "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+          "summary": "“第一次自主代理網路攻擊是前所未有的事件。它應該得到前所未有的回應！”",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Hugging Face 執行長在“史無前例”的 OpenAI 黑客攻擊後呼籲“徹底透明”",
+        "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+        "summary": "“第一次自主代理網路攻擊是前所未有的事件。它應該得到前所未有的回應！”",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "BrainFeed 個人化學習",
+          "detail": "用 BrainFeed 製作旅遊知識學習提要，發在 SS 社群，預計 3 天出成果"
+        },
+        {
+          "title": "Aymo AI 團隊合作",
+          "detail": "邀請 SS 團隊使用 Aymo AI 討論旅遊內容創意，發在 Instagram，預計 1 周出成果"
+        },
+        {
+          "title": "Yoggi 兒童安全聊天",
+          "detail": "開發兒童旅遊安全聊天機器人，使用 Yoggi，發在 Facebook，預計 2 周出成果"
         }
       ]
     }
