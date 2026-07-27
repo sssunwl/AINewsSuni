@@ -4,6 +4,57 @@
 
 ---
 
+## 週報 2026-07-27
+
+### 外部發現
+
+1. **no-slop-zh：中文優先的 AI 模板腔清理 Skill**
+   類型：Skill
+   來源軌：外部發現
+   介紹：專門清除中文文字裡「AI 味」的 Claude Code／Codex Skill，把「開啟一個更加穩定、高效的新階段」這類浮誇模板句，轉成直接、精簡的表達，同時保留事實、術語與技術準確性。有三種模式：`clean`（預設直接改寫）、`natural`（放鬆一點的措辭）、`Detect`（只標記不改寫）。
+   為什麼值得 SS 看：直接對應 SundaySols「禁 AI 腔」文案規則，而且是中文版——跟已經進候選清單的 natural-japanese（日文）、LLM Cliché Highlighter（英文）剛好湊成中英日三語對照組，很適合當 AI 學院「AI 腔怎麼抓」的完整教材。
+   原始出處：https://github.com/superchun/no-slop-zh
+   可複製 prompt/指令：
+   ```
+   /plugin marketplace add superchun/no-slop-zh
+   /plugin install no-slop-zh@no-slop-zh
+   ```
+   安裝後直接說「用 no-slop-zh 處理這段文字」即可。
+   狀態：候選
+
+2. **draw-your-font：把手寫字照片變成真的可安裝字型**
+   類型：Skill／工具
+   來源軌：外部發現
+   介紹：拍一張手寫字母的照片，AI 自動辨識定位每個字、向量化，輸出成有正確字距與字型量度的 TTF/WOFF/WOFF2 字型檔。也有不用 AI 的純 CLI 版本（含列印模板→手寫→拍照→產字型的完整流程），Skill 版本則能對話式微調（例如「讓它圓一點」）。
+   為什麼值得 SS 看：不需要任何字體設計背景，拍照+對話就能做出品牌專屬手寫字型，很適合當 AI 學院「非工程背景也能做出專業成品」的示範案例，也可以評估要不要幫 Suniverse 旗下品牌做一套手寫識別字型。
+   原始出處：https://github.com/danilo-znamerovszkij/draw-your-font
+   可複製 prompt/指令：
+   ```
+   npx skills add danilo-znamerovszkij/draw-your-font
+   ```
+   安裝後對 Claude 說「/draw-your-font 這是我的手寫照片」並附上圖片即可；純 CLI 版本可用 `npx draw-your-font template -o template.pdf` 先印模板。
+   狀態：候選
+
+3. **humanizer-stack：雙層 AI 腔清除 Pipeline（表層＋結構層）**
+   類型：Skill
+   來源軌：外部發現
+   介紹：多數「去 AI 味」工具只處理表層（用詞、標點、慣用句型），這套工具多加一層「結構層」掃描：主題是否講得太白、情緒是否假掰、敘事是否收得太整齊、細節是否具體、有沒有跟讀者真的互動。作者引用研究指出，只改表層用詞對「被偵測出是 AI 寫的」機率只降低 1.6 分，結構層才是更持久的破綻來源。
+   為什麼值得 SS 看：跟本週第 1 筆 no-slop-zh 是同類工具但抓的層次不同（中文表層 vs 英文表層+結構），兩者對照能更完整理解「AI 腔」到底藏在哪裡，適合英文對外文案（Okiblues、客戶 Portal）多一層把關。
+   原始出處：https://github.com/NulightJens/humanizer-stack
+   可複製 prompt/指令：
+   ```
+   git clone https://github.com/NulightJens/humanizer-stack.git
+   cd humanizer-stack && ./install.sh
+   ```
+   安裝後對 Claude Code 說「humanize this post」或「run the structural pass on draft.md」即可。
+   狀態：候選
+
+### Notion 收藏促發佈
+
+本週無合格候選——符合「分類＝Claude Code 教學／其他、狀態＝已整理、驗證狀態＝已查證屬實」的 13 筆項目，全部已經在過去兩週（2026-07-16、2026-07-20）的候選清單出現過且尚未有 SS 決定，本週不重複列出。
+
+---
+
 ## 週報 2026-07-20
 
 ### 外部發現
