@@ -1,98 +1,127 @@
 {
-  "updated": "2026-07-27 12:33 HKT",
+  "updated": "2026-07-28 11:57 HKT",
   "news": [
     {
-      "title": "腦電波是實體人工智慧的下一個解鎖點嗎？",
-      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "summary": "忘掉 YouTube 影片吧——前沿的實體 AI 模型需要多個攝影機角度、密集的註釋，並且很快，腦電波重新…",
+      "title": "為什麼中國要贈送最好的人工智慧模型",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+      "summary": "過去一周的大部分時間，矽谷都處於紅色警報狀態，消化著 Moonshot AI 的 Kimi K3 的到來，這是一款中國 A...",
+      "source": "The Verge"
+    },
+    {
+      "title": "Nvidia、微軟推出OpenAI安全聯盟——沒有 OpenAI、Google 或 Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "summary": "Nvidia 週一表示，它正在與微軟、SpaceX、IBM 和其他科技公司聯手建置和分享開放…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic的Dario Amodei回應：不反對開放權重模型，但擔心中國AI",
+      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "summary": "Anthropic 創辦人兼執行長 Dario Amodei 明確表達了他對開放權重模型和中國不斷增長的人工智慧能力的看法…",
       "source": "TechCrunch"
     },
     {
-      "title": "理解對中國人工智慧的恐慌",
-      "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-      "summary": "在最新一期的 Equity 節目中，我們討論了為什麼 Moonshot AI 的 Kimi 似乎會讓矽谷和華爾街感到恐慌。",
+      "title": "薩蒂亞·納德拉 (Satya Nadella) 表示，那些相信一種人工智慧能解決所有問題的公司可能無法生存",
+      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+      "summary": "沒有自己的模型的公司——或者沒有被稱為人工智慧網關的人工智慧基礎設施層來分隔他們的舞會…",
       "source": "TechCrunch"
     },
     {
-      "title": "Hugging Face 執行長在“史無前例”的 OpenAI 黑客攻擊後呼籲“徹底透明”",
-      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "summary": "“第一次自主代理網路攻擊是前所未有的事件。它應該得到前所未有的回應！”",
+      "title": "PSA：您的 Claude 共用聊天記錄和工件可能已出現在 Google 上",
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "summary": "這個問題似乎源於Claude的“共享聊天”功能，該功能允許用戶創建連結以啟用...",
       "source": "TechCrunch"
     },
     {
-      "title": "Monday.com 是最新一家將裁員歸咎於人工智慧的科技公司——這裡還有另外 20 家公司",
-      "link": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-      "summary": "以時間倒序順序觀察已宣布大幅裁員的大型科技公司…",
+      "title": "微軟推出首個網路安全模型以及新的代理網路安全系統",
+      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+      "summary": "微軟本週推出了首個人工智慧安全模型和新的產品，增強了其人工智慧網路安全產品…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI 的 Hugging Face 漏洞重新引發了關於對齊和控制的爭論",
+      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+      "summary": "OpenAI 的 Hugging Face 漏洞重新引發了關於 AI 對齊和控制的爭論，暴露了關於是否應該…的相互競爭的觀點。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Threads 用戶現在可以在他們的 DM 中與 Meta AI 聊天",
+      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+      "summary": "Meta 週一表示，它正在 Threads 的 DM 中推出 Meta AI 聊天機器人，為用戶提供了一種與 AI 聊天的方式…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "腦飼料 (BrainFeed)",
-      "link": "https://www.producthunt.com/products/brainfeed-scroll-better",
-      "desc": "個人化的學習提要，可重定向您的捲軸關聯",
-      "title_en": "BrainFeed"
+      "title": "羅賓艾 (Robynn AI)",
+      "link": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
+      "desc": "透過自學改進和治癒的網站 討論 |關聯",
+      "title_en": "Robynn AI"
     },
     {
-      "title": "開放基地 (Openbase)",
-      "link": "https://www.producthunt.com/products/openbase-2",
-      "desc": "隨時隨地透過語音管理您的 AI 代理團隊關聯",
-      "title_en": "Openbase"
+      "title": "Raspberry Pi 上的 iMessage Hermes (iMessage Hermes on a Raspberry Pi)",
+      "link": "https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi",
+      "desc": "一個永遠在線的人工智慧代理，住在你家關聯",
+      "title_en": "iMessage Hermes on a Raspberry Pi"
     },
     {
-      "title": "艾莫人工智慧 (Aymo AI)",
-      "link": "https://www.producthunt.com/products/aymo-ai",
-      "desc": "用於團隊討論的一體化人工智慧平台 |關聯",
-      "title_en": "Aymo AI"
+      "title": "黏性 (Tackly)",
+      "link": "https://www.producthunt.com/products/tackly",
+      "desc": "使用人工智慧即時繪製您的想法。討論 |關聯",
+      "title_en": "Tackly"
     },
     {
-      "title": "約吉 (Yoggi)",
-      "link": "https://www.producthunt.com/products/yoggi",
-      "desc": "兒童安全人工智慧聊天討論 |關聯",
-      "title_en": "Yoggi"
+      "title": "埃斯特拉 (Estera)",
+      "link": "https://www.producthunt.com/products/estera",
+      "desc": "接聽電話和 WhatsApp 24/7 討論的 AI 接待員 |關聯",
+      "title_en": "Estera"
     },
     {
-      "title": "PureBox.ai",
-      "link": "https://www.producthunt.com/products/purebox-ai",
-      "desc": "針對您真正的 Gmail 收件匣進行審查優先的 AI 清理。討論 |關聯",
-      "title_en": "PureBox.ai"
+      "title": "Claude作品 5 (Claude Opus 5)",
+      "link": "https://www.producthunt.com/products/claude",
+      "desc": "接近神鬼Fable 5 的智能，價格減半 討論 |關聯",
+      "title_en": "Claude Opus 5"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "腦電波是實體人工智慧的下一個解鎖點嗎？",
-      "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
-      "summary": "忘掉 YouTube 影片吧——前沿的實體 AI 模型需要多個攝影機角度、密集的註釋，並且很快，腦電波重新…",
-      "source": "TechCrunch"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Hugging Face 執行長在“史無前例”的 OpenAI 黑客攻擊後呼籲“徹底透明”",
-      "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-      "summary": "“第一次自主代理網路攻擊是前所未有的事件。它應該得到前所未有的回應！”",
+      "title": "Nvidia、微軟推出OpenAI安全聯盟——沒有 OpenAI、Google 或 Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+      "summary": "Nvidia 週一表示，它正在與微軟、SpaceX、IBM 和其他科技公司聯手建置和分享開放…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic的Dario Amodei回應：不反對開放權重模型，但擔心中國AI",
+      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+      "summary": "Anthropic 創辦人兼執行長 Dario Amodei 明確表達了他對開放權重模型和中國不斷增長的人工智慧能力的看法…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "PSA：您的 Claude 共用聊天記錄和工件可能已出現在 Google 上",
+      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+      "summary": "這個問題似乎源於Claude的“共享聊天”功能，該功能允許用戶創建連結以啟用...",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Hugging Face 執行長在“史無前例”的 OpenAI 黑客攻擊後呼籲“徹底透明”",
-    "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
-    "summary": "“第一次自主代理網路攻擊是前所未有的事件。它應該得到前所未有的回應！”",
-    "source": "TechCrunch"
+    "title": "Nvidia、微軟推出OpenAI安全聯盟——沒有 OpenAI、Google 或 Anthropic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+    "summary": "Nvidia 週一表示，它正在與微軟、SpaceX、IBM 和其他科技公司聯手建置和分享開放…",
+    "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "BrainFeed 個人化學習",
-      "detail": "用 BrainFeed 製作旅遊知識學習提要，發在 SS 社群，預計 3 天出成果"
+      "title": "Tackly 繪旅遊地圖",
+      "detail": "用 Tackly 這個工具即時繪製旅遊地圖，然後發在 IG Story 或 FB Story，預計 3 天出成果"
     },
     {
-      "title": "Aymo AI 團隊合作",
-      "detail": "邀請 SS 團隊使用 Aymo AI 討論旅遊內容創意，發在 Instagram，預計 1 周出成果"
+      "title": "Robynn AI 自動回答",
+      "detail": "用 Robynn AI 設計一個自動回答旅遊相關問題的系統，發在官網或社交媒體，預計 1 周出成果"
     },
     {
-      "title": "Yoggi 兒童安全聊天",
-      "detail": "開發兒童旅遊安全聊天機器人，使用 Yoggi，發在 Facebook，預計 2 周出成果"
+      "title": "Estera 接待旅遊查詢",
+      "detail": "用 Estera 這個 AI 接待員來接聽電話和 WhatsApp 查詢，然後發在官網或社交媒體介紹，預計 2 周出成果"
     }
   ],
   "history": {
@@ -5325,6 +5354,132 @@
         {
           "title": "Yoggi 兒童安全聊天",
           "detail": "開發兒童旅遊安全聊天機器人，使用 Yoggi，發在 Facebook，預計 2 周出成果"
+        }
+      ]
+    },
+    "2026-07-28": {
+      "news": [
+        {
+          "title": "為什麼中國要贈送最好的人工智慧模型",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
+          "summary": "過去一周的大部分時間，矽谷都處於紅色警報狀態，消化著 Moonshot AI 的 Kimi K3 的到來，這是一款中國 A...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Nvidia、微軟推出OpenAI安全聯盟——沒有 OpenAI、Google 或 Anthropic",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+          "summary": "Nvidia 週一表示，它正在與微軟、SpaceX、IBM 和其他科技公司聯手建置和分享開放…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic的Dario Amodei回應：不反對開放權重模型，但擔心中國AI",
+          "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+          "summary": "Anthropic 創辦人兼執行長 Dario Amodei 明確表達了他對開放權重模型和中國不斷增長的人工智慧能力的看法…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "薩蒂亞·納德拉 (Satya Nadella) 表示，那些相信一種人工智慧能解決所有問題的公司可能無法生存",
+          "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
+          "summary": "沒有自己的模型的公司——或者沒有被稱為人工智慧網關的人工智慧基礎設施層來分隔他們的舞會…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "PSA：您的 Claude 共用聊天記錄和工件可能已出現在 Google 上",
+          "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+          "summary": "這個問題似乎源於Claude的“共享聊天”功能，該功能允許用戶創建連結以啟用...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "微軟推出首個網路安全模型以及新的代理網路安全系統",
+          "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+          "summary": "微軟本週推出了首個人工智慧安全模型和新的產品，增強了其人工智慧網路安全產品…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI 的 Hugging Face 漏洞重新引發了關於對齊和控制的爭論",
+          "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+          "summary": "OpenAI 的 Hugging Face 漏洞重新引發了關於 AI 對齊和控制的爭論，暴露了關於是否應該…的相互競爭的觀點。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Threads 用戶現在可以在他們的 DM 中與 Meta AI 聊天",
+          "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+          "summary": "Meta 週一表示，它正在 Threads 的 DM 中推出 Meta AI 聊天機器人，為用戶提供了一種與 AI 聊天的方式…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "羅賓艾 (Robynn AI)",
+          "link": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
+          "desc": "透過自學改進和治癒的網站 討論 |關聯",
+          "title_en": "Robynn AI"
+        },
+        {
+          "title": "Raspberry Pi 上的 iMessage Hermes (iMessage Hermes on a Raspberry Pi)",
+          "link": "https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi",
+          "desc": "一個永遠在線的人工智慧代理，住在你家關聯",
+          "title_en": "iMessage Hermes on a Raspberry Pi"
+        },
+        {
+          "title": "黏性 (Tackly)",
+          "link": "https://www.producthunt.com/products/tackly",
+          "desc": "使用人工智慧即時繪製您的想法。討論 |關聯",
+          "title_en": "Tackly"
+        },
+        {
+          "title": "埃斯特拉 (Estera)",
+          "link": "https://www.producthunt.com/products/estera",
+          "desc": "接聽電話和 WhatsApp 24/7 討論的 AI 接待員 |關聯",
+          "title_en": "Estera"
+        },
+        {
+          "title": "Claude作品 5 (Claude Opus 5)",
+          "link": "https://www.producthunt.com/products/claude",
+          "desc": "接近神鬼Fable 5 的智能，價格減半 討論 |關聯",
+          "title_en": "Claude Opus 5"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Nvidia、微軟推出OpenAI安全聯盟——沒有 OpenAI、Google 或 Anthropic",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+          "summary": "Nvidia 週一表示，它正在與微軟、SpaceX、IBM 和其他科技公司聯手建置和分享開放…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic的Dario Amodei回應：不反對開放權重模型，但擔心中國AI",
+          "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+          "summary": "Anthropic 創辦人兼執行長 Dario Amodei 明確表達了他對開放權重模型和中國不斷增長的人工智慧能力的看法…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "PSA：您的 Claude 共用聊天記錄和工件可能已出現在 Google 上",
+          "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+          "summary": "這個問題似乎源於Claude的“共享聊天”功能，該功能允許用戶創建連結以啟用...",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Nvidia、微軟推出OpenAI安全聯盟——沒有 OpenAI、Google 或 Anthropic",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+        "summary": "Nvidia 週一表示，它正在與微軟、SpaceX、IBM 和其他科技公司聯手建置和分享開放…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "Tackly 繪旅遊地圖",
+          "detail": "用 Tackly 這個工具即時繪製旅遊地圖，然後發在 IG Story 或 FB Story，預計 3 天出成果"
+        },
+        {
+          "title": "Robynn AI 自動回答",
+          "detail": "用 Robynn AI 設計一個自動回答旅遊相關問題的系統，發在官網或社交媒體，預計 1 周出成果"
+        },
+        {
+          "title": "Estera 接待旅遊查詢",
+          "detail": "用 Estera 這個 AI 接待員來接聽電話和 WhatsApp 查詢，然後發在官網或社交媒體介紹，預計 2 周出成果"
         }
       ]
     }
