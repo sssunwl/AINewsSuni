@@ -1,127 +1,115 @@
 {
-  "updated": "2026-07-28 11:57 HKT",
+  "updated": "2026-07-29 12:09 HKT",
   "news": [
     {
-      "title": "為什麼中國要贈送最好的人工智慧模型",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971444/how-chinese-open-weight-ai-models-impact-us-companies",
-      "summary": "過去一周的大部分時間，矽谷都處於紅色警報狀態，消化著 Moonshot AI 的 Kimi K3 的到來，這是一款中國 A...",
+      "title": "人工智慧領導者簽署一份聲明，要求政府對自動化人工智慧採取措施",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "summary": "OpenAI 和 Anthropic 的員工，以及 Google、Meta、Thinking Machines、Microsoft、Mistral 和其他領先 AI 的員工…",
       "source": "The Verge"
     },
     {
-      "title": "Nvidia、微軟推出OpenAI安全聯盟——沒有 OpenAI、Google 或 Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "summary": "Nvidia 週一表示，它正在與微軟、SpaceX、IBM 和其他科技公司聯手建置和分享開放…",
+      "title": "人工智慧終於昂貴到讓華爾街感到緊張",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+      "summary": "現在是財報季節，投資者從谷歌那裡得到了一個令人不快的驚喜：其支出預期上調至…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic的Dario Amodei回應：不反對開放權重模型，但擔心中國AI",
-      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "summary": "Anthropic 創辦人兼執行長 Dario Amodei 明確表達了他對開放權重模型和中國不斷增長的人工智慧能力的看法…",
+      "title": "Perplexity 的個人電腦將 Windows PC 變成人工智慧代理",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+      "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popul…",
+      "source": "The Verge"
+    },
+    {
+      "title": "智慧戒指看起來就像我喜歡的人工智慧小工具",
+      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+      "summary": "在過去的幾個月裡，我花了很多時間與電腦交談。 LLM 革命的一個被低估的特徵...",
+      "source": "The Verge"
+    },
+    {
+      "title": "擁抱臉被用來輕鬆脫掉婦女和兒童的衣服",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+      "summary": "Hugging Face 被用來製作未經同意的 Deepfake，而流行的開源 AI 模型存儲庫正在做…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Cyera 同意以 10 億美元收購 Oasis Security，以保護不斷擴散的人工智慧代理",
+      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+      "summary": "該交易是 Cyera 今年的第三次收購。",
       "source": "TechCrunch"
     },
     {
-      "title": "薩蒂亞·納德拉 (Satya Nadella) 表示，那些相信一種人工智慧能解決所有問題的公司可能無法生存",
-      "link": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive/",
-      "summary": "沒有自己的模型的公司——或者沒有被稱為人工智慧網關的人工智慧基礎設施層來分隔他們的舞會…",
+      "title": "機器人檢測新創公司 Spur 從 Insight 獲得 2 億美元投資",
+      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+      "summary": "Spur Intelligence 已從 Insight Partners 籌集了 2 億美元資金，其技術可以識別合法的人口流動…",
       "source": "TechCrunch"
     },
     {
-      "title": "PSA：您的 Claude 共用聊天記錄和工件可能已出現在 Google 上",
-      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "summary": "這個問題似乎源於Claude的“共享聊天”功能，該功能允許用戶創建連結以啟用...",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "微軟推出首個網路安全模型以及新的代理網路安全系統",
-      "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-      "summary": "微軟本週推出了首個人工智慧安全模型和新的產品，增強了其人工智慧網路安全產品…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI 的 Hugging Face 漏洞重新引發了關於對齊和控制的爭論",
-      "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-      "summary": "OpenAI 的 Hugging Face 漏洞重新引發了關於 AI 對齊和控制的爭論，暴露了關於是否應該…的相互競爭的觀點。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Threads 用戶現在可以在他們的 DM 中與 Meta AI 聊天",
-      "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-      "summary": "Meta 週一表示，它正在 Threads 的 DM 中推出 Meta AI 聊天機器人，為用戶提供了一種與 AI 聊天的方式…",
+      "title": "MCP 新創公司 Runlayer 指責 Rippleing 竊取其產品創意",
+      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+      "summary": "在 Rippling 評估了這家新創公司的 MCP 網關產品並選擇自行建造之後，Runlayer 正在起訴 Rippling…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "羅賓艾 (Robynn AI)",
-      "link": "https://www.producthunt.com/products/robynn-ai-self-improving-websites",
-      "desc": "透過自學改進和治癒的網站 討論 |關聯",
-      "title_en": "Robynn AI"
+      "title": "幻影 (Phantom)",
+      "link": "https://www.producthunt.com/products/phantom-6",
+      "desc": "操作您的 Mac 的語音優先 AI 代理關聯",
+      "title_en": "Phantom"
     },
     {
-      "title": "Raspberry Pi 上的 iMessage Hermes (iMessage Hermes on a Raspberry Pi)",
-      "link": "https://www.producthunt.com/products/imessage-hermes-on-a-raspberry-pi",
-      "desc": "一個永遠在線的人工智慧代理，住在你家關聯",
-      "title_en": "iMessage Hermes on a Raspberry Pi"
+      "title": "流程任務2.0 (FlowTask 2.0)",
+      "link": "https://www.producthunt.com/products/flowtask",
+      "desc": "AI 代理討論的公司大腦 |關聯",
+      "title_en": "FlowTask 2.0"
     },
     {
-      "title": "黏性 (Tackly)",
-      "link": "https://www.producthunt.com/products/tackly",
-      "desc": "使用人工智慧即時繪製您的想法。討論 |關聯",
-      "title_en": "Tackly"
+      "title": "增長選擇手冊 (Growth Opt Playbook)",
+      "link": "https://www.producthunt.com/products/growth-opt-playbook",
+      "desc": "將行銷活動數據轉化為您的下一個行銷舉措關聯",
+      "title_en": "Growth Opt Playbook"
     },
     {
-      "title": "埃斯特拉 (Estera)",
-      "link": "https://www.producthunt.com/products/estera",
-      "desc": "接聽電話和 WhatsApp 24/7 討論的 AI 接待員 |關聯",
-      "title_en": "Estera"
+      "title": "閾限 (Liminal)",
+      "link": "https://www.producthunt.com/products/liminal-4",
+      "desc": "為您、您的代理商和您的團隊提供工作空間和第二個大腦關聯",
+      "title_en": "Liminal"
     },
     {
-      "title": "Claude作品 5 (Claude Opus 5)",
-      "link": "https://www.producthunt.com/products/claude",
-      "desc": "接近神鬼Fable 5 的智能，價格減半 討論 |關聯",
-      "title_en": "Claude Opus 5"
+      "title": "跨越式人工智慧 (Leaping AI)",
+      "link": "https://www.producthunt.com/products/leaping-ai",
+      "desc": "人工智慧代理在多天的活動中打電話和發短信關聯",
+      "title_en": "Leaping AI"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Nvidia、微軟推出OpenAI安全聯盟——沒有 OpenAI、Google 或 Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "summary": "Nvidia 週一表示，它正在與微軟、SpaceX、IBM 和其他科技公司聯手建置和分享開放…",
+      "title": "人工智慧領導者簽署一份聲明，要求政府對自動化人工智慧採取措施",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+      "summary": "OpenAI 和 Anthropic 的員工，以及 Google、Meta、Thinking Machines、Microsoft、Mistral 和其他領先 AI 的員工…",
       "source": "The Verge"
-    },
-    {
-      "title": "Anthropic的Dario Amodei回應：不反對開放權重模型，但擔心中國AI",
-      "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
-      "summary": "Anthropic 創辦人兼執行長 Dario Amodei 明確表達了他對開放權重模型和中國不斷增長的人工智慧能力的看法…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "PSA：您的 Claude 共用聊天記錄和工件可能已出現在 Google 上",
-      "link": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
-      "summary": "這個問題似乎源於Claude的“共享聊天”功能，該功能允許用戶創建連結以啟用...",
-      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Nvidia、微軟推出OpenAI安全聯盟——沒有 OpenAI、Google 或 Anthropic",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-    "summary": "Nvidia 週一表示，它正在與微軟、SpaceX、IBM 和其他科技公司聯手建置和分享開放…",
+    "title": "人工智慧領導者簽署一份聲明，要求政府對自動化人工智慧採取措施",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+    "summary": "OpenAI 和 Anthropic 的員工，以及 Google、Meta、Thinking Machines、Microsoft、Mistral 和其他領先 AI 的員工…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "Tackly 繪旅遊地圖",
-      "detail": "用 Tackly 這個工具即時繪製旅遊地圖，然後發在 IG Story 或 FB Story，預計 3 天出成果"
+      "title": "Phantom賺錢機會",
+      "detail": "用Phantom優化Mac效率，幫助SS快速編輯旅遊影片 → 發在Instagram Reel → 預計3天出成果"
     },
     {
-      "title": "Robynn AI 自動回答",
-      "detail": "用 Robynn AI 設計一個自動回答旅遊相關問題的系統，發在官網或社交媒體，預計 1 周出成果"
+      "title": "FlowTask 2.0旅遊行銷",
+      "detail": "運用FlowTask 2.0分析旅遊市場趨勢，找出熱門目的地 → 發在SS的社交媒體 → 預計1周出成果"
     },
     {
-      "title": "Estera 接待旅遊查詢",
-      "detail": "用 Estera 這個 AI 接待員來接聽電話和 WhatsApp 查詢，然後發在官網或社交媒體介紹，預計 2 周出成果"
+      "title": "Growth Opt Playbook增長",
+      "detail": "利用Growth Opt Playbook分析SS的行銷數據，提出新一輪行銷策略 → 發在SS的部落格 → 預計2周出成果"
     }
   ],
   "history": {
@@ -5480,6 +5468,120 @@
         {
           "title": "Estera 接待旅遊查詢",
           "detail": "用 Estera 這個 AI 接待員來接聽電話和 WhatsApp 查詢，然後發在官網或社交媒體介紹，預計 2 周出成果"
+        }
+      ]
+    },
+    "2026-07-29": {
+      "news": [
+        {
+          "title": "人工智慧領導者簽署一份聲明，要求政府對自動化人工智慧採取措施",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+          "summary": "OpenAI 和 Anthropic 的員工，以及 Google、Meta、Thinking Machines、Microsoft、Mistral 和其他領先 AI 的員工…",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧終於昂貴到讓華爾街感到緊張",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+          "summary": "現在是財報季節，投資者從谷歌那裡得到了一個令人不快的驚喜：其支出預期上調至…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Perplexity 的個人電腦將 Windows PC 變成人工智慧代理",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+          "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popul…",
+          "source": "The Verge"
+        },
+        {
+          "title": "智慧戒指看起來就像我喜歡的人工智慧小工具",
+          "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+          "summary": "在過去的幾個月裡，我花了很多時間與電腦交談。 LLM 革命的一個被低估的特徵...",
+          "source": "The Verge"
+        },
+        {
+          "title": "擁抱臉被用來輕鬆脫掉婦女和兒童的衣服",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
+          "summary": "Hugging Face 被用來製作未經同意的 Deepfake，而流行的開源 AI 模型存儲庫正在做…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Cyera 同意以 10 億美元收購 Oasis Security，以保護不斷擴散的人工智慧代理",
+          "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+          "summary": "該交易是 Cyera 今年的第三次收購。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "機器人檢測新創公司 Spur 從 Insight 獲得 2 億美元投資",
+          "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+          "summary": "Spur Intelligence 已從 Insight Partners 籌集了 2 億美元資金，其技術可以識別合法的人口流動…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "MCP 新創公司 Runlayer 指責 Rippleing 竊取其產品創意",
+          "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+          "summary": "在 Rippling 評估了這家新創公司的 MCP 網關產品並選擇自行建造之後，Runlayer 正在起訴 Rippling…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "幻影 (Phantom)",
+          "link": "https://www.producthunt.com/products/phantom-6",
+          "desc": "操作您的 Mac 的語音優先 AI 代理關聯",
+          "title_en": "Phantom"
+        },
+        {
+          "title": "流程任務2.0 (FlowTask 2.0)",
+          "link": "https://www.producthunt.com/products/flowtask",
+          "desc": "AI 代理討論的公司大腦 |關聯",
+          "title_en": "FlowTask 2.0"
+        },
+        {
+          "title": "增長選擇手冊 (Growth Opt Playbook)",
+          "link": "https://www.producthunt.com/products/growth-opt-playbook",
+          "desc": "將行銷活動數據轉化為您的下一個行銷舉措關聯",
+          "title_en": "Growth Opt Playbook"
+        },
+        {
+          "title": "閾限 (Liminal)",
+          "link": "https://www.producthunt.com/products/liminal-4",
+          "desc": "為您、您的代理商和您的團隊提供工作空間和第二個大腦關聯",
+          "title_en": "Liminal"
+        },
+        {
+          "title": "跨越式人工智慧 (Leaping AI)",
+          "link": "https://www.producthunt.com/products/leaping-ai",
+          "desc": "人工智慧代理在多天的活動中打電話和發短信關聯",
+          "title_en": "Leaping AI"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "人工智慧領導者簽署一份聲明，要求政府對自動化人工智慧採取措施",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+          "summary": "OpenAI 和 Anthropic 的員工，以及 Google、Meta、Thinking Machines、Microsoft、Mistral 和其他領先 AI 的員工…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "人工智慧領導者簽署一份聲明，要求政府對自動化人工智慧採取措施",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+        "summary": "OpenAI 和 Anthropic 的員工，以及 Google、Meta、Thinking Machines、Microsoft、Mistral 和其他領先 AI 的員工…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "Phantom賺錢機會",
+          "detail": "用Phantom優化Mac效率，幫助SS快速編輯旅遊影片 → 發在Instagram Reel → 預計3天出成果"
+        },
+        {
+          "title": "FlowTask 2.0旅遊行銷",
+          "detail": "運用FlowTask 2.0分析旅遊市場趨勢，找出熱門目的地 → 發在SS的社交媒體 → 預計1周出成果"
+        },
+        {
+          "title": "Growth Opt Playbook增長",
+          "detail": "利用Growth Opt Playbook分析SS的行銷數據，提出新一輪行銷策略 → 發在SS的部落格 → 預計2周出成果"
         }
       ]
     }
