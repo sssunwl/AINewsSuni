@@ -1,115 +1,134 @@
 {
-  "updated": "2026-07-29 12:09 HKT",
+  "updated": "2026-07-30 11:54 HKT",
   "news": [
     {
-      "title": "人工智慧領導者簽署一份聲明，要求政府對自動化人工智慧採取措施",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "summary": "OpenAI 和 Anthropic 的員工，以及 Google、Meta、Thinking Machines、Microsoft、Mistral 和其他領先 AI 的員工…",
+      "title": "微軟證實 Copilot 「超級應用程式」將於今年推出",
+      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+      "summary": "微軟正在開發一款人工智慧“超級應用程式”，它結合了 Copilot 的聊天、編碼和代理功能。在賺取...",
       "source": "The Verge"
     },
     {
-      "title": "人工智慧終於昂貴到讓華爾街感到緊張",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
-      "summary": "現在是財報季節，投資者從谷歌那裡得到了一個令人不快的驚喜：其支出預期上調至…",
+      "title": "馬克·祖克柏正計劃大力推動個人人工智慧代理",
+      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+      "summary": "Meta 全力投入人工智慧領域，不久之後，該公司將大力推動個人人工智慧代理的發展…",
       "source": "The Verge"
     },
     {
-      "title": "Perplexity 的個人電腦將 Windows PC 變成人工智慧代理",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
-      "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popul…",
+      "title": "xAI 在最後一刻奮力阻止明尼蘇達州的反裸體應用法",
+      "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "summary": "xAI 正在起訴明尼蘇達州總檢察長基思·埃里森 (Keith Ellison)，原因是 5 月通過的一項廣泛針對「裸體」的法律…",
       "source": "The Verge"
     },
     {
-      "title": "智慧戒指看起來就像我喜歡的人工智慧小工具",
-      "link": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
-      "summary": "在過去的幾個月裡，我花了很多時間與電腦交談。 LLM 革命的一個被低估的特徵...",
+      "title": "OpenAI 總裁表示正在為其人工智慧聊天機器人“打造一系列設備”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "summary": "OpenAI 總裁 Greg Brockman 在我們的朋友喬安娜·斯特恩 (Joanna Stern) 的 YouTube 頻道上接受采訪時表示，該公司…",
       "source": "The Verge"
     },
     {
-      "title": "擁抱臉被用來輕鬆脫掉婦女和兒童的衣服",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971723/hugging-face-nudify-deepfake-undress-women-children",
-      "summary": "Hugging Face 被用來製作未經同意的 Deepfake，而流行的開源 AI 模型存儲庫正在做…",
+      "title": "藝術家們正在就人工智慧的不當行為進行律師訴訟，有些甚至勝訴",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+      "summary": "當《大西洋月刊》發布了用於訓練人工智慧的可搜尋作品資料集時，柯克·華萊士·約翰遜（Kirk Wallace Johnson）和許多藝術家一樣…",
       "source": "The Verge"
     },
     {
-      "title": "Cyera 同意以 10 億美元收購 Oasis Security，以保護不斷擴散的人工智慧代理",
-      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "summary": "該交易是 Cyera 今年的第三次收購。",
-      "source": "TechCrunch"
+      "title": "OpenAI 的流氓 AI 代理並沒有停止攻擊 Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "summary": "從 OpenAI 逃脫併入侵開發者平台 Hugging Face 的 AI 代理也攻擊了其他公司，OpenA…",
+      "source": "The Verge"
     },
     {
-      "title": "機器人檢測新創公司 Spur 從 Insight 獲得 2 億美元投資",
-      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "summary": "Spur Intelligence 已從 Insight Partners 籌集了 2 億美元資金，其技術可以識別合法的人口流動…",
-      "source": "TechCrunch"
+      "title": "我們已經沒有理由忽視人工智慧安全了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+      "summary": "本月早些時候，OpenAI 給它的幾個人工智慧模型分配了一項任務：完成一項旨在衡量其網路安全性的測試…",
+      "source": "The Verge"
     },
     {
-      "title": "MCP 新創公司 Runlayer 指責 Rippleing 竊取其產品創意",
-      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "summary": "在 Rippling 評估了這家新創公司的 MCP 網關產品並選擇自行建造之後，Runlayer 正在起訴 Rippling…",
+      "title": "微軟比以往任何時候都更公開地與 OpenAI、Anthropic 競爭",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+      "summary": "週三，微軟推銷了自己的本土人工智慧模型、工具，甚至還有 Mythos 的競爭對手，並告訴華爾街…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "幻影 (Phantom)",
-      "link": "https://www.producthunt.com/products/phantom-6",
-      "desc": "操作您的 Mac 的語音優先 AI 代理關聯",
-      "title_en": "Phantom"
+      "title": "聲門吉他 (SoundGate Guitar)",
+      "link": "https://www.producthunt.com/products/soundgate-guitar-app",
+      "desc": "AI 音樂導師，為您的演奏提供即時回饋 討論 |關聯",
+      "title_en": "SoundGate Guitar"
     },
     {
-      "title": "流程任務2.0 (FlowTask 2.0)",
-      "link": "https://www.producthunt.com/products/flowtask",
-      "desc": "AI 代理討論的公司大腦 |關聯",
-      "title_en": "FlowTask 2.0"
+      "title": "普雷林特 (Prelint)",
+      "link": "https://www.producthunt.com/products/prelint",
+      "desc": "防止 AI 編寫的程式碼中的產品偏差 討論 |關聯",
+      "title_en": "Prelint"
     },
     {
-      "title": "增長選擇手冊 (Growth Opt Playbook)",
-      "link": "https://www.producthunt.com/products/growth-opt-playbook",
-      "desc": "將行銷活動數據轉化為您的下一個行銷舉措關聯",
-      "title_en": "Growth Opt Playbook"
+      "title": "黑耀 (BlackFlare)",
+      "link": "https://www.producthunt.com/products/blackflare",
+      "desc": "功能表列中 Claude Code 和 Codex 的任務控制 討論 |關聯",
+      "title_en": "BlackFlare"
     },
     {
-      "title": "閾限 (Liminal)",
-      "link": "https://www.producthunt.com/products/liminal-4",
-      "desc": "為您、您的代理商和您的團隊提供工作空間和第二個大腦關聯",
-      "title_en": "Liminal"
+      "title": "EQK 3.0",
+      "link": "https://www.producthunt.com/products/eqk-eq-with-ai",
+      "desc": "具有動態 AI 均衡器討論的 Mac 應用程式關聯",
+      "title_en": "EQK 3.0"
     },
     {
-      "title": "跨越式人工智慧 (Leaping AI)",
-      "link": "https://www.producthunt.com/products/leaping-ai",
-      "desc": "人工智慧代理在多天的活動中打電話和發短信關聯",
-      "title_en": "Leaping AI"
+      "title": "貝拉 (Vela)",
+      "link": "https://www.producthunt.com/products/vela-4",
+      "desc": "人工智慧招募協調員討論 |關聯",
+      "title_en": "Vela"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "OpenAI 總裁表示正在為其人工智慧聊天機器人“打造一系列設備”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "summary": "OpenAI 總裁 Greg Brockman 在我們的朋友喬安娜·斯特恩 (Joanna Stern) 的 YouTube 頻道上接受采訪時表示，該公司…",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "人工智慧領導者簽署一份聲明，要求政府對自動化人工智慧採取措施",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-      "summary": "OpenAI 和 Anthropic 的員工，以及 Google、Meta、Thinking Machines、Microsoft、Mistral 和其他領先 AI 的員工…",
+      "title": "xAI 在最後一刻奮力阻止明尼蘇達州的反裸體應用法",
+      "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+      "summary": "xAI 正在起訴明尼蘇達州總檢察長基思·埃里森 (Keith Ellison)，原因是 5 月通過的一項廣泛針對「裸體」的法律…",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI 總裁表示正在為其人工智慧聊天機器人“打造一系列設備”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+      "summary": "OpenAI 總裁 Greg Brockman 在我們的朋友喬安娜·斯特恩 (Joanna Stern) 的 YouTube 頻道上接受采訪時表示，該公司…",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI 的流氓 AI 代理並沒有停止攻擊 Hugging Face",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+      "summary": "從 OpenAI 逃脫併入侵開發者平台 Hugging Face 的 AI 代理也攻擊了其他公司，OpenA…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "人工智慧領導者簽署一份聲明，要求政府對自動化人工智慧採取措施",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
-    "summary": "OpenAI 和 Anthropic 的員工，以及 Google、Meta、Thinking Machines、Microsoft、Mistral 和其他領先 AI 的員工…",
+    "title": "xAI 在最後一刻奮力阻止明尼蘇達州的反裸體應用法",
+    "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+    "summary": "xAI 正在起訴明尼蘇達州總檢察長基思·埃里森 (Keith Ellison)，原因是 5 月通過的一項廣泛針對「裸體」的法律…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "Phantom賺錢機會",
-      "detail": "用Phantom優化Mac效率，幫助SS快速編輯旅遊影片 → 發在Instagram Reel → 預計3天出成果"
+      "title": "用 SoundGate Guitar 創作旅遊歌曲",
+      "detail": "我想用 SoundGate Guitar 來創作一首旅遊歌曲，發在 SS 的社交媒體上，預計 3 天後就能出成果"
     },
     {
-      "title": "FlowTask 2.0旅遊行銷",
-      "detail": "運用FlowTask 2.0分析旅遊市場趨勢，找出熱門目的地 → 發在SS的社交媒體 → 預計1周出成果"
+      "title": "Claude Code 生成旅遊內容",
+      "detail": "我會用 BlackFlare 來控制 Claude Code 生成旅遊內容，然後發在 SS 的博客上，預計 5 天後就能出成果"
     },
     {
-      "title": "Growth Opt Playbook增長",
-      "detail": "利用Growth Opt Playbook分析SS的行銷數據，提出新一輪行銷策略 → 發在SS的部落格 → 預計2周出成果"
+      "title": "Prelint 檢查旅遊程式碼",
+      "detail": "我會用 Prelint 來檢查 SS 的旅遊程式碼，防止 AI 編寫的程式碼中的產品偏差，然後發在 SS 的 GitHub 上，預計 2 天後就能出成果"
     }
   ],
   "history": {
@@ -5582,6 +5601,139 @@
         {
           "title": "Growth Opt Playbook增長",
           "detail": "利用Growth Opt Playbook分析SS的行銷數據，提出新一輪行銷策略 → 發在SS的部落格 → 預計2周出成果"
+        }
+      ]
+    },
+    "2026-07-30": {
+      "news": [
+        {
+          "title": "微軟證實 Copilot 「超級應用程式」將於今年推出",
+          "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+          "summary": "微軟正在開發一款人工智慧“超級應用程式”，它結合了 Copilot 的聊天、編碼和代理功能。在賺取...",
+          "source": "The Verge"
+        },
+        {
+          "title": "馬克·祖克柏正計劃大力推動個人人工智慧代理",
+          "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+          "summary": "Meta 全力投入人工智慧領域，不久之後，該公司將大力推動個人人工智慧代理的發展…",
+          "source": "The Verge"
+        },
+        {
+          "title": "xAI 在最後一刻奮力阻止明尼蘇達州的反裸體應用法",
+          "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+          "summary": "xAI 正在起訴明尼蘇達州總檢察長基思·埃里森 (Keith Ellison)，原因是 5 月通過的一項廣泛針對「裸體」的法律…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 總裁表示正在為其人工智慧聊天機器人“打造一系列設備”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+          "summary": "OpenAI 總裁 Greg Brockman 在我們的朋友喬安娜·斯特恩 (Joanna Stern) 的 YouTube 頻道上接受采訪時表示，該公司…",
+          "source": "The Verge"
+        },
+        {
+          "title": "藝術家們正在就人工智慧的不當行為進行律師訴訟，有些甚至勝訴",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
+          "summary": "當《大西洋月刊》發布了用於訓練人工智慧的可搜尋作品資料集時，柯克·華萊士·約翰遜（Kirk Wallace Johnson）和許多藝術家一樣…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 的流氓 AI 代理並沒有停止攻擊 Hugging Face",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+          "summary": "從 OpenAI 逃脫併入侵開發者平台 Hugging Face 的 AI 代理也攻擊了其他公司，OpenA…",
+          "source": "The Verge"
+        },
+        {
+          "title": "我們已經沒有理由忽視人工智慧安全了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
+          "summary": "本月早些時候，OpenAI 給它的幾個人工智慧模型分配了一項任務：完成一項旨在衡量其網路安全性的測試…",
+          "source": "The Verge"
+        },
+        {
+          "title": "微軟比以往任何時候都更公開地與 OpenAI、Anthropic 競爭",
+          "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+          "summary": "週三，微軟推銷了自己的本土人工智慧模型、工具，甚至還有 Mythos 的競爭對手，並告訴華爾街…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "聲門吉他 (SoundGate Guitar)",
+          "link": "https://www.producthunt.com/products/soundgate-guitar-app",
+          "desc": "AI 音樂導師，為您的演奏提供即時回饋 討論 |關聯",
+          "title_en": "SoundGate Guitar"
+        },
+        {
+          "title": "普雷林特 (Prelint)",
+          "link": "https://www.producthunt.com/products/prelint",
+          "desc": "防止 AI 編寫的程式碼中的產品偏差 討論 |關聯",
+          "title_en": "Prelint"
+        },
+        {
+          "title": "黑耀 (BlackFlare)",
+          "link": "https://www.producthunt.com/products/blackflare",
+          "desc": "功能表列中 Claude Code 和 Codex 的任務控制 討論 |關聯",
+          "title_en": "BlackFlare"
+        },
+        {
+          "title": "EQK 3.0",
+          "link": "https://www.producthunt.com/products/eqk-eq-with-ai",
+          "desc": "具有動態 AI 均衡器討論的 Mac 應用程式關聯",
+          "title_en": "EQK 3.0"
+        },
+        {
+          "title": "貝拉 (Vela)",
+          "link": "https://www.producthunt.com/products/vela-4",
+          "desc": "人工智慧招募協調員討論 |關聯",
+          "title_en": "Vela"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "OpenAI 總裁表示正在為其人工智慧聊天機器人“打造一系列設備”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+          "summary": "OpenAI 總裁 Greg Brockman 在我們的朋友喬安娜·斯特恩 (Joanna Stern) 的 YouTube 頻道上接受采訪時表示，該公司…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "xAI 在最後一刻奮力阻止明尼蘇達州的反裸體應用法",
+          "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+          "summary": "xAI 正在起訴明尼蘇達州總檢察長基思·埃里森 (Keith Ellison)，原因是 5 月通過的一項廣泛針對「裸體」的法律…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 總裁表示正在為其人工智慧聊天機器人“打造一系列設備”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+          "summary": "OpenAI 總裁 Greg Brockman 在我們的朋友喬安娜·斯特恩 (Joanna Stern) 的 YouTube 頻道上接受采訪時表示，該公司…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 的流氓 AI 代理並沒有停止攻擊 Hugging Face",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
+          "summary": "從 OpenAI 逃脫併入侵開發者平台 Hugging Face 的 AI 代理也攻擊了其他公司，OpenA…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "xAI 在最後一刻奮力阻止明尼蘇達州的反裸體應用法",
+        "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+        "summary": "xAI 正在起訴明尼蘇達州總檢察長基思·埃里森 (Keith Ellison)，原因是 5 月通過的一項廣泛針對「裸體」的法律…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 SoundGate Guitar 創作旅遊歌曲",
+          "detail": "我想用 SoundGate Guitar 來創作一首旅遊歌曲，發在 SS 的社交媒體上，預計 3 天後就能出成果"
+        },
+        {
+          "title": "Claude Code 生成旅遊內容",
+          "detail": "我會用 BlackFlare 來控制 Claude Code 生成旅遊內容，然後發在 SS 的博客上，預計 5 天後就能出成果"
+        },
+        {
+          "title": "Prelint 檢查旅遊程式碼",
+          "detail": "我會用 Prelint 來檢查 SS 的旅遊程式碼，防止 AI 編寫的程式碼中的產品偏差，然後發在 SS 的 GitHub 上，預計 2 天後就能出成果"
         }
       ]
     }
