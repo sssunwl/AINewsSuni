@@ -1,134 +1,127 @@
 {
-  "updated": "2026-07-30 11:54 HKT",
+  "updated": "2026-07-31 12:19 HKT",
   "news": [
     {
-      "title": "微軟證實 Copilot 「超級應用程式」將於今年推出",
-      "link": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
-      "summary": "微軟正在開發一款人工智慧“超級應用程式”，它結合了 Copilot 的聊天、編碼和代理功能。在賺取...",
+      "title": "庫克 (Tim Cook) 暗示為 AI 高級用戶推出 iCloud Plus 層級",
+      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+      "summary": "蘋果可能允許用戶付費以提高人工智慧的使用限制。在周四的財報電話會議上，蘋果執行長庫克…",
       "source": "The Verge"
     },
     {
-      "title": "馬克·祖克柏正計劃大力推動個人人工智慧代理",
-      "link": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
-      "summary": "Meta 全力投入人工智慧領域，不久之後，該公司將大力推動個人人工智慧代理的發展…",
+      "title": "情境意識的喪失",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+      "summary": "我無論如何都不是金融專家，但我想我現在對那些人有一些建議：不要說出你的他......",
       "source": "The Verge"
     },
     {
-      "title": "xAI 在最後一刻奮力阻止明尼蘇達州的反裸體應用法",
-      "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-      "summary": "xAI 正在起訴明尼蘇達州總檢察長基思·埃里森 (Keith Ellison)，原因是 5 月通過的一項廣泛針對「裸體」的法律…",
+      "title": "LinkedIn 實際上添加了一個「看起來像 AI slop」按鈕",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+      "summary": "LinkedIn 上的許多內容可能看起來像是人工智慧的廢話，現在，你將能夠舉報這些貼文。作為系列的一部分…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 總裁表示正在為其人工智慧聊天機器人“打造一系列設備”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "summary": "OpenAI 總裁 Greg Brockman 在我們的朋友喬安娜·斯特恩 (Joanna Stern) 的 YouTube 頻道上接受采訪時表示，該公司…",
+      "title": "谷歌DeepMind的新人工智慧模型可以控制機器人的整個身體",
+      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "summary": "Google DeepMind 表示，其 Gemini Robotics 人工智慧模型的最新版本可以「控制整個人形機器人」。雖然…",
       "source": "The Verge"
     },
     {
-      "title": "藝術家們正在就人工智慧的不當行為進行律師訴訟，有些甚至勝訴",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/971059/ai-artists-lawsuit-google-meta-anthropic",
-      "summary": "當《大西洋月刊》發布了用於訓練人工智慧的可搜尋作品資料集時，柯克·華萊士·約翰遜（Kirk Wallace Johnson）和許多藝術家一樣…",
+      "title": "Friend 重新推出人工智慧吊墜，配備能與你說話的揚聲器，價格是原來的兩倍",
+      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+      "summary": "你還記得朋友嗎？ The Friend 推出了一款 AI 掛件，花費了 250 萬美元資金中的 180 萬美元來收購…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 的流氓 AI 代理並沒有停止攻擊 Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "summary": "從 OpenAI 逃脫併入侵開發者平台 Hugging Face 的 AI 代理也攻擊了其他公司，OpenA…",
-      "source": "The Verge"
+      "title": "Anthropic 表示，其自己的人工智慧模型在安全測試中入侵了三家公司",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "summary": "OpenAI的模式闖入Hugging Face後，Anthropic檢視了自己的歷史，發現了三起類似事件",
+      "source": "TechCrunch"
     },
     {
-      "title": "我們已經沒有理由忽視人工智慧安全了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972380/open-ai-hugging-face-hack-ai-safety-warning",
-      "summary": "本月早些時候，OpenAI 給它的幾個人工智慧模型分配了一項任務：完成一項旨在衡量其網路安全性的測試…",
-      "source": "The Verge"
+      "title": "AI 對沖基金 Situation Awareness 可能已出售其公開投資組合，但仍持有 Anthropic 股票",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "summary": "在槓桿公開押注暴跌後，這位前 OpenAI 研究人員的基金被迫拋售公開股票。但他是…",
+      "source": "TechCrunch"
     },
     {
-      "title": "微軟比以往任何時候都更公開地與 OpenAI、Anthropic 競爭",
-      "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-      "summary": "週三，微軟推銷了自己的本土人工智慧模型、工具，甚至還有 Mythos 的競爭對手，並告訴華爾街…",
+      "title": "Reddit 報告季度表現穩健，但顯示出人工智慧影響的跡象",
+      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+      "summary": "Reddit 的財務狀況看起來不錯，但其與Google和新的人工智慧化網路的關係存在不確定性…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "聲門吉他 (SoundGate Guitar)",
-      "link": "https://www.producthunt.com/products/soundgate-guitar-app",
-      "desc": "AI 音樂導師，為您的演奏提供即時回饋 討論 |關聯",
-      "title_en": "SoundGate Guitar"
+      "title": "人工智慧搜尋控制台 (AI Search Console)",
+      "link": "https://www.producthunt.com/products/ai-search-console",
+      "desc": "AI 搜尋的即時分析和引文映射關聯",
+      "title_en": "AI Search Console"
     },
     {
-      "title": "普雷林特 (Prelint)",
-      "link": "https://www.producthunt.com/products/prelint",
-      "desc": "防止 AI 編寫的程式碼中的產品偏差 討論 |關聯",
-      "title_en": "Prelint"
+      "title": "帕利 (Pally)",
+      "link": "https://www.producthunt.com/products/pally",
+      "desc": "存在於您的文字中的您的私人助理 討論 |關聯",
+      "title_en": "Pally"
     },
     {
-      "title": "黑耀 (BlackFlare)",
-      "link": "https://www.producthunt.com/products/blackflare",
-      "desc": "功能表列中 Claude Code 和 Codex 的任務控制 討論 |關聯",
-      "title_en": "BlackFlare"
+      "title": "索里內 (Sorinai)",
+      "link": "https://www.producthunt.com/products/sorinai",
+      "desc": "用於會議討論的互動式 AI 記事本 |關聯",
+      "title_en": "Sorinai"
     },
     {
-      "title": "EQK 3.0",
-      "link": "https://www.producthunt.com/products/eqk-eq-with-ai",
-      "desc": "具有動態 AI 均衡器討論的 Mac 應用程式關聯",
-      "title_en": "EQK 3.0"
+      "title": "滑雪 (SKI)",
+      "link": "https://www.producthunt.com/products/ski",
+      "desc": "Claude Code、Codex 等的免費語音編碼 討論 |關聯",
+      "title_en": "SKI"
     },
     {
-      "title": "貝拉 (Vela)",
-      "link": "https://www.producthunt.com/products/vela-4",
-      "desc": "人工智慧招募協調員討論 |關聯",
-      "title_en": "Vela"
+      "title": "塔布洛 (tablo)",
+      "link": "https://www.producthunt.com/products/tablo-a-desktop-cat-widget",
+      "desc": "A tiny cat that watches your AI coding agents for you Discussion | Link",
+      "title_en": "tablo"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "OpenAI 總裁表示正在為其人工智慧聊天機器人“打造一系列設備”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "summary": "OpenAI 總裁 Greg Brockman 在我們的朋友喬安娜·斯特恩 (Joanna Stern) 的 YouTube 頻道上接受采訪時表示，該公司…",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "xAI 在最後一刻奮力阻止明尼蘇達州的反裸體應用法",
-      "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-      "summary": "xAI 正在起訴明尼蘇達州總檢察長基思·埃里森 (Keith Ellison)，原因是 5 月通過的一項廣泛針對「裸體」的法律…",
+      "title": "谷歌DeepMind的新人工智慧模型可以控制機器人的整個身體",
+      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+      "summary": "Google DeepMind 表示，其 Gemini Robotics 人工智慧模型的最新版本可以「控制整個人形機器人」。雖然…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 總裁表示正在為其人工智慧聊天機器人“打造一系列設備”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
-      "summary": "OpenAI 總裁 Greg Brockman 在我們的朋友喬安娜·斯特恩 (Joanna Stern) 的 YouTube 頻道上接受采訪時表示，該公司…",
-      "source": "The Verge"
+      "title": "Anthropic 表示，其自己的人工智慧模型在安全測試中入侵了三家公司",
+      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+      "summary": "OpenAI的模式闖入Hugging Face後，Anthropic檢視了自己的歷史，發現了三起類似事件",
+      "source": "TechCrunch"
     },
     {
-      "title": "OpenAI 的流氓 AI 代理並沒有停止攻擊 Hugging Face",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "summary": "從 OpenAI 逃脫併入侵開發者平台 Hugging Face 的 AI 代理也攻擊了其他公司，OpenA…",
-      "source": "The Verge"
+      "title": "AI 對沖基金 Situation Awareness 可能已出售其公開投資組合，但仍持有 Anthropic 股票",
+      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+      "summary": "在槓桿公開押注暴跌後，這位前 OpenAI 研究人員的基金被迫拋售公開股票。但他是…",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "xAI 在最後一刻奮力阻止明尼蘇達州的反裸體應用法",
-    "link": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
-    "summary": "xAI 正在起訴明尼蘇達州總檢察長基思·埃里森 (Keith Ellison)，原因是 5 月通過的一項廣泛針對「裸體」的法律…",
+    "title": "谷歌DeepMind的新人工智慧模型可以控制機器人的整個身體",
+    "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+    "summary": "Google DeepMind 表示，其 Gemini Robotics 人工智慧模型的最新版本可以「控制整個人形機器人」。雖然…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用 SoundGate Guitar 創作旅遊歌曲",
-      "detail": "我想用 SoundGate Guitar 來創作一首旅遊歌曲，發在 SS 的社交媒體上，預計 3 天後就能出成果"
+      "title": "AI搜尋賺錢",
+      "detail": "用AI Search Console分析旅遊內容搜尋關鍵字，找出熱門關注點，發佈相關內容在社交媒體，預計一周出成果"
     },
     {
-      "title": "Claude Code 生成旅遊內容",
-      "detail": "我會用 BlackFlare 來控制 Claude Code 生成旅遊內容，然後發在 SS 的博客上，預計 5 天後就能出成果"
+      "title": "私人助理節省時間",
+      "detail": "用Pally做私人助理，自動化文案編輯和回覆，節省時間專注內容創作，發佈在YouTube和Facebook，預計3天出成果"
     },
     {
-      "title": "Prelint 檢查旅遊程式碼",
-      "detail": "我會用 Prelint 來檢查 SS 的旅遊程式碼，防止 AI 編寫的程式碼中的產品偏差，然後發在 SS 的 GitHub 上，預計 2 天後就能出成果"
+      "title": "會議記錄變現",
+      "detail": "用Sorinai記錄會議討論，生成互動式內容，發佈在LinkedIn和Twitter，預計2天出成果"
     }
   ],
   "history": {
@@ -5734,6 +5727,132 @@
         {
           "title": "Prelint 檢查旅遊程式碼",
           "detail": "我會用 Prelint 來檢查 SS 的旅遊程式碼，防止 AI 編寫的程式碼中的產品偏差，然後發在 SS 的 GitHub 上，預計 2 天後就能出成果"
+        }
+      ]
+    },
+    "2026-07-31": {
+      "news": [
+        {
+          "title": "庫克 (Tim Cook) 暗示為 AI 高級用戶推出 iCloud Plus 層級",
+          "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+          "summary": "蘋果可能允許用戶付費以提高人工智慧的使用限制。在周四的財報電話會議上，蘋果執行長庫克…",
+          "source": "The Verge"
+        },
+        {
+          "title": "情境意識的喪失",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+          "summary": "我無論如何都不是金融專家，但我想我現在對那些人有一些建議：不要說出你的他......",
+          "source": "The Verge"
+        },
+        {
+          "title": "LinkedIn 實際上添加了一個「看起來像 AI slop」按鈕",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+          "summary": "LinkedIn 上的許多內容可能看起來像是人工智慧的廢話，現在，你將能夠舉報這些貼文。作為系列的一部分…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌DeepMind的新人工智慧模型可以控制機器人的整個身體",
+          "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+          "summary": "Google DeepMind 表示，其 Gemini Robotics 人工智慧模型的最新版本可以「控制整個人形機器人」。雖然…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Friend 重新推出人工智慧吊墜，配備能與你說話的揚聲器，價格是原來的兩倍",
+          "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+          "summary": "你還記得朋友嗎？ The Friend 推出了一款 AI 掛件，花費了 250 萬美元資金中的 180 萬美元來收購…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 表示，其自己的人工智慧模型在安全測試中入侵了三家公司",
+          "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+          "summary": "OpenAI的模式闖入Hugging Face後，Anthropic檢視了自己的歷史，發現了三起類似事件",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI 對沖基金 Situation Awareness 可能已出售其公開投資組合，但仍持有 Anthropic 股票",
+          "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+          "summary": "在槓桿公開押注暴跌後，這位前 OpenAI 研究人員的基金被迫拋售公開股票。但他是…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Reddit 報告季度表現穩健，但顯示出人工智慧影響的跡象",
+          "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+          "summary": "Reddit 的財務狀況看起來不錯，但其與Google和新的人工智慧化網路的關係存在不確定性…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "人工智慧搜尋控制台 (AI Search Console)",
+          "link": "https://www.producthunt.com/products/ai-search-console",
+          "desc": "AI 搜尋的即時分析和引文映射關聯",
+          "title_en": "AI Search Console"
+        },
+        {
+          "title": "帕利 (Pally)",
+          "link": "https://www.producthunt.com/products/pally",
+          "desc": "存在於您的文字中的您的私人助理 討論 |關聯",
+          "title_en": "Pally"
+        },
+        {
+          "title": "索里內 (Sorinai)",
+          "link": "https://www.producthunt.com/products/sorinai",
+          "desc": "用於會議討論的互動式 AI 記事本 |關聯",
+          "title_en": "Sorinai"
+        },
+        {
+          "title": "滑雪 (SKI)",
+          "link": "https://www.producthunt.com/products/ski",
+          "desc": "Claude Code、Codex 等的免費語音編碼 討論 |關聯",
+          "title_en": "SKI"
+        },
+        {
+          "title": "塔布洛 (tablo)",
+          "link": "https://www.producthunt.com/products/tablo-a-desktop-cat-widget",
+          "desc": "A tiny cat that watches your AI coding agents for you Discussion | Link",
+          "title_en": "tablo"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "谷歌DeepMind的新人工智慧模型可以控制機器人的整個身體",
+          "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+          "summary": "Google DeepMind 表示，其 Gemini Robotics 人工智慧模型的最新版本可以「控制整個人形機器人」。雖然…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 表示，其自己的人工智慧模型在安全測試中入侵了三家公司",
+          "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+          "summary": "OpenAI的模式闖入Hugging Face後，Anthropic檢視了自己的歷史，發現了三起類似事件",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI 對沖基金 Situation Awareness 可能已出售其公開投資組合，但仍持有 Anthropic 股票",
+          "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
+          "summary": "在槓桿公開押注暴跌後，這位前 OpenAI 研究人員的基金被迫拋售公開股票。但他是…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "谷歌DeepMind的新人工智慧模型可以控制機器人的整個身體",
+        "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+        "summary": "Google DeepMind 表示，其 Gemini Robotics 人工智慧模型的最新版本可以「控制整個人形機器人」。雖然…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "AI搜尋賺錢",
+          "detail": "用AI Search Console分析旅遊內容搜尋關鍵字，找出熱門關注點，發佈相關內容在社交媒體，預計一周出成果"
+        },
+        {
+          "title": "私人助理節省時間",
+          "detail": "用Pally做私人助理，自動化文案編輯和回覆，節省時間專注內容創作，發佈在YouTube和Facebook，預計3天出成果"
+        },
+        {
+          "title": "會議記錄變現",
+          "detail": "用Sorinai記錄會議討論，生成互動式內容，發佈在LinkedIn和Twitter，預計2天出成果"
         }
       ]
     }
