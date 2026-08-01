@@ -1,127 +1,127 @@
 {
-  "updated": "2026-07-31 12:19 HKT",
+  "updated": "2026-08-01 12:18 HKT",
   "news": [
     {
-      "title": "庫克 (Tim Cook) 暗示為 AI 高級用戶推出 iCloud Plus 層級",
-      "link": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
-      "summary": "蘋果可能允許用戶付費以提高人工智慧的使用限制。在周四的財報電話會議上，蘋果執行長庫克…",
+      "title": "谷歌地球的AI Deepfake工具只持續了一天",
+      "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+      "summary": "谷歌已經關閉了周四推出的谷歌地球功能，該功能允許用戶使用文字編輯衛星圖像...",
       "source": "The Verge"
     },
     {
-      "title": "情境意識的喪失",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
-      "summary": "我無論如何都不是金融專家，但我想我現在對那些人有一些建議：不要說出你的他......",
+      "title": "這是在 Google Earth 中放置 AI 圖像生成器的問題",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+      "summary": "只需一個文字提示即可使用 Google 地球的衛星、空拍和 3D 圖像生成扭曲現實的圖像…",
       "source": "The Verge"
     },
     {
-      "title": "LinkedIn 實際上添加了一個「看起來像 AI slop」按鈕",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
-      "summary": "LinkedIn 上的許多內容可能看起來像是人工智慧的廢話，現在，你將能夠舉報這些貼文。作為系列的一部分…",
+      "title": "主要唱片公司提出規則以防止人工智慧在排行榜上失勢",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+      "summary": "包括三巨頭——環球音樂集團、索尼音樂和華納音樂集團在內的多家唱片公司都提出了...",
       "source": "The Verge"
     },
     {
-      "title": "谷歌DeepMind的新人工智慧模型可以控制機器人的整個身體",
-      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "summary": "Google DeepMind 表示，其 Gemini Robotics 人工智慧模型的最新版本可以「控制整個人形機器人」。雖然…",
+      "title": "是時候對人工智慧安全感到恐慌了",
+      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "summary": "當「OpenAI hacked Hugging Face」這句話或多或少進入主流文化時，你就知道我們遇到了人工智慧問題...",
       "source": "The Verge"
     },
     {
-      "title": "Friend 重新推出人工智慧吊墜，配備能與你說話的揚聲器，價格是原來的兩倍",
-      "link": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
-      "summary": "你還記得朋友嗎？ The Friend 推出了一款 AI 掛件，花費了 250 萬美元資金中的 180 萬美元來收購…",
+      "title": "Anthropic 表示Claude也無意中入侵了真實的公司",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "summary": "Anthropic 剛剛意識到，其幾個 Claude AI 模型在…期間侵入了三個不同組織的系統。",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 表示，其自己的人工智慧模型在安全測試中入侵了三家公司",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "summary": "OpenAI的模式闖入Hugging Face後，Anthropic檢視了自己的歷史，發現了三起類似事件",
+      "title": "據報道，OpenAI 發現證據表明其更多特工肆意妄為",
+      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "summary": "據報道，OpenAI 在調查與胡發生的事件時發現了其他特工不當行為的證據...",
       "source": "TechCrunch"
     },
     {
-      "title": "AI 對沖基金 Situation Awareness 可能已出售其公開投資組合，但仍持有 Anthropic 股票",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "summary": "在槓桿公開押注暴跌後，這位前 OpenAI 研究人員的基金被迫拋售公開股票。但他是…",
+      "title": "印度開始為應用程式付費，而不僅僅是下載它們",
+      "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+      "summary": "印度應用程式市場在第二季創造了創紀錄的 3.45 億美元收入。",
       "source": "TechCrunch"
     },
     {
-      "title": "Reddit 報告季度表現穩健，但顯示出人工智慧影響的跡象",
-      "link": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
-      "summary": "Reddit 的財務狀況看起來不錯，但其與Google和新的人工智慧化網路的關係存在不確定性…",
+      "title": "谷歌在推出一天後取消了其地球人工智慧功能，因批評該功能會傳播錯誤訊息",
+      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+      "summary": "一種工具，允許任何人生成假的人工智慧生成的圖像，並將其快速疊加在真實的谷歌地球地圖上...",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "人工智慧搜尋控制台 (AI Search Console)",
-      "link": "https://www.producthunt.com/products/ai-search-console",
-      "desc": "AI 搜尋的即時分析和引文映射關聯",
-      "title_en": "AI Search Console"
+      "title": "追蹤法學碩士 (TraceLLM)",
+      "link": "https://www.producthunt.com/products/tracellm",
+      "desc": "用於生產 AI 應用程式的 OpenTelemetry 討論 |關聯",
+      "title_en": "TraceLLM"
     },
     {
-      "title": "帕利 (Pally)",
-      "link": "https://www.producthunt.com/products/pally",
-      "desc": "存在於您的文字中的您的私人助理 討論 |關聯",
-      "title_en": "Pally"
+      "title": "螢幕截圖 (Screencap)",
+      "link": "https://www.producthunt.com/products/screencap",
+      "desc": "將團隊的真實工作流程轉化為 AI 訓練資料 討論 |關聯",
+      "title_en": "Screencap"
     },
     {
-      "title": "索里內 (Sorinai)",
-      "link": "https://www.producthunt.com/products/sorinai",
-      "desc": "用於會議討論的互動式 AI 記事本 |關聯",
-      "title_en": "Sorinai"
+      "title": "維特爾 (witr)",
+      "link": "https://www.producthunt.com/products/witr",
+      "desc": "這是為什麼運行？追蹤進程、連接埠、容器或檔案關聯",
+      "title_en": "witr"
     },
     {
-      "title": "滑雪 (SKI)",
-      "link": "https://www.producthunt.com/products/ski",
-      "desc": "Claude Code、Codex 等的免費語音編碼 討論 |關聯",
-      "title_en": "SKI"
+      "title": "深層數據 (DepthData)",
+      "link": "https://www.producthunt.com/products/depthdata",
+      "desc": "公司人工智慧支出的記錄系統。討論 |關聯",
+      "title_en": "DepthData"
     },
     {
-      "title": "塔布洛 (tablo)",
-      "link": "https://www.producthunt.com/products/tablo-a-desktop-cat-widget",
-      "desc": "A tiny cat that watches your AI coding agents for you Discussion | Link",
-      "title_en": "tablo"
+      "title": "波思實驗室 (Poth Labs)",
+      "link": "https://www.producthunt.com/products/poth-labs",
+      "desc": "貴公司的客戶大腦 討論 |關聯",
+      "title_en": "Poth Labs"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "谷歌DeepMind的新人工智慧模型可以控制機器人的整個身體",
-      "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-      "summary": "Google DeepMind 表示，其 Gemini Robotics 人工智慧模型的最新版本可以「控制整個人形機器人」。雖然…",
+      "title": "是時候對人工智慧安全感到恐慌了",
+      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+      "summary": "當「OpenAI hacked Hugging Face」這句話或多或少進入主流文化時，你就知道我們遇到了人工智慧問題...",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 表示，其自己的人工智慧模型在安全測試中入侵了三家公司",
-      "link": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
-      "summary": "OpenAI的模式闖入Hugging Face後，Anthropic檢視了自己的歷史，發現了三起類似事件",
-      "source": "TechCrunch"
+      "title": "Anthropic 表示Claude也無意中入侵了真實的公司",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+      "summary": "Anthropic 剛剛意識到，其幾個 Claude AI 模型在…期間侵入了三個不同組織的系統。",
+      "source": "The Verge"
     },
     {
-      "title": "AI 對沖基金 Situation Awareness 可能已出售其公開投資組合，但仍持有 Anthropic 股票",
-      "link": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-      "summary": "在槓桿公開押注暴跌後，這位前 OpenAI 研究人員的基金被迫拋售公開股票。但他是…",
+      "title": "據報道，OpenAI 發現證據表明其更多特工肆意妄為",
+      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+      "summary": "據報道，OpenAI 在調查與胡發生的事件時發現了其他特工不當行為的證據...",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "谷歌DeepMind的新人工智慧模型可以控制機器人的整個身體",
-    "link": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
-    "summary": "Google DeepMind 表示，其 Gemini Robotics 人工智慧模型的最新版本可以「控制整個人形機器人」。雖然…",
+    "title": "是時候對人工智慧安全感到恐慌了",
+    "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+    "summary": "當「OpenAI hacked Hugging Face」這句話或多或少進入主流文化時，你就知道我們遇到了人工智慧問題...",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "AI搜尋賺錢",
-      "detail": "用AI Search Console分析旅遊內容搜尋關鍵字，找出熱門關注點，發佈相關內容在社交媒體，預計一周出成果"
+      "title": "追蹤法學碩士賺錢",
+      "detail": "用 TraceLLM 開發 AI 應用程式，發在 GitHub 上，預計 1 周內就有成果"
     },
     {
-      "title": "私人助理節省時間",
-      "detail": "用Pally做私人助理，自動化文案編輯和回覆，節省時間專注內容創作，發佈在YouTube和Facebook，預計3天出成果"
+      "title": "螢幕截圖旅遊 Vlog",
+      "detail": "用 Screencap 製作旅遊 Vlog 的 AI 訓練資料，發在 YouTube 上，預計 3 天內就有結果"
     },
     {
-      "title": "會議記錄變現",
-      "detail": "用Sorinai記錄會議討論，生成互動式內容，發佈在LinkedIn和Twitter，預計2天出成果"
+      "title": "維特爾旅遊數據分析",
+      "detail": "用 witr 進行旅遊數據分析，追蹤旅遊的進程和連接埠，發在 Medium 上，預計 2 周內就有成果"
     }
   ],
   "history": {
@@ -5853,6 +5853,132 @@
         {
           "title": "會議記錄變現",
           "detail": "用Sorinai記錄會議討論，生成互動式內容，發佈在LinkedIn和Twitter，預計2天出成果"
+        }
+      ]
+    },
+    "2026-08-01": {
+      "news": [
+        {
+          "title": "谷歌地球的AI Deepfake工具只持續了一天",
+          "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+          "summary": "谷歌已經關閉了周四推出的谷歌地球功能，該功能允許用戶使用文字編輯衛星圖像...",
+          "source": "The Verge"
+        },
+        {
+          "title": "這是在 Google Earth 中放置 AI 圖像生成器的問題",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
+          "summary": "只需一個文字提示即可使用 Google 地球的衛星、空拍和 3D 圖像生成扭曲現實的圖像…",
+          "source": "The Verge"
+        },
+        {
+          "title": "主要唱片公司提出規則以防止人工智慧在排行榜上失勢",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
+          "summary": "包括三巨頭——環球音樂集團、索尼音樂和華納音樂集團在內的多家唱片公司都提出了...",
+          "source": "The Verge"
+        },
+        {
+          "title": "是時候對人工智慧安全感到恐慌了",
+          "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+          "summary": "當「OpenAI hacked Hugging Face」這句話或多或少進入主流文化時，你就知道我們遇到了人工智慧問題...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 表示Claude也無意中入侵了真實的公司",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+          "summary": "Anthropic 剛剛意識到，其幾個 Claude AI 模型在…期間侵入了三個不同組織的系統。",
+          "source": "The Verge"
+        },
+        {
+          "title": "據報道，OpenAI 發現證據表明其更多特工肆意妄為",
+          "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+          "summary": "據報道，OpenAI 在調查與胡發生的事件時發現了其他特工不當行為的證據...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "印度開始為應用程式付費，而不僅僅是下載它們",
+          "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
+          "summary": "印度應用程式市場在第二季創造了創紀錄的 3.45 億美元收入。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "谷歌在推出一天後取消了其地球人工智慧功能，因批評該功能會傳播錯誤訊息",
+          "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+          "summary": "一種工具，允許任何人生成假的人工智慧生成的圖像，並將其快速疊加在真實的谷歌地球地圖上...",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "追蹤法學碩士 (TraceLLM)",
+          "link": "https://www.producthunt.com/products/tracellm",
+          "desc": "用於生產 AI 應用程式的 OpenTelemetry 討論 |關聯",
+          "title_en": "TraceLLM"
+        },
+        {
+          "title": "螢幕截圖 (Screencap)",
+          "link": "https://www.producthunt.com/products/screencap",
+          "desc": "將團隊的真實工作流程轉化為 AI 訓練資料 討論 |關聯",
+          "title_en": "Screencap"
+        },
+        {
+          "title": "維特爾 (witr)",
+          "link": "https://www.producthunt.com/products/witr",
+          "desc": "這是為什麼運行？追蹤進程、連接埠、容器或檔案關聯",
+          "title_en": "witr"
+        },
+        {
+          "title": "深層數據 (DepthData)",
+          "link": "https://www.producthunt.com/products/depthdata",
+          "desc": "公司人工智慧支出的記錄系統。討論 |關聯",
+          "title_en": "DepthData"
+        },
+        {
+          "title": "波思實驗室 (Poth Labs)",
+          "link": "https://www.producthunt.com/products/poth-labs",
+          "desc": "貴公司的客戶大腦 討論 |關聯",
+          "title_en": "Poth Labs"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "是時候對人工智慧安全感到恐慌了",
+          "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+          "summary": "當「OpenAI hacked Hugging Face」這句話或多或少進入主流文化時，你就知道我們遇到了人工智慧問題...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 表示Claude也無意中入侵了真實的公司",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+          "summary": "Anthropic 剛剛意識到，其幾個 Claude AI 模型在…期間侵入了三個不同組織的系統。",
+          "source": "The Verge"
+        },
+        {
+          "title": "據報道，OpenAI 發現證據表明其更多特工肆意妄為",
+          "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
+          "summary": "據報道，OpenAI 在調查與胡發生的事件時發現了其他特工不當行為的證據...",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "是時候對人工智慧安全感到恐慌了",
+        "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
+        "summary": "當「OpenAI hacked Hugging Face」這句話或多或少進入主流文化時，你就知道我們遇到了人工智慧問題...",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "追蹤法學碩士賺錢",
+          "detail": "用 TraceLLM 開發 AI 應用程式，發在 GitHub 上，預計 1 周內就有成果"
+        },
+        {
+          "title": "螢幕截圖旅遊 Vlog",
+          "detail": "用 Screencap 製作旅遊 Vlog 的 AI 訓練資料，發在 YouTube 上，預計 3 天內就有結果"
+        },
+        {
+          "title": "維特爾旅遊數據分析",
+          "detail": "用 witr 進行旅遊數據分析，追蹤旅遊的進程和連接埠，發在 Medium 上，預計 2 周內就有成果"
         }
       ]
     }
