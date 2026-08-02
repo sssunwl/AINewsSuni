@@ -1,127 +1,110 @@
 {
-  "updated": "2026-08-01 12:18 HKT",
+  "updated": "2026-08-02 12:21 HKT",
   "news": [
     {
-      "title": "谷歌地球的AI Deepfake工具只持續了一天",
-      "link": "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
-      "summary": "谷歌已經關閉了周四推出的谷歌地球功能，該功能允許用戶使用文字編輯衛星圖像...",
+      "title": "這是 Billboard Hot 100 的熱門 AI 垃圾嗎？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+      "summary": "菲尼克斯·弗萊辛 (Fenix Flexin) 最出名的身份是來自洛杉磯的說唱組合 Shoreline Mafia 的成員。但他最近发现独奏成功了……",
       "source": "The Verge"
     },
     {
-      "title": "這是在 Google Earth 中放置 AI 圖像生成器的問題",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images",
-      "summary": "只需一個文字提示即可使用 Google 地球的衛星、空拍和 3D 圖像生成扭曲現實的圖像…",
-      "source": "The Verge"
-    },
-    {
-      "title": "主要唱片公司提出規則以防止人工智慧在排行榜上失勢",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts",
-      "summary": "包括三巨頭——環球音樂集團、索尼音樂和華納音樂集團在內的多家唱片公司都提出了...",
-      "source": "The Verge"
-    },
-    {
-      "title": "是時候對人工智慧安全感到恐慌了",
-      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "summary": "當「OpenAI hacked Hugging Face」這句話或多或少進入主流文化時，你就知道我們遇到了人工智慧問題...",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic 表示Claude也無意中入侵了真實的公司",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "summary": "Anthropic 剛剛意識到，其幾個 Claude AI 模型在…期間侵入了三個不同組織的系統。",
-      "source": "The Verge"
-    },
-    {
-      "title": "據報道，OpenAI 發現證據表明其更多特工肆意妄為",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "summary": "據報道，OpenAI 在調查與胡發生的事件時發現了其他特工不當行為的證據...",
+      "title": "法官駁回 xAI 阻止明尼蘇達州禁止“裸體”應用程式的請求",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "summary": "儘管 xAI 提起訴訟，但明尼蘇達州禁止允許用戶「裸體」圖像的應用程式的禁令仍然可以繼續推進。",
       "source": "TechCrunch"
     },
     {
-      "title": "印度開始為應用程式付費，而不僅僅是下載它們",
-      "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-      "summary": "印度應用程式市場在第二季創造了創紀錄的 3.45 億美元收入。",
+      "title": "YouTuber Hank Green 表示他對人工智慧的使用“不健康”",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "summary": "格林做出了引人注目的道歉，他說「我從與法學碩士的互動中獲得的多巴胺水平...",
       "source": "TechCrunch"
     },
     {
-      "title": "谷歌在推出一天後取消了其地球人工智慧功能，因批評該功能會傳播錯誤訊息",
-      "link": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-      "summary": "一種工具，允許任何人生成假的人工智慧生成的圖像，並將其快速疊加在真實的谷歌地球地圖上...",
+      "title": "Sam Altman 仍在透過 ChatGPT 闡述養育子女的理由",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "summary": "OpenAI 的執行長似乎很高興為家長分享一個「很酷的用例」。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "這把 9 美元的鑰匙可以物理鎖定您最容易上癮的應用程序",
+      "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+      "summary": "這款 9 美元的 NFC 鑰匙需要您對其進行物理掃描才能解鎖手機上分散注意力的應用程式。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "追蹤法學碩士 (TraceLLM)",
-      "link": "https://www.producthunt.com/products/tracellm",
-      "desc": "用於生產 AI 應用程式的 OpenTelemetry 討論 |關聯",
-      "title_en": "TraceLLM"
+      "title": "科派 (Kopai)",
+      "link": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
+      "desc": "分享您的專業知識，讓我們的代理商為您賺錢。討論 |關聯",
+      "title_en": "Kopai"
     },
     {
-      "title": "螢幕截圖 (Screencap)",
-      "link": "https://www.producthunt.com/products/screencap",
-      "desc": "將團隊的真實工作流程轉化為 AI 訓練資料 討論 |關聯",
-      "title_en": "Screencap"
+      "title": "埠22 (Port22)",
+      "link": "https://www.producthunt.com/products/port22",
+      "desc": "手機上的 Claude Code、Codex 等內容關聯",
+      "title_en": "Port22"
     },
     {
-      "title": "維特爾 (witr)",
-      "link": "https://www.producthunt.com/products/witr",
-      "desc": "這是為什麼運行？追蹤進程、連接埠、容器或檔案關聯",
-      "title_en": "witr"
+      "title": "串聯 (Tandem)",
+      "link": "https://www.producthunt.com/products/tandem-11",
+      "desc": "AI原生辦公室租賃經紀討論|關聯",
+      "title_en": "Tandem"
     },
     {
-      "title": "深層數據 (DepthData)",
-      "link": "https://www.producthunt.com/products/depthdata",
-      "desc": "公司人工智慧支出的記錄系統。討論 |關聯",
-      "title_en": "DepthData"
+      "title": "助推我 (NudgeForMe)",
+      "link": "https://www.producthunt.com/products/nudgeforme",
+      "desc": "錯過電子郵件機會的人工智慧跟進代理 討論 |關聯",
+      "title_en": "NudgeForMe"
     },
     {
-      "title": "波思實驗室 (Poth Labs)",
-      "link": "https://www.producthunt.com/products/poth-labs",
-      "desc": "貴公司的客戶大腦 討論 |關聯",
-      "title_en": "Poth Labs"
+      "title": "光環 Scam AI (Halo by Scam AI)",
+      "link": "https://www.producthunt.com/products/scam-ai",
+      "desc": "知道每次視訊通話中誰是真實的關聯",
+      "title_en": "Halo by Scam AI"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "YouTuber Hank Green 表示他對人工智慧的使用“不健康”",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "summary": "格林做出了引人注目的道歉，他說「我從與法學碩士的互動中獲得的多巴胺水平...",
+      "source": "TechCrunch"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "是時候對人工智慧安全感到恐慌了",
-      "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-      "summary": "當「OpenAI hacked Hugging Face」這句話或多或少進入主流文化時，你就知道我們遇到了人工智慧問題...",
-      "source": "The Verge"
+      "title": "法官駁回 xAI 阻止明尼蘇達州禁止“裸體”應用程式的請求",
+      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "summary": "儘管 xAI 提起訴訟，但明尼蘇達州禁止允許用戶「裸體」圖像的應用程式的禁令仍然可以繼續推進。",
+      "source": "TechCrunch"
     },
     {
-      "title": "Anthropic 表示Claude也無意中入侵了真實的公司",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
-      "summary": "Anthropic 剛剛意識到，其幾個 Claude AI 模型在…期間侵入了三個不同組織的系統。",
-      "source": "The Verge"
-    },
-    {
-      "title": "據報道，OpenAI 發現證據表明其更多特工肆意妄為",
-      "link": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "summary": "據報道，OpenAI 在調查與胡發生的事件時發現了其他特工不當行為的證據...",
+      "title": "Sam Altman 仍在透過 ChatGPT 闡述養育子女的理由",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "summary": "OpenAI 的執行長似乎很高興為家長分享一個「很酷的用例」。",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "是時候對人工智慧安全感到恐慌了",
-    "link": "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast",
-    "summary": "當「OpenAI hacked Hugging Face」這句話或多或少進入主流文化時，你就知道我們遇到了人工智慧問題...",
-    "source": "The Verge"
+    "title": "法官駁回 xAI 阻止明尼蘇達州禁止“裸體”應用程式的請求",
+    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "summary": "儘管 xAI 提起訴訟，但明尼蘇達州禁止允許用戶「裸體」圖像的應用程式的禁令仍然可以繼續推進。",
+    "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "追蹤法學碩士賺錢",
-      "detail": "用 TraceLLM 開發 AI 應用程式，發在 GitHub 上，預計 1 周內就有成果"
+      "title": "賺錢機會",
+      "detail": "用 Kopai 分享旅遊美食知識，讓代理商為你賺錢，發在 SS 社交媒體，預計 1 周出成果"
     },
     {
-      "title": "螢幕截圖旅遊 Vlog",
-      "detail": "用 Screencap 製作旅遊 Vlog 的 AI 訓練資料，發在 YouTube 上，預計 3 天內就有結果"
+      "title": "內容創作",
+      "detail": "用 Claude 在 Port22 創作旅遊短片，發在 YouTube，預計 3 天出成果"
     },
     {
-      "title": "維特爾旅遊數據分析",
-      "detail": "用 witr 進行旅遊數據分析，追蹤旅遊的進程和連接埠，發在 Medium 上，預計 2 周內就有成果"
+      "title": "電子郵件跟進",
+      "detail": "用 NudgeForMe 跟進未回覆的電子郵件，增加合作機會，預計 2 天出成果"
     }
   ],
   "history": {
@@ -5979,6 +5962,115 @@
         {
           "title": "維特爾旅遊數據分析",
           "detail": "用 witr 進行旅遊數據分析，追蹤旅遊的進程和連接埠，發在 Medium 上，預計 2 周內就有成果"
+        }
+      ]
+    },
+    "2026-08-02": {
+      "news": [
+        {
+          "title": "這是 Billboard Hot 100 的熱門 AI 垃圾嗎？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
+          "summary": "菲尼克斯·弗萊辛 (Fenix Flexin) 最出名的身份是來自洛杉磯的說唱組合 Shoreline Mafia 的成員。但他最近发现独奏成功了……",
+          "source": "The Verge"
+        },
+        {
+          "title": "法官駁回 xAI 阻止明尼蘇達州禁止“裸體”應用程式的請求",
+          "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "summary": "儘管 xAI 提起訴訟，但明尼蘇達州禁止允許用戶「裸體」圖像的應用程式的禁令仍然可以繼續推進。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "YouTuber Hank Green 表示他對人工智慧的使用“不健康”",
+          "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+          "summary": "格林做出了引人注目的道歉，他說「我從與法學碩士的互動中獲得的多巴胺水平...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Sam Altman 仍在透過 ChatGPT 闡述養育子女的理由",
+          "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+          "summary": "OpenAI 的執行長似乎很高興為家長分享一個「很酷的用例」。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "這把 9 美元的鑰匙可以物理鎖定您最容易上癮的應用程序",
+          "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+          "summary": "這款 9 美元的 NFC 鑰匙需要您對其進行物理掃描才能解鎖手機上分散注意力的應用程式。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "科派 (Kopai)",
+          "link": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
+          "desc": "分享您的專業知識，讓我們的代理商為您賺錢。討論 |關聯",
+          "title_en": "Kopai"
+        },
+        {
+          "title": "埠22 (Port22)",
+          "link": "https://www.producthunt.com/products/port22",
+          "desc": "手機上的 Claude Code、Codex 等內容關聯",
+          "title_en": "Port22"
+        },
+        {
+          "title": "串聯 (Tandem)",
+          "link": "https://www.producthunt.com/products/tandem-11",
+          "desc": "AI原生辦公室租賃經紀討論|關聯",
+          "title_en": "Tandem"
+        },
+        {
+          "title": "助推我 (NudgeForMe)",
+          "link": "https://www.producthunt.com/products/nudgeforme",
+          "desc": "錯過電子郵件機會的人工智慧跟進代理 討論 |關聯",
+          "title_en": "NudgeForMe"
+        },
+        {
+          "title": "光環 Scam AI (Halo by Scam AI)",
+          "link": "https://www.producthunt.com/products/scam-ai",
+          "desc": "知道每次視訊通話中誰是真實的關聯",
+          "title_en": "Halo by Scam AI"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "YouTuber Hank Green 表示他對人工智慧的使用“不健康”",
+          "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+          "summary": "格林做出了引人注目的道歉，他說「我從與法學碩士的互動中獲得的多巴胺水平...",
+          "source": "TechCrunch"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "法官駁回 xAI 阻止明尼蘇達州禁止“裸體”應用程式的請求",
+          "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "summary": "儘管 xAI 提起訴訟，但明尼蘇達州禁止允許用戶「裸體」圖像的應用程式的禁令仍然可以繼續推進。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Sam Altman 仍在透過 ChatGPT 闡述養育子女的理由",
+          "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+          "summary": "OpenAI 的執行長似乎很高興為家長分享一個「很酷的用例」。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "法官駁回 xAI 阻止明尼蘇達州禁止“裸體”應用程式的請求",
+        "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+        "summary": "儘管 xAI 提起訴訟，但明尼蘇達州禁止允許用戶「裸體」圖像的應用程式的禁令仍然可以繼續推進。",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "賺錢機會",
+          "detail": "用 Kopai 分享旅遊美食知識，讓代理商為你賺錢，發在 SS 社交媒體，預計 1 周出成果"
+        },
+        {
+          "title": "內容創作",
+          "detail": "用 Claude 在 Port22 創作旅遊短片，發在 YouTube，預計 3 天出成果"
+        },
+        {
+          "title": "電子郵件跟進",
+          "detail": "用 NudgeForMe 跟進未回覆的電子郵件，增加合作機會，預計 2 天出成果"
         }
       ]
     }
