@@ -1,110 +1,78 @@
 {
-  "updated": "2026-08-02 12:21 HKT",
+  "updated": "2026-08-03 12:26 HKT",
   "news": [
     {
-      "title": "這是 Billboard Hot 100 的熱門 AI 垃圾嗎？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-      "summary": "菲尼克斯·弗萊辛 (Fenix Flexin) 最出名的身份是來自洛杉磯的說唱組合 Shoreline Mafia 的成員。但他最近发现独奏成功了……",
+      "title": "Fender 的執行長似乎認為你的樂團成員只是模擬人工智慧",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+      "summary": "Fender 執行長 Edward \"Bud\" Cole 在 5 月接受了 T3 採訪，慶祝 Telecaster 成立 75 週年，並發表了…",
       "source": "The Verge"
     },
     {
-      "title": "法官駁回 xAI 阻止明尼蘇達州禁止“裸體”應用程式的請求",
-      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "summary": "儘管 xAI 提起訴訟，但明尼蘇達州禁止允許用戶「裸體」圖像的應用程式的禁令仍然可以繼續推進。",
-      "source": "TechCrunch"
+      "title": "付錢給藝術家足以說服他們接受人工智慧嗎？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "summary": "插畫家們多年來一直對產生人工智慧新創公司訓練他們的模型發出警報…",
+      "source": "The Verge"
     },
     {
-      "title": "YouTuber Hank Green 表示他對人工智慧的使用“不健康”",
-      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "summary": "格林做出了引人注目的道歉，他說「我從與法學碩士的互動中獲得的多巴胺水平...",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Sam Altman 仍在透過 ChatGPT 闡述養育子女的理由",
-      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "summary": "OpenAI 的執行長似乎很高興為家長分享一個「很酷的用例」。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "這把 9 美元的鑰匙可以物理鎖定您最容易上癮的應用程序",
-      "link": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
-      "summary": "這款 9 美元的 NFC 鑰匙需要您對其進行物理掃描才能解鎖手機上分散注意力的應用程式。",
+      "title": "Sam Altman 和 AI 的減速爭論",
+      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "summary": "在最新一集的《Equity》中，我們討論了為什麼 Sam Altman 呼籲業界「加快人工智慧的發展速度…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "科派 (Kopai)",
-      "link": "https://www.producthunt.com/products/kopai-the-marketplace-for-ai-agents",
-      "desc": "分享您的專業知識，讓我們的代理商為您賺錢。討論 |關聯",
-      "title_en": "Kopai"
+      "title": "辛利 (Zinley)",
+      "link": "https://www.producthunt.com/products/zinley",
+      "desc": "Your Personal AI Representative for calls, email, and tasks Discussion | Link",
+      "title_en": "Zinley"
     },
     {
-      "title": "埠22 (Port22)",
-      "link": "https://www.producthunt.com/products/port22",
-      "desc": "手機上的 Claude Code、Codex 等內容關聯",
-      "title_en": "Port22"
+      "title": "博爾喬艾 (Bolcho AI)",
+      "link": "https://www.producthunt.com/products/bolcho-ai",
+      "desc": "建構真正講印度語的語音 AI 代理關聯",
+      "title_en": "Bolcho AI"
     },
     {
-      "title": "串聯 (Tandem)",
-      "link": "https://www.producthunt.com/products/tandem-11",
-      "desc": "AI原生辦公室租賃經紀討論|關聯",
-      "title_en": "Tandem"
+      "title": "特麥索 (Termexo)",
+      "link": "https://www.producthunt.com/products/termexo",
+      "desc": "用於 Claude Code 和 Codex 討論的本機 Windows 工作台 |關聯",
+      "title_en": "Termexo"
     },
     {
-      "title": "助推我 (NudgeForMe)",
-      "link": "https://www.producthunt.com/products/nudgeforme",
-      "desc": "錯過電子郵件機會的人工智慧跟進代理 討論 |關聯",
-      "title_en": "NudgeForMe"
+      "title": "盧米查茨 (Lumichats)",
+      "link": "https://www.producthunt.com/products/lumichats-offline",
+      "desc": "為那些避免使用終端的人提供的Claude代碼替代方案關聯",
+      "title_en": "Lumichats"
     },
     {
-      "title": "光環 Scam AI (Halo by Scam AI)",
-      "link": "https://www.producthunt.com/products/scam-ai",
-      "desc": "知道每次視訊通話中誰是真實的關聯",
-      "title_en": "Halo by Scam AI"
+      "title": "UniwebPay技能 (UniwebPay Skill)",
+      "link": "https://www.producthunt.com/products/uniwebpay",
+      "desc": "Financial Infra for the AI era Discussion | Link",
+      "title_en": "UniwebPay Skill"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "YouTuber Hank Green 表示他對人工智慧的使用“不健康”",
-      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-      "summary": "格林做出了引人注目的道歉，他說「我從與法學碩士的互動中獲得的多巴胺水平...",
-      "source": "TechCrunch"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
-  "major": [
-    {
-      "title": "法官駁回 xAI 阻止明尼蘇達州禁止“裸體”應用程式的請求",
-      "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-      "summary": "儘管 xAI 提起訴訟，但明尼蘇達州禁止允許用戶「裸體」圖像的應用程式的禁令仍然可以繼續推進。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Sam Altman 仍在透過 ChatGPT 闡述養育子女的理由",
-      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
-      "summary": "OpenAI 的執行長似乎很高興為家長分享一個「很酷的用例」。",
-      "source": "TechCrunch"
-    }
-  ],
+  "major": [],
   "pick": {
-    "title": "法官駁回 xAI 阻止明尼蘇達州禁止“裸體”應用程式的請求",
-    "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "summary": "儘管 xAI 提起訴訟，但明尼蘇達州禁止允許用戶「裸體」圖像的應用程式的禁令仍然可以繼續推進。",
-    "source": "TechCrunch"
+    "title": "Fender 的執行長似乎認為你的樂團成員只是模擬人工智慧",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "summary": "Fender 執行長 Edward \"Bud\" Cole 在 5 月接受了 T3 採訪，慶祝 Telecaster 成立 75 週年，並發表了…",
+    "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "賺錢機會",
-      "detail": "用 Kopai 分享旅遊美食知識，讓代理商為你賺錢，發在 SS 社交媒體，預計 1 周出成果"
+      "title": "用Zinley賺廣告費",
+      "detail": "利用Zinley協助回覆粉絲郵件和電話，節省SS的時間，專注於旅遊內容創作，發布在Suniverse的社交媒體，預計1週內見效"
     },
     {
-      "title": "內容創作",
-      "detail": "用 Claude 在 Port22 創作旅遊短片，發在 YouTube，預計 3 天出成果"
+      "title": "開發印度語音AI",
+      "detail": "使用Bolcho AI創建印度語音AI代理，為Suniverse的印度粉絲提供語音導覽和互動，發布在YouTube和社交媒體，預計2週內完成"
     },
     {
-      "title": "電子郵件跟進",
-      "detail": "用 NudgeForMe 跟進未回覆的電子郵件，增加合作機會，預計 2 天出成果"
+      "title": "快速開發旅遊應用",
+      "detail": "使用Termexo和Lumichats快速開發旅遊相關應用，例如旅遊路線規劃和餐廳推薦，發布在App Store和Google Play，預計3週內上架"
     }
   ],
   "history": {
@@ -6071,6 +6039,83 @@
         {
           "title": "電子郵件跟進",
           "detail": "用 NudgeForMe 跟進未回覆的電子郵件，增加合作機會，預計 2 天出成果"
+        }
+      ]
+    },
+    "2026-08-03": {
+      "news": [
+        {
+          "title": "Fender 的執行長似乎認為你的樂團成員只是模擬人工智慧",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+          "summary": "Fender 執行長 Edward \"Bud\" Cole 在 5 月接受了 T3 採訪，慶祝 Telecaster 成立 75 週年，並發表了…",
+          "source": "The Verge"
+        },
+        {
+          "title": "付錢給藝術家足以說服他們接受人工智慧嗎？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+          "summary": "插畫家們多年來一直對產生人工智慧新創公司訓練他們的模型發出警報…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Sam Altman 和 AI 的減速爭論",
+          "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "summary": "在最新一集的《Equity》中，我們討論了為什麼 Sam Altman 呼籲業界「加快人工智慧的發展速度…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "辛利 (Zinley)",
+          "link": "https://www.producthunt.com/products/zinley",
+          "desc": "Your Personal AI Representative for calls, email, and tasks Discussion | Link",
+          "title_en": "Zinley"
+        },
+        {
+          "title": "博爾喬艾 (Bolcho AI)",
+          "link": "https://www.producthunt.com/products/bolcho-ai",
+          "desc": "建構真正講印度語的語音 AI 代理關聯",
+          "title_en": "Bolcho AI"
+        },
+        {
+          "title": "特麥索 (Termexo)",
+          "link": "https://www.producthunt.com/products/termexo",
+          "desc": "用於 Claude Code 和 Codex 討論的本機 Windows 工作台 |關聯",
+          "title_en": "Termexo"
+        },
+        {
+          "title": "盧米查茨 (Lumichats)",
+          "link": "https://www.producthunt.com/products/lumichats-offline",
+          "desc": "為那些避免使用終端的人提供的Claude代碼替代方案關聯",
+          "title_en": "Lumichats"
+        },
+        {
+          "title": "UniwebPay技能 (UniwebPay Skill)",
+          "link": "https://www.producthunt.com/products/uniwebpay",
+          "desc": "Financial Infra for the AI era Discussion | Link",
+          "title_en": "UniwebPay Skill"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [],
+      "pick": {
+        "title": "Fender 的執行長似乎認為你的樂團成員只是模擬人工智慧",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+        "summary": "Fender 執行長 Edward \"Bud\" Cole 在 5 月接受了 T3 採訪，慶祝 Telecaster 成立 75 週年，並發表了…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用Zinley賺廣告費",
+          "detail": "利用Zinley協助回覆粉絲郵件和電話，節省SS的時間，專注於旅遊內容創作，發布在Suniverse的社交媒體，預計1週內見效"
+        },
+        {
+          "title": "開發印度語音AI",
+          "detail": "使用Bolcho AI創建印度語音AI代理，為Suniverse的印度粉絲提供語音導覽和互動，發布在YouTube和社交媒體，預計2週內完成"
+        },
+        {
+          "title": "快速開發旅遊應用",
+          "detail": "使用Termexo和Lumichats快速開發旅遊相關應用，例如旅遊路線規劃和餐廳推薦，發布在App Store和Google Play，預計3週內上架"
         }
       ]
     }
