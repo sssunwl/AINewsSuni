@@ -1,78 +1,135 @@
 {
-  "updated": "2026-08-03 12:26 HKT",
+  "updated": "2026-08-04 12:09 HKT",
   "news": [
     {
-      "title": "Fender 的執行長似乎認為你的樂團成員只是模擬人工智慧",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-      "summary": "Fender 執行長 Edward \"Bud\" Cole 在 5 月接受了 T3 採訪，慶祝 Telecaster 成立 75 週年，並發表了…",
+      "title": "歐洲人工智慧標籤和透明度規則現已生效",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "summary": "歐盟引入了一些附加規則，旨在讓人們更容易識別聊天機器人和...",
       "source": "The Verge"
     },
     {
-      "title": "付錢給藝術家足以說服他們接受人工智慧嗎？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
-      "summary": "插畫家們多年來一直對產生人工智慧新創公司訓練他們的模型發出警報…",
+      "title": "中國阿里巴巴再次衝擊美國人工智慧霸主地位",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "summary": "中國科技巨頭阿里巴巴發布了據稱是其最大且“迄今為止最強大的人工智慧模型”，聲稱其性能...",
       "source": "The Verge"
     },
     {
-      "title": "Sam Altman 和 AI 的減速爭論",
-      "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
-      "summary": "在最新一集的《Equity》中，我們討論了為什麼 Sam Altman 呼籲業界「加快人工智慧的發展速度…",
+      "title": "在經歷了殺手季度後，Palantir 執行長 Alex Karp 稱人工智慧產業為“馬克思主義”",
+      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+      "summary": "在一個季度實現 10 億美元利潤後，Palantir 執行長 Alex Karp 週一再次警告人工智慧前沿…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AWS 正在幫助振動編碼新創公司 Superblocks，其影響是巨大的",
+      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+      "summary": "AWS 現在允許將 vivi 編碼工具 Superblocks 嵌入到 AWS 客戶的私有雲中。這是另一步...",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Design Arena 創作者籌集了 790 萬美元，為 AI 模型帶來品味",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "summary": "Design Arena 被全球 530 萬人使用，為前沿實驗室提供關鍵的人類評估。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "有影響力的人因參加 OpenAI 的首次豪華旅行而遭到強烈反對",
+      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "summary": "隨著人工智慧使用的緊張局勢持續存在，OpenAI 的首次影響者品牌之旅引發了網路上的強烈反對。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "蘋果終於修復了 Siri。那為什麼會感覺虎頭蛇尾呢？",
+      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+      "summary": "蘋果期待已久的人工智慧改革終於讓 Siri 成為了人們一直期待的助手。然而它到達了某個時刻…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "國會最喜歡的人工智慧工具？ChatGPT",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "summary": "眾議院支出記錄顯示，OpenAI 的 ChatGPT 在國會山莊的付費人工智慧使用中佔據主導地位，國會辦公室依賴…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "辛利 (Zinley)",
-      "link": "https://www.producthunt.com/products/zinley",
-      "desc": "Your Personal AI Representative for calls, email, and tasks Discussion | Link",
-      "title_en": "Zinley"
+      "title": "人工智慧教練 (CoachAI)",
+      "link": "https://www.producthunt.com/products/coachai-fitness-coach",
+      "desc": "Your iPhone camera watches your form, rep by rep Discussion | Link",
+      "title_en": "CoachAI"
     },
     {
-      "title": "博爾喬艾 (Bolcho AI)",
-      "link": "https://www.producthunt.com/products/bolcho-ai",
-      "desc": "建構真正講印度語的語音 AI 代理關聯",
-      "title_en": "Bolcho AI"
+      "title": "存貨 (Inventory)",
+      "link": "https://www.producthunt.com/products/inventory",
+      "desc": "搜尋每個 AI Agent 和 IDE 對話討論 |關聯",
+      "title_en": "Inventory"
     },
     {
-      "title": "特麥索 (Termexo)",
-      "link": "https://www.producthunt.com/products/termexo",
-      "desc": "用於 Claude Code 和 Codex 討論的本機 Windows 工作台 |關聯",
-      "title_en": "Termexo"
+      "title": "姆帕伊 (mpai)",
+      "link": "https://www.producthunt.com/products/mpai",
+      "desc": "使現有的 Codex 和 Claude Code 會話成為多人討論 |關聯",
+      "title_en": "mpai"
     },
     {
-      "title": "盧米查茨 (Lumichats)",
-      "link": "https://www.producthunt.com/products/lumichats-offline",
-      "desc": "為那些避免使用終端的人提供的Claude代碼替代方案關聯",
-      "title_en": "Lumichats"
+      "title": "被動短褲 (PassiveShorts)",
+      "link": "https://www.producthunt.com/products/passiveshorts",
+      "desc": "AI Faceless Video Generator for TikTok & YouTube Discussion | Link",
+      "title_en": "PassiveShorts"
     },
     {
-      "title": "UniwebPay技能 (UniwebPay Skill)",
-      "link": "https://www.producthunt.com/products/uniwebpay",
-      "desc": "Financial Infra for the AI era Discussion | Link",
-      "title_en": "UniwebPay Skill"
+      "title": "亞皮亞普 (yapyap)",
+      "link": "https://www.producthunt.com/products/yapyap-3",
+      "desc": "再次擁有你的聲音。本地優先的語音和會議錄音機。討論 |關聯",
+      "title_en": "yapyap"
     }
   ],
-  "suniverse_news": [],
-  "suniverse_tools": [],
-  "major": [],
+  "suniverse_news": [
+    {
+      "title": "Design Arena 創作者籌集了 790 萬美元，為 AI 模型帶來品味",
+      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+      "summary": "Design Arena 被全球 530 萬人使用，為前沿實驗室提供關鍵的人類評估。",
+      "source": "TechCrunch"
+    }
+  ],
+  "suniverse_tools": [
+    {
+      "title": "被動短褲 (PassiveShorts)",
+      "link": "https://www.producthunt.com/products/passiveshorts",
+      "desc": "AI Faceless Video Generator for TikTok & YouTube Discussion | Link",
+      "title_en": "PassiveShorts"
+    }
+  ],
+  "major": [
+    {
+      "title": "有影響力的人因參加 OpenAI 的首次豪華旅行而遭到強烈反對",
+      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+      "summary": "隨著人工智慧使用的緊張局勢持續存在，OpenAI 的首次影響者品牌之旅引發了網路上的強烈反對。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "國會最喜歡的人工智慧工具？ChatGPT",
+      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+      "summary": "眾議院支出記錄顯示，OpenAI 的 ChatGPT 在國會山莊的付費人工智慧使用中佔據主導地位，國會辦公室依賴…",
+      "source": "TechCrunch"
+    }
+  ],
   "pick": {
-    "title": "Fender 的執行長似乎認為你的樂團成員只是模擬人工智慧",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
-    "summary": "Fender 執行長 Edward \"Bud\" Cole 在 5 月接受了 T3 採訪，慶祝 Telecaster 成立 75 週年，並發表了…",
-    "source": "The Verge"
+    "title": "有影響力的人因參加 OpenAI 的首次豪華旅行而遭到強烈反對",
+    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+    "summary": "隨著人工智慧使用的緊張局勢持續存在，OpenAI 的首次影響者品牌之旅引發了網路上的強烈反對。",
+    "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用Zinley賺廣告費",
-      "detail": "利用Zinley協助回覆粉絲郵件和電話，節省SS的時間，專注於旅遊內容創作，發布在Suniverse的社交媒體，預計1週內見效"
+      "title": "今日 AI 出旅遊 Reel",
+      "detail": "用被動短褲（PassiveShorts）AI 面無短片創建工具，設計一段旅遊視頻，發在 TikTok 和 YouTube，預計 2 天出成果"
     },
     {
-      "title": "開發印度語音AI",
-      "detail": "使用Bolcho AI創建印度語音AI代理，為Suniverse的印度粉絲提供語音導覽和互動，發布在YouTube和社交媒體，預計2週內完成"
+      "title": "AI 教練出旅遊健身",
+      "detail": "利用人工智慧教練 (CoachAI) 紀錄旅遊健身的影片，發在 Instagram 和 Facebook，預計 3 天出成果"
     },
     {
-      "title": "快速開發旅遊應用",
-      "detail": "使用Termexo和Lumichats快速開發旅遊相關應用，例如旅遊路線規劃和餐廳推薦，發布在App Store和Google Play，預計3週內上架"
+      "title": "多人討論旅遊 Codex",
+      "detail": "用姆帕伊 (mpai) 使現有的 Codex 和 Claude Code 會話成為多人討論，創建一個旅遊議題討論群組，發在 LinkedIn 和 Twitter，預計 1 周出成果"
     }
   ],
   "history": {
@@ -6116,6 +6173,140 @@
         {
           "title": "快速開發旅遊應用",
           "detail": "使用Termexo和Lumichats快速開發旅遊相關應用，例如旅遊路線規劃和餐廳推薦，發布在App Store和Google Play，預計3週內上架"
+        }
+      ]
+    },
+    "2026-08-04": {
+      "news": [
+        {
+          "title": "歐洲人工智慧標籤和透明度規則現已生效",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "summary": "歐盟引入了一些附加規則，旨在讓人們更容易識別聊天機器人和...",
+          "source": "The Verge"
+        },
+        {
+          "title": "中國阿里巴巴再次衝擊美國人工智慧霸主地位",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "summary": "中國科技巨頭阿里巴巴發布了據稱是其最大且“迄今為止最強大的人工智慧模型”，聲稱其性能...",
+          "source": "The Verge"
+        },
+        {
+          "title": "在經歷了殺手季度後，Palantir 執行長 Alex Karp 稱人工智慧產業為“馬克思主義”",
+          "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+          "summary": "在一個季度實現 10 億美元利潤後，Palantir 執行長 Alex Karp 週一再次警告人工智慧前沿…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AWS 正在幫助振動編碼新創公司 Superblocks，其影響是巨大的",
+          "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
+          "summary": "AWS 現在允許將 vivi 編碼工具 Superblocks 嵌入到 AWS 客戶的私有雲中。這是另一步...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Design Arena 創作者籌集了 790 萬美元，為 AI 模型帶來品味",
+          "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+          "summary": "Design Arena 被全球 530 萬人使用，為前沿實驗室提供關鍵的人類評估。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "有影響力的人因參加 OpenAI 的首次豪華旅行而遭到強烈反對",
+          "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+          "summary": "隨著人工智慧使用的緊張局勢持續存在，OpenAI 的首次影響者品牌之旅引發了網路上的強烈反對。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "蘋果終於修復了 Siri。那為什麼會感覺虎頭蛇尾呢？",
+          "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+          "summary": "蘋果期待已久的人工智慧改革終於讓 Siri 成為了人們一直期待的助手。然而它到達了某個時刻…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "國會最喜歡的人工智慧工具？ChatGPT",
+          "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+          "summary": "眾議院支出記錄顯示，OpenAI 的 ChatGPT 在國會山莊的付費人工智慧使用中佔據主導地位，國會辦公室依賴…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "人工智慧教練 (CoachAI)",
+          "link": "https://www.producthunt.com/products/coachai-fitness-coach",
+          "desc": "Your iPhone camera watches your form, rep by rep Discussion | Link",
+          "title_en": "CoachAI"
+        },
+        {
+          "title": "存貨 (Inventory)",
+          "link": "https://www.producthunt.com/products/inventory",
+          "desc": "搜尋每個 AI Agent 和 IDE 對話討論 |關聯",
+          "title_en": "Inventory"
+        },
+        {
+          "title": "姆帕伊 (mpai)",
+          "link": "https://www.producthunt.com/products/mpai",
+          "desc": "使現有的 Codex 和 Claude Code 會話成為多人討論 |關聯",
+          "title_en": "mpai"
+        },
+        {
+          "title": "被動短褲 (PassiveShorts)",
+          "link": "https://www.producthunt.com/products/passiveshorts",
+          "desc": "AI Faceless Video Generator for TikTok & YouTube Discussion | Link",
+          "title_en": "PassiveShorts"
+        },
+        {
+          "title": "亞皮亞普 (yapyap)",
+          "link": "https://www.producthunt.com/products/yapyap-3",
+          "desc": "再次擁有你的聲音。本地優先的語音和會議錄音機。討論 |關聯",
+          "title_en": "yapyap"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Design Arena 創作者籌集了 790 萬美元，為 AI 模型帶來品味",
+          "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+          "summary": "Design Arena 被全球 530 萬人使用，為前沿實驗室提供關鍵的人類評估。",
+          "source": "TechCrunch"
+        }
+      ],
+      "suniverse_tools": [
+        {
+          "title": "被動短褲 (PassiveShorts)",
+          "link": "https://www.producthunt.com/products/passiveshorts",
+          "desc": "AI Faceless Video Generator for TikTok & YouTube Discussion | Link",
+          "title_en": "PassiveShorts"
+        }
+      ],
+      "major": [
+        {
+          "title": "有影響力的人因參加 OpenAI 的首次豪華旅行而遭到強烈反對",
+          "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+          "summary": "隨著人工智慧使用的緊張局勢持續存在，OpenAI 的首次影響者品牌之旅引發了網路上的強烈反對。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "國會最喜歡的人工智慧工具？ChatGPT",
+          "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
+          "summary": "眾議院支出記錄顯示，OpenAI 的 ChatGPT 在國會山莊的付費人工智慧使用中佔據主導地位，國會辦公室依賴…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "有影響力的人因參加 OpenAI 的首次豪華旅行而遭到強烈反對",
+        "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+        "summary": "隨著人工智慧使用的緊張局勢持續存在，OpenAI 的首次影響者品牌之旅引發了網路上的強烈反對。",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "今日 AI 出旅遊 Reel",
+          "detail": "用被動短褲（PassiveShorts）AI 面無短片創建工具，設計一段旅遊視頻，發在 TikTok 和 YouTube，預計 2 天出成果"
+        },
+        {
+          "title": "AI 教練出旅遊健身",
+          "detail": "利用人工智慧教練 (CoachAI) 紀錄旅遊健身的影片，發在 Instagram 和 Facebook，預計 3 天出成果"
+        },
+        {
+          "title": "多人討論旅遊 Codex",
+          "detail": "用姆帕伊 (mpai) 使現有的 Codex 和 Claude Code 會話成為多人討論，創建一個旅遊議題討論群組，發在 LinkedIn 和 Twitter，預計 1 周出成果"
         }
       ]
     }
