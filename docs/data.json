@@ -1,135 +1,128 @@
 {
-  "updated": "2026-08-04 12:09 HKT",
+  "updated": "2026-08-05 11:57 HKT",
   "news": [
     {
-      "title": "歐洲人工智慧標籤和透明度規則現已生效",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
-      "summary": "歐盟引入了一些附加規則，旨在讓人們更容易識別聊天機器人和...",
+      "title": "AMD資料中心業務蓬勃發展，遊戲業務退居二線",
+      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+      "summary": "在人工智慧容量需求的推動下，AMD 在最新的財報中資料中心營收年增了一倍以上…",
       "source": "The Verge"
     },
     {
-      "title": "中國阿里巴巴再次衝擊美國人工智慧霸主地位",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "summary": "中國科技巨頭阿里巴巴發布了據稱是其最大且“迄今為止最強大的人工智慧模型”，聲稱其性能...",
+      "title": "SpaceX 作為人工智慧公司的收入比一家航太公司還要多",
+      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+      "summary": "SpaceX 的人工智慧收入比上年增長了三倍多，達到 26 億美元，主要是因為該公司的交易…",
       "source": "The Verge"
     },
     {
-      "title": "在經歷了殺手季度後，Palantir 執行長 Alex Karp 稱人工智慧產業為“馬克思主義”",
-      "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
-      "summary": "在一個季度實現 10 億美元利潤後，Palantir 執行長 Alex Karp 週一再次警告人工智慧前沿…",
-      "source": "TechCrunch"
+      "title": "OpenAI 影響者之旅如何適得其反",
+      "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "summary": "品牌之旅是影響者的通行權。贊助商想要邀請他們參加……這是合法性的標誌。",
+      "source": "The Verge"
     },
     {
-      "title": "AWS 正在幫助振動編碼新創公司 Superblocks，其影響是巨大的",
-      "link": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-      "summary": "AWS 現在允許將 vivi 編碼工具 Superblocks 嵌入到 AWS 客戶的私有雲中。這是另一步...",
-      "source": "TechCrunch"
+      "title": "「不健康」的 LLM 使用比您想像的更常見",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+      "summary": "漢克·格林 (Hank Green) 是一位頗受歡迎的 Y​​ouTuber 和科學傳播者，他表示，在強烈的批評聲中，他將退出製作…",
+      "source": "The Verge"
     },
     {
-      "title": "Design Arena 創作者籌集了 790 萬美元，為 AI 模型帶來品味",
-      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "summary": "Design Arena 被全球 530 萬人使用，為前沿實驗室提供關鍵的人類評估。",
-      "source": "TechCrunch"
+      "title": "德州規定資料中心在併網之前必須通過審核",
+      "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+      "summary": "德克薩斯州宣布對數據中心進行新的審計，這可能會減緩尋求連接到該州的新設施的批准...",
+      "source": "The Verge"
     },
     {
-      "title": "有影響力的人因參加 OpenAI 的首次豪華旅行而遭到強烈反對",
-      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "summary": "隨著人工智慧使用的緊張局勢持續存在，OpenAI 的首次影響者品牌之旅引發了網路上的強烈反對。",
-      "source": "TechCrunch"
+      "title": "OpenAI將蘋果訴訟拖上輿論法庭",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "summary": "蘋果針對 OpenAI 的法律戰變得更加混亂，因為 ChatGPT 製造商公開公佈了反駁 A 的收據…",
+      "source": "The Verge"
     },
     {
-      "title": "蘋果終於修復了 Siri。那為什麼會感覺虎頭蛇尾呢？",
-      "link": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-      "summary": "蘋果期待已久的人工智慧改革終於讓 Siri 成為了人們一直期待的助手。然而它到達了某個時刻…",
-      "source": "TechCrunch"
+      "title": "Reddit 能否抵禦新一波 AI SEO 垃圾郵件？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+      "summary": "今年早些時候，一位 Reddit 用戶向一個專注於護膚的 Reddit 子版塊的成員詢問是否有人嘗試過某種特定的 Hypoch…",
+      "source": "The Verge"
     },
     {
-      "title": "國會最喜歡的人工智慧工具？ChatGPT",
-      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "summary": "眾議院支出記錄顯示，OpenAI 的 ChatGPT 在國會山莊的付費人工智慧使用中佔據主導地位，國會辦公室依賴…",
+      "title": "今年到目前為止，SpaceX 已購買了價值 3.29 億美元的 Tesla Megapacks",
+      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+      "summary": "這次收購說明了馬斯克旗下公司之間的相互關聯程度。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "人工智慧教練 (CoachAI)",
-      "link": "https://www.producthunt.com/products/coachai-fitness-coach",
-      "desc": "Your iPhone camera watches your form, rep by rep Discussion | Link",
-      "title_en": "CoachAI"
+      "title": "驅動 (Driven)",
+      "link": "https://www.producthunt.com/products/driven-ai",
+      "desc": "The trusted AI investment agent, from insight to action Discussion | Link",
+      "title_en": "Driven"
     },
     {
-      "title": "存貨 (Inventory)",
-      "link": "https://www.producthunt.com/products/inventory",
-      "desc": "搜尋每個 AI Agent 和 IDE 對話討論 |關聯",
-      "title_en": "Inventory"
+      "title": "影片艾我 (VIDEO AI ME)",
+      "link": "https://www.producthunt.com/products/video-ai-me",
+      "desc": "只需一種工具即可製作影片並將其發佈到任何地方關聯",
+      "title_en": "VIDEO AI ME"
     },
     {
-      "title": "姆帕伊 (mpai)",
-      "link": "https://www.producthunt.com/products/mpai",
-      "desc": "使現有的 Codex 和 Claude Code 會話成為多人討論 |關聯",
-      "title_en": "mpai"
+      "title": "嘿諾亞 (Hey Noah)",
+      "link": "https://www.producthunt.com/products/hey-noah",
+      "desc": "創辦人的主動人工智慧執行助理 討論 |關聯",
+      "title_en": "Hey Noah"
     },
     {
-      "title": "被動短褲 (PassiveShorts)",
-      "link": "https://www.producthunt.com/products/passiveshorts",
-      "desc": "AI Faceless Video Generator for TikTok & YouTube Discussion | Link",
-      "title_en": "PassiveShorts"
+      "title": "芬尤斯 (Finyuus)",
+      "link": "https://www.producthunt.com/products/finyuus",
+      "desc": "A code-first language for durable, governed AI workflows Discussion | Link",
+      "title_en": "Finyuus"
     },
     {
-      "title": "亞皮亞普 (yapyap)",
-      "link": "https://www.producthunt.com/products/yapyap-3",
-      "desc": "再次擁有你的聲音。本地優先的語音和會議錄音機。討論 |關聯",
-      "title_en": "yapyap"
+      "title": "Atlaso",
+      "link": "https://www.producthunt.com/products/atlaso",
+      "desc": "您使用的每個 AI 都有一個記憶體 討論 |關聯",
+      "title_en": "Atlaso"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "Design Arena 創作者籌集了 790 萬美元，為 AI 模型帶來品味",
-      "link": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-      "summary": "Design Arena 被全球 530 萬人使用，為前沿實驗室提供關鍵的人類評估。",
-      "source": "TechCrunch"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [
     {
-      "title": "被動短褲 (PassiveShorts)",
-      "link": "https://www.producthunt.com/products/passiveshorts",
-      "desc": "AI Faceless Video Generator for TikTok & YouTube Discussion | Link",
-      "title_en": "PassiveShorts"
+      "title": "影片艾我 (VIDEO AI ME)",
+      "link": "https://www.producthunt.com/products/video-ai-me",
+      "desc": "只需一種工具即可製作影片並將其發佈到任何地方關聯",
+      "title_en": "VIDEO AI ME"
     }
   ],
   "major": [
     {
-      "title": "有影響力的人因參加 OpenAI 的首次豪華旅行而遭到強烈反對",
-      "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-      "summary": "隨著人工智慧使用的緊張局勢持續存在，OpenAI 的首次影響者品牌之旅引發了網路上的強烈反對。",
-      "source": "TechCrunch"
+      "title": "OpenAI 影響者之旅如何適得其反",
+      "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+      "summary": "品牌之旅是影響者的通行權。贊助商想要邀請他們參加……這是合法性的標誌。",
+      "source": "The Verge"
     },
     {
-      "title": "國會最喜歡的人工智慧工具？ChatGPT",
-      "link": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
-      "summary": "眾議院支出記錄顯示，OpenAI 的 ChatGPT 在國會山莊的付費人工智慧使用中佔據主導地位，國會辦公室依賴…",
-      "source": "TechCrunch"
+      "title": "OpenAI將蘋果訴訟拖上輿論法庭",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+      "summary": "蘋果針對 OpenAI 的法律戰變得更加混亂，因為 ChatGPT 製造商公開公佈了反駁 A 的收據…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "有影響力的人因參加 OpenAI 的首次豪華旅行而遭到強烈反對",
-    "link": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-    "summary": "隨著人工智慧使用的緊張局勢持續存在，OpenAI 的首次影響者品牌之旅引發了網路上的強烈反對。",
-    "source": "TechCrunch"
+    "title": "OpenAI 影響者之旅如何適得其反",
+    "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+    "summary": "品牌之旅是影響者的通行權。贊助商想要邀請他們參加……這是合法性的標誌。",
+    "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "今日 AI 出旅遊 Reel",
-      "detail": "用被動短褲（PassiveShorts）AI 面無短片創建工具，設計一段旅遊視頻，發在 TikTok 和 YouTube，預計 2 天出成果"
+      "title": "影片艾我推旅遊Vlog",
+      "detail": "用VIDEO AI ME製作旅遊影片，直接發到YouTube和Instagram，預計3天出成果"
     },
     {
-      "title": "AI 教練出旅遊健身",
-      "detail": "利用人工智慧教練 (CoachAI) 紀錄旅遊健身的影片，發在 Instagram 和 Facebook，預計 3 天出成果"
+      "title": "AI投資新機遇",
+      "detail": "利用Driven分析旅遊美食趨勢，找到新投資機會，發布在SS的社交媒體頻道，預計1星期出成果"
     },
     {
-      "title": "多人討論旅遊 Codex",
-      "detail": "用姆帕伊 (mpai) 使現有的 Codex 和 Claude Code 會話成為多人討論，創建一個旅遊議題討論群組，發在 LinkedIn 和 Twitter，預計 1 周出成果"
+      "title": "嘿諾亞助手增效",
+      "detail": "設定Hey Noah幫助管理SS的內容創作和發布，自動化工作流程，預計2天出成果"
     }
   ],
   "history": {
@@ -6307,6 +6300,133 @@
         {
           "title": "多人討論旅遊 Codex",
           "detail": "用姆帕伊 (mpai) 使現有的 Codex 和 Claude Code 會話成為多人討論，創建一個旅遊議題討論群組，發在 LinkedIn 和 Twitter，預計 1 周出成果"
+        }
+      ]
+    },
+    "2026-08-05": {
+      "news": [
+        {
+          "title": "AMD資料中心業務蓬勃發展，遊戲業務退居二線",
+          "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+          "summary": "在人工智慧容量需求的推動下，AMD 在最新的財報中資料中心營收年增了一倍以上…",
+          "source": "The Verge"
+        },
+        {
+          "title": "SpaceX 作為人工智慧公司的收入比一家航太公司還要多",
+          "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+          "summary": "SpaceX 的人工智慧收入比上年增長了三倍多，達到 26 億美元，主要是因為該公司的交易…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 影響者之旅如何適得其反",
+          "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+          "summary": "品牌之旅是影響者的通行權。贊助商想要邀請他們參加……這是合法性的標誌。",
+          "source": "The Verge"
+        },
+        {
+          "title": "「不健康」的 LLM 使用比您想像的更常見",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+          "summary": "漢克·格林 (Hank Green) 是一位頗受歡迎的 Y​​ouTuber 和科學傳播者，他表示，在強烈的批評聲中，他將退出製作…",
+          "source": "The Verge"
+        },
+        {
+          "title": "德州規定資料中心在併網之前必須通過審核",
+          "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
+          "summary": "德克薩斯州宣布對數據中心進行新的審計，這可能會減緩尋求連接到該州的新設施的批准...",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI將蘋果訴訟拖上輿論法庭",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+          "summary": "蘋果針對 OpenAI 的法律戰變得更加混亂，因為 ChatGPT 製造商公開公佈了反駁 A 的收據…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Reddit 能否抵禦新一波 AI SEO 垃圾郵件？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
+          "summary": "今年早些時候，一位 Reddit 用戶向一個專注於護膚的 Reddit 子版塊的成員詢問是否有人嘗試過某種特定的 Hypoch…",
+          "source": "The Verge"
+        },
+        {
+          "title": "今年到目前為止，SpaceX 已購買了價值 3.29 億美元的 Tesla Megapacks",
+          "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+          "summary": "這次收購說明了馬斯克旗下公司之間的相互關聯程度。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "驅動 (Driven)",
+          "link": "https://www.producthunt.com/products/driven-ai",
+          "desc": "The trusted AI investment agent, from insight to action Discussion | Link",
+          "title_en": "Driven"
+        },
+        {
+          "title": "影片艾我 (VIDEO AI ME)",
+          "link": "https://www.producthunt.com/products/video-ai-me",
+          "desc": "只需一種工具即可製作影片並將其發佈到任何地方關聯",
+          "title_en": "VIDEO AI ME"
+        },
+        {
+          "title": "嘿諾亞 (Hey Noah)",
+          "link": "https://www.producthunt.com/products/hey-noah",
+          "desc": "創辦人的主動人工智慧執行助理 討論 |關聯",
+          "title_en": "Hey Noah"
+        },
+        {
+          "title": "芬尤斯 (Finyuus)",
+          "link": "https://www.producthunt.com/products/finyuus",
+          "desc": "A code-first language for durable, governed AI workflows Discussion | Link",
+          "title_en": "Finyuus"
+        },
+        {
+          "title": "Atlaso",
+          "link": "https://www.producthunt.com/products/atlaso",
+          "desc": "您使用的每個 AI 都有一個記憶體 討論 |關聯",
+          "title_en": "Atlaso"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [
+        {
+          "title": "影片艾我 (VIDEO AI ME)",
+          "link": "https://www.producthunt.com/products/video-ai-me",
+          "desc": "只需一種工具即可製作影片並將其發佈到任何地方關聯",
+          "title_en": "VIDEO AI ME"
+        }
+      ],
+      "major": [
+        {
+          "title": "OpenAI 影響者之旅如何適得其反",
+          "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+          "summary": "品牌之旅是影響者的通行權。贊助商想要邀請他們參加……這是合法性的標誌。",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI將蘋果訴訟拖上輿論法庭",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
+          "summary": "蘋果針對 OpenAI 的法律戰變得更加混亂，因為 ChatGPT 製造商公開公佈了反駁 A 的收據…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 影響者之旅如何適得其反",
+        "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+        "summary": "品牌之旅是影響者的通行權。贊助商想要邀請他們參加……這是合法性的標誌。",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "影片艾我推旅遊Vlog",
+          "detail": "用VIDEO AI ME製作旅遊影片，直接發到YouTube和Instagram，預計3天出成果"
+        },
+        {
+          "title": "AI投資新機遇",
+          "detail": "利用Driven分析旅遊美食趨勢，找到新投資機會，發布在SS的社交媒體頻道，預計1星期出成果"
+        },
+        {
+          "title": "嘿諾亞助手增效",
+          "detail": "設定Hey Noah幫助管理SS的內容創作和發布，自動化工作流程，預計2天出成果"
         }
       ]
     }
