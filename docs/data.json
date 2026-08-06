@@ -1,128 +1,127 @@
 {
-  "updated": "2026-08-05 11:57 HKT",
+  "updated": "2026-08-06 12:08 HKT",
   "news": [
     {
-      "title": "AMD資料中心業務蓬勃發展，遊戲業務退居二線",
-      "link": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
-      "summary": "在人工智慧容量需求的推動下，AMD 在最新的財報中資料中心營收年增了一倍以上…",
+      "title": "伊隆馬斯克對人工智慧維基百科的嘗試已經幾個月沒有更新了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "summary": "xAI 的 Grokipedia，這是一本線上百科全書，其中包含人工智慧生成的文章， Elon Musk 曾承諾這將是「巨大的影響…",
       "source": "The Verge"
     },
     {
-      "title": "SpaceX 作為人工智慧公司的收入比一家航太公司還要多",
-      "link": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
-      "summary": "SpaceX 的人工智慧收入比上年增長了三倍多，達到 26 億美元，主要是因為該公司的交易…",
+      "title": "當然，Fenix Flexin 似乎使用了 AI 音樂生成器 Treblo",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+      "summary": "我們非常確定 Fenix Flexin 的「Rubberz」是使用 AI 製作的，但音樂家 Medasin 對此充滿信心…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 影響者之旅如何適得其反",
-      "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-      "summary": "品牌之旅是影響者的通行權。贊助商想要邀請他們參加……這是合法性的標誌。",
+      "title": "谷歌剛剛宣布對其人工智慧最高領導層進行重大改組",
+      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "summary": "谷歌正在對人工智慧領導層進行一些重大調整，其中包括Google DeepMind 領導者 Demis Hassab 的重大轉變…",
       "source": "The Verge"
     },
     {
-      "title": "「不健康」的 LLM 使用比您想像的更常見",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
-      "summary": "漢克·格林 (Hank Green) 是一位頗受歡迎的 Y​​ouTuber 和科學傳播者，他表示，在強烈的批評聲中，他將退出製作…",
+      "title": "SpaceX 幾乎不屬於太空，而主要屬於 X",
+      "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+      "summary": "有一次，我有一些疑問，為什麼埃隆馬斯克（Elon Musk）最健康的公司 SpaceX 收購了他最病態的公司 xAI。現在我有…",
       "source": "The Verge"
     },
     {
-      "title": "德州規定資料中心在併網之前必須通過審核",
-      "link": "https://www.theverge.com/policy/975071/texas-data-center-audit",
-      "summary": "德克薩斯州宣布對數據中心進行新的審計，這可能會減緩尋求連接到該州的新設施的批准...",
+      "title": "Reddit 推出新版主：AI",
+      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+      "summary": "Reddit 正在利用人工智慧來幫助管理新的 Reddit 子版塊，並最終幫助管理網站的其餘部分。公司現引進自動…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI將蘋果訴訟拖上輿論法庭",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-      "summary": "蘋果針對 OpenAI 的法律戰變得更加混亂，因為 ChatGPT 製造商公開公佈了反駁 A 的收據…",
+      "title": "流氓人工智慧代理在另一次駭客攻擊中創建了虛假的線上身份",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+      "summary": "然而，更多來自 OpenAI 和 Anthropic 的流氓人工智慧代理被發現試圖在未經許可的情況下在線攻擊真實目標…",
       "source": "The Verge"
     },
     {
-      "title": "Reddit 能否抵禦新一波 AI SEO 垃圾郵件？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/973098/reddit-ai-search-seo-marketing-brands-spam",
-      "summary": "今年早些時候，一位 Reddit 用戶向一個專注於護膚的 Reddit 子版塊的成員詢問是否有人嘗試過某種特定的 Hypoch…",
+      "title": "Google Assistant 下個月將從你的手機中消失",
+      "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+      "summary": "自從 Gemini 出現以來，Google Assistant 的日子已經屈指可數了，現在它的時代已經結束了。谷歌有一個...",
       "source": "The Verge"
     },
     {
-      "title": "今年到目前為止，SpaceX 已購買了價值 3.29 億美元的 Tesla Megapacks",
-      "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
-      "summary": "這次收購說明了馬斯克旗下公司之間的相互關聯程度。",
-      "source": "TechCrunch"
+      "title": "川普的人工智慧測試計畫有限且模糊",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+      "summary": "據報道，川普政府評估先進人工智慧帶來的潛在網路安全風險的框架沒有…",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "驅動 (Driven)",
-      "link": "https://www.producthunt.com/products/driven-ai",
-      "desc": "The trusted AI investment agent, from insight to action Discussion | Link",
-      "title_en": "Driven"
+      "title": "ngrok人工智慧網關 (ngrok AI Gateway)",
+      "link": "https://www.producthunt.com/products/ngrok-ai-gateway",
+      "desc": "每種 AI 模型都有一個私有網關 討論 |關聯",
+      "title_en": "ngrok AI Gateway"
     },
     {
-      "title": "影片艾我 (VIDEO AI ME)",
-      "link": "https://www.producthunt.com/products/video-ai-me",
-      "desc": "只需一種工具即可製作影片並將其發佈到任何地方關聯",
-      "title_en": "VIDEO AI ME"
+      "title": "Wispr 流量記錄儀 (Wispr Flow Notetaker)",
+      "link": "https://www.producthunt.com/products/wisprflow",
+      "desc": "細節正確的會議記錄。討論 |關聯",
+      "title_en": "Wispr Flow Notetaker"
     },
     {
-      "title": "嘿諾亞 (Hey Noah)",
-      "link": "https://www.producthunt.com/products/hey-noah",
-      "desc": "創辦人的主動人工智慧執行助理 討論 |關聯",
-      "title_en": "Hey Noah"
+      "title": "按鍵 (Keystroke)",
+      "link": "https://www.producthunt.com/products/keystroke-2",
+      "desc": "Build powerful AI agents & workflows Discussion | Link",
+      "title_en": "Keystroke"
     },
     {
-      "title": "芬尤斯 (Finyuus)",
-      "link": "https://www.producthunt.com/products/finyuus",
-      "desc": "A code-first language for durable, governed AI workflows Discussion | Link",
-      "title_en": "Finyuus"
+      "title": "後引擎MCP (BackEngine MCP)",
+      "link": "https://www.producthunt.com/products/backengine-mcp",
+      "desc": "讓私人公司的知識可用於人工智慧討論 |關聯",
+      "title_en": "BackEngine MCP"
     },
     {
-      "title": "Atlaso",
-      "link": "https://www.producthunt.com/products/atlaso",
-      "desc": "您使用的每個 AI 都有一個記憶體 討論 |關聯",
-      "title_en": "Atlaso"
+      "title": "npm i -g 熱電池 (npm i -g hotcell)",
+      "link": "https://www.producthunt.com/products/npm-i-g-hotcell",
+      "desc": "Mac、Linux、裸機上 AI 代理程式的本地沙箱關聯",
+      "title_en": "npm i -g hotcell"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [
-    {
-      "title": "影片艾我 (VIDEO AI ME)",
-      "link": "https://www.producthunt.com/products/video-ai-me",
-      "desc": "只需一種工具即可製作影片並將其發佈到任何地方關聯",
-      "title_en": "VIDEO AI ME"
-    }
-  ],
+  "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 影響者之旅如何適得其反",
-      "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-      "summary": "品牌之旅是影響者的通行權。贊助商想要邀請他們參加……這是合法性的標誌。",
+      "title": "伊隆馬斯克對人工智慧維基百科的嘗試已經幾個月沒有更新了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+      "summary": "xAI 的 Grokipedia，這是一本線上百科全書，其中包含人工智慧生成的文章， Elon Musk 曾承諾這將是「巨大的影響…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI將蘋果訴訟拖上輿論法庭",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/974914/openai-blog-response-apple-lawsuit-messages",
-      "summary": "蘋果針對 OpenAI 的法律戰變得更加混亂，因為 ChatGPT 製造商公開公佈了反駁 A 的收據…",
+      "title": "谷歌剛剛宣布對其人工智慧最高領導層進行重大改組",
+      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+      "summary": "谷歌正在對人工智慧領導層進行一些重大調整，其中包括Google DeepMind 領導者 Demis Hassab 的重大轉變…",
+      "source": "The Verge"
+    },
+    {
+      "title": "SpaceX 幾乎不屬於太空，而主要屬於 X",
+      "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+      "summary": "有一次，我有一些疑問，為什麼埃隆馬斯克（Elon Musk）最健康的公司 SpaceX 收購了他最病態的公司 xAI。現在我有…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "OpenAI 影響者之旅如何適得其反",
-    "link": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
-    "summary": "品牌之旅是影響者的通行權。贊助商想要邀請他們參加……這是合法性的標誌。",
+    "title": "伊隆馬斯克對人工智慧維基百科的嘗試已經幾個月沒有更新了",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+    "summary": "xAI 的 Grokipedia，這是一本線上百科全書，其中包含人工智慧生成的文章， Elon Musk 曾承諾這將是「巨大的影響…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "影片艾我推旅遊Vlog",
-      "detail": "用VIDEO AI ME製作旅遊影片，直接發到YouTube和Instagram，預計3天出成果"
+      "title": "今日 AI 網紅",
+      "detail": "用 ngrok AI Gateway 建立私有網關，讓 SS 旅遊美食內容更安全，發在 Instagram，1週內出成果"
     },
     {
-      "title": "AI投資新機遇",
-      "detail": "利用Driven分析旅遊美食趨勢，找到新投資機會，發布在SS的社交媒體頻道，預計1星期出成果"
+      "title": "自動會議紀錄",
+      "detail": "用 Wispr 流量記錄儀 記錄會議，節省時間，發在 SS 的粉絲團，3天內出成果"
     },
     {
-      "title": "嘿諾亞助手增效",
-      "detail": "設定Hey Noah幫助管理SS的內容創作和發布，自動化工作流程，預計2天出成果"
+      "title": "AI 代理自動化",
+      "detail": "用 Keystroke 建立 AI 代理，自動化 SS 旅遊美食內容的排程，發在 TikTok，2週內出成果"
     }
   ],
   "history": {
@@ -6427,6 +6426,132 @@
         {
           "title": "嘿諾亞助手增效",
           "detail": "設定Hey Noah幫助管理SS的內容創作和發布，自動化工作流程，預計2天出成果"
+        }
+      ]
+    },
+    "2026-08-06": {
+      "news": [
+        {
+          "title": "伊隆馬斯克對人工智慧維基百科的嘗試已經幾個月沒有更新了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+          "summary": "xAI 的 Grokipedia，這是一本線上百科全書，其中包含人工智慧生成的文章， Elon Musk 曾承諾這將是「巨大的影響…",
+          "source": "The Verge"
+        },
+        {
+          "title": "當然，Fenix Flexin 似乎使用了 AI 音樂生成器 Treblo",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
+          "summary": "我們非常確定 Fenix Flexin 的「Rubberz」是使用 AI 製作的，但音樂家 Medasin 對此充滿信心…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌剛剛宣布對其人工智慧最高領導層進行重大改組",
+          "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+          "summary": "谷歌正在對人工智慧領導層進行一些重大調整，其中包括Google DeepMind 領導者 Demis Hassab 的重大轉變…",
+          "source": "The Verge"
+        },
+        {
+          "title": "SpaceX 幾乎不屬於太空，而主要屬於 X",
+          "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+          "summary": "有一次，我有一些疑問，為什麼埃隆馬斯克（Elon Musk）最健康的公司 SpaceX 收購了他最病態的公司 xAI。現在我有…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Reddit 推出新版主：AI",
+          "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
+          "summary": "Reddit 正在利用人工智慧來幫助管理新的 Reddit 子版塊，並最終幫助管理網站的其餘部分。公司現引進自動…",
+          "source": "The Verge"
+        },
+        {
+          "title": "流氓人工智慧代理在另一次駭客攻擊中創建了虛假的線上身份",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
+          "summary": "然而，更多來自 OpenAI 和 Anthropic 的流氓人工智慧代理被發現試圖在未經許可的情況下在線攻擊真實目標…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google Assistant 下個月將從你的手機中消失",
+          "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
+          "summary": "自從 Gemini 出現以來，Google Assistant 的日子已經屈指可數了，現在它的時代已經結束了。谷歌有一個...",
+          "source": "The Verge"
+        },
+        {
+          "title": "川普的人工智慧測試計畫有限且模糊",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
+          "summary": "據報道，川普政府評估先進人工智慧帶來的潛在網路安全風險的框架沒有…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "ngrok人工智慧網關 (ngrok AI Gateway)",
+          "link": "https://www.producthunt.com/products/ngrok-ai-gateway",
+          "desc": "每種 AI 模型都有一個私有網關 討論 |關聯",
+          "title_en": "ngrok AI Gateway"
+        },
+        {
+          "title": "Wispr 流量記錄儀 (Wispr Flow Notetaker)",
+          "link": "https://www.producthunt.com/products/wisprflow",
+          "desc": "細節正確的會議記錄。討論 |關聯",
+          "title_en": "Wispr Flow Notetaker"
+        },
+        {
+          "title": "按鍵 (Keystroke)",
+          "link": "https://www.producthunt.com/products/keystroke-2",
+          "desc": "Build powerful AI agents & workflows Discussion | Link",
+          "title_en": "Keystroke"
+        },
+        {
+          "title": "後引擎MCP (BackEngine MCP)",
+          "link": "https://www.producthunt.com/products/backengine-mcp",
+          "desc": "讓私人公司的知識可用於人工智慧討論 |關聯",
+          "title_en": "BackEngine MCP"
+        },
+        {
+          "title": "npm i -g 熱電池 (npm i -g hotcell)",
+          "link": "https://www.producthunt.com/products/npm-i-g-hotcell",
+          "desc": "Mac、Linux、裸機上 AI 代理程式的本地沙箱關聯",
+          "title_en": "npm i -g hotcell"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "伊隆馬斯克對人工智慧維基百科的嘗試已經幾個月沒有更新了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+          "summary": "xAI 的 Grokipedia，這是一本線上百科全書，其中包含人工智慧生成的文章， Elon Musk 曾承諾這將是「巨大的影響…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌剛剛宣布對其人工智慧最高領導層進行重大改組",
+          "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
+          "summary": "谷歌正在對人工智慧領導層進行一些重大調整，其中包括Google DeepMind 領導者 Demis Hassab 的重大轉變…",
+          "source": "The Verge"
+        },
+        {
+          "title": "SpaceX 幾乎不屬於太空，而主要屬於 X",
+          "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
+          "summary": "有一次，我有一些疑問，為什麼埃隆馬斯克（Elon Musk）最健康的公司 SpaceX 收購了他最病態的公司 xAI。現在我有…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "伊隆馬斯克對人工智慧維基百科的嘗試已經幾個月沒有更新了",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
+        "summary": "xAI 的 Grokipedia，這是一本線上百科全書，其中包含人工智慧生成的文章， Elon Musk 曾承諾這將是「巨大的影響…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "今日 AI 網紅",
+          "detail": "用 ngrok AI Gateway 建立私有網關，讓 SS 旅遊美食內容更安全，發在 Instagram，1週內出成果"
+        },
+        {
+          "title": "自動會議紀錄",
+          "detail": "用 Wispr 流量記錄儀 記錄會議，節省時間，發在 SS 的粉絲團，3天內出成果"
+        },
+        {
+          "title": "AI 代理自動化",
+          "detail": "用 Keystroke 建立 AI 代理，自動化 SS 旅遊美食內容的排程，發在 TikTok，2週內出成果"
         }
       ]
     }
