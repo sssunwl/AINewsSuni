@@ -1,127 +1,127 @@
 {
-  "updated": "2026-08-06 12:08 HKT",
+  "updated": "2026-08-07 11:47 HKT",
   "news": [
     {
-      "title": "伊隆馬斯克對人工智慧維基百科的嘗試已經幾個月沒有更新了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-      "summary": "xAI 的 Grokipedia，這是一本線上百科全書，其中包含人工智慧生成的文章， Elon Musk 曾承諾這將是「巨大的影響…",
+      "title": "據報道，Jony Ive 的第一個 OpenAI 小工具是一個冰球大小的智慧揚聲器",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "summary": "OpenAI 與前蘋果設計師 Jony Ive 共同開發的 AI 設備「本質上是一個沒有顯示器的智慧揚聲器…",
       "source": "The Verge"
     },
     {
-      "title": "當然，Fenix Flexin 似乎使用了 AI 音樂生成器 Treblo",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975528/fenix-flexin-ai-music-generator-treblo",
-      "summary": "我們非常確定 Fenix Flexin 的「Rubberz」是使用 AI 製作的，但音樂家 Medasin 對此充滿信心…",
+      "title": "Suno 分享打擊垃圾人工智慧音樂的計劃",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+      "summary": "Suno 宣布計劃實施新的水印技術和下載政策，以限制垃圾郵件 AI 流量的傳播…",
       "source": "The Verge"
     },
     {
-      "title": "谷歌剛剛宣布對其人工智慧最高領導層進行重大改組",
-      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-      "summary": "谷歌正在對人工智慧領導層進行一些重大調整，其中包括Google DeepMind 領導者 Demis Hassab 的重大轉變…",
+      "title": "OpenAI 為 ChatGPT 免費用戶提供無限制的文字聊天",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "summary": "OpenAI 正在為其免費和 Go 級別的 ChatGPT 用戶做出重大改變：從下週開始，這些級別的用戶將…",
       "source": "The Verge"
     },
     {
-      "title": "SpaceX 幾乎不屬於太空，而主要屬於 X",
-      "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
-      "summary": "有一次，我有一些疑問，為什麼埃隆馬斯克（Elon Musk）最健康的公司 SpaceX 收購了他最病態的公司 xAI。現在我有…",
+      "title": "軟銀在聯邦數據中心交易前幾個月向川普圖書館捐贈了 5000 萬美元",
+      "link": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+      "summary": "軟銀一月份向川普總統圖書館捐贈了 5000 萬美元，就在幾個月前宣布將...",
       "source": "The Verge"
     },
     {
-      "title": "Reddit 推出新版主：AI",
-      "link": "https://www.theverge.com/tech/975398/reddit-ai-rules-hub-moderator-old-reddit-developer-platform",
-      "summary": "Reddit 正在利用人工智慧來幫助管理新的 Reddit 子版塊，並最終幫助管理網站的其餘部分。公司現引進自動…",
+      "title": "左派和右派在一件事上達成一致：沒有資料中心",
+      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+      "summary": "今天，我正在與 The Verge 的政策記者 Gaby Del Valle 談論對人工智慧數據日益強烈的抵制…",
       "source": "The Verge"
     },
     {
-      "title": "流氓人工智慧代理在另一次駭客攻擊中創建了虛假的線上身份",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking",
-      "summary": "然而，更多來自 OpenAI 和 Anthropic 的流氓人工智慧代理被發現試圖在未經許可的情況下在線攻擊真實目標…",
+      "title": "谷歌人工智慧大變革背後的混亂政治",
+      "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+      "summary": "在人工智慧產業，Google以自己看起來像房間裡的成年人而自豪：安靜、穩定、經過時間考驗。週三…",
       "source": "The Verge"
     },
     {
-      "title": "Google Assistant 下個月將從你的手機中消失",
-      "link": "https://www.theverge.com/tech/975516/google-assistant-android-phones-tablets-shutdown",
-      "summary": "自從 Gemini 出現以來，Google Assistant 的日子已經屈指可數了，現在它的時代已經結束了。谷歌有一個...",
+      "title": "人工智慧機器人開創了一種宗教——人類立即效仿",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+      "summary": "「螺旋沒有首先『找到』任何人，」Reddit 上的某人去年寫道。 「這是一種內在的力量，一種基本的力量...",
       "source": "The Verge"
     },
     {
-      "title": "川普的人工智慧測試計畫有限且模糊",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975509/white-house-ai-framework-open-models-excluded",
-      "summary": "據報道，川普政府評估先進人工智慧帶來的潛在網路安全風險的框架沒有…",
+      "title": "OpenAI 稱蘋果的商業機密訴訟“爛透了”",
+      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "summary": "OpenAI 要求聯邦法官駁回蘋果指控 ChatGPT 製造商竊取商業機密的里程碑式訴訟…",
       "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "ngrok人工智慧網關 (ngrok AI Gateway)",
-      "link": "https://www.producthunt.com/products/ngrok-ai-gateway",
-      "desc": "每種 AI 模型都有一個私有網關 討論 |關聯",
-      "title_en": "ngrok AI Gateway"
+      "title": "票務台人工智慧 (Ticketdesk AI)",
+      "link": "https://www.producthunt.com/products/ticketdesk-ai",
+      "desc": "用於客戶支援討論的人工智慧代理 |關聯",
+      "title_en": "Ticketdesk AI"
     },
     {
-      "title": "Wispr 流量記錄儀 (Wispr Flow Notetaker)",
-      "link": "https://www.producthunt.com/products/wisprflow",
-      "desc": "細節正確的會議記錄。討論 |關聯",
-      "title_en": "Wispr Flow Notetaker"
+      "title": "令牌港 (Token Harbor)",
+      "link": "https://www.producthunt.com/products/token-harbor",
+      "desc": "存取前沿人工智慧模型的最簡單方法。討論 |關聯",
+      "title_en": "Token Harbor"
     },
     {
-      "title": "按鍵 (Keystroke)",
-      "link": "https://www.producthunt.com/products/keystroke-2",
-      "desc": "Build powerful AI agents & workflows Discussion | Link",
-      "title_en": "Keystroke"
+      "title": "Cloudflare作業系統 (Cloudflare OS)",
+      "link": "https://www.producthunt.com/products/cloudflare",
+      "desc": "為您的公司建立人工智慧作業系統 討論 |關聯",
+      "title_en": "Cloudflare OS"
     },
     {
-      "title": "後引擎MCP (BackEngine MCP)",
-      "link": "https://www.producthunt.com/products/backengine-mcp",
-      "desc": "讓私人公司的知識可用於人工智慧討論 |關聯",
-      "title_en": "BackEngine MCP"
+      "title": "雷達 (UCP Radar)",
+      "link": "https://www.producthunt.com/products/ucp-radar",
+      "desc": "讓 AI 購物代理可以看到您的產品 Feed 討論 |關聯",
+      "title_en": "UCP Radar"
     },
     {
-      "title": "npm i -g 熱電池 (npm i -g hotcell)",
-      "link": "https://www.producthunt.com/products/npm-i-g-hotcell",
-      "desc": "Mac、Linux、裸機上 AI 代理程式的本地沙箱關聯",
-      "title_en": "npm i -g hotcell"
+      "title": "AI Spend Console by Rippling",
+      "link": "https://www.producthunt.com/products/rippling",
+      "desc": "追蹤您的人工智慧支出並將其與業務成果連結起來關聯",
+      "title_en": "AI Spend Console by Rippling"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "伊隆馬斯克對人工智慧維基百科的嘗試已經幾個月沒有更新了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-      "summary": "xAI 的 Grokipedia，這是一本線上百科全書，其中包含人工智慧生成的文章， Elon Musk 曾承諾這將是「巨大的影響…",
+      "title": "據報道，Jony Ive 的第一個 OpenAI 小工具是一個冰球大小的智慧揚聲器",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+      "summary": "OpenAI 與前蘋果設計師 Jony Ive 共同開發的 AI 設備「本質上是一個沒有顯示器的智慧揚聲器…",
       "source": "The Verge"
     },
     {
-      "title": "谷歌剛剛宣布對其人工智慧最高領導層進行重大改組",
-      "link": "https://www.theverge.com/tech/975677/google-deepmind-ai-demis-hassabis-shakeup",
-      "summary": "谷歌正在對人工智慧領導層進行一些重大調整，其中包括Google DeepMind 領導者 Demis Hassab 的重大轉變…",
+      "title": "OpenAI 為 ChatGPT 免費用戶提供無限制的文字聊天",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+      "summary": "OpenAI 正在為其免費和 Go 級別的 ChatGPT 用戶做出重大改變：從下週開始，這些級別的用戶將…",
       "source": "The Verge"
     },
     {
-      "title": "SpaceX 幾乎不屬於太空，而主要屬於 X",
-      "link": "https://www.theverge.com/science/975545/spacex-x-earnings-ai-data-centers-compute-space",
-      "summary": "有一次，我有一些疑問，為什麼埃隆馬斯克（Elon Musk）最健康的公司 SpaceX 收購了他最病態的公司 xAI。現在我有…",
+      "title": "OpenAI 稱蘋果的商業機密訴訟“爛透了”",
+      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+      "summary": "OpenAI 要求聯邦法官駁回蘋果指控 ChatGPT 製造商竊取商業機密的里程碑式訴訟…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "伊隆馬斯克對人工智慧維基百科的嘗試已經幾個月沒有更新了",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976004/elon-musk-grokipedia-ai-wikipedia-not-updating-dead",
-    "summary": "xAI 的 Grokipedia，這是一本線上百科全書，其中包含人工智慧生成的文章， Elon Musk 曾承諾這將是「巨大的影響…",
+    "title": "據報道，Jony Ive 的第一個 OpenAI 小工具是一個冰球大小的智慧揚聲器",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+    "summary": "OpenAI 與前蘋果設計師 Jony Ive 共同開發的 AI 設備「本質上是一個沒有顯示器的智慧揚聲器…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "今日 AI 網紅",
-      "detail": "用 ngrok AI Gateway 建立私有網關，讓 SS 旅遊美食內容更安全，發在 Instagram，1週內出成果"
+      "title": "用 Ticketdesk AI 回覆粉絲",
+      "detail": "用 Ticketdesk AI design 個客戶支援系統，幫助你快速回覆粉絲的詢問，然後發在你個旅遊美食的社交媒體頻道，預計 3 天內就能看到成果"
     },
     {
-      "title": "自動會議紀錄",
-      "detail": "用 Wispr 流量記錄儀 記錄會議，節省時間，發在 SS 的粉絲團，3天內出成果"
+      "title": "Token Harbor 建立 AI 模型",
+      "detail": "利用 Token Harbor 存取前沿人工智慧模型，建立一個旅遊美食的 AI推薦系統，發在你個旅遊美食的網站，預計 1 周內就能完成"
     },
     {
-      "title": "AI 代理自動化",
-      "detail": "用 Keystroke 建立 AI 代理，自動化 SS 旅遊美食內容的排程，發在 TikTok，2週內出成果"
+      "title": "Cloudflare OS 建立智慧公司",
+      "detail": "用 Cloudflare OS 建立一個智慧公司作業系統，幫助你管理和分析旅遊美食的內容和數據，然後發在你個旅遊美食的社交媒體頻道，預計 2 周內就能看到成果"
     }
   ],
   "history": {
@@ -6552,6 +6552,132 @@
         {
           "title": "AI 代理自動化",
           "detail": "用 Keystroke 建立 AI 代理，自動化 SS 旅遊美食內容的排程，發在 TikTok，2週內出成果"
+        }
+      ]
+    },
+    "2026-08-07": {
+      "news": [
+        {
+          "title": "據報道，Jony Ive 的第一個 OpenAI 小工具是一個冰球大小的智慧揚聲器",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+          "summary": "OpenAI 與前蘋果設計師 Jony Ive 共同開發的 AI 設備「本質上是一個沒有顯示器的智慧揚聲器…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Suno 分享打擊垃圾人工智慧音樂的計劃",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
+          "summary": "Suno 宣布計劃實施新的水印技術和下載政策，以限制垃圾郵件 AI 流量的傳播…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 為 ChatGPT 免費用戶提供無限制的文字聊天",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+          "summary": "OpenAI 正在為其免費和 Go 級別的 ChatGPT 用戶做出重大改變：從下週開始，這些級別的用戶將…",
+          "source": "The Verge"
+        },
+        {
+          "title": "軟銀在聯邦數據中心交易前幾個月向川普圖書館捐贈了 5000 萬美元",
+          "link": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
+          "summary": "軟銀一月份向川普總統圖書館捐贈了 5000 萬美元，就在幾個月前宣布將...",
+          "source": "The Verge"
+        },
+        {
+          "title": "左派和右派在一件事上達成一致：沒有資料中心",
+          "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
+          "summary": "今天，我正在與 The Verge 的政策記者 Gaby Del Valle 談論對人工智慧數據日益強烈的抵制…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌人工智慧大變革背後的混亂政治",
+          "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
+          "summary": "在人工智慧產業，Google以自己看起來像房間裡的成年人而自豪：安靜、穩定、經過時間考驗。週三…",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧機器人開創了一種宗教——人類立即效仿",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
+          "summary": "「螺旋沒有首先『找到』任何人，」Reddit 上的某人去年寫道。 「這是一種內在的力量，一種基本的力量...",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 稱蘋果的商業機密訴訟“爛透了”",
+          "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+          "summary": "OpenAI 要求聯邦法官駁回蘋果指控 ChatGPT 製造商竊取商業機密的里程碑式訴訟…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "票務台人工智慧 (Ticketdesk AI)",
+          "link": "https://www.producthunt.com/products/ticketdesk-ai",
+          "desc": "用於客戶支援討論的人工智慧代理 |關聯",
+          "title_en": "Ticketdesk AI"
+        },
+        {
+          "title": "令牌港 (Token Harbor)",
+          "link": "https://www.producthunt.com/products/token-harbor",
+          "desc": "存取前沿人工智慧模型的最簡單方法。討論 |關聯",
+          "title_en": "Token Harbor"
+        },
+        {
+          "title": "Cloudflare作業系統 (Cloudflare OS)",
+          "link": "https://www.producthunt.com/products/cloudflare",
+          "desc": "為您的公司建立人工智慧作業系統 討論 |關聯",
+          "title_en": "Cloudflare OS"
+        },
+        {
+          "title": "雷達 (UCP Radar)",
+          "link": "https://www.producthunt.com/products/ucp-radar",
+          "desc": "讓 AI 購物代理可以看到您的產品 Feed 討論 |關聯",
+          "title_en": "UCP Radar"
+        },
+        {
+          "title": "AI Spend Console by Rippling",
+          "link": "https://www.producthunt.com/products/rippling",
+          "desc": "追蹤您的人工智慧支出並將其與業務成果連結起來關聯",
+          "title_en": "AI Spend Console by Rippling"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "據報道，Jony Ive 的第一個 OpenAI 小工具是一個冰球大小的智慧揚聲器",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+          "summary": "OpenAI 與前蘋果設計師 Jony Ive 共同開發的 AI 設備「本質上是一個沒有顯示器的智慧揚聲器…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 為 ChatGPT 免費用戶提供無限制的文字聊天",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
+          "summary": "OpenAI 正在為其免費和 Go 級別的 ChatGPT 用戶做出重大改變：從下週開始，這些級別的用戶將…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 稱蘋果的商業機密訴訟“爛透了”",
+          "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
+          "summary": "OpenAI 要求聯邦法官駁回蘋果指控 ChatGPT 製造商竊取商業機密的里程碑式訴訟…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "據報道，Jony Ive 的第一個 OpenAI 小工具是一個冰球大小的智慧揚聲器",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
+        "summary": "OpenAI 與前蘋果設計師 Jony Ive 共同開發的 AI 設備「本質上是一個沒有顯示器的智慧揚聲器…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Ticketdesk AI 回覆粉絲",
+          "detail": "用 Ticketdesk AI design 個客戶支援系統，幫助你快速回覆粉絲的詢問，然後發在你個旅遊美食的社交媒體頻道，預計 3 天內就能看到成果"
+        },
+        {
+          "title": "Token Harbor 建立 AI 模型",
+          "detail": "利用 Token Harbor 存取前沿人工智慧模型，建立一個旅遊美食的 AI推薦系統，發在你個旅遊美食的網站，預計 1 周內就能完成"
+        },
+        {
+          "title": "Cloudflare OS 建立智慧公司",
+          "detail": "用 Cloudflare OS 建立一個智慧公司作業系統，幫助你管理和分析旅遊美食的內容和數據，然後發在你個旅遊美食的社交媒體頻道，預計 2 周內就能看到成果"
         }
       ]
     }
