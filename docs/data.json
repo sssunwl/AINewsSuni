@@ -1,127 +1,121 @@
 {
-  "updated": "2026-08-07 11:47 HKT",
+  "updated": "2026-08-08 10:52 HKT",
   "news": [
     {
-      "title": "據報道，Jony Ive 的第一個 OpenAI 小工具是一個冰球大小的智慧揚聲器",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "summary": "OpenAI 與前蘋果設計師 Jony Ive 共同開發的 AI 設備「本質上是一個沒有顯示器的智慧揚聲器…",
+      "title": "Fenix Flexin 甚至不再否認使用人工智慧來製作“Rubberz”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+      "summary": "雖然花了很長時間，但現在洛杉磯說唱歌手 Fenix Flexin 似乎承認在 80 年代合成器流行主題歌曲中使用了人工智慧…",
       "source": "The Verge"
     },
     {
-      "title": "Suno 分享打擊垃圾人工智慧音樂的計劃",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976289/suno-ai-music-spam-watermark",
-      "summary": "Suno 宣布計劃實施新的水印技術和下載政策，以限制垃圾郵件 AI 流量的傳播…",
+      "title": "看 Roku 的 AI 頻道就像從槽裡吃飯",
+      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+      "summary": "免費廣告支援的串流電視 (FAST) 頻道的吸引力始終在於它們讓（重新）更輕鬆地...",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 為 ChatGPT 免費用戶提供無限制的文字聊天",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "summary": "OpenAI 正在為其免費和 Go 級別的 ChatGPT 用戶做出重大改變：從下週開始，這些級別的用戶將…",
+      "title": "OpenAI 對新車型踩剎車，因為它被認為太強大了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "summary": "OpenAI 表示，它正在暫停圍繞正在開發的人工智慧模型 Astra 的“內部活動”，因為它尚未滿足新的要求…",
       "source": "The Verge"
     },
     {
-      "title": "軟銀在聯邦數據中心交易前幾個月向川普圖書館捐贈了 5000 萬美元",
-      "link": "https://www.theverge.com/policy/976138/softbank-trump-library-data-center-ohio",
-      "summary": "軟銀一月份向川普總統圖書館捐贈了 5000 萬美元，就在幾個月前宣布將...",
+      "title": "谷歌人工智慧變革背後的原因是什麼",
+      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+      "summary": "谷歌人工智慧團隊的一些知名人士本週獲得了新工作。在某些情況下，包括傳奇的谷歌員工傑夫…",
       "source": "The Verge"
     },
     {
-      "title": "左派和右派在一件事上達成一致：沒有資料中心",
-      "link": "https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan",
-      "summary": "今天，我正在與 The Verge 的政策記者 Gaby Del Valle 談論對人工智慧數據日益強烈的抵制…",
-      "source": "The Verge"
+      "title": "OpenAI 表示，出於安全考慮，它放慢了 Astra 模型的開發速度",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "summary": "OpenAI 表示，這個仍在開發中的模型已經達到了“關鍵的網路安全閾值”，這意味著它可以…",
+      "source": "TechCrunch"
     },
     {
-      "title": "谷歌人工智慧大變革背後的混亂政治",
-      "link": "https://www.theverge.com/tech/976108/google-ai-leadership-shakeup-jeff-dean-demis-hassabis-deepmind",
-      "summary": "在人工智慧產業，Google以自己看起來像房間裡的成年人而自豪：安靜、穩定、經過時間考驗。週三…",
-      "source": "The Verge"
+      "title": "Rippling 在幾個月內在人工智慧上投入了數百萬美元後，它開發了一個員工投資回報率工具",
+      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+      "summary": "在敲響人工智慧使用警鐘後，Rippling 本週推出了 AI Spend Console，這是一款追蹤個人和…的產品。",
+      "source": "TechCrunch"
     },
     {
-      "title": "人工智慧機器人開創了一種宗教——人類立即效仿",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/975017/ai-spiralism-chatbot-movement",
-      "summary": "「螺旋沒有首先『找到』任何人，」Reddit 上的某人去年寫道。 「這是一種內在的力量，一種基本的力量...",
-      "source": "The Verge"
+      "title": "Cloudflare 推出 Kitesurf，一款專為 AI 代理程式打造的瀏覽器",
+      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "summary": "Kitesurf 是一款雲端託管瀏覽器，專為人工智慧代理而不是人類而設計。它使用的運算能力比 Chromium 更少…",
+      "source": "TechCrunch"
     },
     {
-      "title": "OpenAI 稱蘋果的商業機密訴訟“爛透了”",
-      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "summary": "OpenAI 要求聯邦法官駁回蘋果指控 ChatGPT 製造商竊取商業機密的里程碑式訴訟…",
-      "source": "The Verge"
+      "title": "Airbnb 表示，在測試新的搜尋功能時，人工智慧正在幫助其更快發布功能",
+      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+      "summary": "Airbnb 將推出一種新的人工智慧驅動的帶有切換功能的搜尋體驗。",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "票務台人工智慧 (Ticketdesk AI)",
-      "link": "https://www.producthunt.com/products/ticketdesk-ai",
-      "desc": "用於客戶支援討論的人工智慧代理 |關聯",
-      "title_en": "Ticketdesk AI"
+      "title": "冷茶.ai (Coldtea.ai)",
+      "link": "https://www.producthunt.com/products/coldtea",
+      "desc": "讓您的軟體交付自動駕駛 討論 |關聯",
+      "title_en": "Coldtea.ai"
     },
     {
-      "title": "令牌港 (Token Harbor)",
-      "link": "https://www.producthunt.com/products/token-harbor",
-      "desc": "存取前沿人工智慧模型的最簡單方法。討論 |關聯",
-      "title_en": "Token Harbor"
+      "title": "硝基4.0 (Nitro 4.0)",
+      "link": "https://www.producthunt.com/products/alconost-localization",
+      "desc": "第一個為人工智慧代理建構的人工翻譯平台關聯",
+      "title_en": "Nitro 4.0"
     },
     {
-      "title": "Cloudflare作業系統 (Cloudflare OS)",
-      "link": "https://www.producthunt.com/products/cloudflare",
-      "desc": "為您的公司建立人工智慧作業系統 討論 |關聯",
-      "title_en": "Cloudflare OS"
+      "title": "參考 (Reference)",
+      "link": "https://www.producthunt.com/products/reference-2",
+      "desc": "AI 代理的本地語意搜尋討論 |關聯",
+      "title_en": "Reference"
     },
     {
-      "title": "雷達 (UCP Radar)",
-      "link": "https://www.producthunt.com/products/ucp-radar",
-      "desc": "讓 AI 購物代理可以看到您的產品 Feed 討論 |關聯",
-      "title_en": "UCP Radar"
+      "title": "奧里特 (Orite)",
+      "link": "https://www.producthunt.com/products/orite",
+      "desc": "給你的人工智慧代理錢。不是空白支票。討論 |關聯",
+      "title_en": "Orite"
     },
     {
-      "title": "AI Spend Console by Rippling",
-      "link": "https://www.producthunt.com/products/rippling",
-      "desc": "追蹤您的人工智慧支出並將其與業務成果連結起來關聯",
-      "title_en": "AI Spend Console by Rippling"
+      "title": "AgentOne 桌面版 (AgentOne Desktop)",
+      "link": "https://www.producthunt.com/products/agentone-desktop",
+      "desc": "自動化無聊的工作。可擴充且免費的桌面 AI 代理。討論 |關聯",
+      "title_en": "AgentOne Desktop"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "據報道，Jony Ive 的第一個 OpenAI 小工具是一個冰球大小的智慧揚聲器",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-      "summary": "OpenAI 與前蘋果設計師 Jony Ive 共同開發的 AI 設備「本質上是一個沒有顯示器的智慧揚聲器…",
+      "title": "OpenAI 對新車型踩剎車，因為它被認為太強大了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+      "summary": "OpenAI 表示，它正在暫停圍繞正在開發的人工智慧模型 Astra 的“內部活動”，因為它尚未滿足新的要求…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 為 ChatGPT 免費用戶提供無限制的文字聊天",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats",
-      "summary": "OpenAI 正在為其免費和 Go 級別的 ChatGPT 用戶做出重大改變：從下週開始，這些級別的用戶將…",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI 稱蘋果的商業機密訴訟“爛透了”",
-      "link": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request",
-      "summary": "OpenAI 要求聯邦法官駁回蘋果指控 ChatGPT 製造商竊取商業機密的里程碑式訴訟…",
-      "source": "The Verge"
+      "title": "OpenAI 表示，出於安全考慮，它放慢了 Astra 模型的開發速度",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "summary": "OpenAI 表示，這個仍在開發中的模型已經達到了“關鍵的網路安全閾值”，這意味著它可以…",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "據報道，Jony Ive 的第一個 OpenAI 小工具是一個冰球大小的智慧揚聲器",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor",
-    "summary": "OpenAI 與前蘋果設計師 Jony Ive 共同開發的 AI 設備「本質上是一個沒有顯示器的智慧揚聲器…",
+    "title": "OpenAI 對新車型踩剎車，因為它被認為太強大了",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "summary": "OpenAI 表示，它正在暫停圍繞正在開發的人工智慧模型 Astra 的“內部活動”，因為它尚未滿足新的要求…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用 Ticketdesk AI 回覆粉絲",
-      "detail": "用 Ticketdesk AI design 個客戶支援系統，幫助你快速回覆粉絲的詢問，然後發在你個旅遊美食的社交媒體頻道，預計 3 天內就能看到成果"
+      "title": "用 Orite 賺錢",
+      "detail": "我們可以用 Orite 來幫助 SS 的 AI 代理賺錢，設定好代理的工作流程，然後發布在社交媒體上，預計一周內出成果"
     },
     {
-      "title": "Token Harbor 建立 AI 模型",
-      "detail": "利用 Token Harbor 存取前沿人工智慧模型，建立一個旅遊美食的 AI推薦系統，發在你個旅遊美食的網站，預計 1 周內就能完成"
+      "title": "Nitro 4.0 翻譯機",
+      "detail": "利用 Nitro 4.0 將 SS 的旅遊美食內容翻譯成多種語言，然後發布在 YouTube 和 TikTok 上，預計三天內出成果"
     },
     {
-      "title": "Cloudflare OS 建立智慧公司",
-      "detail": "用 Cloudflare OS 建立一個智慧公司作業系統，幫助你管理和分析旅遊美食的內容和數據，然後發在你個旅遊美食的社交媒體頻道，預計 2 周內就能看到成果"
+      "title": "Reference 搜尋引擎",
+      "detail": "用 Reference 將 SS 的旅遊美食內容進行本地語意搜尋，然後將結果整理成博客文章，發布在Medium上，預計五天內出成果"
     }
   ],
   "history": {
@@ -6678,6 +6672,126 @@
         {
           "title": "Cloudflare OS 建立智慧公司",
           "detail": "用 Cloudflare OS 建立一個智慧公司作業系統，幫助你管理和分析旅遊美食的內容和數據，然後發在你個旅遊美食的社交媒體頻道，預計 2 周內就能看到成果"
+        }
+      ]
+    },
+    "2026-08-08": {
+      "news": [
+        {
+          "title": "Fenix Flexin 甚至不再否認使用人工智慧來製作“Rubberz”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+          "summary": "雖然花了很長時間，但現在洛杉磯說唱歌手 Fenix Flexin 似乎承認在 80 年代合成器流行主題歌曲中使用了人工智慧…",
+          "source": "The Verge"
+        },
+        {
+          "title": "看 Roku 的 AI 頻道就像從槽裡吃飯",
+          "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+          "summary": "免費廣告支援的串流電視 (FAST) 頻道的吸引力始終在於它們讓（重新）更輕鬆地...",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 對新車型踩剎車，因為它被認為太強大了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "summary": "OpenAI 表示，它正在暫停圍繞正在開發的人工智慧模型 Astra 的“內部活動”，因為它尚未滿足新的要求…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌人工智慧變革背後的原因是什麼",
+          "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
+          "summary": "谷歌人工智慧團隊的一些知名人士本週獲得了新工作。在某些情況下，包括傳奇的谷歌員工傑夫…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 表示，出於安全考慮，它放慢了 Astra 模型的開發速度",
+          "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+          "summary": "OpenAI 表示，這個仍在開發中的模型已經達到了“關鍵的網路安全閾值”，這意味著它可以…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Rippling 在幾個月內在人工智慧上投入了數百萬美元後，它開發了一個員工投資回報率工具",
+          "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
+          "summary": "在敲響人工智慧使用警鐘後，Rippling 本週推出了 AI Spend Console，這是一款追蹤個人和…的產品。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Cloudflare 推出 Kitesurf，一款專為 AI 代理程式打造的瀏覽器",
+          "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+          "summary": "Kitesurf 是一款雲端託管瀏覽器，專為人工智慧代理而不是人類而設計。它使用的運算能力比 Chromium 更少…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Airbnb 表示，在測試新的搜尋功能時，人工智慧正在幫助其更快發布功能",
+          "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
+          "summary": "Airbnb 將推出一種新的人工智慧驅動的帶有切換功能的搜尋體驗。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "冷茶.ai (Coldtea.ai)",
+          "link": "https://www.producthunt.com/products/coldtea",
+          "desc": "讓您的軟體交付自動駕駛 討論 |關聯",
+          "title_en": "Coldtea.ai"
+        },
+        {
+          "title": "硝基4.0 (Nitro 4.0)",
+          "link": "https://www.producthunt.com/products/alconost-localization",
+          "desc": "第一個為人工智慧代理建構的人工翻譯平台關聯",
+          "title_en": "Nitro 4.0"
+        },
+        {
+          "title": "參考 (Reference)",
+          "link": "https://www.producthunt.com/products/reference-2",
+          "desc": "AI 代理的本地語意搜尋討論 |關聯",
+          "title_en": "Reference"
+        },
+        {
+          "title": "奧里特 (Orite)",
+          "link": "https://www.producthunt.com/products/orite",
+          "desc": "給你的人工智慧代理錢。不是空白支票。討論 |關聯",
+          "title_en": "Orite"
+        },
+        {
+          "title": "AgentOne 桌面版 (AgentOne Desktop)",
+          "link": "https://www.producthunt.com/products/agentone-desktop",
+          "desc": "自動化無聊的工作。可擴充且免費的桌面 AI 代理。討論 |關聯",
+          "title_en": "AgentOne Desktop"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 對新車型踩剎車，因為它被認為太強大了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+          "summary": "OpenAI 表示，它正在暫停圍繞正在開發的人工智慧模型 Astra 的“內部活動”，因為它尚未滿足新的要求…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 表示，出於安全考慮，它放慢了 Astra 模型的開發速度",
+          "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+          "summary": "OpenAI 表示，這個仍在開發中的模型已經達到了“關鍵的網路安全閾值”，這意味著它可以…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 對新車型踩剎車，因為它被認為太強大了",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+        "summary": "OpenAI 表示，它正在暫停圍繞正在開發的人工智慧模型 Astra 的“內部活動”，因為它尚未滿足新的要求…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Orite 賺錢",
+          "detail": "我們可以用 Orite 來幫助 SS 的 AI 代理賺錢，設定好代理的工作流程，然後發布在社交媒體上，預計一周內出成果"
+        },
+        {
+          "title": "Nitro 4.0 翻譯機",
+          "detail": "利用 Nitro 4.0 將 SS 的旅遊美食內容翻譯成多種語言，然後發布在 YouTube 和 TikTok 上，預計三天內出成果"
+        },
+        {
+          "title": "Reference 搜尋引擎",
+          "detail": "用 Reference 將 SS 的旅遊美食內容進行本地語意搜尋，然後將結果整理成博客文章，發布在Medium上，預計五天內出成果"
         }
       ]
     }
