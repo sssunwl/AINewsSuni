@@ -1,61 +1,37 @@
 {
-  "updated": "2026-08-08 10:52 HKT",
+  "updated": "2026-08-09 10:59 HKT",
   "news": [
     {
-      "title": "Fenix Flexin 甚至不再否認使用人工智慧來製作“Rubberz”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-      "summary": "雖然花了很長時間，但現在洛杉磯說唱歌手 Fenix Flexin 似乎承認在 80 年代合成器流行主題歌曲中使用了人工智慧…",
+      "title": "亞馬遜資料中心可能擁有全國污染最嚴重的發電廠",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+      "summary": "為了為其新的西德克薩斯數據中心供電，亞馬遜正在投資建設一座新發電廠，該發電廠可能是…",
       "source": "The Verge"
     },
     {
-      "title": "看 Roku 的 AI 頻道就像從槽裡吃飯",
-      "link": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-      "summary": "免費廣告支援的串流電視 (FAST) 頻道的吸引力始終在於它們讓（重新）更輕鬆地...",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI 對新車型踩剎車，因為它被認為太強大了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "summary": "OpenAI 表示，它正在暫停圍繞正在開發的人工智慧模型 Astra 的“內部活動”，因為它尚未滿足新的要求…",
-      "source": "The Verge"
-    },
-    {
-      "title": "谷歌人工智慧變革背後的原因是什麼",
-      "link": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-      "summary": "谷歌人工智慧團隊的一些知名人士本週獲得了新工作。在某些情況下，包括傳奇的谷歌員工傑夫…",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI 表示，出於安全考慮，它放慢了 Astra 模型的開發速度",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "summary": "OpenAI 表示，這個仍在開發中的模型已經達到了“關鍵的網路安全閾值”，這意味著它可以…",
+      "title": "計畫中的亞馬遜資料中心可能成為美國最大的氣候污染源",
+      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+      "summary": "作為計劃中的德克薩斯州數據中心的一部分，亞馬遜正在投資現場發電廠，據報該發電廠可能成為最大的發電廠。",
       "source": "TechCrunch"
     },
     {
-      "title": "Rippling 在幾個月內在人工智慧上投入了數百萬美元後，它開發了一個員工投資回報率工具",
-      "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
-      "summary": "在敲響人工智慧使用警鐘後，Rippling 本週推出了 AI Spend Console，這是一款追蹤個人和…的產品。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Cloudflare 推出 Kitesurf，一款專為 AI 代理程式打造的瀏覽器",
-      "link": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-      "summary": "Kitesurf 是一款雲端託管瀏覽器，專為人工智慧代理而不是人類而設計。它使用的運算能力比 Chromium 更少…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Airbnb 表示，在測試新的搜尋功能時，人工智慧正在幫助其更快發布功能",
-      "link": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-      "summary": "Airbnb 將推出一種新的人工智慧驅動的帶有切換功能的搜尋體驗。",
+      "title": "OpenAI 收購示範新創公司 NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "summary": "NextSlide 表示其團隊成員目前正在開發 ChatGPT。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "冷茶.ai (Coldtea.ai)",
-      "link": "https://www.producthunt.com/products/coldtea",
-      "desc": "讓您的軟體交付自動駕駛 討論 |關聯",
-      "title_en": "Coldtea.ai"
+      "title": "六邊形 (Hexis)",
+      "link": "https://www.producthunt.com/products/bevel-4",
+      "desc": "人工智慧代理的 Git 支援的技能、工具和上下文關聯",
+      "title_en": "Hexis"
+    },
+    {
+      "title": "工具連接埠 (Toolport)",
+      "link": "https://www.producthunt.com/products/conduit-12",
+      "desc": "每一種工具，一個連接埠。為所有 AI 代理程式設定一個 MCP 討論 |關聯",
+      "title_en": "Toolport"
     },
     {
       "title": "硝基4.0 (Nitro 4.0)",
@@ -64,58 +40,46 @@
       "title_en": "Nitro 4.0"
     },
     {
-      "title": "參考 (Reference)",
-      "link": "https://www.producthunt.com/products/reference-2",
-      "desc": "AI 代理的本地語意搜尋討論 |關聯",
-      "title_en": "Reference"
+      "title": "冷茶.ai (Coldtea.ai)",
+      "link": "https://www.producthunt.com/products/coldtea",
+      "desc": "讓您的軟體自動駕駛 討論 |關聯",
+      "title_en": "Coldtea.ai"
     },
     {
       "title": "奧里特 (Orite)",
       "link": "https://www.producthunt.com/products/orite",
       "desc": "給你的人工智慧代理錢。不是空白支票。討論 |關聯",
       "title_en": "Orite"
-    },
-    {
-      "title": "AgentOne 桌面版 (AgentOne Desktop)",
-      "link": "https://www.producthunt.com/products/agentone-desktop",
-      "desc": "自動化無聊的工作。可擴充且免費的桌面 AI 代理。討論 |關聯",
-      "title_en": "AgentOne Desktop"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 對新車型踩剎車，因為它被認為太強大了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-      "summary": "OpenAI 表示，它正在暫停圍繞正在開發的人工智慧模型 Astra 的“內部活動”，因為它尚未滿足新的要求…",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI 表示，出於安全考慮，它放慢了 Astra 模型的開發速度",
-      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
-      "summary": "OpenAI 表示，這個仍在開發中的模型已經達到了“關鍵的網路安全閾值”，這意味著它可以…",
+      "title": "OpenAI 收購示範新創公司 NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "summary": "NextSlide 表示其團隊成員目前正在開發 ChatGPT。",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "OpenAI 對新車型踩剎車，因為它被認為太強大了",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-    "summary": "OpenAI 表示，它正在暫停圍繞正在開發的人工智慧模型 Astra 的“內部活動”，因為它尚未滿足新的要求…",
-    "source": "The Verge"
+    "title": "OpenAI 收購示範新創公司 NextSlide",
+    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+    "summary": "NextSlide 表示其團隊成員目前正在開發 ChatGPT。",
+    "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用 Orite 賺錢",
-      "detail": "我們可以用 Orite 來幫助 SS 的 AI 代理賺錢，設定好代理的工作流程，然後發布在社交媒體上，預計一周內出成果"
+      "title": "用 Hexis 建立 AI 旅遊助手",
+      "detail": "利用 Hexis 建立一個旅遊助手技能，連接各種旅遊工具，發布在 SS 的社交媒體平台，預計 3 天出成果"
     },
     {
-      "title": "Nitro 4.0 翻譯機",
-      "detail": "利用 Nitro 4.0 將 SS 的旅遊美食內容翻譯成多種語言，然後發布在 YouTube 和 TikTok 上，預計三天內出成果"
+      "title": "Toolport 開發旅遊內容生成器",
+      "detail": "使用 Toolport 設定一個旅遊內容生成器，讓 AI 代理程式可以產生旅遊文章和影片，發布在 SS 的網站和 YouTube 頻道，預計 5 天出成果"
     },
     {
-      "title": "Reference 搜尋引擎",
-      "detail": "用 Reference 將 SS 的旅遊美食內容進行本地語意搜尋，然後將結果整理成博客文章，發布在Medium上，預計五天內出成果"
+      "title": "Nitro 4.0 翻譯旅遊內容",
+      "detail": "用 Nitro 4.0 將 SS 的旅遊內容翻譯成多種語言，發布在各個國際社交媒體平台，預計 2 天出成果"
     }
   ],
   "history": {
@@ -6792,6 +6756,90 @@
         {
           "title": "Reference 搜尋引擎",
           "detail": "用 Reference 將 SS 的旅遊美食內容進行本地語意搜尋，然後將結果整理成博客文章，發布在Medium上，預計五天內出成果"
+        }
+      ]
+    },
+    "2026-08-09": {
+      "news": [
+        {
+          "title": "亞馬遜資料中心可能擁有全國污染最嚴重的發電廠",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+          "summary": "為了為其新的西德克薩斯數據中心供電，亞馬遜正在投資建設一座新發電廠，該發電廠可能是…",
+          "source": "The Verge"
+        },
+        {
+          "title": "計畫中的亞馬遜資料中心可能成為美國最大的氣候污染源",
+          "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+          "summary": "作為計劃中的德克薩斯州數據中心的一部分，亞馬遜正在投資現場發電廠，據報該發電廠可能成為最大的發電廠。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI 收購示範新創公司 NextSlide",
+          "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "summary": "NextSlide 表示其團隊成員目前正在開發 ChatGPT。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "六邊形 (Hexis)",
+          "link": "https://www.producthunt.com/products/bevel-4",
+          "desc": "人工智慧代理的 Git 支援的技能、工具和上下文關聯",
+          "title_en": "Hexis"
+        },
+        {
+          "title": "工具連接埠 (Toolport)",
+          "link": "https://www.producthunt.com/products/conduit-12",
+          "desc": "每一種工具，一個連接埠。為所有 AI 代理程式設定一個 MCP 討論 |關聯",
+          "title_en": "Toolport"
+        },
+        {
+          "title": "硝基4.0 (Nitro 4.0)",
+          "link": "https://www.producthunt.com/products/alconost-localization",
+          "desc": "第一個為人工智慧代理建構的人工翻譯平台關聯",
+          "title_en": "Nitro 4.0"
+        },
+        {
+          "title": "冷茶.ai (Coldtea.ai)",
+          "link": "https://www.producthunt.com/products/coldtea",
+          "desc": "讓您的軟體自動駕駛 討論 |關聯",
+          "title_en": "Coldtea.ai"
+        },
+        {
+          "title": "奧里特 (Orite)",
+          "link": "https://www.producthunt.com/products/orite",
+          "desc": "給你的人工智慧代理錢。不是空白支票。討論 |關聯",
+          "title_en": "Orite"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 收購示範新創公司 NextSlide",
+          "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+          "summary": "NextSlide 表示其團隊成員目前正在開發 ChatGPT。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 收購示範新創公司 NextSlide",
+        "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+        "summary": "NextSlide 表示其團隊成員目前正在開發 ChatGPT。",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Hexis 建立 AI 旅遊助手",
+          "detail": "利用 Hexis 建立一個旅遊助手技能，連接各種旅遊工具，發布在 SS 的社交媒體平台，預計 3 天出成果"
+        },
+        {
+          "title": "Toolport 開發旅遊內容生成器",
+          "detail": "使用 Toolport 設定一個旅遊內容生成器，讓 AI 代理程式可以產生旅遊文章和影片，發布在 SS 的網站和 YouTube 頻道，預計 5 天出成果"
+        },
+        {
+          "title": "Nitro 4.0 翻譯旅遊內容",
+          "detail": "用 Nitro 4.0 將 SS 的旅遊內容翻譯成多種語言，發布在各個國際社交媒體平台，預計 2 天出成果"
         }
       ]
     }
