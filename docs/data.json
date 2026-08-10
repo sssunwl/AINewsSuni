@@ -1,85 +1,97 @@
 {
-  "updated": "2026-08-09 10:59 HKT",
+  "updated": "2026-08-10 11:09 HKT",
   "news": [
     {
-      "title": "亞馬遜資料中心可能擁有全國污染最嚴重的發電廠",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-      "summary": "為了為其新的西德克薩斯數據中心供電，亞馬遜正在投資建設一座新發電廠，該發電廠可能是…",
+      "title": "人工智慧探測器正在創造一個不信任的新時代",
+      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+      "summary": "這是《The Stepback》，一份每週簡訊，詳細介紹了科技界的重要故事。有關如何...的更多新聞",
       "source": "The Verge"
     },
     {
-      "title": "計畫中的亞馬遜資料中心可能成為美國最大的氣候污染源",
-      "link": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-      "summary": "作為計劃中的德克薩斯州數據中心的一部分，亞馬遜正在投資現場發電廠，據報該發電廠可能成為最大的發電廠。",
+      "title": "陷入困境的對沖基金 Situational Awareness 向晶片新創公司 Source Foundry 投資 4 億美元",
+      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+      "summary": "這家專注於人工智慧的對沖基金仍在進行一些大賭注。",
       "source": "TechCrunch"
     },
     {
-      "title": "OpenAI 收購示範新創公司 NextSlide",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "summary": "NextSlide 表示其團隊成員目前正在開發 ChatGPT。",
+      "title": "Anthropic 預設開啟 Claude Code 的自動模式",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "summary": "使用 Claude Code 進行程式設計很快將需要更少的人工監督。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "歷史學家吉爾·萊波雷 (Jill Lepore) 表示，矽谷誤讀了科幻小說並破壞了民主",
+      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+      "summary": "在最新一集的《Equity》中，我們採訪了吉爾·萊波雷 (Jill Lepore)，談論了“機器政府”以及為什麼埃隆·馬斯克是個糟糕的科學家…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "AI安全測試正成為安全風險",
+      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+      "summary": "人工智慧代理正在逃離網路安全測試環境並到達現實世界的系統，這引發了關於是否…的問題。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "六邊形 (Hexis)",
-      "link": "https://www.producthunt.com/products/bevel-4",
-      "desc": "人工智慧代理的 Git 支援的技能、工具和上下文關聯",
-      "title_en": "Hexis"
+      "title": "DocsAlot CLI",
+      "link": "https://www.producthunt.com/products/docsalot-2",
+      "desc": "讓 Claude 或 Codex 建立和維護美觀的文件關聯",
+      "title_en": "DocsAlot CLI"
     },
     {
-      "title": "工具連接埠 (Toolport)",
-      "link": "https://www.producthunt.com/products/conduit-12",
-      "desc": "每一種工具，一個連接埠。為所有 AI 代理程式設定一個 MCP 討論 |關聯",
-      "title_en": "Toolport"
+      "title": "奧姆尼沃克 (Omniwork)",
+      "link": "https://www.producthunt.com/products/omniwork-2",
+      "desc": "Creative Agent OS，與桌面AI代理一起創造更好的內容 討論 |關聯",
+      "title_en": "Omniwork"
     },
     {
-      "title": "硝基4.0 (Nitro 4.0)",
-      "link": "https://www.producthunt.com/products/alconost-localization",
-      "desc": "第一個為人工智慧代理建構的人工翻譯平台關聯",
-      "title_en": "Nitro 4.0"
+      "title": "阿爾戈斯 (Argos)",
+      "link": "https://www.producthunt.com/products/argos-2",
+      "desc": "人工智慧在您的瀏覽器中扮演您的角色關聯",
+      "title_en": "Argos"
     },
     {
-      "title": "冷茶.ai (Coldtea.ai)",
-      "link": "https://www.producthunt.com/products/coldtea",
-      "desc": "讓您的軟體自動駕駛 討論 |關聯",
-      "title_en": "Coldtea.ai"
+      "title": "格洛克想像2.0 (Grok Imagine 2.0)",
+      "link": "https://www.producthunt.com/products/grok",
+      "desc": "具有分段編輯功能的下一代人工智慧影像產生器。討論 |關聯",
+      "title_en": "Grok Imagine 2.0"
     },
     {
-      "title": "奧里特 (Orite)",
-      "link": "https://www.producthunt.com/products/orite",
-      "desc": "給你的人工智慧代理錢。不是空白支票。討論 |關聯",
-      "title_en": "Orite"
+      "title": "工作流程 (Workflo)",
+      "link": "https://www.producthunt.com/products/workflo-2",
+      "desc": "Mac 工作區自動化永遠不會看到您的螢幕關聯",
+      "title_en": "Workflo"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 收購示範新創公司 NextSlide",
-      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-      "summary": "NextSlide 表示其團隊成員目前正在開發 ChatGPT。",
+      "title": "Anthropic 預設開啟 Claude Code 的自動模式",
+      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "summary": "使用 Claude Code 進行程式設計很快將需要更少的人工監督。",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "OpenAI 收購示範新創公司 NextSlide",
-    "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
-    "summary": "NextSlide 表示其團隊成員目前正在開發 ChatGPT。",
+    "title": "Anthropic 預設開啟 Claude Code 的自動模式",
+    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+    "summary": "使用 Claude Code 進行程式設計很快將需要更少的人工監督。",
     "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用 Hexis 建立 AI 旅遊助手",
-      "detail": "利用 Hexis 建立一個旅遊助手技能，連接各種旅遊工具，發布在 SS 的社交媒體平台，預計 3 天出成果"
+      "title": "用Grok Imagine 2.0",
+      "detail": "我會用Grok Imagine 2.0製作一些旅遊照片，然後發在IG故事，預計2天出成果"
     },
     {
-      "title": "Toolport 開發旅遊內容生成器",
-      "detail": "使用 Toolport 設定一個旅遊內容生成器，讓 AI 代理程式可以產生旅遊文章和影片，發布在 SS 的網站和 YouTube 頻道，預計 5 天出成果"
+      "title": "Omniwork內容創作",
+      "detail": "利用Omniwork創建一些旅遊相關的內容，例如文章、照片等，然後發在SS的官網，預計3天出成果"
     },
     {
-      "title": "Nitro 4.0 翻譯旅遊內容",
-      "detail": "用 Nitro 4.0 將 SS 的旅遊內容翻譯成多種語言，發布在各個國際社交媒體平台，預計 2 天出成果"
+      "title": "Argos瀏覽器助手",
+      "detail": "用Argos幫助SS瀏覽旅遊相關的網站，然後總結出一些有用的信息，發在TG頻道，預計1天出成果"
     }
   ],
   "history": {
@@ -6840,6 +6852,102 @@
         {
           "title": "Nitro 4.0 翻譯旅遊內容",
           "detail": "用 Nitro 4.0 將 SS 的旅遊內容翻譯成多種語言，發布在各個國際社交媒體平台，預計 2 天出成果"
+        }
+      ]
+    },
+    "2026-08-10": {
+      "news": [
+        {
+          "title": "人工智慧探測器正在創造一個不信任的新時代",
+          "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
+          "summary": "這是《The Stepback》，一份每週簡訊，詳細介紹了科技界的重要故事。有關如何...的更多新聞",
+          "source": "The Verge"
+        },
+        {
+          "title": "陷入困境的對沖基金 Situational Awareness 向晶片新創公司 Source Foundry 投資 4 億美元",
+          "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+          "summary": "這家專注於人工智慧的對沖基金仍在進行一些大賭注。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic 預設開啟 Claude Code 的自動模式",
+          "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "summary": "使用 Claude Code 進行程式設計很快將需要更少的人工監督。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "歷史學家吉爾·萊波雷 (Jill Lepore) 表示，矽谷誤讀了科幻小說並破壞了民主",
+          "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+          "summary": "在最新一集的《Equity》中，我們採訪了吉爾·萊波雷 (Jill Lepore)，談論了“機器政府”以及為什麼埃隆·馬斯克是個糟糕的科學家…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI安全測試正成為安全風險",
+          "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
+          "summary": "人工智慧代理正在逃離網路安全測試環境並到達現實世界的系統，這引發了關於是否…的問題。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "DocsAlot CLI",
+          "link": "https://www.producthunt.com/products/docsalot-2",
+          "desc": "讓 Claude 或 Codex 建立和維護美觀的文件關聯",
+          "title_en": "DocsAlot CLI"
+        },
+        {
+          "title": "奧姆尼沃克 (Omniwork)",
+          "link": "https://www.producthunt.com/products/omniwork-2",
+          "desc": "Creative Agent OS，與桌面AI代理一起創造更好的內容 討論 |關聯",
+          "title_en": "Omniwork"
+        },
+        {
+          "title": "阿爾戈斯 (Argos)",
+          "link": "https://www.producthunt.com/products/argos-2",
+          "desc": "人工智慧在您的瀏覽器中扮演您的角色關聯",
+          "title_en": "Argos"
+        },
+        {
+          "title": "格洛克想像2.0 (Grok Imagine 2.0)",
+          "link": "https://www.producthunt.com/products/grok",
+          "desc": "具有分段編輯功能的下一代人工智慧影像產生器。討論 |關聯",
+          "title_en": "Grok Imagine 2.0"
+        },
+        {
+          "title": "工作流程 (Workflo)",
+          "link": "https://www.producthunt.com/products/workflo-2",
+          "desc": "Mac 工作區自動化永遠不會看到您的螢幕關聯",
+          "title_en": "Workflo"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Anthropic 預設開啟 Claude Code 的自動模式",
+          "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "summary": "使用 Claude Code 進行程式設計很快將需要更少的人工監督。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Anthropic 預設開啟 Claude Code 的自動模式",
+        "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+        "summary": "使用 Claude Code 進行程式設計很快將需要更少的人工監督。",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "用Grok Imagine 2.0",
+          "detail": "我會用Grok Imagine 2.0製作一些旅遊照片，然後發在IG故事，預計2天出成果"
+        },
+        {
+          "title": "Omniwork內容創作",
+          "detail": "利用Omniwork創建一些旅遊相關的內容，例如文章、照片等，然後發在SS的官網，預計3天出成果"
+        },
+        {
+          "title": "Argos瀏覽器助手",
+          "detail": "用Argos幫助SS瀏覽旅遊相關的網站，然後總結出一些有用的信息，發在TG頻道，預計1天出成果"
         }
       ]
     }
