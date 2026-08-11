@@ -1,97 +1,127 @@
 {
-  "updated": "2026-08-10 11:09 HKT",
+  "updated": "2026-08-11 11:02 HKT",
   "news": [
     {
-      "title": "人工智慧探測器正在創造一個不信任的新時代",
-      "link": "https://www.theverge.com/column/976690/ai-writing-detectors-suspicion",
-      "summary": "這是《The Stepback》，一份每週簡訊，詳細介紹了科技界的重要故事。有關如何...的更多新聞",
+      "title": "馬克祖克柏不明白如何生活",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+      "summary": "最近，一個和我一起攀岩的人告訴我他如何使用人工智慧為自己製作一張勵志海報，其中…",
       "source": "The Verge"
     },
     {
-      "title": "陷入困境的對沖基金 Situational Awareness 向晶片新創公司 Source Foundry 投資 4 億美元",
-      "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-      "summary": "這家專注於人工智慧的對沖基金仍在進行一些大賭注。",
+      "title": "馬克·祖克柏大規模人工智慧宣言的四個要點",
+      "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+      "summary": "Meta 執行長 Mark Zuckerberg 對他現在設想的人類與藝術共存的理想化未來有很多話要說…",
+      "source": "The Verge"
+    },
+    {
+      "title": "當耳機變成 AI 後，Bose 會發生什麼事？",
+      "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+      "summary": "今天，我採訪的是 Bose 執行長 Lila Snyder。您當然知道 Bose——它是最著名的品牌之一…",
+      "source": "The Verge"
+    },
+    {
+      "title": "福特的新人工智慧助理可以檢查你的燃油水平和輪胎壓力",
+      "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+      "summary": "福特正在推出一款新的人工智慧助手，可以回答有關福特或林肯汽車的問題，例如如何…",
+      "source": "The Verge"
+    },
+    {
+      "title": "據報導 OpenAI 完成了 70 億美元的員工收購要約",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "summary": "舊金山的房地產市場再次陷入困境。",
       "source": "TechCrunch"
     },
     {
-      "title": "Anthropic 預設開啟 Claude Code 的自動模式",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "summary": "使用 Claude Code 進行程式設計很快將需要更少的人工監督。",
+      "title": "隨著 AI 主導的攻擊倍增，OpenAI 推出新的網路模型",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "summary": "OpenAI 正在擴展其人工智慧網路安全防禦計劃 Daybreak，並推出新的網路訓練人工智慧模型。",
       "source": "TechCrunch"
     },
     {
-      "title": "歷史學家吉爾·萊波雷 (Jill Lepore) 表示，矽谷誤讀了科幻小說並破壞了民主",
-      "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
-      "summary": "在最新一集的《Equity》中，我們採訪了吉爾·萊波雷 (Jill Lepore)，談論了“機器政府”以及為什麼埃隆·馬斯克是個糟糕的科學家…",
+      "title": "馬克‧祖克柏的人工智慧宣言正是人們不喜歡人工智慧的原因",
+      "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+      "summary": "週一，馬克·祖克柏發表了一份關於個人人工智慧的 6,500 字宣言，主要是關於「…",
       "source": "TechCrunch"
     },
     {
-      "title": "AI安全測試正成為安全風險",
-      "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
-      "summary": "人工智慧代理正在逃離網路安全測試環境並到達現實世界的系統，這引發了關於是否…的問題。",
+      "title": "Claude特工入侵健身房後，科技業一片喧囂",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "summary": "一名 OpenClaw 特工侵入了一家健身房的預訂系統，將其人類老闆提升到了課程候補名單上的位置。還有技術…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
+      "title": "人工智慧群組通話 (AI Group Call)",
+      "link": "https://www.producthunt.com/products/ai-group-call",
+      "desc": "輸入一個目標，加入與六個人工智慧頭腦的即時語音通話討論 |關聯",
+      "title_en": "AI Group Call"
+    },
+    {
+      "title": "投資組合實驗室 (Portfolio Lab)",
+      "link": "https://www.producthunt.com/products/portfolio-lab",
+      "desc": "人工智慧投資，負責任地進行 討論 |關聯",
+      "title_en": "Portfolio Lab"
+    },
+    {
+      "title": "GenSpark 的 SecondBrain 筆記 (SecondBrain Note by GenSpark)",
+      "link": "https://www.producthunt.com/products/genspark",
+      "desc": "為您服務的 MagSafe AI 錄音機討論 |關聯",
+      "title_en": "SecondBrain Note by GenSpark"
+    },
+    {
+      "title": "湯CLI (Soup CLI)",
+      "link": "https://www.producthunt.com/products/soup-cli",
+      "desc": "在 4 GB 筆記型電腦 GPU 上微調 8B LLM 討論 |關聯",
+      "title_en": "Soup CLI"
+    },
+    {
       "title": "DocsAlot CLI",
       "link": "https://www.producthunt.com/products/docsalot-2",
       "desc": "讓 Claude 或 Codex 建立和維護美觀的文件關聯",
       "title_en": "DocsAlot CLI"
-    },
-    {
-      "title": "奧姆尼沃克 (Omniwork)",
-      "link": "https://www.producthunt.com/products/omniwork-2",
-      "desc": "Creative Agent OS，與桌面AI代理一起創造更好的內容 討論 |關聯",
-      "title_en": "Omniwork"
-    },
-    {
-      "title": "阿爾戈斯 (Argos)",
-      "link": "https://www.producthunt.com/products/argos-2",
-      "desc": "人工智慧在您的瀏覽器中扮演您的角色關聯",
-      "title_en": "Argos"
-    },
-    {
-      "title": "格洛克想像2.0 (Grok Imagine 2.0)",
-      "link": "https://www.producthunt.com/products/grok",
-      "desc": "具有分段編輯功能的下一代人工智慧影像產生器。討論 |關聯",
-      "title_en": "Grok Imagine 2.0"
-    },
-    {
-      "title": "工作流程 (Workflo)",
-      "link": "https://www.producthunt.com/products/workflo-2",
-      "desc": "Mac 工作區自動化永遠不會看到您的螢幕關聯",
-      "title_en": "Workflo"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic 預設開啟 Claude Code 的自動模式",
-      "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-      "summary": "使用 Claude Code 進行程式設計很快將需要更少的人工監督。",
+      "title": "據報導 OpenAI 完成了 70 億美元的員工收購要約",
+      "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+      "summary": "舊金山的房地產市場再次陷入困境。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "隨著 AI 主導的攻擊倍增，OpenAI 推出新的網路模型",
+      "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+      "summary": "OpenAI 正在擴展其人工智慧網路安全防禦計劃 Daybreak，並推出新的網路訓練人工智慧模型。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Claude特工入侵健身房後，科技業一片喧囂",
+      "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+      "summary": "一名 OpenClaw 特工侵入了一家健身房的預訂系統，將其人類老闆提升到了課程候補名單上的位置。還有技術…",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Anthropic 預設開啟 Claude Code 的自動模式",
-    "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
-    "summary": "使用 Claude Code 進行程式設計很快將需要更少的人工監督。",
+    "title": "據報導 OpenAI 完成了 70 億美元的員工收購要約",
+    "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+    "summary": "舊金山的房地產市場再次陷入困境。",
     "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用Grok Imagine 2.0",
-      "detail": "我會用Grok Imagine 2.0製作一些旅遊照片，然後發在IG故事，預計2天出成果"
+      "title": "AI 投資新思路",
+      "detail": "用投資組合實驗室討論投資策略，發在 SS 的社交媒體頻道，1週內出成果"
     },
     {
-      "title": "Omniwork內容創作",
-      "detail": "利用Omniwork創建一些旅遊相關的內容，例如文章、照片等，然後發在SS的官網，預計3天出成果"
+      "title": "旅行筆記智能錄音",
+      "detail": "用 GenSpark 的 SecondBrain 筆記錄旅遊經驗，製作成短片發在 Instagram，3天內出成果"
     },
     {
-      "title": "Argos瀏覽器助手",
-      "detail": "用Argos幫助SS瀏覽旅遊相關的網站，然後總結出一些有用的信息，發在TG頻道，預計1天出成果"
+      "title": "AI 旅遊直播",
+      "detail": "用人工智慧群組通話進行直播，回答粉絲問題，今日晚上播出，預計2小時內結束"
     }
   ],
   "history": {
@@ -6948,6 +6978,132 @@
         {
           "title": "Argos瀏覽器助手",
           "detail": "用Argos幫助SS瀏覽旅遊相關的網站，然後總結出一些有用的信息，發在TG頻道，預計1天出成果"
+        }
+      ]
+    },
+    "2026-08-11": {
+      "news": [
+        {
+          "title": "馬克祖克柏不明白如何生活",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/977623/mark-zuckerberg-ai-manifesto-dim-vision",
+          "summary": "最近，一個和我一起攀岩的人告訴我他如何使用人工智慧為自己製作一張勵志海報，其中…",
+          "source": "The Verge"
+        },
+        {
+          "title": "馬克·祖克柏大規模人工智慧宣言的四個要點",
+          "link": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble",
+          "summary": "Meta 執行長 Mark Zuckerberg 對他現在設想的人類與藝術共存的理想化未來有很多話要說…",
+          "source": "The Verge"
+        },
+        {
+          "title": "當耳機變成 AI 後，Bose 會發生什麼事？",
+          "link": "https://www.theverge.com/podcast/975732/bose-ceo-lila-snyder-ai-wearables-licensing-headphones-audio",
+          "summary": "今天，我採訪的是 Bose 執行長 Lila Snyder。您當然知道 Bose——它是最著名的品牌之一…",
+          "source": "The Verge"
+        },
+        {
+          "title": "福特的新人工智慧助理可以檢查你的燃油水平和輪胎壓力",
+          "link": "https://www.theverge.com/transportation/976748/ford-ai-assistant-mobile-app",
+          "summary": "福特正在推出一款新的人工智慧助手，可以回答有關福特或林肯汽車的問題，例如如何…",
+          "source": "The Verge"
+        },
+        {
+          "title": "據報導 OpenAI 完成了 70 億美元的員工收購要約",
+          "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+          "summary": "舊金山的房地產市場再次陷入困境。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "隨著 AI 主導的攻擊倍增，OpenAI 推出新的網路模型",
+          "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+          "summary": "OpenAI 正在擴展其人工智慧網路安全防禦計劃 Daybreak，並推出新的網路訓練人工智慧模型。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "馬克‧祖克柏的人工智慧宣言正是人們不喜歡人工智慧的原因",
+          "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+          "summary": "週一，馬克·祖克柏發表了一份關於個人人工智慧的 6,500 字宣言，主要是關於「…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Claude特工入侵健身房後，科技業一片喧囂",
+          "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+          "summary": "一名 OpenClaw 特工侵入了一家健身房的預訂系統，將其人類老闆提升到了課程候補名單上的位置。還有技術…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "人工智慧群組通話 (AI Group Call)",
+          "link": "https://www.producthunt.com/products/ai-group-call",
+          "desc": "輸入一個目標，加入與六個人工智慧頭腦的即時語音通話討論 |關聯",
+          "title_en": "AI Group Call"
+        },
+        {
+          "title": "投資組合實驗室 (Portfolio Lab)",
+          "link": "https://www.producthunt.com/products/portfolio-lab",
+          "desc": "人工智慧投資，負責任地進行 討論 |關聯",
+          "title_en": "Portfolio Lab"
+        },
+        {
+          "title": "GenSpark 的 SecondBrain 筆記 (SecondBrain Note by GenSpark)",
+          "link": "https://www.producthunt.com/products/genspark",
+          "desc": "為您服務的 MagSafe AI 錄音機討論 |關聯",
+          "title_en": "SecondBrain Note by GenSpark"
+        },
+        {
+          "title": "湯CLI (Soup CLI)",
+          "link": "https://www.producthunt.com/products/soup-cli",
+          "desc": "在 4 GB 筆記型電腦 GPU 上微調 8B LLM 討論 |關聯",
+          "title_en": "Soup CLI"
+        },
+        {
+          "title": "DocsAlot CLI",
+          "link": "https://www.producthunt.com/products/docsalot-2",
+          "desc": "讓 Claude 或 Codex 建立和維護美觀的文件關聯",
+          "title_en": "DocsAlot CLI"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "據報導 OpenAI 完成了 70 億美元的員工收購要約",
+          "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+          "summary": "舊金山的房地產市場再次陷入困境。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "隨著 AI 主導的攻擊倍增，OpenAI 推出新的網路模型",
+          "link": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model/",
+          "summary": "OpenAI 正在擴展其人工智慧網路安全防禦計劃 Daybreak，並推出新的網路訓練人工智慧模型。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Claude特工入侵健身房後，科技業一片喧囂",
+          "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+          "summary": "一名 OpenClaw 特工侵入了一家健身房的預訂系統，將其人類老闆提升到了課程候補名單上的位置。還有技術…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "據報導 OpenAI 完成了 70 億美元的員工收購要約",
+        "link": "https://techcrunch.com/2026/08/10/openai-reportedly-completed-a-7-billion-employee-tender-offer/",
+        "summary": "舊金山的房地產市場再次陷入困境。",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "AI 投資新思路",
+          "detail": "用投資組合實驗室討論投資策略，發在 SS 的社交媒體頻道，1週內出成果"
+        },
+        {
+          "title": "旅行筆記智能錄音",
+          "detail": "用 GenSpark 的 SecondBrain 筆記錄旅遊經驗，製作成短片發在 Instagram，3天內出成果"
+        },
+        {
+          "title": "AI 旅遊直播",
+          "detail": "用人工智慧群組通話進行直播，回答粉絲問題，今日晚上播出，預計2小時內結束"
         }
       ]
     }
