@@ -1,127 +1,141 @@
 {
-  "updated": "2026-08-12 11:21 HKT",
+  "updated": "2026-08-13 11:24 HKT",
   "news": [
+    {
+      "title": "Twitch 主播現在可以選擇不參加亞馬遜人工智慧的訓練",
+      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+      "summary": "Twitch 用戶現在可以選擇不允許他們的內容被用於訓練亞馬遜的生成人工智慧模型。選擇退出我...",
+      "source": "The Verge"
+    },
+    {
+      "title": "吉他公司達達裡奧承認在宣傳影片中使用了人工智慧音樂",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+      "summary": "經過數週的爭議和猜測，音樂公司達達裡奧承認人工智慧，特別是 Suno，被用作…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Google Pixel Watch 5 更深入探討人工智慧和健康",
+      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+      "summary": "售價 399 美元的 Google Pixel Watch 5 與硬體無關。當然，有一個新的緞面黃鐵礦錶殼飾面，一些新的錶帶…",
+      "source": "The Verge"
+    },
+    {
+      "title": "當然，ChatGPT 狗癌症疫苗催生了一家新創公司",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "summary": "還記得那個大肆宣傳的故事嗎？一位澳洲科技創業家使用 ChatGPT、Grok 和其他人工智慧工具來製作…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Grok 現在是人工智慧“隊友”，你可以分配工作",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that …",
+      "source": "The Verge"
+    },
     {
       "title": "Sabre 否認用 ChatGPT 取代 Rideshare Stimulator 的編劇",
       "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "summary": "在一位前首席作家聲稱 Sabre「用 ChatGPT 取代了我」之後，執行長 Matthew Karch 現在聲稱，「無論是 Sabre 還是 Un...",
+      "summary": "在一位前首席作家聲稱 Saber「用 ChatGPT 取代了我」之後，執行長 Matthew Karch 現在聲稱：「Saber 和 Un 都不是...",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT 和 Gemini 用戶數都剛突破 10 億",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "summary": "這是 Google 產品第 14 次擁有 10 億用戶。谷歌首席執行官桑達爾·皮查伊 (Sundar Pichai) 在 X 上發帖稱，十億人…",
-      "source": "The Verge"
+      "title": "一些 Claude 用戶很生氣，因為 Anthropic 的新水印會讓他們在工作、課堂上使用它",
+      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+      "summary": "Anthropic 的新水印系統是一種嘲諷嗎？有些人在社群媒體上抱怨事實確實如此。",
+      "source": "TechCrunch"
     },
     {
-      "title": "Another OpenAI executive takes off",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-      "summary": "OpenAI 特殊專案負責人兼公司前營運長 Brad Lightcap 在任職八年後宣布離職…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Made by Google 2026：所有 Pixel 新聞和公告",
-      "link": "https://www.theverge.com/tech/977561/made-by-google-2026-pixel-11-news",
-      "summary": "谷歌正準備在 8 月 12 日發布一系列新的 Pixel 設備。導致該事件發生的一系列洩密事件...",
-      "source": "The Verge"
-    },
-    {
-      "title": "蘋果可以幫助你證明你的 iPhone 照片不是深度假貨",
-      "link": "https://www.theverge.com/tech/977921/apple-reference-image-iphone-metadata",
-      "summary": "蘋果似乎正在開發一項 iOS 功能，可以驗證 iPhone 相機拍攝照片的時間。朝九晚五…",
-      "source": "The Verge"
-    },
-    {
-      "title": "‘Zoomsday’ hack uncovered using fewer than 20 AI prompts",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977909/zoom-vulnerability-ai-attack",
-      "summary": "Zoom 已經修復了一個重大安全漏洞，該漏洞可能允許攻擊者在會議期間劫持任何人的設備。 …",
-      "source": "The Verge"
-    },
-    {
-      "title": "為什麼您的亞馬遜訂單確認電子郵件變得如此無用",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-      "summary": "今年夏天早些時候，亞馬遜客戶開始注意到與線上訂單相關的電子郵件看起來稀疏：訂單內容...",
-      "source": "The Verge"
-    },
-    {
-      "title": "Spotify 表示不會推薦「AI Personas」中的音樂",
-      "link": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-      "summary": "Spotify 很快就會給人工智慧藝術家貼上標籤，並從你的推薦中刪除他們的音樂。變化將開始滾動…",
-      "source": "The Verge"
+      "title": "預設情況下，亞馬遜將針對 Twitch 主播的內容進行訓練，除非他們選擇退出",
+      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+      "summary": "Twitch 首席產品長 Mike Minton 在直播中回應用戶回饋時表示：「如果這是選擇加入，那麼沒有人會選擇加入。」 「那…",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "子彈 (Bullet)",
-      "link": "https://www.producthunt.com/products/bullet-6",
-      "desc": "比 Claude Code 和 Codex Discussion 快 30-60% |關聯",
-      "title_en": "Bullet"
+      "title": "媒體分享 (Media Sharing)",
+      "link": "https://www.producthunt.com/products/argos",
+      "desc": "Let AI agents put screenshots and videos on pull requests Discussion | Link",
+      "title_en": "Media Sharing"
     },
     {
-      "title": "Vizard Agent",
-      "link": "https://www.producthunt.com/products/vizard-agent-the-first-video-agi",
-      "desc": "適用於各種影片的一個 AI 代理 討論 |關聯",
-      "title_en": "Vizard Agent"
+      "title": "程式碼刻錄 (CodeBurn)",
+      "link": "https://www.producthunt.com/products/codeburn",
+      "desc": "了解您的人工智慧編碼實際支出都花在哪裡了關聯",
+      "title_en": "CodeBurn"
     },
     {
-      "title": "代理經理 (agent-manager)",
-      "link": "https://www.producthunt.com/products/agent-manager",
-      "desc": "The fastest workflow for developing with AI Discussion | Link",
-      "title_en": "agent-manager"
+      "title": "組裝工作室 (Assembly Studio)",
+      "link": "https://www.producthunt.com/products/assembly-7",
+      "desc": "人工智慧應用程式建立器可增加您的收入關聯",
+      "title_en": "Assembly Studio"
     },
     {
-      "title": "陷阱 (Gotcha)",
-      "link": "https://www.producthunt.com/products/gotcha-5",
-      "desc": "世界上第一個適用於 Android 的人工智慧副駕駛。你說話。它起作用了。討論 |關聯",
-      "title_en": "Gotcha"
+      "title": "勞拉副駕駛 (LaraCopilot)",
+      "link": "https://www.producthunt.com/products/laracopilot",
+      "desc": "建構真實應用程式的代理人工智慧工程師關聯",
+      "title_en": "LaraCopilot"
     },
     {
-      "title": "吉他 (Gitar)",
-      "link": "https://www.producthunt.com/products/gitar",
-      "desc": "AI code review that fixes what it finds Discussion | Link",
-      "title_en": "Gitar"
+      "title": "Grok機器人 (Grok Bot)",
+      "link": "https://www.producthunt.com/products/grok",
+      "desc": "可以給你真正工作的AI隊友 討論|關聯",
+      "title_en": "Grok Bot"
     }
   ],
-  "suniverse_news": [],
-  "suniverse_tools": [],
+  "suniverse_news": [
+    {
+      "title": "Grok 現在是人工智慧“隊友”，你可以分配工作",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that …",
+      "source": "The Verge"
+    }
+  ],
+  "suniverse_tools": [
+    {
+      "title": "媒體分享 (Media Sharing)",
+      "link": "https://www.producthunt.com/products/argos",
+      "desc": "Let AI agents put screenshots and videos on pull requests Discussion | Link",
+      "title_en": "Media Sharing"
+    }
+  ],
   "major": [
+    {
+      "title": "當然，ChatGPT 狗癌症疫苗催生了一家新創公司",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+      "summary": "還記得那個大肆宣傳的故事嗎？一位澳洲科技創業家使用 ChatGPT、Grok 和其他人工智慧工具來製作…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Grok 現在是人工智慧“隊友”，你可以分配工作",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that …",
+      "source": "The Verge"
+    },
     {
       "title": "Sabre 否認用 ChatGPT 取代 Rideshare Stimulator 的編劇",
       "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "summary": "在一位前首席作家聲稱 Sabre「用 ChatGPT 取代了我」之後，執行長 Matthew Karch 現在聲稱，「無論是 Sabre 還是 Un...",
-      "source": "The Verge"
-    },
-    {
-      "title": "ChatGPT 和 Gemini 用戶數都剛突破 10 億",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
-      "summary": "這是 Google 產品第 14 次擁有 10 億用戶。谷歌首席執行官桑達爾·皮查伊 (Sundar Pichai) 在 X 上發帖稱，十億人…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Another OpenAI executive takes off",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978048/brad-lightcap-openai-executive-departure",
-      "summary": "OpenAI 特殊專案負責人兼公司前營運長 Brad Lightcap 在任職八年後宣布離職…",
+      "summary": "在一位前首席作家聲稱 Saber「用 ChatGPT 取代了我」之後，執行長 Matthew Karch 現在聲稱：「Saber 和 Un 都不是...",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Sabre 否認用 ChatGPT 取代 Rideshare Stimulator 的編劇",
-    "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-    "summary": "在一位前首席作家聲稱 Sabre「用 ChatGPT 取代了我」之後，執行長 Matthew Karch 現在聲稱，「無論是 Sabre 還是 Un...",
+    "title": "當然，ChatGPT 狗癌症疫苗催生了一家新創公司",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+    "summary": "還記得那個大肆宣傳的故事嗎？一位澳洲科技創業家使用 ChatGPT、Grok 和其他人工智慧工具來製作…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "Bullet 代碼快手",
-      "detail": "用 Bullet 快速生成代碼，節省 30-60% 的時間，然後發在 GitHub 上，1 小時內就能看到成果"
+      "title": "AI自動化節省成本",
+      "detail": "用CodeBurn分析我們現有的AI編碼支出，找出浪費的部分，然後用Assembly Studio建立新的AI應用程式來增加收入，發在我們的Suniverse社群，預計1周內出成果"
     },
     {
-      "title": "Vizard Agent 影片助手",
-      "detail": "利用 Vizard Agent 對影片進行 AI 處理，然後發在 YouTube 或 TikTok 上，預計 2 小時內就能出成果"
+      "title": "AI助力內容創作",
+      "detail": "利用LaraCopilot建立一個旅遊攻略的AI應用程式，集成Media Sharing將旅遊照片和影片分享到社群，預計3天內完成，發在Twitch和我們的Suniverse粉絲頁"
     },
     {
-      "title": "Gotcha 導航助手",
-      "detail": "使用 Gotcha 進行 Android 導航優化，然後發在社交媒體上分享經驗，預計 1 天內就能看到成果"
+      "title": "AI智能旅遊規劃",
+      "detail": "用Assembly Studio建立一個AI旅遊規劃工具，集成ChatGPT推薦旅遊路線和景點，然後發在我們的Suniverse官網，預計2周內完成并推廣"
     }
   ],
   "history": {
@@ -7230,6 +7244,146 @@
         {
           "title": "Gotcha 導航助手",
           "detail": "使用 Gotcha 進行 Android 導航優化，然後發在社交媒體上分享經驗，預計 1 天內就能看到成果"
+        }
+      ]
+    },
+    "2026-08-13": {
+      "news": [
+        {
+          "title": "Twitch 主播現在可以選擇不參加亞馬遜人工智慧的訓練",
+          "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+          "summary": "Twitch 用戶現在可以選擇不允許他們的內容被用於訓練亞馬遜的生成人工智慧模型。選擇退出我...",
+          "source": "The Verge"
+        },
+        {
+          "title": "吉他公司達達裡奧承認在宣傳影片中使用了人工智慧音樂",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
+          "summary": "經過數週的爭議和猜測，音樂公司達達裡奧承認人工智慧，特別是 Suno，被用作…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google Pixel Watch 5 更深入探討人工智慧和健康",
+          "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
+          "summary": "售價 399 美元的 Google Pixel Watch 5 與硬體無關。當然，有一個新的緞面黃鐵礦錶殼飾面，一些新的錶帶…",
+          "source": "The Verge"
+        },
+        {
+          "title": "當然，ChatGPT 狗癌症疫苗催生了一家新創公司",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+          "summary": "還記得那個大肆宣傳的故事嗎？一位澳洲科技創業家使用 ChatGPT、Grok 和其他人工智慧工具來製作…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Grok 現在是人工智慧“隊友”，你可以分配工作",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+          "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Sabre 否認用 ChatGPT 取代 Rideshare Stimulator 的編劇",
+          "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+          "summary": "在一位前首席作家聲稱 Saber「用 ChatGPT 取代了我」之後，執行長 Matthew Karch 現在聲稱：「Saber 和 Un 都不是...",
+          "source": "The Verge"
+        },
+        {
+          "title": "一些 Claude 用戶很生氣，因為 Anthropic 的新水印會讓他們在工作、課堂上使用它",
+          "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+          "summary": "Anthropic 的新水印系統是一種嘲諷嗎？有些人在社群媒體上抱怨事實確實如此。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "預設情況下，亞馬遜將針對 Twitch 主播的內容進行訓練，除非他們選擇退出",
+          "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+          "summary": "Twitch 首席產品長 Mike Minton 在直播中回應用戶回饋時表示：「如果這是選擇加入，那麼沒有人會選擇加入。」 「那…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "媒體分享 (Media Sharing)",
+          "link": "https://www.producthunt.com/products/argos",
+          "desc": "Let AI agents put screenshots and videos on pull requests Discussion | Link",
+          "title_en": "Media Sharing"
+        },
+        {
+          "title": "程式碼刻錄 (CodeBurn)",
+          "link": "https://www.producthunt.com/products/codeburn",
+          "desc": "了解您的人工智慧編碼實際支出都花在哪裡了關聯",
+          "title_en": "CodeBurn"
+        },
+        {
+          "title": "組裝工作室 (Assembly Studio)",
+          "link": "https://www.producthunt.com/products/assembly-7",
+          "desc": "人工智慧應用程式建立器可增加您的收入關聯",
+          "title_en": "Assembly Studio"
+        },
+        {
+          "title": "勞拉副駕駛 (LaraCopilot)",
+          "link": "https://www.producthunt.com/products/laracopilot",
+          "desc": "建構真實應用程式的代理人工智慧工程師關聯",
+          "title_en": "LaraCopilot"
+        },
+        {
+          "title": "Grok機器人 (Grok Bot)",
+          "link": "https://www.producthunt.com/products/grok",
+          "desc": "可以給你真正工作的AI隊友 討論|關聯",
+          "title_en": "Grok Bot"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Grok 現在是人工智慧“隊友”，你可以分配工作",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+          "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that …",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [
+        {
+          "title": "媒體分享 (Media Sharing)",
+          "link": "https://www.producthunt.com/products/argos",
+          "desc": "Let AI agents put screenshots and videos on pull requests Discussion | Link",
+          "title_en": "Media Sharing"
+        }
+      ],
+      "major": [
+        {
+          "title": "當然，ChatGPT 狗癌症疫苗催生了一家新創公司",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+          "summary": "還記得那個大肆宣傳的故事嗎？一位澳洲科技創業家使用 ChatGPT、Grok 和其他人工智慧工具來製作…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Grok 現在是人工智慧“隊友”，你可以分配工作",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
+          "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Sabre 否認用 ChatGPT 取代 Rideshare Stimulator 的編劇",
+          "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
+          "summary": "在一位前首席作家聲稱 Saber「用 ChatGPT 取代了我」之後，執行長 Matthew Karch 現在聲稱：「Saber 和 Un 都不是...",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "當然，ChatGPT 狗癌症疫苗催生了一家新創公司",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
+        "summary": "還記得那個大肆宣傳的故事嗎？一位澳洲科技創業家使用 ChatGPT、Grok 和其他人工智慧工具來製作…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "AI自動化節省成本",
+          "detail": "用CodeBurn分析我們現有的AI編碼支出，找出浪費的部分，然後用Assembly Studio建立新的AI應用程式來增加收入，發在我們的Suniverse社群，預計1周內出成果"
+        },
+        {
+          "title": "AI助力內容創作",
+          "detail": "利用LaraCopilot建立一個旅遊攻略的AI應用程式，集成Media Sharing將旅遊照片和影片分享到社群，預計3天內完成，發在Twitch和我們的Suniverse粉絲頁"
+        },
+        {
+          "title": "AI智能旅遊規劃",
+          "detail": "用Assembly Studio建立一個AI旅遊規劃工具，集成ChatGPT推薦旅遊路線和景點，然後發在我們的Suniverse官網，預計2周內完成并推廣"
         }
       ]
     }
