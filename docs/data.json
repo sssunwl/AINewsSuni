@@ -1,141 +1,115 @@
 {
-  "updated": "2026-08-13 11:24 HKT",
+  "updated": "2026-08-14 11:22 HKT",
   "news": [
     {
-      "title": "Twitch 主播現在可以選擇不參加亞馬遜人工智慧的訓練",
-      "link": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
-      "summary": "Twitch 用戶現在可以選擇不允許他們的內容被用於訓練亞馬遜的生成人工智慧模型。選擇退出我...",
+      "title": "微軟類似 Clippy 的 Mico 角色不再是 Copilot 的臉孔",
+      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+      "summary": "當您使用聊天機器人的語音模式時，Microsoft Copilot 將不再顯示其情緒化的黃色斑點 Mico。在支持…",
       "source": "The Verge"
     },
     {
-      "title": "吉他公司達達裡奧承認在宣傳影片中使用了人工智慧音樂",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978982/daddario-guitar-ai-music-suno",
-      "summary": "經過數週的爭議和猜測，音樂公司達達裡奧承認人工智慧，特別是 Suno，被用作…",
+      "title": "OpenAI 本週將失去第二位高階主管",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "summary": "另一位 OpenAI 主管即將離職。丹尼斯·德萊瑟 (Denise Dresser) 於 12 月加入 OpenAI，擔任首席營收長…",
       "source": "The Verge"
     },
     {
-      "title": "Google Pixel Watch 5 更深入探討人工智慧和健康",
-      "link": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch",
-      "summary": "售價 399 美元的 Google Pixel Watch 5 與硬體無關。當然，有一個新的緞面黃鐵礦錶殼飾面，一些新的錶帶…",
+      "title": "Suno 試圖看起來更像一個真正的音樂製作工具",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+      "summary": "Suno 正在發布 Studio 2.0，並進行了重大升級，使其更接近實際的數位音訊工作站 (DAW)…",
       "source": "The Verge"
     },
     {
-      "title": "當然，ChatGPT 狗癌症疫苗催生了一家新創公司",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "summary": "還記得那個大肆宣傳的故事嗎？一位澳洲科技創業家使用 ChatGPT、Grok 和其他人工智慧工具來製作…",
+      "title": "我看了一部人工智慧生成的電影，最好的部分都是人類",
+      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+      "summary": "想像一下，三個笨手笨腳的英國小伙子一邊幻想自己成為超級巨星，一邊在酒吧喝了幾品脫……",
       "source": "The Verge"
     },
     {
-      "title": "Grok 現在是人工智慧“隊友”，你可以分配工作",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that …",
+      "title": "谷歌真的想在人工智慧領域獲勝嗎？",
+      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+      "summary": "今天，我在 Decoder 上與 The Verge 的高級 AI 記者 Hayden Field 討論一個備受關注的問題…",
       "source": "The Verge"
     },
     {
-      "title": "Sabre 否認用 ChatGPT 取代 Rideshare Stimulator 的編劇",
-      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "summary": "在一位前首席作家聲稱 Saber「用 ChatGPT 取代了我」之後，執行長 Matthew Karch 現在聲稱：「Saber 和 Un 都不是...",
+      "title": "微軟正在整合其 Copilot 應用程序，以打造“超級應用程式”",
+      "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+      "summary": "微軟終於開始將其消費者和商業 Copilot AI 助理合併成一個「超級應用程式」...",
       "source": "The Verge"
     },
     {
-      "title": "一些 Claude 用戶很生氣，因為 Anthropic 的新水印會讓他們在工作、課堂上使用它",
-      "link": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
-      "summary": "Anthropic 的新水印系統是一種嘲諷嗎？有些人在社群媒體上抱怨事實確實如此。",
+      "title": "作者引入了新的人工智慧模型和升級的工具來控制代幣成本",
+      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+      "summary": "作為 Z.ai 開源模型 GLM-5.2 的訓練後變體，Writer 表示新系統應該提供部署…",
       "source": "TechCrunch"
     },
     {
-      "title": "預設情況下，亞馬遜將針對 Twitch 主播的內容進行訓練，除非他們選擇退出",
-      "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
-      "summary": "Twitch 首席產品長 Mike Minton 在直播中回應用戶回饋時表示：「如果這是選擇加入，那麼沒有人會選擇加入。」 「那…",
+      "title": "Databricks 想要籌集 1B 美元，投資者想要 15B 美元。其最終估值為 5B 美元，估值為 190B 美元。",
+      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+      "summary": "Ali Ghodsi 告訴 TechCrunch，人工智慧很昂貴。由於有這麼多的投資者想要參與他的最新一輪投資，他對更多的人說「是」…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "媒體分享 (Media Sharing)",
-      "link": "https://www.producthunt.com/products/argos",
-      "desc": "Let AI agents put screenshots and videos on pull requests Discussion | Link",
-      "title_en": "Media Sharing"
+      "title": "斯林巴解釋 (Scrimba Explain)",
+      "link": "https://www.producthunt.com/products/scrimba",
+      "desc": "提出任何問題，立即返回視頻 討論 |關聯",
+      "title_en": "Scrimba Explain"
     },
     {
-      "title": "程式碼刻錄 (CodeBurn)",
-      "link": "https://www.producthunt.com/products/codeburn",
-      "desc": "了解您的人工智慧編碼實際支出都花在哪裡了關聯",
-      "title_en": "CodeBurn"
+      "title": "基維立方體 (Kivicube)",
+      "link": "https://www.producthunt.com/products/kivicube",
+      "desc": "使用 AI 創建 AR 體驗，無需程式碼！討論 |關聯",
+      "title_en": "Kivicube"
     },
     {
-      "title": "組裝工作室 (Assembly Studio)",
-      "link": "https://www.producthunt.com/products/assembly-7",
-      "desc": "人工智慧應用程式建立器可增加您的收入關聯",
-      "title_en": "Assembly Studio"
+      "title": "伊藤 (Ito)",
+      "link": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code",
+      "desc": "運行您的程式碼的人工智慧程式碼審查討論 |關聯",
+      "title_en": "Ito"
     },
     {
-      "title": "勞拉副駕駛 (LaraCopilot)",
-      "link": "https://www.producthunt.com/products/laracopilot",
-      "desc": "建構真實應用程式的代理人工智慧工程師關聯",
-      "title_en": "LaraCopilot"
+      "title": "埃克雷夫 (Execlave)",
+      "link": "https://www.producthunt.com/products/execlave",
+      "desc": "人工智慧代理與現實世界之間的大門關聯",
+      "title_en": "Execlave"
     },
     {
-      "title": "Grok機器人 (Grok Bot)",
-      "link": "https://www.producthunt.com/products/grok",
-      "desc": "可以給你真正工作的AI隊友 討論|關聯",
-      "title_en": "Grok Bot"
+      "title": "記憶體代理 (Mem Agent)",
+      "link": "https://www.producthunt.com/products/mem-2-0",
+      "desc": "拒絕讓你掉球的人工智慧 討論 |關聯",
+      "title_en": "Mem Agent"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "Grok 現在是人工智慧“隊友”，你可以分配工作",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that …",
-      "source": "The Verge"
-    }
-  ],
-  "suniverse_tools": [
-    {
-      "title": "媒體分享 (Media Sharing)",
-      "link": "https://www.producthunt.com/products/argos",
-      "desc": "Let AI agents put screenshots and videos on pull requests Discussion | Link",
-      "title_en": "Media Sharing"
-    }
-  ],
+  "suniverse_news": [],
+  "suniverse_tools": [],
   "major": [
     {
-      "title": "當然，ChatGPT 狗癌症疫苗催生了一家新創公司",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-      "summary": "還記得那個大肆宣傳的故事嗎？一位澳洲科技創業家使用 ChatGPT、Grok 和其他人工智慧工具來製作…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Grok 現在是人工智慧“隊友”，你可以分配工作",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/978666/spacexai-grok-bot-ai-agent-beta-launch",
-      "summary": "SpaceXAI has introduced Grok Bot, an always-on AI agent service designed to behave like independent \"AI teammates\" that …",
-      "source": "The Verge"
-    },
-    {
-      "title": "Sabre 否認用 ChatGPT 取代 Rideshare Stimulator 的編劇",
-      "link": "https://www.theverge.com/games/978558/rideshare-stimulator-writer-ai-saber-interactive",
-      "summary": "在一位前首席作家聲稱 Saber「用 ChatGPT 取代了我」之後，執行長 Matthew Karch 現在聲稱：「Saber 和 Un 都不是...",
+      "title": "OpenAI 本週將失去第二位高階主管",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+      "summary": "另一位 OpenAI 主管即將離職。丹尼斯·德萊瑟 (Denise Dresser) 於 12 月加入 OpenAI，擔任首席營收長…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "當然，ChatGPT 狗癌症疫苗催生了一家新創公司",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/978671/ai-cured-dog-cancer-mrna-vaccine-startup-gamgee",
-    "summary": "還記得那個大肆宣傳的故事嗎？一位澳洲科技創業家使用 ChatGPT、Grok 和其他人工智慧工具來製作…",
+    "title": "OpenAI 本週將失去第二位高階主管",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+    "summary": "另一位 OpenAI 主管即將離職。丹尼斯·德萊瑟 (Denise Dresser) 於 12 月加入 OpenAI，擔任首席營收長…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "AI自動化節省成本",
-      "detail": "用CodeBurn分析我們現有的AI編碼支出，找出浪費的部分，然後用Assembly Studio建立新的AI應用程式來增加收入，發在我們的Suniverse社群，預計1周內出成果"
+      "title": "用 Scrimba Explain 製作旅遊解說",
+      "detail": "用 Scrimba Explain 搞個旅遊解說視頻，教人點解開咩地方好玩，發佈於 YouTube 或 Instagram，預計 3 天出成果"
     },
     {
-      "title": "AI助力內容創作",
-      "detail": "利用LaraCopilot建立一個旅遊攻略的AI應用程式，集成Media Sharing將旅遊照片和影片分享到社群，預計3天內完成，發在Twitch和我們的Suniverse粉絲頁"
+      "title": "創建 AR 美食體驗",
+      "detail": "用 Kivicube 搭建 AR 體驗，展示 SS 旅遊美食的精彩瞬間，無需程式碼，發佈於 Facebook 或 TikTok，預計 5 天出成果"
     },
     {
-      "title": "AI智能旅遊規劃",
-      "detail": "用Assembly Studio建立一個AI旅遊規劃工具，集成ChatGPT推薦旅遊路線和景點，然後發在我們的Suniverse官網，預計2周內完成并推廣"
+      "title": "優化程式碼以 Ito",
+      "detail": "用 Ito 優化 Suniverse 的程式碼，改善運行效率，然後分享心得於 SS 的社交媒體，預計 2 天出成果"
     }
   ],
   "history": {
@@ -7384,6 +7358,120 @@
         {
           "title": "AI智能旅遊規劃",
           "detail": "用Assembly Studio建立一個AI旅遊規劃工具，集成ChatGPT推薦旅遊路線和景點，然後發在我們的Suniverse官網，預計2周內完成并推廣"
+        }
+      ]
+    },
+    "2026-08-14": {
+      "news": [
+        {
+          "title": "微軟類似 Clippy 的 Mico 角色不再是 Copilot 的臉孔",
+          "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
+          "summary": "當您使用聊天機器人的語音模式時，Microsoft Copilot 將不再顯示其情緒化的黃色斑點 Mico。在支持…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 本週將失去第二位高階主管",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+          "summary": "另一位 OpenAI 主管即將離職。丹尼斯·德萊瑟 (Denise Dresser) 於 12 月加入 OpenAI，擔任首席營收長…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Suno 試圖看起來更像一個真正的音樂製作工具",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
+          "summary": "Suno 正在發布 Studio 2.0，並進行了重大升級，使其更接近實際的數位音訊工作站 (DAW)…",
+          "source": "The Verge"
+        },
+        {
+          "title": "我看了一部人工智慧生成的電影，最好的部分都是人類",
+          "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
+          "summary": "想像一下，三個笨手笨腳的英國小伙子一邊幻想自己成為超級巨星，一邊在酒吧喝了幾品脫……",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌真的想在人工智慧領域獲勝嗎？",
+          "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
+          "summary": "今天，我在 Decoder 上與 The Verge 的高級 AI 記者 Hayden Field 討論一個備受關注的問題…",
+          "source": "The Verge"
+        },
+        {
+          "title": "微軟正在整合其 Copilot 應用程序，以打造“超級應用程式”",
+          "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
+          "summary": "微軟終於開始將其消費者和商業 Copilot AI 助理合併成一個「超級應用程式」...",
+          "source": "The Verge"
+        },
+        {
+          "title": "作者引入了新的人工智慧模型和升級的工具來控制代幣成本",
+          "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
+          "summary": "作為 Z.ai 開源模型 GLM-5.2 的訓練後變體，Writer 表示新系統應該提供部署…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Databricks 想要籌集 1B 美元，投資者想要 15B 美元。其最終估值為 5B 美元，估值為 190B 美元。",
+          "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
+          "summary": "Ali Ghodsi 告訴 TechCrunch，人工智慧很昂貴。由於有這麼多的投資者想要參與他的最新一輪投資，他對更多的人說「是」…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "斯林巴解釋 (Scrimba Explain)",
+          "link": "https://www.producthunt.com/products/scrimba",
+          "desc": "提出任何問題，立即返回視頻 討論 |關聯",
+          "title_en": "Scrimba Explain"
+        },
+        {
+          "title": "基維立方體 (Kivicube)",
+          "link": "https://www.producthunt.com/products/kivicube",
+          "desc": "使用 AI 創建 AR 體驗，無需程式碼！討論 |關聯",
+          "title_en": "Kivicube"
+        },
+        {
+          "title": "伊藤 (Ito)",
+          "link": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code",
+          "desc": "運行您的程式碼的人工智慧程式碼審查討論 |關聯",
+          "title_en": "Ito"
+        },
+        {
+          "title": "埃克雷夫 (Execlave)",
+          "link": "https://www.producthunt.com/products/execlave",
+          "desc": "人工智慧代理與現實世界之間的大門關聯",
+          "title_en": "Execlave"
+        },
+        {
+          "title": "記憶體代理 (Mem Agent)",
+          "link": "https://www.producthunt.com/products/mem-2-0",
+          "desc": "拒絕讓你掉球的人工智慧 討論 |關聯",
+          "title_en": "Mem Agent"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 本週將失去第二位高階主管",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+          "summary": "另一位 OpenAI 主管即將離職。丹尼斯·德萊瑟 (Denise Dresser) 於 12 月加入 OpenAI，擔任首席營收長…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 本週將失去第二位高階主管",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
+        "summary": "另一位 OpenAI 主管即將離職。丹尼斯·德萊瑟 (Denise Dresser) 於 12 月加入 OpenAI，擔任首席營收長…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Scrimba Explain 製作旅遊解說",
+          "detail": "用 Scrimba Explain 搞個旅遊解說視頻，教人點解開咩地方好玩，發佈於 YouTube 或 Instagram，預計 3 天出成果"
+        },
+        {
+          "title": "創建 AR 美食體驗",
+          "detail": "用 Kivicube 搭建 AR 體驗，展示 SS 旅遊美食的精彩瞬間，無需程式碼，發佈於 Facebook 或 TikTok，預計 5 天出成果"
+        },
+        {
+          "title": "優化程式碼以 Ito",
+          "detail": "用 Ito 優化 Suniverse 的程式碼，改善運行效率，然後分享心得於 SS 的社交媒體，預計 2 天出成果"
         }
       ]
     }
