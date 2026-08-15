@@ -1,115 +1,122 @@
 {
-  "updated": "2026-08-14 11:22 HKT",
+  "updated": "2026-08-15 10:12 HKT",
   "news": [
     {
-      "title": "微軟類似 Clippy 的 Mico 角色不再是 Copilot 的臉孔",
-      "link": "https://www.theverge.com/tech/979871/microsoft-copilot-mico-retired",
-      "summary": "當您使用聊天機器人的語音模式時，Microsoft Copilot 將不再顯示其情緒化的黃色斑點 Mico。在支持…",
+      "title": "馬克·祖克柏有一個 Instazam",
+      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "summary": "Instagram 的文字標記具有標誌性。嗯，是標誌性的。顯然 Instagram 認為它看起來很舊，所以該公司推出了…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 本週將失去第二位高階主管",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "summary": "另一位 OpenAI 主管即將離職。丹尼斯·德萊瑟 (Denise Dresser) 於 12 月加入 OpenAI，擔任首席營收長…",
+      "title": "現在您可以關閉 Google Gemini 的可見水印",
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "summary": "谷歌現在將允許您從使用人工智慧工具製作的圖像、影片和音樂中刪除可見浮水印。隨著你…",
       "source": "The Verge"
     },
     {
-      "title": "Suno 試圖看起來更像一個真正的音樂製作工具",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979345/suno-studio-2-0-midi-chatbot-custom-effects",
-      "summary": "Suno 正在發布 Studio 2.0，並進行了重大升級，使其更接近實際的數位音訊工作站 (DAW)…",
+      "title": "蘋果在阿里巴巴的幫助下為中國訓練了自己的人工智慧模型",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+      "summary": "據報道，蘋果已與國內科技巨頭阿里巴巴合作，為中國市場訓練了定制人工智能模型，這是罕見的跨...",
       "source": "The Verge"
     },
     {
-      "title": "我看了一部人工智慧生成的電影，最好的部分都是人類",
-      "link": "https://www.theverge.com/entertainment/977994/higgsfield-ai-cully-hill-boys-black-list",
-      "summary": "想像一下，三個笨手笨腳的英國小伙子一邊幻想自己成為超級巨星，一邊在酒吧喝了幾品脫……",
-      "source": "The Verge"
-    },
-    {
-      "title": "谷歌真的想在人工智慧領域獲勝嗎？",
-      "link": "https://www.theverge.com/podcast/979370/google-deepmind-ai-race-lose-jeff-dean-demis-hassabis",
-      "summary": "今天，我在 Decoder 上與 The Verge 的高級 AI 記者 Hayden Field 討論一個備受關注的問題…",
-      "source": "The Verge"
-    },
-    {
-      "title": "微軟正在整合其 Copilot 應用程序，以打造“超級應用程式”",
-      "link": "https://www.theverge.com/tech/979466/microsoft-copilot-365-app-unified-experience",
-      "summary": "微軟終於開始將其消費者和商業 Copilot AI 助理合併成一個「超級應用程式」...",
-      "source": "The Verge"
-    },
-    {
-      "title": "作者引入了新的人工智慧模型和升級的工具來控制代幣成本",
-      "link": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs/",
-      "summary": "作為 Z.ai 開源模型 GLM-5.2 的訓練後變體，Writer 表示新系統應該提供部署…",
+      "title": "谷歌現在將允許用戶刪除其人工智慧各代產品中的可見水印",
+      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+      "summary": "關閉此設定不會影響用於識別 AI 產生檔案的隱形基準。",
       "source": "TechCrunch"
     },
     {
-      "title": "Databricks 想要籌集 1B 美元，投資者想要 15B 美元。其最終估值為 5B 美元，估值為 190B 美元。",
-      "link": "https://techcrunch.com/2026/08/13/databricks-wanted-to-raise-1b-investors-wanted-15b-it-settled-on-5b-at-a-190b-valuation/",
-      "summary": "Ali Ghodsi 告訴 TechCrunch，人工智慧很昂貴。由於有這麼多的投資者想要參與他的最新一輪投資，他對更多的人說「是」…",
+      "title": "馬克·祖克柏真的相信人工智慧「適合所有人」嗎？",
+      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+      "summary": "Meta 本週發布了 Glimmer，這是一個開放式人工智慧模型，任何人都可以下載並在自己的硬體上運行——形成鮮明對比…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Kog 正在更深入地利用 GPU 進行更多推理",
+      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+      "summary": "法國新創公司 Kog 表示，認為 GPU 不太適合代理商工作流程的想法可能是一種誤解。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "如果新的預測被證明是正確的，超大規模企業可能會後悔擁抱天然氣",
+      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+      "summary": "美國部分地區的天然氣價格可能會上漲兩倍，這可能會讓超大規模企業承擔巨額電力費用…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta 的「開放」人工智慧，以及 2.5 億美元的交易出了大問題",
+      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+      "summary": "Meta 本週發布了 Glimmer，這是一個開放式人工智慧模型，任何人都可以下載並在自己的硬體上運行——形成鮮明對比…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "斯林巴解釋 (Scrimba Explain)",
-      "link": "https://www.producthunt.com/products/scrimba",
-      "desc": "提出任何問題，立即返回視頻 討論 |關聯",
-      "title_en": "Scrimba Explain"
+      "title": "自由增益 (Freebuff)",
+      "link": "https://www.producthunt.com/products/freebuff-2",
+      "desc": "免費編碼代理殺死 Claude、Cursor、Replit 和 Devin 討論 |關聯",
+      "title_en": "Freebuff"
     },
     {
-      "title": "基維立方體 (Kivicube)",
-      "link": "https://www.producthunt.com/products/kivicube",
-      "desc": "使用 AI 創建 AR 體驗，無需程式碼！討論 |關聯",
-      "title_en": "Kivicube"
+      "title": "Munder Difflin",
+      "link": "https://www.producthunt.com/products/munder-difflin",
+      "desc": "使用 Claude Code 和 Codex 進行複製來完成您的工作關聯",
+      "title_en": "Munder Difflin"
     },
     {
-      "title": "伊藤 (Ito)",
-      "link": "https://www.producthunt.com/products/ito-ai-code-review-that-runs-code",
-      "desc": "運行您的程式碼的人工智慧程式碼審查討論 |關聯",
-      "title_en": "Ito"
+      "title": "NS1",
+      "link": "https://www.producthunt.com/products/ns1",
+      "desc": "個人化神經系統訓練討論|關聯",
+      "title_en": "NS1"
     },
     {
-      "title": "埃克雷夫 (Execlave)",
-      "link": "https://www.producthunt.com/products/execlave",
-      "desc": "人工智慧代理與現實世界之間的大門關聯",
-      "title_en": "Execlave"
+      "title": "埠22 (Port22)",
+      "link": "https://www.producthunt.com/products/port22",
+      "desc": "手機上的 Claude Code、Codex 等內容關聯",
+      "title_en": "Port22"
     },
     {
-      "title": "記憶體代理 (Mem Agent)",
-      "link": "https://www.producthunt.com/products/mem-2-0",
-      "desc": "拒絕讓你掉球的人工智慧 討論 |關聯",
-      "title_en": "Mem Agent"
+      "title": "分鐘。 (min.)",
+      "link": "https://www.producthunt.com/products/min-4",
+      "desc": "喜歡在會議後跟進的 AI 討論 |關聯",
+      "title_en": "min."
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "馬克·祖克柏有一個 Instazam",
+      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+      "summary": "Instagram 的文字標記具有標誌性。嗯，是標誌性的。顯然 Instagram 認為它看起來很舊，所以該公司推出了…",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 本週將失去第二位高階主管",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-      "summary": "另一位 OpenAI 主管即將離職。丹尼斯·德萊瑟 (Denise Dresser) 於 12 月加入 OpenAI，擔任首席營收長…",
+      "title": "現在您可以關閉 Google Gemini 的可見水印",
+      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "summary": "谷歌現在將允許您從使用人工智慧工具製作的圖像、影片和音樂中刪除可見浮水印。隨著你…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "OpenAI 本週將失去第二位高階主管",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/979815/openai-denise-dresser-leaving-executive-departure",
-    "summary": "另一位 OpenAI 主管即將離職。丹尼斯·德萊瑟 (Denise Dresser) 於 12 月加入 OpenAI，擔任首席營收長…",
+    "title": "現在您可以關閉 Google Gemini 的可見水印",
+    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+    "summary": "谷歌現在將允許您從使用人工智慧工具製作的圖像、影片和音樂中刪除可見浮水印。隨著你…",
     "source": "The Verge"
   },
   "steve_ideas": [
     {
-      "title": "用 Scrimba Explain 製作旅遊解說",
-      "detail": "用 Scrimba Explain 搞個旅遊解說視頻，教人點解開咩地方好玩，發佈於 YouTube 或 Instagram，預計 3 天出成果"
+      "title": "用 Freebuff 編碼",
+      "detail": "我想用 Freebuff 免費編碼，幫你做個旅遊網站的自動化內容生成，發在 SS 的旅遊博客上，預計 3 天出成果"
     },
     {
-      "title": "創建 AR 美食體驗",
-      "detail": "用 Kivicube 搭建 AR 體驗，展示 SS 旅遊美食的精彩瞬間，無需程式碼，發佈於 Facebook 或 TikTok，預計 5 天出成果"
+      "title": "Munder Difflin 複製內容",
+      "detail": "用 Munder Difflin 的 Claude Code 和 Codex，複製並完成旅遊指南內容，發在 SS 的社交媒體上，預計 2 天出成果"
     },
     {
-      "title": "優化程式碼以 Ito",
-      "detail": "用 Ito 優化 Suniverse 的程式碼，改善運行效率，然後分享心得於 SS 的社交媒體，預計 2 天出成果"
+      "title": "Port22 手機內容創作",
+      "detail": "用 Port22 的 Claude Code 和 Codex，在手機上創作旅遊短片，發在 SS 的 Instagram 上，預計 1 天出成果"
     }
   ],
   "history": {
@@ -7472,6 +7479,127 @@
         {
           "title": "優化程式碼以 Ito",
           "detail": "用 Ito 優化 Suniverse 的程式碼，改善運行效率，然後分享心得於 SS 的社交媒體，預計 2 天出成果"
+        }
+      ]
+    },
+    "2026-08-15": {
+      "news": [
+        {
+          "title": "馬克·祖克柏有一個 Instazam",
+          "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+          "summary": "Instagram 的文字標記具有標誌性。嗯，是標誌性的。顯然 Instagram 認為它看起來很舊，所以該公司推出了…",
+          "source": "The Verge"
+        },
+        {
+          "title": "現在您可以關閉 Google Gemini 的可見水印",
+          "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "summary": "谷歌現在將允許您從使用人工智慧工具製作的圖像、影片和音樂中刪除可見浮水印。隨著你…",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果在阿里巴巴的幫助下為中國訓練了自己的人工智慧模型",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
+          "summary": "據報道，蘋果已與國內科技巨頭阿里巴巴合作，為中國市場訓練了定制人工智能模型，這是罕見的跨...",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌現在將允許用戶刪除其人工智慧各代產品中的可見水印",
+          "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
+          "summary": "關閉此設定不會影響用於識別 AI 產生檔案的隱形基準。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "馬克·祖克柏真的相信人工智慧「適合所有人」嗎？",
+          "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+          "summary": "Meta 本週發布了 Glimmer，這是一個開放式人工智慧模型，任何人都可以下載並在自己的硬體上運行——形成鮮明對比…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Kog 正在更深入地利用 GPU 進行更多推理",
+          "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
+          "summary": "法國新創公司 Kog 表示，認為 GPU 不太適合代理商工作流程的想法可能是一種誤解。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "如果新的預測被證明是正確的，超大規模企業可能會後悔擁抱天然氣",
+          "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
+          "summary": "美國部分地區的天然氣價格可能會上漲兩倍，這可能會讓超大規模企業承擔巨額電力費用…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta 的「開放」人工智慧，以及 2.5 億美元的交易出了大問題",
+          "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+          "summary": "Meta 本週發布了 Glimmer，這是一個開放式人工智慧模型，任何人都可以下載並在自己的硬體上運行——形成鮮明對比…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "自由增益 (Freebuff)",
+          "link": "https://www.producthunt.com/products/freebuff-2",
+          "desc": "免費編碼代理殺死 Claude、Cursor、Replit 和 Devin 討論 |關聯",
+          "title_en": "Freebuff"
+        },
+        {
+          "title": "Munder Difflin",
+          "link": "https://www.producthunt.com/products/munder-difflin",
+          "desc": "使用 Claude Code 和 Codex 進行複製來完成您的工作關聯",
+          "title_en": "Munder Difflin"
+        },
+        {
+          "title": "NS1",
+          "link": "https://www.producthunt.com/products/ns1",
+          "desc": "個人化神經系統訓練討論|關聯",
+          "title_en": "NS1"
+        },
+        {
+          "title": "埠22 (Port22)",
+          "link": "https://www.producthunt.com/products/port22",
+          "desc": "手機上的 Claude Code、Codex 等內容關聯",
+          "title_en": "Port22"
+        },
+        {
+          "title": "分鐘。 (min.)",
+          "link": "https://www.producthunt.com/products/min-4",
+          "desc": "喜歡在會議後跟進的 AI 討論 |關聯",
+          "title_en": "min."
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "馬克·祖克柏有一個 Instazam",
+          "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
+          "summary": "Instagram 的文字標記具有標誌性。嗯，是標誌性的。顯然 Instagram 認為它看起來很舊，所以該公司推出了…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "現在您可以關閉 Google Gemini 的可見水印",
+          "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+          "summary": "谷歌現在將允許您從使用人工智慧工具製作的圖像、影片和音樂中刪除可見浮水印。隨著你…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "現在您可以關閉 Google Gemini 的可見水印",
+        "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+        "summary": "谷歌現在將允許您從使用人工智慧工具製作的圖像、影片和音樂中刪除可見浮水印。隨著你…",
+        "source": "The Verge"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 Freebuff 編碼",
+          "detail": "我想用 Freebuff 免費編碼，幫你做個旅遊網站的自動化內容生成，發在 SS 的旅遊博客上，預計 3 天出成果"
+        },
+        {
+          "title": "Munder Difflin 複製內容",
+          "detail": "用 Munder Difflin 的 Claude Code 和 Codex，複製並完成旅遊指南內容，發在 SS 的社交媒體上，預計 2 天出成果"
+        },
+        {
+          "title": "Port22 手機內容創作",
+          "detail": "用 Port22 的 Claude Code 和 Codex，在手機上創作旅遊短片，發在 SS 的 Instagram 上，預計 1 天出成果"
         }
       ]
     }
