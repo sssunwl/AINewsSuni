@@ -1,73 +1,49 @@
 {
-  "updated": "2026-08-15 10:12 HKT",
+  "updated": "2026-08-16 10:19 HKT",
   "news": [
     {
-      "title": "馬克·祖克柏有一個 Instazam",
-      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "summary": "Instagram 的文字標記具有標誌性。嗯，是標誌性的。顯然 Instagram 認為它看起來很舊，所以該公司推出了…",
+      "title": "透過扮演聊天機器人來嘲笑人工智慧的犧牲",
+      "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+      "summary": "你的 AI Slop 讓我厭煩了，它的簡單性非常出色。有兩個選項卡：人類和 LARP 作為人工智慧。在一側，您輸入...",
       "source": "The Verge"
     },
     {
-      "title": "現在您可以關閉 Google Gemini 的可見水印",
-      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "summary": "谷歌現在將允許您從使用人工智慧工具製作的圖像、影片和音樂中刪除可見浮水印。隨著你…",
-      "source": "The Verge"
-    },
-    {
-      "title": "蘋果在阿里巴巴的幫助下為中國訓練了自己的人工智慧模型",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba",
-      "summary": "據報道，蘋果已與國內科技巨頭阿里巴巴合作，為中國市場訓練了定制人工智能模型，這是罕見的跨...",
-      "source": "The Verge"
-    },
-    {
-      "title": "谷歌現在將允許用戶刪除其人工智慧各代產品中的可見水印",
-      "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
-      "summary": "關閉此設定不會影響用於識別 AI 產生檔案的隱形基準。",
+      "title": "女子聲稱她的繼父使用 Grok 將童年照片變成露骨圖像",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "summary": "這位女士聲稱人工智慧工具「正在將日常生活變成兒童性虐待」。",
       "source": "TechCrunch"
     },
     {
-      "title": "馬克·祖克柏真的相信人工智慧「適合所有人」嗎？",
-      "link": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
-      "summary": "Meta 本週發布了 Glimmer，這是一個開放式人工智慧模型，任何人都可以下載並在自己的硬體上運行——形成鮮明對比…",
+      "title": "Anthropic 分享了有關Claude新水印如何運作的更多細節",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "summary": "水印實際上如何發揮作用？可以透過編輯隱藏嗎？這對程式碼有何影響？",
       "source": "TechCrunch"
     },
     {
-      "title": "Kog 正在更深入地利用 GPU 進行更多推理",
-      "link": "https://techcrunch.com/2026/08/14/kog-is-going-deeper-to-squeeze-more-inference-out-of-gpus/",
-      "summary": "法國新創公司 Kog 表示，認為 GPU 不太適合代理商工作流程的想法可能是一種誤解。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "如果新的預測被證明是正確的，超大規模企業可能會後悔擁抱天然氣",
-      "link": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct/",
-      "summary": "美國部分地區的天然氣價格可能會上漲兩倍，這可能會讓超大規模企業承擔巨額電力費用…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Meta 的「開放」人工智慧，以及 2.5 億美元的交易出了大問題",
-      "link": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
-      "summary": "Meta 本週發布了 Glimmer，這是一個開放式人工智慧模型，任何人都可以下載並在自己的硬體上運行——形成鮮明對比…",
+      "title": "SpaceX 正式完成 Cursor 收購",
+      "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+      "summary": "AI 編碼新創公司 Cursor 現已正式成為 SpaceX 的一部分。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "自由增益 (Freebuff)",
-      "link": "https://www.producthunt.com/products/freebuff-2",
-      "desc": "免費編碼代理殺死 Claude、Cursor、Replit 和 Devin 討論 |關聯",
-      "title_en": "Freebuff"
+      "title": "南斯帕斯 (nenspace)",
+      "link": "https://www.producthunt.com/products/nenspace",
+      "desc": "法學碩士的低保真度：你的思想，變得更大 討論 |關聯",
+      "title_en": "nenspace"
     },
     {
-      "title": "Munder Difflin",
-      "link": "https://www.producthunt.com/products/munder-difflin",
-      "desc": "使用 Claude Code 和 Codex 進行複製來完成您的工作關聯",
-      "title_en": "Munder Difflin"
+      "title": "地獄岩長凳 (Inferock Bench)",
+      "link": "https://www.producthunt.com/products/inferock-bench",
+      "desc": "每個 LLM API 呼叫的獨立收據關聯",
+      "title_en": "Inferock Bench"
     },
     {
-      "title": "NS1",
-      "link": "https://www.producthunt.com/products/ns1",
-      "desc": "個人化神經系統訓練討論|關聯",
-      "title_en": "NS1"
+      "title": "GLM-5.3",
+      "link": "https://www.producthunt.com/products/z-ai",
+      "desc": "在同一基礎上進行規模化後培訓的編碼飛躍 討論 |關聯",
+      "title_en": "GLM-5.3"
     },
     {
       "title": "埠22 (Port22)",
@@ -76,47 +52,46 @@
       "title_en": "Port22"
     },
     {
-      "title": "分鐘。 (min.)",
-      "link": "https://www.producthunt.com/products/min-4",
-      "desc": "喜歡在會議後跟進的 AI 討論 |關聯",
-      "title_en": "min."
+      "title": "自由增益 (Freebuff)",
+      "link": "https://www.producthunt.com/products/freebuff-2",
+      "desc": "免費編碼代理殺死 Claude、Cursor、Replit 和 Devin 討論 |關聯",
+      "title_en": "Freebuff"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "馬克·祖克柏有一個 Instazam",
-      "link": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "summary": "Instagram 的文字標記具有標誌性。嗯，是標誌性的。顯然 Instagram 認為它看起來很舊，所以該公司推出了…",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "現在您可以關閉 Google Gemini 的可見水印",
-      "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "summary": "谷歌現在將允許您從使用人工智慧工具製作的圖像、影片和音樂中刪除可見浮水印。隨著你…",
-      "source": "The Verge"
+      "title": "女子聲稱她的繼父使用 Grok 將童年照片變成露骨圖像",
+      "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+      "summary": "這位女士聲稱人工智慧工具「正在將日常生活變成兒童性虐待」。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic 分享了有關Claude新水印如何運作的更多細節",
+      "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "summary": "水印實際上如何發揮作用？可以透過編輯隱藏嗎？這對程式碼有何影響？",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "現在您可以關閉 Google Gemini 的可見水印",
-    "link": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-    "summary": "谷歌現在將允許您從使用人工智慧工具製作的圖像、影片和音樂中刪除可見浮水印。隨著你…",
-    "source": "The Verge"
+    "title": "女子聲稱她的繼父使用 Grok 將童年照片變成露骨圖像",
+    "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+    "summary": "這位女士聲稱人工智慧工具「正在將日常生活變成兒童性虐待」。",
+    "source": "TechCrunch"
   },
   "steve_ideas": [
     {
-      "title": "用 Freebuff 編碼",
-      "detail": "我想用 Freebuff 免費編碼，幫你做個旅遊網站的自動化內容生成，發在 SS 的旅遊博客上，預計 3 天出成果"
+      "title": "用 GLM-5.3 生成旅遊內容",
+      "detail": "用 GLM-5.3 進行規模化後培訓，生成高質量旅遊內容，發在 IG 上，預計 3 天出成果"
     },
     {
-      "title": "Munder Difflin 複製內容",
-      "detail": "用 Munder Difflin 的 Claude Code 和 Codex，複製並完成旅遊指南內容，發在 SS 的社交媒體上，預計 2 天出成果"
+      "title": "Port22 生成代碼",
+      "detail": "用 Port22 生成 Claude Code 和 Codex 代碼，創建互動旅遊內容，發在 YouTube 上，預計 5 天出成果"
     },
     {
-      "title": "Port22 手機內容創作",
-      "detail": "用 Port22 的 Claude Code 和 Codex，在手機上創作旅遊短片，發在 SS 的 Instagram 上，預計 1 天出成果"
+      "title": "Inferock Bench 驗證 LLM",
+      "detail": "用 Inferock Bench 驗證 LLM API 呼叫，優化旅遊內容生成流程，發在博客上，預計 2 天出成果"
     }
   ],
   "history": {
@@ -7600,6 +7575,102 @@
         {
           "title": "Port22 手機內容創作",
           "detail": "用 Port22 的 Claude Code 和 Codex，在手機上創作旅遊短片，發在 SS 的 Instagram 上，預計 1 天出成果"
+        }
+      ]
+    },
+    "2026-08-16": {
+      "news": [
+        {
+          "title": "透過扮演聊天機器人來嘲笑人工智慧的犧牲",
+          "link": "https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot",
+          "summary": "你的 AI Slop 讓我厭煩了，它的簡單性非常出色。有兩個選項卡：人類和 LARP 作為人工智慧。在一側，您輸入...",
+          "source": "The Verge"
+        },
+        {
+          "title": "女子聲稱她的繼父使用 Grok 將童年照片變成露骨圖像",
+          "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "summary": "這位女士聲稱人工智慧工具「正在將日常生活變成兒童性虐待」。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic 分享了有關Claude新水印如何運作的更多細節",
+          "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+          "summary": "水印實際上如何發揮作用？可以透過編輯隱藏嗎？這對程式碼有何影響？",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "SpaceX 正式完成 Cursor 收購",
+          "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
+          "summary": "AI 編碼新創公司 Cursor 現已正式成為 SpaceX 的一部分。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "南斯帕斯 (nenspace)",
+          "link": "https://www.producthunt.com/products/nenspace",
+          "desc": "法學碩士的低保真度：你的思想，變得更大 討論 |關聯",
+          "title_en": "nenspace"
+        },
+        {
+          "title": "地獄岩長凳 (Inferock Bench)",
+          "link": "https://www.producthunt.com/products/inferock-bench",
+          "desc": "每個 LLM API 呼叫的獨立收據關聯",
+          "title_en": "Inferock Bench"
+        },
+        {
+          "title": "GLM-5.3",
+          "link": "https://www.producthunt.com/products/z-ai",
+          "desc": "在同一基礎上進行規模化後培訓的編碼飛躍 討論 |關聯",
+          "title_en": "GLM-5.3"
+        },
+        {
+          "title": "埠22 (Port22)",
+          "link": "https://www.producthunt.com/products/port22",
+          "desc": "手機上的 Claude Code、Codex 等內容關聯",
+          "title_en": "Port22"
+        },
+        {
+          "title": "自由增益 (Freebuff)",
+          "link": "https://www.producthunt.com/products/freebuff-2",
+          "desc": "免費編碼代理殺死 Claude、Cursor、Replit 和 Devin 討論 |關聯",
+          "title_en": "Freebuff"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "女子聲稱她的繼父使用 Grok 將童年照片變成露骨圖像",
+          "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "summary": "這位女士聲稱人工智慧工具「正在將日常生活變成兒童性虐待」。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic 分享了有關Claude新水印如何運作的更多細節",
+          "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+          "summary": "水印實際上如何發揮作用？可以透過編輯隱藏嗎？這對程式碼有何影響？",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "女子聲稱她的繼父使用 Grok 將童年照片變成露骨圖像",
+        "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+        "summary": "這位女士聲稱人工智慧工具「正在將日常生活變成兒童性虐待」。",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": [
+        {
+          "title": "用 GLM-5.3 生成旅遊內容",
+          "detail": "用 GLM-5.3 進行規模化後培訓，生成高質量旅遊內容，發在 IG 上，預計 3 天出成果"
+        },
+        {
+          "title": "Port22 生成代碼",
+          "detail": "用 Port22 生成 Claude Code 和 Codex 代碼，創建互動旅遊內容，發在 YouTube 上，預計 5 天出成果"
+        },
+        {
+          "title": "Inferock Bench 驗證 LLM",
+          "detail": "用 Inferock Bench 驗證 LLM API 呼叫，優化旅遊內容生成流程，發在博客上，預計 2 天出成果"
         }
       ]
     }
