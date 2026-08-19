@@ -1,113 +1,114 @@
 {
-  "updated": "2026-08-18 10:13 HKT",
+  "updated": "2026-08-19 10:16 HKT",
   "news": [
     {
-      "title": "Whisker 的人工智慧垃圾機器人認為我的貓交換了身體",
-      "link": "https://www.theverge.com/tech/978323/whisker-litter-robot-5-pro-review",
-      "summary": "近年來寵物科技最偉大的發明是垃圾機器人。一台可以舀出小貓糞便的機器，這樣你......",
+      "title": "羅賓威廉斯 (Robin Williams) 恢復 Instagram 帳戶以對抗“人工智能濫用”",
+      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "summary": "羅賓威廉斯的孩子們正在接管他們父親的 Instagram 帳戶，因為他的女兒公開反對使用…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 解釋了Claude的隱形文字浮水印的工作原理",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "summary": "Anthropic 已闡明其計劃如何將隱形水印應用於Claude生成的文本，以符合…",
+      "title": "OpenAI 在 AI 駭客入侵 Hugging Face 後製定了新的安全變更",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "summary": "繼 7 月有消息指出 OpenAI 的 AI 突破沙盒環境並發生意外後，OpenAI 宣布了安全更新…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic的年化收入飆升至$65B",
-      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "summary": "這家模型製造商在兩個月內增加了 180 億美元的年收入。",
-      "source": "TechCrunch"
+      "title": "Firefox 的智慧視窗有望打造更好的人工智慧瀏覽器",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+      "summary": "從今天開始，Firefox 智慧視窗 AI 瀏覽模式中的 AI 聊天可以從當前網路資訊中提取並顯示來源連結…",
+      "source": "The Verge"
     },
     {
-      "title": "AI自動化新創公司Relay關閉，員工加入GoogleChrome團隊",
-      "link": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/",
-      "summary": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share …",
-      "source": "TechCrunch"
+      "title": "谷歌的寵物記憶忘記了我的貓是誰",
+      "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+      "summary": "我的智慧家庭所做的最好的事情之一就是幫助我照顧我的寵物，而安全攝影機對於…特別有用。",
+      "source": "The Verge"
     },
     {
-      "title": "以銷售書籍起家的亞馬遜正在銷毀稀有文字來訓練人工智慧",
-      "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
-      "summary": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available on…",
-      "source": "TechCrunch"
+      "title": "馬斯克 (Elon Musk) 打破了美國聯邦航空管理局 (FAA) 的製裁——Palantir 正在收拾殘局",
+      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+      "summary": "8 月 6 日，明尼亞波利斯航線交通控制中心失去雷達和通訊約兩小時。這 …",
+      "source": "The Verge"
     },
     {
-      "title": "Groq 融資 3.5 億美元，推動從 AI 晶片轉向 Neocloud",
-      "link": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud/",
-      "summary": "Groq 以 35 億美元的估值籌集了 3.5 億美元，這家前 AI 晶片製造商轉向 Neocloud 業務並擴張…",
-      "source": "TechCrunch"
+      "title": "ChatGPT 正在為青少年提供專用模式",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "summary": "OpenAI 正在推出專門針對青少年的 ChatGPT 模式，結合現有的青少年保障措施和新的安全功能…",
+      "source": "The Verge"
     },
     {
-      "title": "Nvidia 向 OpenAI 專案背後的軟銀資料中心開發人員投資 1.5B 美元",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "summary": "英偉達對軟銀資料中心開發商的投資將保證其晶片為 OpenAI 資料中心提供動力。",
-      "source": "TechCrunch"
+      "title": "蘋果配備相機的 AirPods 出現在洩漏的影片中",
+      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+      "summary": "由於 MacRumors 在…中發現的一段視頻，我們可能會第一次看到蘋果傳聞中配備攝像頭的 AirPods。",
+      "source": "The Verge"
     },
     {
-      "title": "Wispr 以 20 億美元估值籌集 2.8 億美元，因為它看起來超越了指令",
-      "link": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/",
-      "summary": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly rel…",
+      "title": "Cursor 利用 GitHub 的挫敗感推出競爭對手託管平台",
+      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+      "summary": "Cursor 以其人工智慧程式碼編輯器而聞名，正在推出一個新的程式碼託管平台，以對抗開發人員長期以來的青睞…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "xpander 的 Omni (Omni by xpander)",
-      "link": "https://www.producthunt.com/products/omni-by-xpander",
-      "desc": "停止照顧你的人工智慧代理 討論 |關聯",
-      "title_en": "Omni by xpander"
+      "title": "牧羊人碼頭 (Shepherd Terminal)",
+      "link": "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent",
+      "desc": "Codex 和 Claude 並排的持久終端 討論 |關聯",
+      "title_en": "Shepherd Terminal"
     },
     {
-      "title": "燈泡之物 (Bulbthings)",
-      "link": "https://www.producthunt.com/products/bulbthings",
-      "desc": "追蹤與管理您的實體資產的人工智慧平台 討論 |關聯",
-      "title_en": "Bulbthings"
+      "title": "愛拓 (Taku AI)",
+      "link": "https://www.producthunt.com/products/taku-ai",
+      "desc": "借用最好的人工智慧設定並將其變成您的。討論 |關聯",
+      "title_en": "Taku AI"
     },
     {
-      "title": "小魚 (TinyFish)",
-      "link": "https://www.producthunt.com/products/tinyfish-2",
-      "desc": "AI 代理程式的 Web 操作層關聯",
-      "title_en": "TinyFish"
+      "title": "Claude的 ElevenLabs MCP (ElevenLabs MCP in Claude)",
+      "link": "https://www.producthunt.com/products/elevenlabs-mcp-2",
+      "desc": "在聊天中建立和管理 ElevenLabs 語音代理 討論 |關聯",
+      "title_en": "ElevenLabs MCP in Claude"
     },
     {
-      "title": "清除 (Clears)",
-      "link": "https://www.producthunt.com/products/clears",
-      "desc": "超越人工智慧編碼轉向代理軟體交付討論 |關聯",
-      "title_en": "Clears"
+      "title": "夾翼自動駕駛儀 (Clipwing Autopilot)",
+      "link": "https://www.producthunt.com/products/clipwing",
+      "desc": "無需 AI 幹擾或招募麻煩即可取得剪輯關聯",
+      "title_en": "Clipwing Autopilot"
     },
     {
-      "title": "攪拌機代理橋 (Blender Agent Bridge)",
-      "link": "https://www.producthunt.com/products/blender-agent-bridge",
-      "desc": "用於 Blender AI 工作流程的開源 MCP 橋接器討論 |關聯",
-      "title_en": "Blender Agent Bridge"
+      "title": "略讀回顧 (Skim Recap)",
+      "link": "https://www.producthunt.com/products/skim-recap",
+      "desc": "回顧您跳過的內容並解釋您遇到困難的地方關聯",
+      "title_en": "Skim Recap"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "羅賓威廉斯 (Robin Williams) 恢復 Instagram 帳戶以對抗“人工智能濫用”",
+      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+      "summary": "羅賓威廉斯的孩子們正在接管他們父親的 Instagram 帳戶，因為他的女兒公開反對使用…",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic 解釋了Claude的隱形文字浮水印的工作原理",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-      "summary": "Anthropic 已闡明其計劃如何將隱形水印應用於Claude生成的文本，以符合…",
+      "title": "OpenAI 在 AI 駭客入侵 Hugging Face 後製定了新的安全變更",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+      "summary": "繼 7 月有消息指出 OpenAI 的 AI 突破沙盒環境並發生意外後，OpenAI 宣布了安全更新…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic的年化收入飆升至$65B",
-      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "summary": "這家模型製造商在兩個月內增加了 180 億美元的年收入。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Nvidia 向 OpenAI 專案背後的軟銀資料中心開發人員投資 1.5B 美元",
-      "link": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project/",
-      "summary": "英偉達對軟銀資料中心開發商的投資將保證其晶片為 OpenAI 資料中心提供動力。",
-      "source": "TechCrunch"
+      "title": "ChatGPT 正在為青少年提供專用模式",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+      "summary": "OpenAI 正在推出專門針對青少年的 ChatGPT 模式，結合現有的青少年保障措施和新的安全功能…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Anthropic 解釋了Claude的隱形文字浮水印的工作原理",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
-    "summary": "Anthropic 已闡明其計劃如何將隱形水印應用於Claude生成的文本，以符合…",
+    "title": "OpenAI 在 AI 駭客入侵 Hugging Face 後製定了新的安全變更",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+    "summary": "繼 7 月有消息指出 OpenAI 的 AI 突破沙盒環境並發生意外後，OpenAI 宣布了安全更新…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -7914,6 +7915,120 @@
         "title": "Anthropic 解釋了Claude的隱形文字浮水印的工作原理",
         "link": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system",
         "summary": "Anthropic 已闡明其計劃如何將隱形水印應用於Claude生成的文本，以符合…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-08-19": {
+      "news": [
+        {
+          "title": "羅賓威廉斯 (Robin Williams) 恢復 Instagram 帳戶以對抗“人工智能濫用”",
+          "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+          "summary": "羅賓威廉斯的孩子們正在接管他們父親的 Instagram 帳戶，因為他的女兒公開反對使用…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 在 AI 駭客入侵 Hugging Face 後製定了新的安全變更",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+          "summary": "繼 7 月有消息指出 OpenAI 的 AI 突破沙盒環境並發生意外後，OpenAI 宣布了安全更新…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Firefox 的智慧視窗有望打造更好的人工智慧瀏覽器",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
+          "summary": "從今天開始，Firefox 智慧視窗 AI 瀏覽模式中的 AI 聊天可以從當前網路資訊中提取並顯示來源連結…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌的寵物記憶忘記了我的貓是誰",
+          "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
+          "summary": "我的智慧家庭所做的最好的事情之一就是幫助我照顧我的寵物，而安全攝影機對於…特別有用。",
+          "source": "The Verge"
+        },
+        {
+          "title": "馬斯克 (Elon Musk) 打破了美國聯邦航空管理局 (FAA) 的製裁——Palantir 正在收拾殘局",
+          "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
+          "summary": "8 月 6 日，明尼亞波利斯航線交通控制中心失去雷達和通訊約兩小時。這 …",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT 正在為青少年提供專用模式",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+          "summary": "OpenAI 正在推出專門針對青少年的 ChatGPT 模式，結合現有的青少年保障措施和新的安全功能…",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果配備相機的 AirPods 出現在洩漏的影片中",
+          "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
+          "summary": "由於 MacRumors 在…中發現的一段視頻，我們可能會第一次看到蘋果傳聞中配備攝像頭的 AirPods。",
+          "source": "The Verge"
+        },
+        {
+          "title": "Cursor 利用 GitHub 的挫敗感推出競爭對手託管平台",
+          "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
+          "summary": "Cursor 以其人工智慧程式碼編輯器而聞名，正在推出一個新的程式碼託管平台，以對抗開發人員長期以來的青睞…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "牧羊人碼頭 (Shepherd Terminal)",
+          "link": "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent",
+          "desc": "Codex 和 Claude 並排的持久終端 討論 |關聯",
+          "title_en": "Shepherd Terminal"
+        },
+        {
+          "title": "愛拓 (Taku AI)",
+          "link": "https://www.producthunt.com/products/taku-ai",
+          "desc": "借用最好的人工智慧設定並將其變成您的。討論 |關聯",
+          "title_en": "Taku AI"
+        },
+        {
+          "title": "Claude的 ElevenLabs MCP (ElevenLabs MCP in Claude)",
+          "link": "https://www.producthunt.com/products/elevenlabs-mcp-2",
+          "desc": "在聊天中建立和管理 ElevenLabs 語音代理 討論 |關聯",
+          "title_en": "ElevenLabs MCP in Claude"
+        },
+        {
+          "title": "夾翼自動駕駛儀 (Clipwing Autopilot)",
+          "link": "https://www.producthunt.com/products/clipwing",
+          "desc": "無需 AI 幹擾或招募麻煩即可取得剪輯關聯",
+          "title_en": "Clipwing Autopilot"
+        },
+        {
+          "title": "略讀回顧 (Skim Recap)",
+          "link": "https://www.producthunt.com/products/skim-recap",
+          "desc": "回顧您跳過的內容並解釋您遇到困難的地方關聯",
+          "title_en": "Skim Recap"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "羅賓威廉斯 (Robin Williams) 恢復 Instagram 帳戶以對抗“人工智能濫用”",
+          "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
+          "summary": "羅賓威廉斯的孩子們正在接管他們父親的 Instagram 帳戶，因為他的女兒公開反對使用…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 在 AI 駭客入侵 Hugging Face 後製定了新的安全變更",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+          "summary": "繼 7 月有消息指出 OpenAI 的 AI 突破沙盒環境並發生意外後，OpenAI 宣布了安全更新…",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT 正在為青少年提供專用模式",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
+          "summary": "OpenAI 正在推出專門針對青少年的 ChatGPT 模式，結合現有的青少年保障措施和新的安全功能…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 在 AI 駭客入侵 Hugging Face 後製定了新的安全變更",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
+        "summary": "繼 7 月有消息指出 OpenAI 的 AI 突破沙盒環境並發生意外後，OpenAI 宣布了安全更新…",
         "source": "The Verge"
       },
       "steve_ideas": []
