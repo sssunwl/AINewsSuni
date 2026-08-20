@@ -1,114 +1,113 @@
 {
-  "updated": "2026-08-19 10:16 HKT",
+  "updated": "2026-08-20 10:14 HKT",
   "news": [
     {
-      "title": "羅賓威廉斯 (Robin Williams) 恢復 Instagram 帳戶以對抗“人工智能濫用”",
-      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "summary": "羅賓威廉斯的孩子們正在接管他們父親的 Instagram 帳戶，因為他的女兒公開反對使用…",
+      "title": "谷歌Gemini將建立一個專門的學生中心",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "summary": "在我們為返校季做準備之際，Google 正在 Gemini 推出一個新的專用學生中心。這是一個單…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 在 AI 駭客入侵 Hugging Face 後製定了新的安全變更",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "summary": "繼 7 月有消息指出 OpenAI 的 AI 突破沙盒環境並發生意外後，OpenAI 宣布了安全更新…",
+      "title": "OpenAI 踩了煞車。現在怎麼辦？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "summary": "隨著 IPO 的臨近、來自 Anthropic 的激烈競爭以及中國和開放重量級競爭對手的緊隨其後，OpenAI …",
       "source": "The Verge"
     },
     {
-      "title": "Firefox 的智慧視窗有望打造更好的人工智慧瀏覽器",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981283/mozilla-firefox-smart-window-ai-features",
-      "summary": "從今天開始，Firefox 智慧視窗 AI 瀏覽模式中的 AI 聊天可以從當前網路資訊中提取並顯示來源連結…",
+      "title": "Meta AI 即將推出 Mac 應用程式",
+      "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+      "summary": "Meta 正在推出一款專用於其 AI 聊天機器人的新 Mac 應用程式。在周三的一份聲明中，Meta 表示你可以分享你的…",
       "source": "The Verge"
     },
     {
-      "title": "谷歌的寵物記憶忘記了我的貓是誰",
-      "link": "https://www.theverge.com/tech/981269/google-home-gemini-pet-memory-nest-camera-review",
-      "summary": "我的智慧家庭所做的最好的事情之一就是幫助我照顧我的寵物，而安全攝影機對於…特別有用。",
+      "title": "英偉達的新財務策略並沒有計算在內",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+      "summary": "1805 年 4 月，拿破崙是歐洲的主人，在他面前只有英國艦隊，計算現在是一種資產類別，我認為…",
       "source": "The Verge"
     },
     {
-      "title": "馬斯克 (Elon Musk) 打破了美國聯邦航空管理局 (FAA) 的製裁——Palantir 正在收拾殘局",
-      "link": "https://www.theverge.com/transportation/981194/faa-air-traffic-elon-musk-peter-thiel-palantir",
-      "summary": "8 月 6 日，明尼亞波利斯航線交通控制中心失去雷達和通訊約兩小時。這 …",
-      "source": "The Verge"
+      "title": "Stripe 收購 OpenRouter 並不是因為它的“奇點”",
+      "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "summary": "支付巨頭想要一家在不同人工智慧模型之間路由提示的新創公司做什麼？ Stripe 說這是因為…",
+      "source": "TechCrunch"
     },
     {
-      "title": "ChatGPT 正在為青少年提供專用模式",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "summary": "OpenAI 正在推出專門針對青少年的 ChatGPT 模式，結合現有的青少年保障措施和新的安全功能…",
-      "source": "The Verge"
+      "title": "OpenAI 尋求透過新的客戶隱私保護來超越 Anthropic",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "summary": "OpenAI 和 Anthropic 之間正在進行一場競賽，看誰能為企業提供最好的隱私保護…",
+      "source": "TechCrunch"
     },
     {
-      "title": "蘋果配備相機的 AirPods 出現在洩漏的影片中",
-      "link": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak",
-      "summary": "由於 MacRumors 在…中發現的一段視頻，我們可能會第一次看到蘋果傳聞中配備攝像頭的 AirPods。",
-      "source": "The Verge"
+      "title": "Cognition 執行長否認 SpaceX 試圖收購這家新創公司的報導",
+      "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+      "summary": "據報道，SpaceX 正在洽談收購人工智慧編碼新創公司 Cognition。 SpaceX 已經收購了 Cursor，因為它正在競相吸引…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Cursor 利用 GitHub 的挫敗感推出競爭對手託管平台",
-      "link": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform/",
-      "summary": "Cursor 以其人工智慧程式碼編輯器而聞名，正在推出一個新的程式碼託管平台，以對抗開發人員長期以來的青睞…",
+      "title": "人工智慧現在應該贏得人們的支持——但事實並非如此",
+      "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+      "summary": "隨著人工智慧變得越來越難以避免，消費者對這項技術越來越警惕——而矽谷正在發現…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "牧羊人碼頭 (Shepherd Terminal)",
-      "link": "https://www.producthunt.com/products/shepherd-terminal-designed-for-agent",
-      "desc": "Codex 和 Claude 並排的持久終端 討論 |關聯",
-      "title_en": "Shepherd Terminal"
+      "title": "Gobkit 的任何生物 (anyCreature by Gobkit)",
+      "link": "https://www.producthunt.com/products/anycreature",
+      "desc": "直接從你的代理人召喚怪物。討論 |關聯",
+      "title_en": "anyCreature by Gobkit"
     },
     {
-      "title": "愛拓 (Taku AI)",
-      "link": "https://www.producthunt.com/products/taku-ai",
-      "desc": "借用最好的人工智慧設定並將其變成您的。討論 |關聯",
-      "title_en": "Taku AI"
+      "title": "ChatGPT 青少年版 (ChatGPT for Teens)",
+      "link": "https://www.producthunt.com/products/openai",
+      "desc": "ChatGPT，為青少年打造不同的討論 |關聯",
+      "title_en": "ChatGPT for Teens"
     },
     {
-      "title": "Claude的 ElevenLabs MCP (ElevenLabs MCP in Claude)",
-      "link": "https://www.producthunt.com/products/elevenlabs-mcp-2",
-      "desc": "在聊天中建立和管理 ElevenLabs 語音代理 討論 |關聯",
-      "title_en": "ElevenLabs MCP in Claude"
+      "title": "Claude水印去除劑 (Claude Watermark Remover)",
+      "link": "https://www.producthunt.com/products/claude-watermark",
+      "desc": "尋找並刪除人工智慧在文字中留下的所有痕跡關聯",
+      "title_en": "Claude Watermark Remover"
     },
     {
-      "title": "夾翼自動駕駛儀 (Clipwing Autopilot)",
-      "link": "https://www.producthunt.com/products/clipwing",
-      "desc": "無需 AI 幹擾或招募麻煩即可取得剪輯關聯",
-      "title_en": "Clipwing Autopilot"
+      "title": "Fairphone Gen 6+",
+      "link": "https://www.producthunt.com/products/fairphone",
+      "desc": "一款可持續使用到 2033 年的模組化手機關聯",
+      "title_en": "Fairphone Gen 6+"
     },
     {
-      "title": "略讀回顧 (Skim Recap)",
-      "link": "https://www.producthunt.com/products/skim-recap",
-      "desc": "回顧您跳過的內容並解釋您遇到困難的地方關聯",
-      "title_en": "Skim Recap"
+      "title": "抗體 (Antibot)",
+      "link": "https://www.producthunt.com/products/antibot",
+      "desc": "AI 社群管理器可以讓您的 Discord 伺服器大肆宣傳關聯",
+      "title_en": "Antibot"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "羅賓威廉斯 (Robin Williams) 恢復 Instagram 帳戶以對抗“人工智能濫用”",
-      "link": "https://www.theverge.com/entertainment/981644/robin-williams-instagram-account-ai",
-      "summary": "羅賓威廉斯的孩子們正在接管他們父親的 Instagram 帳戶，因為他的女兒公開反對使用…",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 在 AI 駭客入侵 Hugging Face 後製定了新的安全變更",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-      "summary": "繼 7 月有消息指出 OpenAI 的 AI 突破沙盒環境並發生意外後，OpenAI 宣布了安全更新…",
+      "title": "谷歌Gemini將建立一個專門的學生中心",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+      "summary": "在我們為返校季做準備之際，Google 正在 Gemini 推出一個新的專用學生中心。這是一個單…",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT 正在為青少年提供專用模式",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/981333/openai-chatgpt-teen-mode",
-      "summary": "OpenAI 正在推出專門針對青少年的 ChatGPT 模式，結合現有的青少年保障措施和新的安全功能…",
+      "title": "OpenAI 踩了煞車。現在怎麼辦？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+      "summary": "隨著 IPO 的臨近、來自 Anthropic 的激烈競爭以及中國和開放重量級競爭對手的緊隨其後，OpenAI …",
       "source": "The Verge"
+    },
+    {
+      "title": "OpenAI 尋求透過新的客戶隱私保護來超越 Anthropic",
+      "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+      "summary": "OpenAI 和 Anthropic 之間正在進行一場競賽，看誰能為企業提供最好的隱私保護…",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "OpenAI 在 AI 駭客入侵 Hugging Face 後製定了新的安全變更",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
-    "summary": "繼 7 月有消息指出 OpenAI 的 AI 突破沙盒環境並發生意外後，OpenAI 宣布了安全更新…",
+    "title": "谷歌Gemini將建立一個專門的學生中心",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+    "summary": "在我們為返校季做準備之際，Google 正在 Gemini 推出一個新的專用學生中心。這是一個單…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -8029,6 +8028,119 @@
         "title": "OpenAI 在 AI 駭客入侵 Hugging Face 後製定了新的安全變更",
         "link": "https://www.theverge.com/ai-artificial-intelligence/981640/openai-security-changes-ai-hugging-face-hack",
         "summary": "繼 7 月有消息指出 OpenAI 的 AI 突破沙盒環境並發生意外後，OpenAI 宣布了安全更新…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-08-20": {
+      "news": [
+        {
+          "title": "谷歌Gemini將建立一個專門的學生中心",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+          "summary": "在我們為返校季做準備之際，Google 正在 Gemini 推出一個新的專用學生中心。這是一個單…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 踩了煞車。現在怎麼辦？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+          "summary": "隨著 IPO 的臨近、來自 Anthropic 的激烈競爭以及中國和開放重量級競爭對手的緊隨其後，OpenAI …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta AI 即將推出 Mac 應用程式",
+          "link": "https://www.theverge.com/tech/982270/meta-ai-mac-app",
+          "summary": "Meta 正在推出一款專用於其 AI 聊天機器人的新 Mac 應用程式。在周三的一份聲明中，Meta 表示你可以分享你的…",
+          "source": "The Verge"
+        },
+        {
+          "title": "英偉達的新財務策略並沒有計算在內",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/981668/nvidias-goldman-blackrock-gpu-compute-asset",
+          "summary": "1805 年 4 月，拿破崙是歐洲的主人，在他面前只有英國艦隊，計算現在是一種資產類別，我認為…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Stripe 收購 OpenRouter 並不是因為它的“奇點”",
+          "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+          "summary": "支付巨頭想要一家在不同人工智慧模型之間路由提示的新創公司做什麼？ Stripe 說這是因為…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI 尋求透過新的客戶隱私保護來超越 Anthropic",
+          "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "summary": "OpenAI 和 Anthropic 之間正在進行一場競賽，看誰能為企業提供最好的隱私保護…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Cognition 執行長否認 SpaceX 試圖收購這家新創公司的報導",
+          "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+          "summary": "據報道，SpaceX 正在洽談收購人工智慧編碼新創公司 Cognition。 SpaceX 已經收購了 Cursor，因為它正在競相吸引…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "人工智慧現在應該贏得人們的支持——但事實並非如此",
+          "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+          "summary": "隨著人工智慧變得越來越難以避免，消費者對這項技術越來越警惕——而矽谷正在發現…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Gobkit 的任何生物 (anyCreature by Gobkit)",
+          "link": "https://www.producthunt.com/products/anycreature",
+          "desc": "直接從你的代理人召喚怪物。討論 |關聯",
+          "title_en": "anyCreature by Gobkit"
+        },
+        {
+          "title": "ChatGPT 青少年版 (ChatGPT for Teens)",
+          "link": "https://www.producthunt.com/products/openai",
+          "desc": "ChatGPT，為青少年打造不同的討論 |關聯",
+          "title_en": "ChatGPT for Teens"
+        },
+        {
+          "title": "Claude水印去除劑 (Claude Watermark Remover)",
+          "link": "https://www.producthunt.com/products/claude-watermark",
+          "desc": "尋找並刪除人工智慧在文字中留下的所有痕跡關聯",
+          "title_en": "Claude Watermark Remover"
+        },
+        {
+          "title": "Fairphone Gen 6+",
+          "link": "https://www.producthunt.com/products/fairphone",
+          "desc": "一款可持續使用到 2033 年的模組化手機關聯",
+          "title_en": "Fairphone Gen 6+"
+        },
+        {
+          "title": "抗體 (Antibot)",
+          "link": "https://www.producthunt.com/products/antibot",
+          "desc": "AI 社群管理器可以讓您的 Discord 伺服器大肆宣傳關聯",
+          "title_en": "Antibot"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "谷歌Gemini將建立一個專門的學生中心",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+          "summary": "在我們為返校季做準備之際，Google 正在 Gemini 推出一個新的專用學生中心。這是一個單…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 踩了煞車。現在怎麼辦？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/982323/openai-hit-brakes-voluntary-pacing-ai",
+          "summary": "隨著 IPO 的臨近、來自 Anthropic 的激烈競爭以及中國和開放重量級競爭對手的緊隨其後，OpenAI …",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 尋求透過新的客戶隱私保護來超越 Anthropic",
+          "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+          "summary": "OpenAI 和 Anthropic 之間正在進行一場競賽，看誰能為企業提供最好的隱私保護…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "谷歌Gemini將建立一個專門的學生中心",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub",
+        "summary": "在我們為返校季做準備之際，Google 正在 Gemini 推出一個新的專用學生中心。這是一個單…",
         "source": "The Verge"
       },
       "steve_ideas": []
