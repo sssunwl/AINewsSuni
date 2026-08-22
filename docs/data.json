@@ -1,114 +1,109 @@
 {
-  "updated": "2026-08-21 10:21 HKT",
+  "updated": "2026-08-22 10:13 HKT",
   "news": [
     {
-      "title": "Google Discover 正在獲得人工智慧聊天機器人調整的提要",
-      "link": "https://www.theverge.com/tech/983088/google-discover-ai-chatbot-feed",
-      "summary": "Google 很快就會讓您透過描述您想要看到的內容來自訂您的 Discover feed。新功能，滾動…",
+      "title": "超過 100 萬人點擊了 LinkedIn 的 AI slop 按鈕",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+      "summary": "LinkedIn 實際上在 7 月 30 日宣布了一個「看起來像 AI slop」按鈕，該公司表示很多人都有…",
       "source": "The Verge"
     },
     {
-      "title": "現在是 Greg Brockman 的 OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "summary": "OpenAI 度過了地獄般的一年。該公司花了幾個月的時間與前聯合創始人埃隆·馬斯克（Elon Musk）在一場轟動的陪審團審判中展開鬥爭…",
+      "title": "YouTube 主要創作者因接受人工智慧資金而面臨強烈反對",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "summary": "在過去的幾天裡，包括 Matti Haapoja 和 Sam“Kold”Kolder 在內的許多著名電影製作內容創作者…",
       "source": "The Verge"
     },
     {
-      "title": "歡迎來到數學領域的人工智慧危機",
-      "link": "https://www.theverge.com/podcast/982434/ai-math-openai-astra-existential-crisis",
-      "summary": "今天，我在 Decoder 上與 The Verge 駐倫敦人工智慧記者 Robert Hart 談論人工智慧對這個領域的影響…",
-      "source": "The Verge"
+      "title": "Anthropic 的 Opus 4.6 是一台色情機器",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "summary": "Anthropic 禁止其Claude模型生成露骨的色情內容。但TechCr進行的一系列測試…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Slack 正在推出協作振動編碼頻道",
-      "link": "https://www.theverge.com/tech/982628/slack-code-vibe-coding-channels-launch",
-      "summary": "Slack 正在引入專用通道，團隊可以在其中與 AI 代理一起進行振動編碼，而不是在不同的地方之間跳躍…",
-      "source": "The Verge"
+      "title": "Nvidia 與資料中心開發商 Cloverleaf 合作",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "summary": "英偉達繼續在資料中心開發上投入資金——就像人工智慧資料中心為英偉達帶來大量資金一樣。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "英偉達剛剛證明，現在真正的英雄是線束，而不是人工智慧模型",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI …",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "美國司法部正在調查 a16z。這對創投意味著什麼？",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "安德森·霍洛維茨 (Andreessen Horowitz) 有兩位合夥人在目前相互競爭的公司董事會中任職：本·霍洛維茨 (Ben Horowitz) ...",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "隨著發射選擇枯竭，Starcloud 為軌道資料中心籌集了 2.5 億美元",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "為了確保進入太空的安全，一場大戰即將爆發。",
+      "source": "TechCrunch"
     },
     {
       "title": "AI 數據新創公司 Micro1 在 AI 培訓熱潮中毛運行率達到 5 億美元",
       "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
       "summary": "對人工智慧訓練資料的需求激增正在推動這家新創公司及其競爭對手的快速成長。",
       "source": "TechCrunch"
-    },
-    {
-      "title": "新數據表明，OpenAI 正在贏得商業用戶的青睞",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "summary": "隨著每個實驗室發布新模型，企業願意來回翻騰，這種波動應該會為兩家公司帶來…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "ChatGPT 現在可以使用新的 Apple Messages 插件為您發送簡訊",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "summary": "曾經希望別人幫你傳簡訊嗎？ ChatGPT 正在透過新的 A...作為自動文字抄寫員提供。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "好吧，我們真的可以用尿液來冷卻資料中心嗎？",
-      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "summary": "賈森凱爾斯開玩笑說，人們應該用尿液而不是飲用水來冷卻資料中心——但他的建議…",
-      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "羅威裡 (Roveri)",
-      "link": "https://www.producthunt.com/products/roveri",
-      "desc": "每次騎乘的 iPhone 騎乘日誌，畫在地圖上 討論 |關聯",
-      "title_en": "Roveri"
+      "title": "當地的 (Local)",
+      "link": "https://www.producthunt.com/products/local-7",
+      "desc": "適用於 Mac 的零（！）摩擦本地 AI 討論 |關聯",
+      "title_en": "Local"
     },
     {
-      "title": "貝爾德 (Berd)",
-      "link": "https://www.producthunt.com/products/berd",
-      "desc": "奇怪、有趣的桌面應用程序，用於與 AI 代理一起構建關聯",
-      "title_en": "Berd"
+      "title": "埃福 (Epho)",
+      "link": "https://www.producthunt.com/products/epho-claude-code-in-the-cloud",
+      "desc": "使用您的儲存庫在雲端中運行 Claude Code、Codex 或 Opencode關聯",
+      "title_en": "Epho"
     },
     {
-      "title": "無人知曉 (NobodyWho)",
-      "link": "https://www.producthunt.com/products/nobodywho",
-      "desc": "在任何裝置上運行人工智慧模型關聯",
-      "title_en": "NobodyWho"
+      "title": "天空計劃 (Project SKY)",
+      "link": "https://www.producthunt.com/products/project-sky",
+      "desc": "您的 Windows 環境 AI 伴侶。討論 |關聯",
+      "title_en": "Project SKY"
     },
     {
-      "title": "MeetStream人工智慧 (MeetStream AI)",
-      "link": "https://www.producthunt.com/products/meetstream-ai",
-      "desc": "Unified API & Infra for AI Meeting Agents Discussion | Link",
-      "title_en": "MeetStream AI"
+      "title": "超新星 (Supernova)",
+      "link": "https://www.producthunt.com/products/supernova-ai",
+      "desc": "您在 Claude 和 Codex 討論中的所有資料 |關聯",
+      "title_en": "Supernova"
     },
     {
-      "title": "比特漂移.ai (bitdrift.ai)",
-      "link": "https://www.producthunt.com/products/bitdrift",
-      "desc": "世界上第一個代理行動觀測平台討論 |關聯",
-      "title_en": "bitdrift.ai"
+      "title": "動作x0 (Actx0)",
+      "link": "https://www.producthunt.com/products/actx0",
+      "desc": "AI 代理的記憶體基礎架構。討論 |關聯",
+      "title_en": "Actx0"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "YouTube 主要創作者因接受人工智慧資金而面臨強烈反對",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+      "summary": "在過去的幾天裡，包括 Matti Haapoja 和 Sam“Kold”Kolder 在內的許多著名電影製作內容創作者…",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "現在是 Greg Brockman 的 OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-      "summary": "OpenAI 度過了地獄般的一年。該公司花了幾個月的時間與前聯合創始人埃隆·馬斯克（Elon Musk）在一場轟動的陪審團審判中展開鬥爭…",
-      "source": "The Verge"
-    },
-    {
-      "title": "新數據表明，OpenAI 正在贏得商業用戶的青睞",
-      "link": "https://techcrunch.com/2026/08/20/openai-is-gaining-on-anthropic-with-business-users-new-data-indicates/",
-      "summary": "隨著每個實驗室發布新模型，企業願意來回翻騰，這種波動應該會為兩家公司帶來…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "ChatGPT 現在可以使用新的 Apple Messages 插件為您發送簡訊",
-      "link": "https://techcrunch.com/2026/08/20/chatgpt-can-now-send-texts-for-you-with-new-apple-messages-plugin/",
-      "summary": "曾經希望別人幫你傳簡訊嗎？ ChatGPT 正在透過新的 A...作為自動文字抄寫員提供。",
+      "title": "Anthropic 的 Opus 4.6 是一台色情機器",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "summary": "Anthropic 禁止其Claude模型生成露骨的色情內容。但TechCr進行的一系列測試…",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "現在是 Greg Brockman 的 OpenAI",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
-    "summary": "OpenAI 度過了地獄般的一年。該公司花了幾個月的時間與前聯合創始人埃隆·馬斯克（Elon Musk）在一場轟動的陪審團審判中展開鬥爭…",
-    "source": "The Verge"
+    "title": "Anthropic 的 Opus 4.6 是一台色情機器",
+    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+    "summary": "Anthropic 禁止其Claude模型生成露骨的色情內容。但TechCr進行的一系列測試…",
+    "source": "TechCrunch"
   },
   "steve_ideas": [],
   "history": {
@@ -8255,6 +8250,114 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/982774/greg-brockman-openai-role-expansion",
         "summary": "OpenAI 度過了地獄般的一年。該公司花了幾個月的時間與前聯合創始人埃隆·馬斯克（Elon Musk）在一場轟動的陪審團審判中展開鬥爭…",
         "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-08-22": {
+      "news": [
+        {
+          "title": "超過 100 萬人點擊了 LinkedIn 的 AI slop 按鈕",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
+          "summary": "LinkedIn 實際上在 7 月 30 日宣布了一個「看起來像 AI slop」按鈕，該公司表示很多人都有…",
+          "source": "The Verge"
+        },
+        {
+          "title": "YouTube 主要創作者因接受人工智慧資金而面臨強烈反對",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+          "summary": "在過去的幾天裡，包括 Matti Haapoja 和 Sam“Kold”Kolder 在內的許多著名電影製作內容創作者…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 的 Opus 4.6 是一台色情機器",
+          "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+          "summary": "Anthropic 禁止其Claude模型生成露骨的色情內容。但TechCr進行的一系列測試…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia 與資料中心開發商 Cloverleaf 合作",
+          "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+          "summary": "英偉達繼續在資料中心開發上投入資金——就像人工智慧資料中心為英偉達帶來大量資金一樣。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "英偉達剛剛證明，現在真正的英雄是線束，而不是人工智慧模型",
+          "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI …",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "美國司法部正在調查 a16z。這對創投意味著什麼？",
+          "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+          "summary": "安德森·霍洛維茨 (Andreessen Horowitz) 有兩位合夥人在目前相互競爭的公司董事會中任職：本·霍洛維茨 (Ben Horowitz) ...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "隨著發射選擇枯竭，Starcloud 為軌道資料中心籌集了 2.5 億美元",
+          "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+          "summary": "為了確保進入太空的安全，一場大戰即將爆發。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI 數據新創公司 Micro1 在 AI 培訓熱潮中毛運行率達到 5 億美元",
+          "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
+          "summary": "對人工智慧訓練資料的需求激增正在推動這家新創公司及其競爭對手的快速成長。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "當地的 (Local)",
+          "link": "https://www.producthunt.com/products/local-7",
+          "desc": "適用於 Mac 的零（！）摩擦本地 AI 討論 |關聯",
+          "title_en": "Local"
+        },
+        {
+          "title": "埃福 (Epho)",
+          "link": "https://www.producthunt.com/products/epho-claude-code-in-the-cloud",
+          "desc": "使用您的儲存庫在雲端中運行 Claude Code、Codex 或 Opencode關聯",
+          "title_en": "Epho"
+        },
+        {
+          "title": "天空計劃 (Project SKY)",
+          "link": "https://www.producthunt.com/products/project-sky",
+          "desc": "您的 Windows 環境 AI 伴侶。討論 |關聯",
+          "title_en": "Project SKY"
+        },
+        {
+          "title": "超新星 (Supernova)",
+          "link": "https://www.producthunt.com/products/supernova-ai",
+          "desc": "您在 Claude 和 Codex 討論中的所有資料 |關聯",
+          "title_en": "Supernova"
+        },
+        {
+          "title": "動作x0 (Actx0)",
+          "link": "https://www.producthunt.com/products/actx0",
+          "desc": "AI 代理的記憶體基礎架構。討論 |關聯",
+          "title_en": "Actx0"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "YouTube 主要創作者因接受人工智慧資金而面臨強烈反對",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
+          "summary": "在過去的幾天裡，包括 Matti Haapoja 和 Sam“Kold”Kolder 在內的許多著名電影製作內容創作者…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Anthropic 的 Opus 4.6 是一台色情機器",
+          "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+          "summary": "Anthropic 禁止其Claude模型生成露骨的色情內容。但TechCr進行的一系列測試…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Anthropic 的 Opus 4.6 是一台色情機器",
+        "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+        "summary": "Anthropic 禁止其Claude模型生成露骨的色情內容。但TechCr進行的一系列測試…",
+        "source": "TechCrunch"
       },
       "steve_ideas": []
     }
