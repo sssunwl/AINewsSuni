@@ -1,108 +1,108 @@
 {
-  "updated": "2026-08-22 10:13 HKT",
+  "updated": "2026-08-23 10:22 HKT",
   "news": [
     {
-      "title": "超過 100 萬人點擊了 LinkedIn 的 AI slop 按鈕",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/983502/linkedin-ai-slop-button-one-million-people-message",
-      "summary": "LinkedIn 實際上在 7 月 30 日宣布了一個「看起來像 AI slop」按鈕，該公司表示很多人都有…",
-      "source": "The Verge"
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "source": "TechCrunch"
     },
     {
-      "title": "YouTube 主要創作者因接受人工智慧資金而面臨強烈反對",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "summary": "在過去的幾天裡，包括 Matti Haapoja 和 Sam“Kold”Kolder 在內的許多著名電影製作內容創作者…",
-      "source": "The Verge"
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific pa…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Anthropic 的 Opus 4.6 是一台色情機器",
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions abou…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "summary": "Anthropic 禁止其Claude模型生成露骨的色情內容。但TechCr進行的一系列測試…",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCr…",
       "source": "TechCrunch"
     },
     {
-      "title": "Nvidia 與資料中心開發商 Cloverleaf 合作",
+      "title": "Nvidia partners with data center developer Cloverleaf",
       "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "summary": "英偉達繼續在資料中心開發上投入資金——就像人工智慧資料中心為英偉達帶來大量資金一樣。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "英偉達剛剛證明，現在真正的英雄是線束，而不是人工智慧模型",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
-      "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI …",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "美國司法部正在調查 a16z。這對創投意味著什麼？",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "安德森·霍洛維茨 (Andreessen Horowitz) 有兩位合夥人在目前相互競爭的公司董事會中任職：本·霍洛維茨 (Ben Horowitz) ...",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "隨著發射選擇枯竭，Starcloud 為軌道資料中心籌集了 2.5 億美元",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "為了確保進入太空的安全，一場大戰即將爆發。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "AI 數據新創公司 Micro1 在 AI 培訓熱潮中毛運行率達到 5 億美元",
-      "link": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom/",
-      "summary": "對人工智慧訓練資料的需求激增正在推動這家新創公司及其競爭對手的快速成長。",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "當地的 (Local)",
-      "link": "https://www.producthunt.com/products/local-7",
-      "desc": "適用於 Mac 的零（！）摩擦本地 AI 討論 |關聯",
-      "title_en": "Local"
+      "title": "SubtitleGenerator",
+      "link": "https://www.producthunt.com/products/subtitlegenerator",
+      "desc": "From video to publish-ready AI subtitles—all in one browser Discussion | Link",
+      "title_en": "SubtitleGenerator"
     },
     {
-      "title": "埃福 (Epho)",
-      "link": "https://www.producthunt.com/products/epho-claude-code-in-the-cloud",
-      "desc": "使用您的儲存庫在雲端中運行 Claude Code、Codex 或 Opencode關聯",
-      "title_en": "Epho"
+      "title": "Port Radar for macOS",
+      "link": "https://www.producthunt.com/products/port-radar-for-macos",
+      "desc": "An AI port manager for your Mac. Discussion | Link",
+      "title_en": "Port Radar for macOS"
     },
     {
-      "title": "天空計劃 (Project SKY)",
-      "link": "https://www.producthunt.com/products/project-sky",
-      "desc": "您的 Windows 環境 AI 伴侶。討論 |關聯",
-      "title_en": "Project SKY"
+      "title": "Zero",
+      "link": "https://www.producthunt.com/products/zero-15",
+      "desc": "Vercel's programming language built for AI agents Discussion | Link",
+      "title_en": "Zero"
     },
     {
-      "title": "超新星 (Supernova)",
-      "link": "https://www.producthunt.com/products/supernova-ai",
-      "desc": "您在 Claude 和 Codex 討論中的所有資料 |關聯",
-      "title_en": "Supernova"
+      "title": "Open Analytics",
+      "link": "https://www.producthunt.com/products/open-analytics-2",
+      "desc": "AI-Native Google Analytics alternative for the modern web Discussion | Link",
+      "title_en": "Open Analytics"
     },
     {
-      "title": "動作x0 (Actx0)",
-      "link": "https://www.producthunt.com/products/actx0",
-      "desc": "AI 代理的記憶體基礎架構。討論 |關聯",
-      "title_en": "Actx0"
+      "title": "Maccess",
+      "link": "https://www.producthunt.com/products/maccess",
+      "desc": "Your Mac, in your pocket — trackpad, screen, and AI Discussion | Link",
+      "title_en": "Maccess"
     }
   ],
-  "suniverse_news": [
+  "suniverse_news": [],
+  "suniverse_tools": [
     {
-      "title": "YouTube 主要創作者因接受人工智慧資金而面臨強烈反對",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/983181/matti-haapoja-sam-kold-kolder-higgsfield-seedance-backlash",
-      "summary": "在過去的幾天裡，包括 Matti Haapoja 和 Sam“Kold”Kolder 在內的許多著名電影製作內容創作者…",
-      "source": "The Verge"
+      "title": "SubtitleGenerator",
+      "link": "https://www.producthunt.com/products/subtitlegenerator",
+      "desc": "From video to publish-ready AI subtitles—all in one browser Discussion | Link",
+      "title_en": "SubtitleGenerator"
     }
   ],
-  "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic 的 Opus 4.6 是一台色情機器",
+      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific pa…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI says California should strengthen its AI safety bill",
+      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
       "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "summary": "Anthropic 禁止其Claude模型生成露骨的色情內容。但TechCr進行的一系列測試…",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCr…",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Anthropic 的 Opus 4.6 是一台色情機器",
-    "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-    "summary": "Anthropic 禁止其Claude模型生成露骨的色情內容。但TechCr進行的一系列測試…",
+    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific pa…",
     "source": "TechCrunch"
   },
   "steve_ideas": [],
@@ -8357,6 +8357,114 @@
         "title": "Anthropic 的 Opus 4.6 是一台色情機器",
         "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
         "summary": "Anthropic 禁止其Claude模型生成露骨的色情內容。但TechCr進行的一系列測試…",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-08-23": {
+      "news": [
+        {
+          "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+          "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
+          "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+          "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+          "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific pa…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI says California should strengthen its AI safety bill",
+          "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+          "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+          "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+          "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions abou…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic’s Opus 4.6 is a smut-machine",
+          "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+          "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCr…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia partners with data center developer Cloverleaf",
+          "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+          "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "SubtitleGenerator",
+          "link": "https://www.producthunt.com/products/subtitlegenerator",
+          "desc": "From video to publish-ready AI subtitles—all in one browser Discussion | Link",
+          "title_en": "SubtitleGenerator"
+        },
+        {
+          "title": "Port Radar for macOS",
+          "link": "https://www.producthunt.com/products/port-radar-for-macos",
+          "desc": "An AI port manager for your Mac. Discussion | Link",
+          "title_en": "Port Radar for macOS"
+        },
+        {
+          "title": "Zero",
+          "link": "https://www.producthunt.com/products/zero-15",
+          "desc": "Vercel's programming language built for AI agents Discussion | Link",
+          "title_en": "Zero"
+        },
+        {
+          "title": "Open Analytics",
+          "link": "https://www.producthunt.com/products/open-analytics-2",
+          "desc": "AI-Native Google Analytics alternative for the modern web Discussion | Link",
+          "title_en": "Open Analytics"
+        },
+        {
+          "title": "Maccess",
+          "link": "https://www.producthunt.com/products/maccess",
+          "desc": "Your Mac, in your pocket — trackpad, screen, and AI Discussion | Link",
+          "title_en": "Maccess"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [
+        {
+          "title": "SubtitleGenerator",
+          "link": "https://www.producthunt.com/products/subtitlegenerator",
+          "desc": "From video to publish-ready AI subtitles—all in one browser Discussion | Link",
+          "title_en": "SubtitleGenerator"
+        }
+      ],
+      "major": [
+        {
+          "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+          "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+          "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific pa…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI says California should strengthen its AI safety bill",
+          "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+          "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic’s Opus 4.6 is a smut-machine",
+          "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+          "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCr…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+        "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+        "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific pa…",
         "source": "TechCrunch"
       },
       "steve_ideas": []
