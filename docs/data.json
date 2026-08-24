@@ -1,108 +1,70 @@
 {
-  "updated": "2026-08-23 10:22 HKT",
+  "updated": "2026-08-24 10:20 HKT",
   "news": [
     {
-      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
-      "link": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors/",
-      "summary": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
       "source": "TechCrunch"
     },
     {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific pa…",
+      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner…",
       "source": "TechCrunch"
     },
     {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
       "source": "TechCrunch"
     },
     {
-      "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
-      "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
-      "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions abou…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCr…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Nvidia partners with data center developer Cloverleaf",
-      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
-      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools tha…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "SubtitleGenerator",
-      "link": "https://www.producthunt.com/products/subtitlegenerator",
-      "desc": "From video to publish-ready AI subtitles—all in one browser Discussion | Link",
-      "title_en": "SubtitleGenerator"
+      "title": "Yattayo",
+      "link": "https://www.producthunt.com/products/yattayo",
+      "desc": "A physical slider to-do board, faithfully rebuilt in 3D Discussion | Link",
+      "title_en": "Yattayo"
     },
     {
-      "title": "Port Radar for macOS",
-      "link": "https://www.producthunt.com/products/port-radar-for-macos",
-      "desc": "An AI port manager for your Mac. Discussion | Link",
-      "title_en": "Port Radar for macOS"
+      "title": "Local Music Organizer for Mac",
+      "link": "https://www.producthunt.com/products/local-music-organizer-for-mac",
+      "desc": "Ultimate toolkit for local Apple Music library maintenance Discussion | Link",
+      "title_en": "Local Music Organizer for Mac"
     },
     {
-      "title": "Zero",
-      "link": "https://www.producthunt.com/products/zero-15",
-      "desc": "Vercel's programming language built for AI agents Discussion | Link",
-      "title_en": "Zero"
+      "title": "Claude Academy",
+      "link": "https://www.producthunt.com/products/claude-academy",
+      "desc": "The Official Learning Hub by Anthropic Discussion | Link",
+      "title_en": "Claude Academy"
     },
     {
-      "title": "Open Analytics",
-      "link": "https://www.producthunt.com/products/open-analytics-2",
-      "desc": "AI-Native Google Analytics alternative for the modern web Discussion | Link",
-      "title_en": "Open Analytics"
+      "title": "FetchSandbox MCP",
+      "link": "https://www.producthunt.com/products/fetchsandbox",
+      "desc": "The MCP that proves your AI's integration fixes work Discussion | Link",
+      "title_en": "FetchSandbox MCP"
     },
     {
-      "title": "Maccess",
-      "link": "https://www.producthunt.com/products/maccess",
-      "desc": "Your Mac, in your pocket — trackpad, screen, and AI Discussion | Link",
-      "title_en": "Maccess"
+      "title": "Construct Computer",
+      "link": "https://www.producthunt.com/products/construct-computer",
+      "desc": "Your AI coworker gets a computer. You get your day back. Discussion | Link",
+      "title_en": "Construct Computer"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [
-    {
-      "title": "SubtitleGenerator",
-      "link": "https://www.producthunt.com/products/subtitlegenerator",
-      "desc": "From video to publish-ready AI subtitles—all in one browser Discussion | Link",
-      "title_en": "SubtitleGenerator"
-    }
-  ],
-  "major": [
-    {
-      "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-      "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-      "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific pa…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI says California should strengthen its AI safety bill",
-      "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-      "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic’s Opus 4.6 is a smut-machine",
-      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
-      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCr…",
-      "source": "TechCrunch"
-    }
-  ],
+  "suniverse_tools": [],
+  "major": [],
   "pick": {
-    "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
-    "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
-    "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific pa…",
+    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+    "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
     "source": "TechCrunch"
   },
   "steve_ideas": [],
@@ -8465,6 +8427,76 @@
         "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
         "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
         "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific pa…",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-08-24": {
+      "news": [
+        {
+          "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+          "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+          "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+          "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+          "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+          "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+          "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+          "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+          "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools tha…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Yattayo",
+          "link": "https://www.producthunt.com/products/yattayo",
+          "desc": "A physical slider to-do board, faithfully rebuilt in 3D Discussion | Link",
+          "title_en": "Yattayo"
+        },
+        {
+          "title": "Local Music Organizer for Mac",
+          "link": "https://www.producthunt.com/products/local-music-organizer-for-mac",
+          "desc": "Ultimate toolkit for local Apple Music library maintenance Discussion | Link",
+          "title_en": "Local Music Organizer for Mac"
+        },
+        {
+          "title": "Claude Academy",
+          "link": "https://www.producthunt.com/products/claude-academy",
+          "desc": "The Official Learning Hub by Anthropic Discussion | Link",
+          "title_en": "Claude Academy"
+        },
+        {
+          "title": "FetchSandbox MCP",
+          "link": "https://www.producthunt.com/products/fetchsandbox",
+          "desc": "The MCP that proves your AI's integration fixes work Discussion | Link",
+          "title_en": "FetchSandbox MCP"
+        },
+        {
+          "title": "Construct Computer",
+          "link": "https://www.producthunt.com/products/construct-computer",
+          "desc": "Your AI coworker gets a computer. You get your day back. Discussion | Link",
+          "title_en": "Construct Computer"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [],
+      "pick": {
+        "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+        "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+        "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
         "source": "TechCrunch"
       },
       "steve_ideas": []
