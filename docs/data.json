@@ -1,70 +1,108 @@
 {
-  "updated": "2026-08-24 10:20 HKT",
+  "updated": "2026-08-25 10:16 HKT",
   "news": [
     {
-      "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-      "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-      "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+      "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+      "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversi…",
       "source": "TechCrunch"
     },
     {
-      "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
-      "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
-      "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner…",
+      "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+      "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+      "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price o…",
       "source": "TechCrunch"
     },
     {
-      "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
-      "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
-      "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+      "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's …",
       "source": "TechCrunch"
     },
     {
-      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
-      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
-      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools tha…",
+      "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+      "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+      "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ab…",
       "source": "TechCrunch"
+    },
+    {
+      "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+      "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space a…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hugging Face reportedly in talks to be acquired for $13B",
+      "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the f…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "How to encourage smarter AI use in the classroom",
+      "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+      "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across i…",
+      "source": "MIT Tech"
     }
   ],
   "tools": [
     {
-      "title": "Yattayo",
-      "link": "https://www.producthunt.com/products/yattayo",
-      "desc": "A physical slider to-do board, faithfully rebuilt in 3D Discussion | Link",
-      "title_en": "Yattayo"
+      "title": "Navigara",
+      "link": "https://www.producthunt.com/products/navigara",
+      "desc": "Connect Your AI Spend Directly to Your Roadmap Discussion | Link",
+      "title_en": "Navigara"
     },
     {
-      "title": "Local Music Organizer for Mac",
-      "link": "https://www.producthunt.com/products/local-music-organizer-for-mac",
-      "desc": "Ultimate toolkit for local Apple Music library maintenance Discussion | Link",
-      "title_en": "Local Music Organizer for Mac"
+      "title": "Lucid Train",
+      "link": "https://www.producthunt.com/products/lucid-train",
+      "desc": "Build system design for new and existing codebase Discussion | Link",
+      "title_en": "Lucid Train"
     },
     {
-      "title": "Claude Academy",
-      "link": "https://www.producthunt.com/products/claude-academy",
-      "desc": "The Official Learning Hub by Anthropic Discussion | Link",
-      "title_en": "Claude Academy"
+      "title": "Trama",
+      "link": "https://www.producthunt.com/products/trama-mac-automation-in-plain-language",
+      "desc": "Create macOS native automations using plain language Discussion | Link",
+      "title_en": "Trama"
     },
     {
-      "title": "FetchSandbox MCP",
-      "link": "https://www.producthunt.com/products/fetchsandbox",
-      "desc": "The MCP that proves your AI's integration fixes work Discussion | Link",
-      "title_en": "FetchSandbox MCP"
+      "title": "Decawork",
+      "link": "https://www.producthunt.com/products/decawork",
+      "desc": "Control your company's internal AI agents and tools Discussion | Link",
+      "title_en": "Decawork"
     },
     {
-      "title": "Construct Computer",
-      "link": "https://www.producthunt.com/products/construct-computer",
-      "desc": "Your AI coworker gets a computer. You get your day back. Discussion | Link",
-      "title_en": "Construct Computer"
+      "title": "Dropstone",
+      "link": "https://www.producthunt.com/products/dropstone-2",
+      "desc": "The AI runtime that remembers, learns, and acts everywhere Discussion | Link",
+      "title_en": "Dropstone"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [],
-  "major": [],
+  "suniverse_tools": [
+    {
+      "title": "Lucid Train",
+      "link": "https://www.producthunt.com/products/lucid-train",
+      "desc": "Build system design for new and existing codebase Discussion | Link",
+      "title_en": "Lucid Train"
+    }
+  ],
+  "major": [
+    {
+      "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+      "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+      "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+      "source": "TechCrunch"
+    }
+  ],
   "pick": {
-    "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
-    "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
-    "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+    "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+    "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+    "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
     "source": "TechCrunch"
   },
   "steve_ideas": [],
@@ -8497,6 +8535,114 @@
         "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
         "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
         "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-08-25": {
+      "news": [
+        {
+          "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+          "link": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+          "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversi…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Trump bought SpaceX shares two weeks after blockbuster IPO",
+          "link": "https://techcrunch.com/2026/08/24/trump-bought-spacex-shares-two-weeks-after-blockbuster-ipo/",
+          "summary": "The president bought when the stock was in the mid-$150 range. SpaceX finished trading on Monday back at its IPO price o…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+          "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's …",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+          "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+          "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ab…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
+          "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+          "summary": "General Intuition, the startup building a foundation model that trains generalized AI agents how to move through space a…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+          "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hugging Face reportedly in talks to be acquired for $13B",
+          "link": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+          "summary": "Hugging Face has reportedly been fielding acquisition offers that would value the company at around $13B. But with the f…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "How to encourage smarter AI use in the classroom",
+          "link": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies/",
+          "summary": "This article is from Making AI Work, MIT Technology Review’s limited-run newsletter examining how to apply LLMs across i…",
+          "source": "MIT Tech"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Navigara",
+          "link": "https://www.producthunt.com/products/navigara",
+          "desc": "Connect Your AI Spend Directly to Your Roadmap Discussion | Link",
+          "title_en": "Navigara"
+        },
+        {
+          "title": "Lucid Train",
+          "link": "https://www.producthunt.com/products/lucid-train",
+          "desc": "Build system design for new and existing codebase Discussion | Link",
+          "title_en": "Lucid Train"
+        },
+        {
+          "title": "Trama",
+          "link": "https://www.producthunt.com/products/trama-mac-automation-in-plain-language",
+          "desc": "Create macOS native automations using plain language Discussion | Link",
+          "title_en": "Trama"
+        },
+        {
+          "title": "Decawork",
+          "link": "https://www.producthunt.com/products/decawork",
+          "desc": "Control your company's internal AI agents and tools Discussion | Link",
+          "title_en": "Decawork"
+        },
+        {
+          "title": "Dropstone",
+          "link": "https://www.producthunt.com/products/dropstone-2",
+          "desc": "The AI runtime that remembers, learns, and acts everywhere Discussion | Link",
+          "title_en": "Dropstone"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [
+        {
+          "title": "Lucid Train",
+          "link": "https://www.producthunt.com/products/lucid-train",
+          "desc": "Build system design for new and existing codebase Discussion | Link",
+          "title_en": "Lucid Train"
+        }
+      ],
+      "major": [
+        {
+          "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+          "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+          "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI is building AI agents for everything. Will everyone use them?",
+        "link": "https://techcrunch.com/2026/08/24/openai-is-building-an-ai-agent-for-everything-will-everyone-use-them/",
+        "summary": "Inside the frontier lab’s push to bring AI agents from software engineers to the masses.",
         "source": "TechCrunch"
       },
       "steve_ideas": []
