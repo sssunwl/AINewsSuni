@@ -1,126 +1,113 @@
 {
-  "updated": "2026-08-26 10:22 HKT",
+  "updated": "2026-08-27 18:52 HKT",
   "news": [
     {
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI syste…",
+      "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+      "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+      "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company t…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agen…",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet…",
       "source": "The Verge"
     },
     {
-      "title": "Robotics startup Generalist reaches $3B valuation, sources say",
-      "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
-      "summary": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and mor…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+      "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI op…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+      "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would…",
       "source": "TechCrunch"
     },
     {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from Presiden…",
+      "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+      "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+      "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring pri…",
       "source": "TechCrunch"
     },
     {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "summary": "The company's new fundraising total now stands at $232 million.",
+      "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+      "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+      "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partn…",
       "source": "TechCrunch"
     },
     {
-      "title": "Claude Cowork finally remembers what you told the app in chat",
-      "link": "https://techcrunch.com/2026/08/25/claude-cowork-finally-remembers-what-you-told-the-app-in-chat/",
-      "summary": "Anthropic is giving Claude a shared memory across chat and Cowork, so users no longer have to repeatedly brief the AI on…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Gamma acquires Accel-backed design startup Lica",
-      "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-      "summary": "Lica co-founders are going to work on Gamma's new research team.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "link": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/",
-      "summary": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilo…",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Ninjō AI",
-      "link": "https://www.producthunt.com/products/ninjo-ai",
-      "desc": "AI sales agents on any channel that runs from Claude Code Discussion | Link",
-      "title_en": "Ninjō AI"
+      "title": "Lenz",
+      "link": "https://www.producthunt.com/products/lenz-2",
+      "desc": "Independent, multi-model fact-checking API for AI workflows Discussion | Link",
+      "title_en": "Lenz"
     },
     {
-      "title": "ChatGPT Ad Library",
-      "link": "https://www.producthunt.com/products/chatgpt-ad-library",
-      "desc": "See every ad running inside ChatGPT Discussion | Link",
-      "title_en": "ChatGPT Ad Library"
+      "title": "Ojin",
+      "link": "https://www.producthunt.com/products/ojin",
+      "desc": "Talk to an AI Agent with a real face and voice, in real time Discussion | Link",
+      "title_en": "Ojin"
     },
     {
-      "title": "Agnost AI",
-      "link": "https://www.producthunt.com/products/agnost-ai",
-      "desc": "Catch agent failures your evals miss Discussion | Link",
-      "title_en": "Agnost AI"
+      "title": "IQ Routing",
+      "link": "https://www.producthunt.com/products/iq-routing",
+      "desc": "Trajectory-aware LLM routing that cuts agent cost Discussion | Link",
+      "title_en": "IQ Routing"
     },
     {
-      "title": "Diet Claude",
-      "link": "https://www.producthunt.com/products/diet-claude",
-      "desc": "Never get blindsided by Claude's usage limits again Discussion | Link",
-      "title_en": "Diet Claude"
+      "title": "Wondering Canvas",
+      "link": "https://www.producthunt.com/products/wondering-2",
+      "desc": "Visual ChatGPT in Parallel Discussion | Link",
+      "title_en": "Wondering Canvas"
     },
     {
-      "title": "session-indexer",
-      "link": "https://www.producthunt.com/products/session-indexer",
-      "desc": "Semantic search over your own Claude Code session history Discussion | Link",
-      "title_en": "session-indexer"
+      "title": "Ticket Fairy CLI",
+      "link": "https://www.producthunt.com/products/the-ticket-fairy",
+      "desc": "Ticket Fairy event ticketing CLI & MCP server Discussion | Link",
+      "title_en": "Ticket Fairy CLI"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
-      "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
-      "summary": "The company's new fundraising total now stands at $232 million.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Gamma acquires Accel-backed design startup Lica",
-      "link": "https://techcrunch.com/2026/08/25/gamma-acquires-accel-backed-design-startup-lica/",
-      "summary": "Lica co-founders are going to work on Gamma's new research team.",
-      "source": "TechCrunch"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-      "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI syste…",
+      "title": "OpenAI’s rogue AI model incident was worse than we thought",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+      "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack",
-      "summary": "Alabama's attorney general issued a subpoena to OpenAI on Monday as part of an investigation into how one of its AI agen…",
+      "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+      "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+      "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and mor…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
-      "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
-      "summary": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from Presiden…",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
-    "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI syste…",
+    "title": "OpenAI’s rogue AI model incident was worse than we thought",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+    "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -8787,6 +8774,119 @@
         "title": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
         "link": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks",
         "summary": "OpenAI says its new AI chip, Jalapeño, completes tasks more efficiently and returns responses faster than other AI syste…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-08-27": {
+      "news": [
+        {
+          "title": "Nvidia is about to be a hundred-billion-dollar-a-quarter company",
+          "link": "https://www.theverge.com/tech/985387/nvidia-hundred-billion-dollar-quarterly-revenue",
+          "summary": "Nvidia's predicting it will pull in $108 billion in revenue within just a few months. It wouldn't be the first company t…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI’s rogue AI model incident was worse than we thought",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+          "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+          "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+          "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and mor…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Bill Gates is deeply worried about AI, and he’s no longer staying quiet",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/984923/bill-gates-is-deeply-worried-about-ai-and-hes-no-longer-staying-quiet",
+          "summary": "Bill Gates has been reflecting a lot on AI lately, and the process has triggered a stark awakening. Once a staunch AI op…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Nvidia closes in on Hugging Face acquisition",
+          "link": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition/",
+          "summary": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Viral AI startup Instinct has raised $350M at a $2.5B valuation",
+          "link": "https://techcrunch.com/2026/08/26/viral-ai-startup-instinct-has-raised-350-million-at-a-2-5-billion-valuation/",
+          "summary": "The startup is only a year old but it has already generated a massive amount of hype (and money) while also spurring pri…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+          "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+          "summary": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partn…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+          "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+          "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Lenz",
+          "link": "https://www.producthunt.com/products/lenz-2",
+          "desc": "Independent, multi-model fact-checking API for AI workflows Discussion | Link",
+          "title_en": "Lenz"
+        },
+        {
+          "title": "Ojin",
+          "link": "https://www.producthunt.com/products/ojin",
+          "desc": "Talk to an AI Agent with a real face and voice, in real time Discussion | Link",
+          "title_en": "Ojin"
+        },
+        {
+          "title": "IQ Routing",
+          "link": "https://www.producthunt.com/products/iq-routing",
+          "desc": "Trajectory-aware LLM routing that cuts agent cost Discussion | Link",
+          "title_en": "IQ Routing"
+        },
+        {
+          "title": "Wondering Canvas",
+          "link": "https://www.producthunt.com/products/wondering-2",
+          "desc": "Visual ChatGPT in Parallel Discussion | Link",
+          "title_en": "Wondering Canvas"
+        },
+        {
+          "title": "Ticket Fairy CLI",
+          "link": "https://www.producthunt.com/products/the-ticket-fairy",
+          "desc": "Ticket Fairy event ticketing CLI & MCP server Discussion | Link",
+          "title_en": "Ticket Fairy CLI"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI’s rogue AI model incident was worse than we thought",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+          "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;",
+          "link": "https://www.theverge.com/tech/985186/google-gemini-3-5-transcribe-audio-ai",
+          "summary": "Google has updated Gemini Audio with new transcription capabilities that automatically detect specialized jargon and mor…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+          "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+          "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI’s rogue AI model incident was worse than we thought",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/985385/openais-rogue-ai-model-hugging-face-cybersecurity-incident-reports-metr",
+        "summary": "In July, an unreleased OpenAI model broke out of a restricted environment, figured out how to get access to the internet…",
         "source": "The Verge"
       },
       "steve_ideas": []
