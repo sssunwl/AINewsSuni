@@ -1,127 +1,114 @@
 {
-  "updated": "2026-08-28 20:28 HKT",
+  "updated": "2026-08-29 15:38 HKT",
   "news": [
     {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, deliver…",
+      "title": "川普的環保署希望讓資料中心隱藏空氣污染",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+      "summary": "正如新資料中心面臨鄰近社區日益強烈的反對一樣，美國環保署 (EPA...",
       "source": "The Verge"
     },
     {
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert …",
-      "source": "The Verge"
-    },
-    {
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "summary": "On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech…",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI&#8217;s executive exodus has one big winner",
-      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-      "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endle…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
-      "link": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
-      "summary": "Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just unde…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Plaud is launching AI earbuds",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only thi…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Adobe is adding more AI to Photoshop",
-      "link": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-      "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "summary": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
+      "title": "Neocloud Lambda 獲得 10 億美元債務以購買更多晶片",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "summary": "Neocloud Lambda 已籌集 10 億美元私人債務來購買 Nvidia AI 晶片並將其出租給微軟。這是最新的…",
       "source": "TechCrunch"
+    },
+    {
+      "title": "一位人類研究人員剛剛讓我們了解了自我改進的人工智慧",
+      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+      "summary": "給定針對特定失調行為的 10 個基準，自動化系統能夠提高每個方面的效能…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+      "summary": "There's a lot of capital pouring into the business of giving models away.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Anthropic 首次在法庭上擊敗五角大廈的供應鏈風險標籤",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "summary": "一名聯邦法官裁定川普政府非法地將 Anthropic 貼上供應鏈風險的標籤，並給予這家人工智慧公司…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "由於社群媒體巨頭在印度面臨越來越嚴格的審查，Meta 高層離職前往 OpenAI",
+      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "summary": "Sandhya Devanathan 在新職位上將負責監督東南亞和澳洲的一些 OpenAI 業務。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "下載：一種秘密的抗衰老藥物和加入虛擬發電廠",
+      "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
+      "source": "MIT Tech"
+    },
+    {
+      "title": "How to sign up for a virtual power plant—and decide whether you should",
+      "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+      "summary": "《麻省理工学院技术评论》的“操作方法”系列可帮助您完成工作。您的恆溫器可能看起來不像發電廠。都没有……",
+      "source": "MIT Tech"
     }
   ],
   "tools": [
     {
-      "title": "Almanac",
-      "link": "https://www.producthunt.com/products/almanac-5",
-      "desc": "The agent with a second brain Discussion | Link",
-      "title_en": "Almanac"
+      "title": "連貫解析 5 (Cohere Parse 5)",
+      "link": "https://www.producthunt.com/products/cohere-2",
+      "desc": "將複雜的文件、表格和圖像轉化為人工智慧就緒的資料關聯",
+      "title_en": "Cohere Parse 5"
     },
     {
-      "title": "SuperIntern",
-      "link": "https://www.producthunt.com/products/super-intern-4",
-      "desc": "Your email and meeting assistant, inside your chat apps Discussion | Link",
-      "title_en": "SuperIntern"
-    },
-    {
-      "title": "CTRL Micro",
+      "title": "CTRL微 (CTRL Micro)",
       "link": "https://www.producthunt.com/products/ctrl-micro",
-      "desc": "Haptic control deck for your Mac and AI agents Discussion | Link",
+      "desc": "適用於 Mac 和 AI 代理程式的觸覺控制平台關聯",
       "title_en": "CTRL Micro"
     },
     {
-      "title": "screenpipe",
-      "link": "https://www.producthunt.com/products/screenpipe",
-      "desc": "AI that records your computer work to power agents. Discussion | Link",
-      "title_en": "screenpipe"
+      "title": "超級實習生 (SuperIntern)",
+      "link": "https://www.producthunt.com/products/super-intern-4",
+      "desc": "您的電子郵件和會議助手，位於您的聊天應用程式中關聯",
+      "title_en": "SuperIntern"
     },
     {
       "title": "Aramb",
       "link": "https://www.producthunt.com/products/aramb",
-      "desc": "Build, launch and monetize your AI agents in 20 minutes Discussion | Link",
+      "desc": "在 20 分鐘內建立、啟動您的 AI 代理並從中獲利關聯",
       "title_en": "Aramb"
-    }
-  ],
-  "suniverse_news": [
-    {
-      "title": "Plaud is launching AI earbuds",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-      "summary": "Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only thi…",
-      "source": "The Verge"
     },
     {
-      "title": "Adobe is adding more AI to Photoshop",
-      "link": "https://www.theverge.com/tech/985491/adobe-photoshop-ai-assisted-editor-markup",
-      "summary": "Adobe is rolling out an AI-heavy update for Photoshop that includes a new \"optional\" interface dedicated to its AI tools…",
-      "source": "The Verge"
+      "title": "小鴨子 (Microduck)",
+      "link": "https://www.producthunt.com/products/hugging-face",
+      "desc": "一個可以訓練自己的小型開源兩足動物 討論 |關聯",
+      "title_en": "Microduck"
     }
   ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-      "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, deliver…",
-      "source": "The Verge"
+      "title": "Neocloud Lambda 獲得 10 億美元債務以購買更多晶片",
+      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+      "summary": "Neocloud Lambda 已籌集 10 億美元私人債務來購買 Nvidia AI 晶片並將其出租給微軟。這是最新的…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "link": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "summary": "Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert …",
-      "source": "The Verge"
+      "title": "Anthropic 首次在法庭上擊敗五角大廈的供應鏈風險標籤",
+      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+      "summary": "一名聯邦法官裁定川普政府非法地將 Anthropic 貼上供應鏈風險的標籤，並給予這家人工智慧公司…",
+      "source": "TechCrunch"
     },
     {
-      "title": "OpenAI&#8217;s executive exodus has one big winner",
-      "link": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-      "summary": "Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endle…",
-      "source": "The Verge"
+      "title": "由於社群媒體巨頭在印度面臨越來越嚴格的審查，Meta 高層離職前往 OpenAI",
+      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+      "summary": "Sandhya Devanathan 在新職位上將負責監督東南亞和澳洲的一些 OpenAI 業務。",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
-    "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, deliver…",
-    "source": "The Verge"
+    "title": "Neocloud Lambda 獲得 10 億美元債務以購買更多晶片",
+    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+    "summary": "Neocloud Lambda 已籌集 10 億美元私人債務來購買 Nvidia AI 晶片並將其出租給微軟。這是最新的…",
+    "source": "TechCrunch"
   },
   "steve_ideas": [],
   "history": {
@@ -9027,6 +9014,119 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
         "summary": "On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, deliver…",
         "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-08-29": {
+      "news": [
+        {
+          "title": "川普的環保署希望讓資料中心隱藏空氣污染",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
+          "summary": "正如新資料中心面臨鄰近社區日益強烈的反對一樣，美國環保署 (EPA...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Neocloud Lambda 獲得 10 億美元債務以購買更多晶片",
+          "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+          "summary": "Neocloud Lambda 已籌集 10 億美元私人債務來購買 Nvidia AI 晶片並將其出租給微軟。這是最新的…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "一位人類研究人員剛剛讓我們了解了自我改進的人工智慧",
+          "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+          "summary": "給定針對特定失調行為的 10 個基準，自動化系統能夠提高每個方面的效能…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
+          "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+          "summary": "There's a lot of capital pouring into the business of giving models away.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic 首次在法庭上擊敗五角大廈的供應鏈風險標籤",
+          "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+          "summary": "一名聯邦法官裁定川普政府非法地將 Anthropic 貼上供應鏈風險的標籤，並給予這家人工智慧公司…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "由於社群媒體巨頭在印度面臨越來越嚴格的審查，Meta 高層離職前往 OpenAI",
+          "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+          "summary": "Sandhya Devanathan 在新職位上將負責監督東南亞和澳洲的一些 OpenAI 業務。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "下載：一種秘密的抗衰老藥物和加入虛擬發電廠",
+          "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
+          "source": "MIT Tech"
+        },
+        {
+          "title": "How to sign up for a virtual power plant—and decide whether you should",
+          "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
+          "summary": "《麻省理工学院技术评论》的“操作方法”系列可帮助您完成工作。您的恆溫器可能看起來不像發電廠。都没有……",
+          "source": "MIT Tech"
+        }
+      ],
+      "tools": [
+        {
+          "title": "連貫解析 5 (Cohere Parse 5)",
+          "link": "https://www.producthunt.com/products/cohere-2",
+          "desc": "將複雜的文件、表格和圖像轉化為人工智慧就緒的資料關聯",
+          "title_en": "Cohere Parse 5"
+        },
+        {
+          "title": "CTRL微 (CTRL Micro)",
+          "link": "https://www.producthunt.com/products/ctrl-micro",
+          "desc": "適用於 Mac 和 AI 代理程式的觸覺控制平台關聯",
+          "title_en": "CTRL Micro"
+        },
+        {
+          "title": "超級實習生 (SuperIntern)",
+          "link": "https://www.producthunt.com/products/super-intern-4",
+          "desc": "您的電子郵件和會議助手，位於您的聊天應用程式中關聯",
+          "title_en": "SuperIntern"
+        },
+        {
+          "title": "Aramb",
+          "link": "https://www.producthunt.com/products/aramb",
+          "desc": "在 20 分鐘內建立、啟動您的 AI 代理並從中獲利關聯",
+          "title_en": "Aramb"
+        },
+        {
+          "title": "小鴨子 (Microduck)",
+          "link": "https://www.producthunt.com/products/hugging-face",
+          "desc": "一個可以訓練自己的小型開源兩足動物 討論 |關聯",
+          "title_en": "Microduck"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Neocloud Lambda 獲得 10 億美元債務以購買更多晶片",
+          "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+          "summary": "Neocloud Lambda 已籌集 10 億美元私人債務來購買 Nvidia AI 晶片並將其出租給微軟。這是最新的…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic 首次在法庭上擊敗五角大廈的供應鏈風險標籤",
+          "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
+          "summary": "一名聯邦法官裁定川普政府非法地將 Anthropic 貼上供應鏈風險的標籤，並給予這家人工智慧公司…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "由於社群媒體巨頭在印度面臨越來越嚴格的審查，Meta 高層離職前往 OpenAI",
+          "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+          "summary": "Sandhya Devanathan 在新職位上將負責監督東南亞和澳洲的一些 OpenAI 業務。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Neocloud Lambda 獲得 10 億美元債務以購買更多晶片",
+        "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
+        "summary": "Neocloud Lambda 已籌集 10 億美元私人債務來購買 Nvidia AI 晶片並將其出租給微軟。這是最新的…",
+        "source": "TechCrunch"
       },
       "steve_ideas": []
     }
