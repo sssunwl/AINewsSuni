@@ -1,114 +1,97 @@
 {
-  "updated": "2026-08-29 15:38 HKT",
+  "updated": "2026-08-30 14:11 HKT",
   "news": [
     {
-      "title": "川普的環保署希望讓資料中心隱藏空氣污染",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-      "summary": "正如新資料中心面臨鄰近社區日益強烈的反對一樣，美國環保署 (EPA...",
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of C…",
       "source": "The Verge"
     },
     {
-      "title": "Neocloud Lambda 獲得 10 億美元債務以購買更多晶片",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "summary": "Neocloud Lambda 已籌集 10 億美元私人債務來購買 Nvidia AI 晶片並將其出租給微軟。這是最新的…",
+      "title": "Musicians-turned-detectives are hunting for AI grifters",
+      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly fil…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "source": "TechCrunch"
     },
     {
-      "title": "一位人類研究人員剛剛讓我們了解了自我改進的人工智慧",
-      "link": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
-      "summary": "給定針對特定失調行為的 10 個基準，自動化系統能夠提高每個方面的效能…",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — …",
       "source": "TechCrunch"
     },
     {
-      "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
-      "link": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
-      "summary": "There's a lot of capital pouring into the business of giving models away.",
+      "title": "Nvidia’s AI advantage is moving beyond the GPU",
+      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more pro…",
       "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic 首次在法庭上擊敗五角大廈的供應鏈風險標籤",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "summary": "一名聯邦法官裁定川普政府非法地將 Anthropic 貼上供應鏈風險的標籤，並給予這家人工智慧公司…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "由於社群媒體巨頭在印度面臨越來越嚴格的審查，Meta 高層離職前往 OpenAI",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "summary": "Sandhya Devanathan 在新職位上將負責監督東南亞和澳洲的一些 OpenAI 業務。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "下載：一種秘密的抗衰老藥物和加入虛擬發電廠",
-      "link": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
-      "source": "MIT Tech"
-    },
-    {
-      "title": "How to sign up for a virtual power plant—and decide whether you should",
-      "link": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-      "summary": "《麻省理工学院技术评论》的“操作方法”系列可帮助您完成工作。您的恆溫器可能看起來不像發電廠。都没有……",
-      "source": "MIT Tech"
     }
   ],
   "tools": [
     {
-      "title": "連貫解析 5 (Cohere Parse 5)",
+      "title": "Cohere Parse 5",
       "link": "https://www.producthunt.com/products/cohere-2",
-      "desc": "將複雜的文件、表格和圖像轉化為人工智慧就緒的資料關聯",
+      "desc": "Turn complex docs, tables & images into AI-ready data Discussion | Link",
       "title_en": "Cohere Parse 5"
     },
     {
-      "title": "CTRL微 (CTRL Micro)",
-      "link": "https://www.producthunt.com/products/ctrl-micro",
-      "desc": "適用於 Mac 和 AI 代理程式的觸覺控制平台關聯",
-      "title_en": "CTRL Micro"
+      "title": "OpenTag",
+      "link": "https://www.producthunt.com/products/opentag",
+      "desc": "AI coworker lives on Slack and Teams Discussion | Link",
+      "title_en": "OpenTag"
     },
     {
-      "title": "超級實習生 (SuperIntern)",
-      "link": "https://www.producthunt.com/products/super-intern-4",
-      "desc": "您的電子郵件和會議助手，位於您的聊天應用程式中關聯",
-      "title_en": "SuperIntern"
+      "title": "screenpipe",
+      "link": "https://www.producthunt.com/products/screenpipe",
+      "desc": "AI that records your computer work to power agents. Discussion | Link",
+      "title_en": "screenpipe"
     },
     {
       "title": "Aramb",
       "link": "https://www.producthunt.com/products/aramb",
-      "desc": "在 20 分鐘內建立、啟動您的 AI 代理並從中獲利關聯",
+      "desc": "Build, launch and monetize your AI agents in 20 minutes Discussion | Link",
       "title_en": "Aramb"
     },
     {
-      "title": "小鴨子 (Microduck)",
-      "link": "https://www.producthunt.com/products/hugging-face",
-      "desc": "一個可以訓練自己的小型開源兩足動物 討論 |關聯",
-      "title_en": "Microduck"
+      "title": "SuperIntern",
+      "link": "https://www.producthunt.com/products/super-intern-4",
+      "desc": "Your email and meeting assistant, inside your chat apps Discussion | Link",
+      "title_en": "SuperIntern"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [],
+  "suniverse_tools": [
+    {
+      "title": "Cohere Parse 5",
+      "link": "https://www.producthunt.com/products/cohere-2",
+      "desc": "Turn complex docs, tables & images into AI-ready data Discussion | Link",
+      "title_en": "Cohere Parse 5"
+    }
+  ],
   "major": [
     {
-      "title": "Neocloud Lambda 獲得 10 億美元債務以購買更多晶片",
-      "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-      "summary": "Neocloud Lambda 已籌集 10 億美元私人債務來購買 Nvidia AI 晶片並將其出租給微軟。這是最新的…",
-      "source": "TechCrunch"
+      "title": "Sony Music and Warner Chappell are suing Anthropic",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of C…",
+      "source": "The Verge"
     },
     {
-      "title": "Anthropic 首次在法庭上擊敗五角大廈的供應鏈風險標籤",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "summary": "一名聯邦法官裁定川普政府非法地將 Anthropic 貼上供應鏈風險的標籤，並給予這家人工智慧公司…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "由於社群媒體巨頭在印度面臨越來越嚴格的審查，Meta 高層離職前往 OpenAI",
-      "link": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
-      "summary": "Sandhya Devanathan 在新職位上將負責監督東南亞和澳洲的一些 OpenAI 業務。",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Neocloud Lambda 獲得 10 億美元債務以購買更多晶片",
-    "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
-    "summary": "Neocloud Lambda 已籌集 10 億美元私人債務來購買 Nvidia AI 晶片並將其出租給微軟。這是最新的…",
-    "source": "TechCrunch"
+    "title": "Sony Music and Warner Chappell are suing Anthropic",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+    "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of C…",
+    "source": "The Verge"
   },
   "steve_ideas": [],
   "history": {
@@ -9127,6 +9110,102 @@
         "link": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
         "summary": "Neocloud Lambda 已籌集 10 億美元私人債務來購買 Nvidia AI 晶片並將其出租給微軟。這是最新的…",
         "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-08-30": {
+      "news": [
+        {
+          "title": "Sony Music and Warner Chappell are suing Anthropic",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+          "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of C…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Musicians-turned-detectives are hunting for AI grifters",
+          "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+          "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly fil…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+          "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+          "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+          "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+          "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — …",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia’s AI advantage is moving beyond the GPU",
+          "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+          "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more pro…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Cohere Parse 5",
+          "link": "https://www.producthunt.com/products/cohere-2",
+          "desc": "Turn complex docs, tables & images into AI-ready data Discussion | Link",
+          "title_en": "Cohere Parse 5"
+        },
+        {
+          "title": "OpenTag",
+          "link": "https://www.producthunt.com/products/opentag",
+          "desc": "AI coworker lives on Slack and Teams Discussion | Link",
+          "title_en": "OpenTag"
+        },
+        {
+          "title": "screenpipe",
+          "link": "https://www.producthunt.com/products/screenpipe",
+          "desc": "AI that records your computer work to power agents. Discussion | Link",
+          "title_en": "screenpipe"
+        },
+        {
+          "title": "Aramb",
+          "link": "https://www.producthunt.com/products/aramb",
+          "desc": "Build, launch and monetize your AI agents in 20 minutes Discussion | Link",
+          "title_en": "Aramb"
+        },
+        {
+          "title": "SuperIntern",
+          "link": "https://www.producthunt.com/products/super-intern-4",
+          "desc": "Your email and meeting assistant, inside your chat apps Discussion | Link",
+          "title_en": "SuperIntern"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [
+        {
+          "title": "Cohere Parse 5",
+          "link": "https://www.producthunt.com/products/cohere-2",
+          "desc": "Turn complex docs, tables & images into AI-ready data Discussion | Link",
+          "title_en": "Cohere Parse 5"
+        }
+      ],
+      "major": [
+        {
+          "title": "Sony Music and Warner Chappell are suing Anthropic",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+          "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of C…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+          "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+          "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Sony Music and Warner Chappell are suing Anthropic",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
+        "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of C…",
+        "source": "The Verge"
       },
       "steve_ideas": []
     }
