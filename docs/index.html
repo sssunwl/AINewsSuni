@@ -167,6 +167,32 @@ a:hover{text-decoration:underline}
   background:rgba(139,92,246,.08);border:1px solid rgba(139,92,246,.2);color:#A78BFA;
 }
 .plink-gh:hover{background:rgba(139,92,246,.16);border-color:rgba(139,92,246,.4);text-decoration:none}
+.plink-lock{
+  background:rgba(255,255,255,.04);border:1px solid var(--bdr);color:var(--muted);cursor:default;
+}
+.proj-intro{
+  font-size:12px;color:var(--sub);line-height:1.7;margin-bottom:22px;
+  padding:12px 14px;border-left:2px solid rgba(0,212,255,.35);
+  background:rgba(0,212,255,.035);border-radius:0 8px 8px 0;
+}
+.proj-intro b{color:var(--text);font-weight:600}
+.pcat{margin:26px 0 12px}
+.pcat:first-of-type{margin-top:4px}
+.pcat-t{
+  font-size:13px;font-weight:600;color:var(--text);
+  display:flex;align-items:center;gap:9px;
+}
+.pcat-n{
+  font-size:11px;font-weight:500;color:var(--cyan);
+  background:rgba(0,212,255,.1);border:1px solid rgba(0,212,255,.22);
+  border-radius:11px;padding:1px 9px;
+}
+.pcat-s{font-size:11px;color:var(--muted);margin-top:3px}
+.proj-tags{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:14px}
+.ptag{
+  font-size:11px;color:var(--sub);background:rgba(255,255,255,.04);
+  border:1px solid var(--bdr);border-radius:6px;padding:2px 9px;
+}
 
 /* ── SUB-TABS (Suniverse) ── */
 .stabs{display:flex;gap:8px;margin-bottom:24px;flex-wrap:wrap}
@@ -576,56 +602,117 @@ document.querySelectorAll('.stab').forEach(b=>{
 });
 
 // ── Projects ──
+// 收錄原則：有「任何人打得開」的網址才上榜。客戶案與私人站只留一句話，不放連結。
 const PROJECTS=[
-  {name:'AINewsSuni — Steve\'s Daily AI Brief',status:'🟢 運行中',
-   desc:'Steve 每日 AI 新聞 + 工具摘要，全繁中翻譯。🚩 Suniverse 應用機會自動標記、📊 大廠動態過濾、💡 Steve 精選。每天 09:00 HKT 自動推送至 @Suniverse_bot，$0/月。',
+  // ── 📡 自動情報（每天自己跑） ──
+  {cat:'auto',name:'AINewsSuni — Steve\'s Daily AI Brief',status:'🟢 運行中',tags:['每日自動','繁中翻譯','Telegram'],
+   desc:'每日 AI 新聞 + 工具摘要，全繁中翻譯。🚩 Suniverse 應用機會自動標記、📊 大廠動態過濾、💡 Steve 精選。每天 09:00 HKT 自動推送至 @Suniverse_bot，$0/月。',
    site:'https://sssunwl.github.io/AINewsSuni/',github:'https://github.com/sssunwl/AINewsSuni'},
-  {name:'InvestUni — 投資學堂',status:'🟢 運行中',
-   desc:'9 Tab 投資學習平台，港/美/台/日/加密幣即時股價。期權策略 13 種 + Canvas 損益圖，K線形態 20+，信號指標，期貨與債券基礎教學。週一至五每天 4 次自動更新數據。',
-   site:'https://sssunwl.github.io/InvestUniS/',github:'https://github.com/sssunwl/InvestUniS'},
-  {name:'weatherLab — 天氣實驗室',status:'🟡 開發中',
-   desc:'天氣預測驗證實驗。Open-Meteo API 爬蟲抓取預報數據，對比實際結果，尋找 Polymarket 天氣市場交易 edge。資料記錄於 Google Sheet。',
-   site:'https://docs.google.com/spreadsheets/d/1u54xWukYo5gQ49PmW6FosYNBfJOepV5o1yaF6_o1Z7M/edit?usp=sharing',github:'https://github.com/sssunwl/weatherLab'},
-  {name:'okinews — 沖繩活動年曆',status:'🟢 運行中',
-   desc:'每日自動爬取沖繩活動（visitokinawa + okinawastory.jp），互動月曆三色圓點標記。「今天是…」系列 58 個沖繩／日本獨有紀念日，附沖繩視角介紹與推薦星數。Telegram 三段推送。',
+  {cat:'auto',name:'OKIPLAYGROUND — 沖繩活動年曆',status:'🟢 運行中',tags:['每日爬蟲','互動年曆','Telegram'],
+   desc:'每日自動爬取沖繩活動（visitokinawa + okinawastory.jp），互動月曆三色圓點標記。「今天是…」系列 58 個沖繩／日本獨有紀念日，附沖繩視角介紹與推薦星數。另有獨立的即時海況／浪況判斷（潛水版與滑浪版兩條邏輯）。',
    site:'https://sssunwl.github.io/okinews/',github:'https://github.com/sssunwl/okinews'},
-  {name:'KujiUniverse — くじ監控平台',status:'🟢 運行中',
-   desc:'監控 10 個日本一番賞品牌（一番くじ / Happyくじ / みんなのくじ 等），多品牌年曆 + 官網主圖展開 + IP 新聞追蹤（航海王／七龍珠／吉伊卡哇等）。每天 09:00 JST Telegram 通知。',
+  {cat:'auto',name:'Kuji宇宙 — 一番賞 × TCG 年曆',status:'🟢 運行中',tags:['多品牌監控','卡牌視圖','Discord'],
+   desc:'監控 10 個日本一番賞品牌（一番くじ / Happyくじ / みんなのくじ 等）與 TCG 新彈，多品牌年曆 + 官網主圖展開 + IP 新聞追蹤（航海王／七龍珠／吉伊卡哇等）。受付期間提醒，每天 09:00 JST 自動通知。',
    site:'https://sssunwl.github.io/kujinews/',github:'https://github.com/sssunwl/kujinews'},
-  {name:'AIofficeSuni — 虛擬辦公室',status:'🟡 開發中',
-   desc:'13 位 Suniverse AI Agent 的 2D 虛擬辦公室。HTML5 Canvas，Limezu Modern Interiors 素材，12 張桌子環形佈局。每 5 分鐘呼叫 Claude API 驅動 Agent 對話腳本，$0 以外只需 Claude API 費用。',
-   site:'https://sssunwl.github.io/AIofficeSuni/',github:'https://github.com/sssunwl/AIofficeSuni'},
-  {name:'SoSolsunday — 旅遊美食平台',status:'🟡 開發中',
-   desc:'Suniverse 旅遊品牌，記錄 SS 十年旅行足跡。沖繩 × 大阪 × 台灣 × 泰國 × 韓國等亞洲精選目的地，美食、景點、體驗完整紀錄。',
+  {cat:'auto',name:'InvestUni — 投資學堂',status:'🟢 運行中',tags:['即時報價','Canvas 圖表','教學'],
+   desc:'9 Tab 投資學習平台，港／美／台／日／加密幣即時股價。期權策略 13 種 + Canvas 損益圖，K線形態 20+，信號指標，期貨與債券基礎教學。週一至五每天 4 次自動更新數據。',
+   site:'https://sssunwl.github.io/InvestUniS/',github:'https://github.com/sssunwl/InvestUniS'},
+  {cat:'auto',name:'SoSolsunday — 旅遊優惠速報',status:'🟡 開發中',tags:['價格聚合','8 城市'],
+   desc:'旅遊活動 + 機酒價格聚合。8 個城市、26 個季節限定活動，每日更新價格，聚焦亞洲短途。',
    site:'https://sssunwl.github.io/sosolsunday/',github:'https://github.com/sssunwl/sosolsunday'},
-  {name:'KakaTools — MaSa 小工具',status:'🟢 運行中',
-   desc:'為 MaSa 物流設計的實用小工具集。首發：運單預填工具，自動解析 Invoice + Packing List PDF，抽取 20+ 欄位，支援 DHL / FedEx / UPS，一鍵複製。完全靜態，支援本機離線使用。',
+  {cat:'auto',name:'weatherLab — 天氣預測驗證',status:'🟡 實驗中',tags:['模型驗證','Open-Meteo'],
+   desc:'驗證 ECMWF / ICON / GFS 三個氣象模型在不同城市的實際準確率。爬蟲抓預報、對比實際結果，尋找 Polymarket 天氣市場的交易 edge。資料記錄於 Google Sheet。',
+   site:'',github:'https://github.com/sssunwl/weatherLab'},
+
+  // ── 🧰 工具 / 小程式 ──
+  {cat:'tool',name:'SplitBed — 床位分配引擎',status:'🟢 Phase 1 上線',tags:['純前端','零相依','演算法'],
+   desc:'住宿床位／房間自動分配。單一 TypeScript 引擎瀏覽器與 Node 共用，無資料庫、無登入、零外部相依。實測札幌一季改 Mixed 房型可多收 ¥253,700，Hybrid 方案拿到 61% 的好處。',
+   site:'https://sssunwl.github.io/splitbed/',github:'https://github.com/sssunwl/splitbed'},
+  {cat:'tool',name:'KakaTools — 日常小工具集',status:'🟢 運行中',tags:['PDF 解析','純靜態','可離線'],
+   desc:'實用小工具集，全部純前端、可離線使用。首發是運單預填工具：自動解析 Invoice + Packing List PDF，抽取 20+ 欄位，支援 DHL / FedEx / UPS，一鍵複製。另有巴士到站、煮食靈感、食物轉盤等。',
    site:'https://sssunwl.github.io/KakaTools/',github:'https://github.com/sssunwl/KakaTools'},
-  {name:'SonaSNS — 社媒管理平台',status:'🟢 運行中',
-   desc:'Sona 主導的多品牌社媒管理平台，整合 OKIBLUES、THE BLUES、OKIPLAYGROUND 三大品牌內容日曆與數據追蹤。',
-   site:'https://sssunwl.github.io/SonaSNS/',github:'https://github.com/sssunwl/SonaSNS'},
-  {name:'SunFamilyTrip — 家庭旅行記錄',status:'🟢 運行中',
-   desc:'SS 十年旅行與家庭回憶影片收藏。沉浸式紀錄風格，沖繩 × 大阪 × 台灣等精選目的地，供家人朋友珍藏回顧。',
-   site:'https://sssunwl.github.io/SunFamilyTrip/',github:'https://github.com/sssunwl/SunFamilyTrip'},
-  {name:'DiveInOut — 潛旅生活誌',status:'🟢 運行中',
+  {cat:'tool',name:'Sens 知味 — 感官品鑑引導',status:'🟢 v0 上線',tags:['純靜態','品鑑引導'],
+   desc:'跨品類感官品鑑平台。v0 專注咖啡的「溫度品鑑」——陪你把一杯咖啡從燙喝到涼，逐段記下風味變化。純靜態、零相依。',
+   site:'https://sssunwl.github.io/sens/',github:'https://github.com/sssunwl/sens'},
+  {cat:'tool',name:'SetGo — 運動傷害分層判斷',status:'🟢 運行中',tags:['Cloudflare Workers','教練向'],
+   desc:'教運動員分辨自己傷咗邊一層、應該點處理、幾時返得到場。使用者是潛水教練與滑雪教練，所有內容都回答同一條問題：我幾時返到水／返到雪？',
+   site:'https://setgo.sssuni.com',github:''},
+  {cat:'tool',name:'識食 siksik — 香港家庭煮食健康平台',status:'🟢 運行中',tags:['Cloudflare Workers','食材判定'],
+   desc:'香港家庭煮食的健康判斷平台。判定由食材算出而非套標籤、全站冇紅色（唔製造罪惡感）、首頁係「每日一餐」唔係篩選器。',
+   site:'https://siksik.sssuni.com',github:''},
+
+  // ── 📚 內容平台 ──
+  {cat:'content',name:'DiveInOut — 潛旅生活誌',status:'🟢 運行中',tags:['互動地圖','雙 AI 建庫','新手友善'],
    desc:'泛亞洲潛旅生活誌，生活風 × 新手友善。Leaflet 暗色互動地圖 30 個潛點（沖繩／台灣／菲／帛琉／峇里）、水下生物手繪圖鑑、新手上路 8 件事教學。資料引擎 SakiDiveDB 以 Gemini 每週自動抓潛水情報、Claude 補深度內容，「倉管 × 顧問」雙 AI 分工。',
    site:'https://sssunwl.github.io/SakiDive/diveinout/',github:'https://github.com/sssunwl/SakiDive'},
+  {cat:'content',name:'Fablecase — AI 學院課程與協作案例',status:'🟢 運行中',tags:['真實案例','教學'],
+   desc:'用自己跟 AI 協作的真實案例，教別人怎麼用 AI。不是教「怎麼下 prompt」，是教怎麼把重複做的事固定成流程，讓任何模型都能接手執行。',
+   site:'https://sssunwl.github.io/Fablecase/',github:''},
+  {cat:'content',name:'SAIDIO — 創作素材營運台',status:'🟢 運行中',tags:['三線並行','每日 prompt','自有域名'],
+   desc:'音樂／旁白／旅遊三條素材線的每日 prompt 生成器 + 統一素材庫。所有 prompt 一律三段式自帶規則，單獨複製出來就是完整可用的指令。',
+   site:'https://saidio.sssuni.com',github:'https://github.com/sssunwl/saidio'},
+  {cat:'content',name:'SunFamilyTrip — 家族旅行誌',status:'🟢 運行中',tags:['多趟共用模板','Firebase'],
+   desc:'一套 React 模板跑多趟旅行，Firebase 即時同步行程與清單。必買清單併入指南變成可點的產品卡，家人朋友各自裝置同步。',
+   site:'https://sssunwl.github.io/SunFamilyTrip/',github:'https://github.com/sssunwl/SunFamilyTrip'},
+
+  // ── 🧪 技術實驗 ──
+  {cat:'lab',name:'mindar — AR 平面掃描試驗場',status:'🟢 Demo 可玩',tags:['Image Tracking','WebAR'],
+   desc:'掃「沒有 QR code」的平面設計，直接浮出延伸內容（image tracking）。第一個 demo 用 CapyChill 素材，已實機測過。技術本身不是障礙，真正的門檻是「入口」——內建相機做不到，必須走網頁或 App，NFC 是目前最接近零痕跡的解法。',
+   site:'https://sssunwl.github.io/mindar/',github:'https://github.com/sssunwl/mindar'},
+  {cat:'lab',name:'遊戲間 han — 給小孩玩的網頁遊戲',status:'🟢 運行中',tags:['無需登入','手機優先'],
+   desc:'給小孩玩的網頁遊戲集：方塊世界 + 彈珠台。不做登入系統，只在裝置上選自己是誰。六位真人試玩者持續調難度。加到主畫面即全螢幕。',
+   site:'https://sssunwl.github.io/han/',github:'https://github.com/sssunwl/han'},
+  {cat:'lab',name:'AIofficeSuni — AI 虛擬辦公室',status:'🟡 開發中',tags:['Canvas','多 Agent'],
+   desc:'13 位 Suniverse AI Agent 的 2D 虛擬辦公室。HTML5 Canvas + Limezu Modern Interiors 素材，每 5 分鐘呼叫 Claude API 驅動 Agent 對話腳本。可從手機遠端觀看辦公室現況。',
+   site:'https://sssunwl.github.io/AIofficeSuni/',github:'https://github.com/sssunwl/AIofficeSuni'},
+
+  // ── 🏢 工作室 ──
+  {cat:'studio',name:'Suniverse — 工作室主站',status:'🟢 運行中',tags:['自有域名','Cloudflare'],
+   desc:'sssuni.com 根域首頁。AI 原生工作室，呈現產品、服務與作品。私人控制台以 Cloudflare Access 保護。',
+   site:'https://sssuni.com',github:''},
+  {cat:'studio',name:'Sophia — 客服 AI（產品開發中）',status:'🟡 內測中',tags:['WhatsApp','多品牌','記憶隔離'],
+   desc:'SENA 產品線的第一個模組：接 WhatsApp 的客服 AI，對話儲存 + 導出。多品牌以邀請碼綁定切換，記憶按品牌隔離。已部署上線，目前為內測，不對外開放連結。',
+   site:'',github:''},
+  {cat:'studio',name:'客戶營運儀表板（客戶案・不公開）',status:'🔒 私人',tags:['Cloudflare Access','客戶案'],
+   desc:'替沖繩一家租車／潛水集團做的內部營運儀表板：4 個品牌的訂單、車隊排班、年度比較與廣告成效，每日自動刷新。三層權限，全站以 Cloudflare Access 保護，不對外開放。',
+   site:'',github:''},
+  {cat:'studio',name:'內部 Agent 系統與社媒後台（不公開）',status:'🔒 私人',tags:['多 Agent','排程對帳'],
+   desc:'支撐上面所有專案的內部系統：Agent 規則庫、記憶庫、每晚自動對帳的治理迴圈，以及多品牌社媒內容後台（自然發文數據 + 廣告成效週報 + 每日草稿生成）。內部用，不對外開放。',
+   site:'',github:''},
+];
+const CATS=[
+  {k:'auto',   t:'📡 自動情報',   s:'排程自己跑，每天有新東西'},
+  {k:'tool',   t:'🧰 工具・小程式', s:'解決一個具體問題，打開就能用'},
+  {k:'content',t:'📚 內容平台',   s:'長期累積的內容站'},
+  {k:'lab',    t:'🧪 技術實驗',   s:'試新技術能做到什麼'},
+  {k:'studio', t:'🏢 工作室與客戶案', s:'產品線與不公開的內部系統'},
 ];
 function renderProjects(){
-  document.getElementById('listProjects').innerHTML=PROJECTS.map((p,i)=>`
-    <div class="proj" id="pr${i}">
+  let n=0;
+  const html=CATS.map(c=>{
+    const items=PROJECTS.filter(p=>p.cat===c.k);
+    if(!items.length)return'';
+    return `<div class="pcat"><div class="pcat-t">${c.t}<span class="pcat-n">${items.length}</span></div>
+      <div class="pcat-s">${c.s}</div></div>`+items.map(p=>{
+      const i=n++;
+      return `<div class="proj" id="pr${i}">
       <div class="proj-hd" onclick="tp(${i})">
         <div><div class="proj-name">${p.name}</div><div class="proj-st">${p.status}</div></div>
         <span class="proj-arr">▼</span>
       </div>
       <div class="proj-body">
         <div class="proj-desc">${p.desc}</div>
+        ${p.tags&&p.tags.length?`<div class="proj-tags">${p.tags.map(t=>`<span class="ptag">${t}</span>`).join('')}</div>`:''}
         <div class="proj-links">
-          ${p.site?`<a href="${p.site}" target="_blank" class="plink plink-site">🌐 網站</a>`:''}
-          ${p.github?`<a href="${p.github}" target="_blank" class="plink plink-gh">⌥ GitHub</a>`:''}
+          ${p.site?`<a href="${p.site}" target="_blank" class="plink plink-site">🌐 打開網站</a>`:''}
+          ${p.github?`<a href="${p.github}" target="_blank" class="plink plink-gh">⌥ 原始碼</a>`:''}
+          ${!p.site&&!p.github?`<span class="plink plink-lock">🔒 不對外開放</span>`:''}
         </div>
       </div>
-    </div>`).join('');
+    </div>`}).join('');
+  }).join('');
+  document.getElementById('listProjects').innerHTML=
+    `<div class="proj-intro">下面每一個都是自己從零做到上線的。有 <b>🌐 打開網站</b> 的代表任何人現在就點得開；標 <b>🔒</b> 的是客戶案或內部系統，只寫做了什麼、不放連結。</div>`+html;
 }
 function tp(i){document.getElementById('pr'+i).classList.toggle('open')}
 renderProjects();
