@@ -1,96 +1,70 @@
 {
-  "updated": "2026-08-30 14:11 HKT",
+  "updated": "2026-08-31 14:37 HKT",
   "news": [
     {
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of C…",
+      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. Th…",
       "source": "The Verge"
     },
     {
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "link": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-      "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly fil…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move…",
       "source": "TechCrunch"
     },
     {
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — …",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 month…",
       "source": "TechCrunch"
     },
     {
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "link": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-      "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more pro…",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experie…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Cohere Parse 5",
-      "link": "https://www.producthunt.com/products/cohere-2",
-      "desc": "Turn complex docs, tables & images into AI-ready data Discussion | Link",
-      "title_en": "Cohere Parse 5"
+      "title": "Olostep",
+      "link": "https://www.producthunt.com/products/olostep",
+      "desc": "Turn the Web into Clean Data for AI Discussion | Link",
+      "title_en": "Olostep"
     },
     {
-      "title": "OpenTag",
-      "link": "https://www.producthunt.com/products/opentag",
-      "desc": "AI coworker lives on Slack and Teams Discussion | Link",
-      "title_en": "OpenTag"
+      "title": "Referent",
+      "link": "https://www.producthunt.com/products/referent",
+      "desc": "The AI-native OS for modern law firms Discussion | Link",
+      "title_en": "Referent"
     },
     {
-      "title": "screenpipe",
-      "link": "https://www.producthunt.com/products/screenpipe",
-      "desc": "AI that records your computer work to power agents. Discussion | Link",
-      "title_en": "screenpipe"
+      "title": "Superagent",
+      "link": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
+      "desc": "Claude Code for the rest of us Discussion | Link",
+      "title_en": "Superagent"
     },
     {
-      "title": "Aramb",
-      "link": "https://www.producthunt.com/products/aramb",
-      "desc": "Build, launch and monetize your AI agents in 20 minutes Discussion | Link",
-      "title_en": "Aramb"
+      "title": "oMLX",
+      "link": "https://www.producthunt.com/products/omlx",
+      "desc": "Mac LLM server that cuts agent wait times from 90s to 5s Discussion | Link",
+      "title_en": "oMLX"
     },
     {
-      "title": "SuperIntern",
-      "link": "https://www.producthunt.com/products/super-intern-4",
-      "desc": "Your email and meeting assistant, inside your chat apps Discussion | Link",
-      "title_en": "SuperIntern"
+      "title": "Maritime",
+      "link": "https://www.producthunt.com/products/maritime",
+      "desc": "Dedicated computers for AI agents, starting at $1/month Discussion | Link",
+      "title_en": "Maritime"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [
-    {
-      "title": "Cohere Parse 5",
-      "link": "https://www.producthunt.com/products/cohere-2",
-      "desc": "Turn complex docs, tables & images into AI-ready data Discussion | Link",
-      "title_en": "Cohere Parse 5"
-    }
-  ],
-  "major": [
-    {
-      "title": "Sony Music and Warner Chappell are suing Anthropic",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of C…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
-      "source": "TechCrunch"
-    }
-  ],
+  "suniverse_tools": [],
+  "major": [],
   "pick": {
-    "title": "Sony Music and Warner Chappell are suing Anthropic",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-    "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of C…",
+    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+    "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. Th…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -9205,6 +9179,76 @@
         "title": "Sony Music and Warner Chappell are suing Anthropic",
         "link": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
         "summary": "Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of C…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-08-31": {
+      "news": [
+        {
+          "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+          "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. Th…",
+          "source": "The Verge"
+        },
+        {
+          "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+          "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+          "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+          "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+          "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 month…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+          "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+          "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experie…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Olostep",
+          "link": "https://www.producthunt.com/products/olostep",
+          "desc": "Turn the Web into Clean Data for AI Discussion | Link",
+          "title_en": "Olostep"
+        },
+        {
+          "title": "Referent",
+          "link": "https://www.producthunt.com/products/referent",
+          "desc": "The AI-native OS for modern law firms Discussion | Link",
+          "title_en": "Referent"
+        },
+        {
+          "title": "Superagent",
+          "link": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
+          "desc": "Claude Code for the rest of us Discussion | Link",
+          "title_en": "Superagent"
+        },
+        {
+          "title": "oMLX",
+          "link": "https://www.producthunt.com/products/omlx",
+          "desc": "Mac LLM server that cuts agent wait times from 90s to 5s Discussion | Link",
+          "title_en": "oMLX"
+        },
+        {
+          "title": "Maritime",
+          "link": "https://www.producthunt.com/products/maritime",
+          "desc": "Dedicated computers for AI agents, starting at $1/month Discussion | Link",
+          "title_en": "Maritime"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [],
+      "pick": {
+        "title": "Texas Governor Abbott blocks funding for more Flock cameras",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+        "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. Th…",
         "source": "The Verge"
       },
       "steve_ideas": []
