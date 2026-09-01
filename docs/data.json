@@ -1,49 +1,73 @@
 {
-  "updated": "2026-08-31 14:37 HKT",
+  "updated": "2026-09-01 13:59 HKT",
   "news": [
     {
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. Th…",
+      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+      "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, mainte…",
       "source": "The Verge"
     },
     {
-      "title": "The U.S. is building barriers around drones and robots, but China has scale to get around them",
-      "link": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
-      "summary": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move…",
+      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+      "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+      "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an…",
+      "source": "The Verge"
+    },
+    {
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+      "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investiga…",
       "source": "TechCrunch"
     },
     {
-      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
-      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
-      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 month…",
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools…",
       "source": "TechCrunch"
     },
     {
-      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
-      "link": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
-      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experie…",
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI t…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Olostep",
-      "link": "https://www.producthunt.com/products/olostep",
-      "desc": "Turn the Web into Clean Data for AI Discussion | Link",
-      "title_en": "Olostep"
+      "title": "Orato",
+      "link": "https://www.producthunt.com/products/orato-speech-coach",
+      "desc": "Practice speaking with AI. Discussion | Link",
+      "title_en": "Orato"
     },
     {
-      "title": "Referent",
-      "link": "https://www.producthunt.com/products/referent",
-      "desc": "The AI-native OS for modern law firms Discussion | Link",
-      "title_en": "Referent"
+      "title": "Interactive Sessions",
+      "link": "https://www.producthunt.com/products/revolte",
+      "desc": "Drive the full SDLC with AI agents, step by step Discussion | Link",
+      "title_en": "Interactive Sessions"
     },
     {
-      "title": "Superagent",
-      "link": "https://www.producthunt.com/products/superagent-a-home-for-your-ai-agents",
-      "desc": "Claude Code for the rest of us Discussion | Link",
-      "title_en": "Superagent"
+      "title": "Murfy AI",
+      "link": "https://www.producthunt.com/products/murfy",
+      "desc": "Write, review, and publish to arXiv 10x faster Discussion | Link",
+      "title_en": "Murfy AI"
     },
     {
       "title": "oMLX",
@@ -52,19 +76,51 @@
       "title_en": "oMLX"
     },
     {
-      "title": "Maritime",
-      "link": "https://www.producthunt.com/products/maritime",
-      "desc": "Dedicated computers for AI agents, starting at $1/month Discussion | Link",
-      "title_en": "Maritime"
+      "title": "Sayscroll",
+      "link": "https://www.producthunt.com/products/sayscroll-ai-teleprompter",
+      "desc": "The AI Teleprompter that scrolls as you speak Discussion | Link",
+      "title_en": "Sayscroll"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "Instagram cracks down on AI accounts pretending to be human",
+      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+      "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Instagram puts new limits on undisclosed AI profiles",
+      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+      "source": "TechCrunch"
+    }
+  ],
   "suniverse_tools": [],
-  "major": [],
+  "major": [
+    {
+      "title": "ChatGPT to face tougher regulation in the EU",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investiga…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "The Pentagon now has its own version of ChatGPT and Grok",
+      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools…",
+      "source": "TechCrunch"
+    }
+  ],
   "pick": {
-    "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-    "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. Th…",
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+    "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -9249,6 +9305,132 @@
         "title": "Texas Governor Abbott blocks funding for more Flock cameras",
         "link": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
         "summary": "As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. Th…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-01": {
+      "news": [
+        {
+          "title": "Debian won&#8217;t ban AI code from its Linux distribution",
+          "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
+          "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, mainte…",
+          "source": "The Verge"
+        },
+        {
+          "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
+          "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
+          "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an…",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT to face tougher regulation in the EU",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+          "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Instagram cracks down on AI accounts pretending to be human",
+          "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+          "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+          "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+          "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investiga…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The Pentagon now has its own version of ChatGPT and Grok",
+          "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+          "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Instagram puts new limits on undisclosed AI profiles",
+          "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+          "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
+          "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
+          "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI t…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Orato",
+          "link": "https://www.producthunt.com/products/orato-speech-coach",
+          "desc": "Practice speaking with AI. Discussion | Link",
+          "title_en": "Orato"
+        },
+        {
+          "title": "Interactive Sessions",
+          "link": "https://www.producthunt.com/products/revolte",
+          "desc": "Drive the full SDLC with AI agents, step by step Discussion | Link",
+          "title_en": "Interactive Sessions"
+        },
+        {
+          "title": "Murfy AI",
+          "link": "https://www.producthunt.com/products/murfy",
+          "desc": "Write, review, and publish to arXiv 10x faster Discussion | Link",
+          "title_en": "Murfy AI"
+        },
+        {
+          "title": "oMLX",
+          "link": "https://www.producthunt.com/products/omlx",
+          "desc": "Mac LLM server that cuts agent wait times from 90s to 5s Discussion | Link",
+          "title_en": "oMLX"
+        },
+        {
+          "title": "Sayscroll",
+          "link": "https://www.producthunt.com/products/sayscroll-ai-teleprompter",
+          "desc": "The AI Teleprompter that scrolls as you speak Discussion | Link",
+          "title_en": "Sayscroll"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Instagram cracks down on AI accounts pretending to be human",
+          "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
+          "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Instagram puts new limits on undisclosed AI profiles",
+          "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
+          "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
+          "source": "TechCrunch"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "ChatGPT to face tougher regulation in the EU",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+          "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+          "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+          "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investiga…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The Pentagon now has its own version of ChatGPT and Grok",
+          "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
+          "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "ChatGPT to face tougher regulation in the EU",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
+        "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and…",
         "source": "The Verge"
       },
       "steve_ideas": []
