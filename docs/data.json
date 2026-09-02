@@ -1,126 +1,120 @@
 {
-  "updated": "2026-09-01 13:59 HKT",
+  "updated": "2026-09-02 13:24 HKT",
   "news": [
     {
-      "title": "Debian won&#8217;t ban AI code from its Linux distribution",
-      "link": "https://www.theverge.com/tech/986789/linux-debian-generative-ai-policy",
-      "summary": "Debian voted to allow developers to use AI tools in their contributions to the Linux distribution's \"development, mainte…",
+      "title": "Google needs Hollywood more than the studios need AI",
+      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreement…",
       "source": "The Verge"
     },
     {
-      "title": "New York Governor Kathy Hochul thinks AI should be ‘less evil’",
-      "link": "https://www.theverge.com/podcast/986661/ny-gov-kathy-hochul-ai-data-centers-ban-3d-printed-guns-flock-cameras",
-      "summary": "Today, I’m talking with New York Governor Kathy Hochul, and I’ll just warn you — this episode moves really fast. It’s an…",
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data reten…",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and…",
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of…",
       "source": "The Verge"
     },
     {
-      "title": "Instagram cracks down on AI accounts pretending to be human",
-      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
-      "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It…",
+      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its…",
       "source": "The Verge"
     },
     {
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investiga…",
-      "source": "TechCrunch"
+      "title": "Apple accuses OpenAI of destroying evidence",
+      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively dest…",
+      "source": "The Verge"
     },
     {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools…",
-      "source": "TechCrunch"
+      "title": "John Deere launched an AI chatbot for farmers",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best pra…",
+      "source": "The Verge"
     },
     {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "source": "TechCrunch"
+      "title": "Google Pics is like Canva, but with even more AI",
+      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and g…",
+      "source": "The Verge"
     },
     {
-      "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-      "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-      "summary": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI t…",
-      "source": "TechCrunch"
+      "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+      "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upsc…",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "Orato",
-      "link": "https://www.producthunt.com/products/orato-speech-coach",
-      "desc": "Practice speaking with AI. Discussion | Link",
-      "title_en": "Orato"
+      "title": "Gauth AI Course",
+      "link": "https://www.producthunt.com/products/gauth-ai-course",
+      "desc": "AI courses you can watch, quiz through, and create Discussion | Link",
+      "title_en": "Gauth AI Course"
     },
     {
-      "title": "Interactive Sessions",
-      "link": "https://www.producthunt.com/products/revolte",
-      "desc": "Drive the full SDLC with AI agents, step by step Discussion | Link",
-      "title_en": "Interactive Sessions"
+      "title": "ThunderPhone",
+      "link": "https://www.producthunt.com/products/thunderphone",
+      "desc": "Platform for building reliable AI phone agents (from 2c/min) Discussion | Link",
+      "title_en": "ThunderPhone"
     },
     {
-      "title": "Murfy AI",
-      "link": "https://www.producthunt.com/products/murfy",
-      "desc": "Write, review, and publish to arXiv 10x faster Discussion | Link",
-      "title_en": "Murfy AI"
+      "title": "Murmell",
+      "link": "https://www.producthunt.com/products/murmell",
+      "desc": "Google docs for AI agents, and you can close your laptop Discussion | Link",
+      "title_en": "Murmell"
     },
     {
-      "title": "oMLX",
-      "link": "https://www.producthunt.com/products/omlx",
-      "desc": "Mac LLM server that cuts agent wait times from 90s to 5s Discussion | Link",
-      "title_en": "oMLX"
+      "title": "Tovel AI",
+      "link": "https://www.producthunt.com/products/tovel-ai",
+      "desc": "From conversation to action, in three steps Discussion | Link",
+      "title_en": "Tovel AI"
     },
     {
-      "title": "Sayscroll",
-      "link": "https://www.producthunt.com/products/sayscroll-ai-teleprompter",
-      "desc": "The AI Teleprompter that scrolls as you speak Discussion | Link",
-      "title_en": "Sayscroll"
+      "title": "Kilo Code for JetBrains",
+      "link": "https://www.producthunt.com/products/kilocode",
+      "desc": "Fully native, open-source coding agent built for JetBrains Discussion | Link",
+      "title_en": "Kilo Code for JetBrains"
     }
   ],
   "suniverse_news": [
     {
-      "title": "Instagram cracks down on AI accounts pretending to be human",
-      "link": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop",
-      "summary": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It…",
+      "title": "Google Pics is like Canva, but with even more AI",
+      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+      "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and g…",
       "source": "The Verge"
-    },
-    {
-      "title": "Instagram puts new limits on undisclosed AI profiles",
-      "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-      "summary": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-      "source": "TechCrunch"
     }
   ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "ChatGPT to face tougher regulation in the EU",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-      "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and…",
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data reten…",
       "source": "The Verge"
     },
     {
-      "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-      "link": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-      "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investiga…",
-      "source": "TechCrunch"
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of…",
+      "source": "The Verge"
     },
     {
-      "title": "The Pentagon now has its own version of ChatGPT and Grok",
-      "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-      "summary": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools…",
-      "source": "TechCrunch"
+      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "ChatGPT to face tougher regulation in the EU",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-    "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and…",
+    "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+    "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data reten…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -9431,6 +9425,126 @@
         "title": "ChatGPT to face tougher regulation in the EU",
         "link": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
         "summary": "OpenAI will soon be held accountable for mitigating risks related to ChatGPT's impact on minors, user mental health, and…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-02": {
+      "news": [
+        {
+          "title": "Google needs Hollywood more than the studios need AI",
+          "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+          "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreement…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+          "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data reten…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+          "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of…",
+          "source": "The Verge"
+        },
+        {
+          "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+          "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple accuses OpenAI of destroying evidence",
+          "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
+          "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively dest…",
+          "source": "The Verge"
+        },
+        {
+          "title": "John Deere launched an AI chatbot for farmers",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
+          "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best pra…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google Pics is like Canva, but with even more AI",
+          "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+          "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and g…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
+          "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
+          "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upsc…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Gauth AI Course",
+          "link": "https://www.producthunt.com/products/gauth-ai-course",
+          "desc": "AI courses you can watch, quiz through, and create Discussion | Link",
+          "title_en": "Gauth AI Course"
+        },
+        {
+          "title": "ThunderPhone",
+          "link": "https://www.producthunt.com/products/thunderphone",
+          "desc": "Platform for building reliable AI phone agents (from 2c/min) Discussion | Link",
+          "title_en": "ThunderPhone"
+        },
+        {
+          "title": "Murmell",
+          "link": "https://www.producthunt.com/products/murmell",
+          "desc": "Google docs for AI agents, and you can close your laptop Discussion | Link",
+          "title_en": "Murmell"
+        },
+        {
+          "title": "Tovel AI",
+          "link": "https://www.producthunt.com/products/tovel-ai",
+          "desc": "From conversation to action, in three steps Discussion | Link",
+          "title_en": "Tovel AI"
+        },
+        {
+          "title": "Kilo Code for JetBrains",
+          "link": "https://www.producthunt.com/products/kilocode",
+          "desc": "Fully native, open-source coding agent built for JetBrains Discussion | Link",
+          "title_en": "Kilo Code for JetBrains"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Google Pics is like Canva, but with even more AI",
+          "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
+          "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and g…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+          "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data reten…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+          "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of…",
+          "source": "The Verge"
+        },
+        {
+          "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+          "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+        "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data reten…",
         "source": "The Verge"
       },
       "steve_ideas": []
