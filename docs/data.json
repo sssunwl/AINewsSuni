@@ -1,120 +1,127 @@
 {
-  "updated": "2026-09-02 13:24 HKT",
+  "updated": "2026-09-03 13:26 HKT",
   "news": [
     {
-      "title": "Google needs Hollywood more than the studios need AI",
-      "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-      "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreement…",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"wor…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data reten…",
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+      "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine w…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of…",
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety p…",
       "source": "The Verge"
     },
     {
-      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its…",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in f…",
       "source": "The Verge"
     },
     {
-      "title": "Apple accuses OpenAI of destroying evidence",
-      "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-      "summary": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively dest…",
+      "title": "Google is sending MrBeast into the wilderness, armed with AI",
+      "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+      "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership wi…",
       "source": "The Verge"
     },
     {
-      "title": "John Deere launched an AI chatbot for farmers",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot",
-      "summary": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best pra…",
+      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encou…",
       "source": "The Verge"
     },
     {
-      "title": "Google Pics is like Canva, but with even more AI",
-      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and g…",
+      "title": "NYC bans AI use for students until they reach high school",
+      "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI i…",
       "source": "The Verge"
     },
     {
-      "title": "Nvidia&#8217;s controversial DLSS 5 arrives September 3rd and requires serious GPU horsepower",
-      "link": "https://www.theverge.com/tech/986378/nvidia-dlss-5-launch-nba-2k27",
-      "summary": "Nvidia is officially launching DLSS 5 this week, following a divisive announcement in March where we likened the AI upsc…",
-      "source": "The Verge"
+      "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+      "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for …",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Gauth AI Course",
-      "link": "https://www.producthunt.com/products/gauth-ai-course",
-      "desc": "AI courses you can watch, quiz through, and create Discussion | Link",
-      "title_en": "Gauth AI Course"
+      "title": "OpenClaw 2.0",
+      "link": "https://www.producthunt.com/products/openclaw-formerly-clawdbot",
+      "desc": "The AI that really does things Discussion | Link",
+      "title_en": "OpenClaw 2.0"
     },
     {
-      "title": "ThunderPhone",
-      "link": "https://www.producthunt.com/products/thunderphone",
-      "desc": "Platform for building reliable AI phone agents (from 2c/min) Discussion | Link",
-      "title_en": "ThunderPhone"
+      "title": "Basedash AI Sources",
+      "link": "https://www.producthunt.com/products/basedash",
+      "desc": "Trust every AI answer by seeing what built it Discussion | Link",
+      "title_en": "Basedash AI Sources"
     },
     {
-      "title": "Murmell",
-      "link": "https://www.producthunt.com/products/murmell",
-      "desc": "Google docs for AI agents, and you can close your laptop Discussion | Link",
-      "title_en": "Murmell"
+      "title": "Doop",
+      "link": "https://www.producthunt.com/products/doop",
+      "desc": "Design with AI agents - live on the same canvas Discussion | Link",
+      "title_en": "Doop"
     },
     {
-      "title": "Tovel AI",
-      "link": "https://www.producthunt.com/products/tovel-ai",
-      "desc": "From conversation to action, in three steps Discussion | Link",
-      "title_en": "Tovel AI"
+      "title": "Dial",
+      "link": "https://www.producthunt.com/products/dial-3",
+      "desc": "Give your AI agent a real phone number in 10 seconds Discussion | Link",
+      "title_en": "Dial"
     },
     {
-      "title": "Kilo Code for JetBrains",
-      "link": "https://www.producthunt.com/products/kilocode",
-      "desc": "Fully native, open-source coding agent built for JetBrains Discussion | Link",
-      "title_en": "Kilo Code for JetBrains"
+      "title": "Userlens",
+      "link": "https://www.producthunt.com/products/userlens",
+      "desc": "AI agent to improve product adoption Discussion | Link",
+      "title_en": "Userlens"
     }
   ],
   "suniverse_news": [
     {
-      "title": "Google Pics is like Canva, but with even more AI",
-      "link": "https://www.theverge.com/tech/987423/google-pics-ai-image-editor-generator",
-      "summary": "Google has a new suite of creative design tools for Workspace users called Google Pics, which aims to make editing and g…",
+      "title": "Google is sending MrBeast into the wilderness, armed with AI",
+      "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+      "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership wi…",
       "source": "The Verge"
     }
   ],
-  "suniverse_tools": [],
+  "suniverse_tools": [
+    {
+      "title": "Doop",
+      "link": "https://www.producthunt.com/products/doop",
+      "desc": "Design with AI agents - live on the same canvas Discussion | Link",
+      "title_en": "Doop"
+    }
+  ],
   "major": [
     {
-      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-      "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data reten…",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"wor…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
-      "summary": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of…",
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety p…",
       "source": "The Verge"
     },
     {
-      "title": "The rise of AI &#8216;civilizations&#8217; and the fall of corporate responsibility",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-      "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its…",
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in f…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-    "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data reten…",
+    "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+    "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"wor…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -9545,6 +9552,133 @@
         "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
         "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
         "summary": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data reten…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-03": {
+      "news": [
+        {
+          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+          "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"wor…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Amazon’s AI assistant can now spot fake emails from the company",
+          "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
+          "summary": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine w…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+          "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety p…",
+          "source": "The Verge"
+        },
+        {
+          "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+          "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in f…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google is sending MrBeast into the wilderness, armed with AI",
+          "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+          "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership wi…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+          "summary": "OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encou…",
+          "source": "The Verge"
+        },
+        {
+          "title": "NYC bans AI use for students until they reach high school",
+          "link": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+          "summary": "New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI i…",
+          "source": "The Verge"
+        },
+        {
+          "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+          "summary": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for …",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "OpenClaw 2.0",
+          "link": "https://www.producthunt.com/products/openclaw-formerly-clawdbot",
+          "desc": "The AI that really does things Discussion | Link",
+          "title_en": "OpenClaw 2.0"
+        },
+        {
+          "title": "Basedash AI Sources",
+          "link": "https://www.producthunt.com/products/basedash",
+          "desc": "Trust every AI answer by seeing what built it Discussion | Link",
+          "title_en": "Basedash AI Sources"
+        },
+        {
+          "title": "Doop",
+          "link": "https://www.producthunt.com/products/doop",
+          "desc": "Design with AI agents - live on the same canvas Discussion | Link",
+          "title_en": "Doop"
+        },
+        {
+          "title": "Dial",
+          "link": "https://www.producthunt.com/products/dial-3",
+          "desc": "Give your AI agent a real phone number in 10 seconds Discussion | Link",
+          "title_en": "Dial"
+        },
+        {
+          "title": "Userlens",
+          "link": "https://www.producthunt.com/products/userlens",
+          "desc": "AI agent to improve product adoption Discussion | Link",
+          "title_en": "Userlens"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Google is sending MrBeast into the wilderness, armed with AI",
+          "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+          "summary": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership wi…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [
+        {
+          "title": "Doop",
+          "link": "https://www.producthunt.com/products/doop",
+          "desc": "Design with AI agents - live on the same canvas Discussion | Link",
+          "title_en": "Doop"
+        }
+      ],
+      "major": [
+        {
+          "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+          "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"wor…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+          "summary": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety p…",
+          "source": "The Verge"
+        },
+        {
+          "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+          "summary": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in f…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+        "summary": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"wor…",
         "source": "The Verge"
       },
       "steve_ideas": []
