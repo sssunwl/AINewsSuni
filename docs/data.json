@@ -1,107 +1,114 @@
 {
-  "updated": "2026-09-04 13:26 HKT",
+  "updated": "2026-09-05 13:13 HKT",
   "news": [
     {
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cy…",
+      "title": "Roland is getting into generative AI music with Melody Flip",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into gen…",
       "source": "The Verge"
     },
     {
-      "title": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook",
-      "summary": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local…",
+      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+      "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks tha…",
       "source": "The Verge"
     },
     {
-      "title": "Google now lets you chat with Gmail, Docs, and Keep",
-      "link": "https://www.theverge.com/tech/989508/google-gmail-docs-keep-live-voice-modes-gemini",
-      "summary": "Google is rolling out AI-powered voice assistant modes for Gmail, Docs, and Keep that allow you to manage the apps by ta…",
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging boar…",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the…",
+      "title": "Instagram’s AI detection is a mess (again)",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over…",
       "source": "The Verge"
     },
     {
-      "title": "Google says its AI weather model is getting better",
-      "link": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update",
-      "summary": "Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predi…",
+      "title": "Why AI food looks like that",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI t…",
       "source": "The Verge"
     },
     {
-      "title": "Nvidia is buying Hugging Face for almost $13 billion",
-      "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-      "summary": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-so…",
+      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+      "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+      "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker original…",
       "source": "The Verge"
     },
     {
-      "title": "The sameness problem behind those unappetizing AI-generated menus",
-      "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
-      "summary": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally se…",
-      "source": "TechCrunch"
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy r…",
+      "source": "The Verge"
     },
     {
-      "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-      "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-      "summary": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-      "source": "TechCrunch"
+      "title": "This NAS company wants to run your local smart home",
+      "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big w…",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "Nex",
-      "link": "https://www.producthunt.com/products/nex-4",
-      "desc": "Claude Cowork for high-volume GTM workflows Discussion | Link",
-      "title_en": "Nex"
+      "title": "Inline",
+      "link": "https://www.producthunt.com/products/inline-5",
+      "desc": "Multiplayer work with AI, teammates, and friends Discussion | Link",
+      "title_en": "Inline"
     },
     {
-      "title": "Agent Builder by Airtop",
-      "link": "https://www.producthunt.com/products/airtop",
-      "desc": "Build agents that heal themselves. Discussion | Link",
-      "title_en": "Agent Builder by Airtop"
+      "title": "myAIcademy",
+      "link": "https://www.producthunt.com/products/myaicademy",
+      "desc": "Learn AI skills for your specific role and team Discussion | Link",
+      "title_en": "myAIcademy"
     },
     {
-      "title": "Tabbit AI",
-      "link": "https://www.producthunt.com/products/tabbitai",
-      "desc": "The best AI browser built both for you and your Agents. Discussion | Link",
-      "title_en": "Tabbit AI"
+      "title": "Clockwork",
+      "link": "https://www.producthunt.com/products/clockwork-5",
+      "desc": "The calendar where your AI agents show up for work Discussion | Link",
+      "title_en": "Clockwork"
     },
     {
-      "title": "MagiCrew",
-      "link": "https://www.producthunt.com/products/magicrew",
-      "desc": "Give everyone their own AI workforce in one platform Discussion | Link",
-      "title_en": "MagiCrew"
+      "title": "GPT-6 Astra",
+      "link": "https://www.producthunt.com/products/openai",
+      "desc": "OpenAI's most capable model for end-to-end work Discussion | Link",
+      "title_en": "GPT-6 Astra"
     },
     {
-      "title": "Grove",
-      "link": "https://www.producthunt.com/products/grove-8",
-      "desc": "One terminal for you and your AI agent Discussion | Link",
-      "title_en": "Grove"
+      "title": "WeatherNext 3",
+      "link": "https://www.producthunt.com/products/weathernext-3",
+      "desc": "Our most advanced and accurate global weather AI model Discussion | Link",
+      "title_en": "WeatherNext 3"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "Instagram’s AI detection is a mess (again)",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over…",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-      "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cy…",
+      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging boar…",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT, Grok, and Claude all went down at the same time",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down",
-      "summary": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude are back online after they all began experiencing issues around the…",
+      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy r…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-    "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cy…",
+    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+    "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging boar…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -9766,6 +9773,120 @@
         "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
         "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
         "summary": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cy…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-05": {
+      "news": [
+        {
+          "title": "Roland is getting into generative AI music with Melody Flip",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+          "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into gen…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+          "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+          "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks tha…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+          "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging boar…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Instagram’s AI detection is a mess (again)",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+          "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Why AI food looks like that",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+          "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI t…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+          "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+          "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker original…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+          "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy r…",
+          "source": "The Verge"
+        },
+        {
+          "title": "This NAS company wants to run your local smart home",
+          "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+          "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big w…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Inline",
+          "link": "https://www.producthunt.com/products/inline-5",
+          "desc": "Multiplayer work with AI, teammates, and friends Discussion | Link",
+          "title_en": "Inline"
+        },
+        {
+          "title": "myAIcademy",
+          "link": "https://www.producthunt.com/products/myaicademy",
+          "desc": "Learn AI skills for your specific role and team Discussion | Link",
+          "title_en": "myAIcademy"
+        },
+        {
+          "title": "Clockwork",
+          "link": "https://www.producthunt.com/products/clockwork-5",
+          "desc": "The calendar where your AI agents show up for work Discussion | Link",
+          "title_en": "Clockwork"
+        },
+        {
+          "title": "GPT-6 Astra",
+          "link": "https://www.producthunt.com/products/openai",
+          "desc": "OpenAI's most capable model for end-to-end work Discussion | Link",
+          "title_en": "GPT-6 Astra"
+        },
+        {
+          "title": "WeatherNext 3",
+          "link": "https://www.producthunt.com/products/weathernext-3",
+          "desc": "Our most advanced and accurate global weather AI model Discussion | Link",
+          "title_en": "WeatherNext 3"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Instagram’s AI detection is a mess (again)",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
+          "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+          "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging boar…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+          "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy r…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
+        "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging boar…",
         "source": "The Verge"
       },
       "steve_ideas": []
