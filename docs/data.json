@@ -1,114 +1,89 @@
 {
-  "updated": "2026-09-05 13:13 HKT",
+  "updated": "2026-09-06 13:27 HKT",
   "news": [
     {
-      "title": "Roland is getting into generative AI music with Melody Flip",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-      "summary": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into gen…",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknow…",
       "source": "The Verge"
     },
     {
-      "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
-      "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
-      "summary": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks tha…",
-      "source": "The Verge"
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "source": "TechCrunch"
     },
     {
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging boar…",
-      "source": "The Verge"
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Instagram’s AI detection is a mess (again)",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Why AI food looks like that",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-      "summary": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI t…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-      "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-      "summary": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker original…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy r…",
-      "source": "The Verge"
-    },
-    {
-      "title": "This NAS company wants to run your local smart home",
-      "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-      "summary": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big w…",
-      "source": "The Verge"
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Inline",
-      "link": "https://www.producthunt.com/products/inline-5",
-      "desc": "Multiplayer work with AI, teammates, and friends Discussion | Link",
-      "title_en": "Inline"
+      "title": "BrickForgerAI",
+      "link": "https://www.producthunt.com/products/brickforgerai",
+      "desc": "Turn any prompt into a brick set you can actually build Discussion | Link",
+      "title_en": "BrickForgerAI"
     },
     {
-      "title": "myAIcademy",
-      "link": "https://www.producthunt.com/products/myaicademy",
-      "desc": "Learn AI skills for your specific role and team Discussion | Link",
-      "title_en": "myAIcademy"
+      "title": "Hyperprobe",
+      "link": "https://www.producthunt.com/products/hyperprobe",
+      "desc": "Lets your AI agents debug production without redeploying Discussion | Link",
+      "title_en": "Hyperprobe"
     },
     {
-      "title": "Clockwork",
-      "link": "https://www.producthunt.com/products/clockwork-5",
-      "desc": "The calendar where your AI agents show up for work Discussion | Link",
-      "title_en": "Clockwork"
+      "title": "Reflexio",
+      "link": "https://www.producthunt.com/products/reflexio-2",
+      "desc": "Behavioral learning that makes AI agents better over time Discussion | Link",
+      "title_en": "Reflexio"
     },
     {
-      "title": "GPT-6 Astra",
-      "link": "https://www.producthunt.com/products/openai",
-      "desc": "OpenAI's most capable model for end-to-end work Discussion | Link",
-      "title_en": "GPT-6 Astra"
+      "title": "Experiential Labs",
+      "link": "https://www.producthunt.com/products/experiential-labs",
+      "desc": "Open source AI gateway turning traffic into a better model Discussion | Link",
+      "title_en": "Experiential Labs"
     },
     {
-      "title": "WeatherNext 3",
-      "link": "https://www.producthunt.com/products/weathernext-3",
-      "desc": "Our most advanced and accurate global weather AI model Discussion | Link",
-      "title_en": "WeatherNext 3"
+      "title": "Ponytail",
+      "link": "https://www.producthunt.com/products/ponytail",
+      "desc": "Make new code the last resort Discussion | Link",
+      "title_en": "Ponytail"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "Instagram’s AI detection is a mess (again)",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/989617/instagram-ai-content-label-confusion",
-      "summary": "Instagram's visible AI labels are supposed to help people quickly spot synthetically generated content at a glance. Over…",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-      "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging boar…",
+      "title": "OpenAI admits to German wiki ‘incident’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknow…",
       "source": "The Verge"
     },
     {
-      "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-      "summary": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy r…",
-      "source": "The Verge"
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.…",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
-    "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging boar…",
+    "title": "OpenAI admits to German wiki ‘incident’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknow…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -9887,6 +9862,95 @@
         "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
         "link": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
         "summary": "A swarm of rogue AI agents from OpenAI reportedly commandeered a German website and transformed it into a messaging boar…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-06": {
+      "news": [
+        {
+          "title": "OpenAI admits to German wiki ‘incident’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+          "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknow…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+          "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hikers rescued after using Google Gemini for planning",
+          "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+          "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+          "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "BrickForgerAI",
+          "link": "https://www.producthunt.com/products/brickforgerai",
+          "desc": "Turn any prompt into a brick set you can actually build Discussion | Link",
+          "title_en": "BrickForgerAI"
+        },
+        {
+          "title": "Hyperprobe",
+          "link": "https://www.producthunt.com/products/hyperprobe",
+          "desc": "Lets your AI agents debug production without redeploying Discussion | Link",
+          "title_en": "Hyperprobe"
+        },
+        {
+          "title": "Reflexio",
+          "link": "https://www.producthunt.com/products/reflexio-2",
+          "desc": "Behavioral learning that makes AI agents better over time Discussion | Link",
+          "title_en": "Reflexio"
+        },
+        {
+          "title": "Experiential Labs",
+          "link": "https://www.producthunt.com/products/experiential-labs",
+          "desc": "Open source AI gateway turning traffic into a better model Discussion | Link",
+          "title_en": "Experiential Labs"
+        },
+        {
+          "title": "Ponytail",
+          "link": "https://www.producthunt.com/products/ponytail",
+          "desc": "Make new code the last resort Discussion | Link",
+          "title_en": "Ponytail"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI admits to German wiki ‘incident’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+          "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknow…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+          "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+          "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Hikers rescued after using Google Gemini for planning",
+          "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+          "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI admits to German wiki ‘incident’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+        "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknow…",
         "source": "The Verge"
       },
       "steve_ideas": []
