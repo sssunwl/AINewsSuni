@@ -1,89 +1,84 @@
 {
-  "updated": "2026-09-06 13:27 HKT",
+  "updated": "2026-09-07 13:38 HKT",
   "news": [
     {
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknow…",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. T…",
       "source": "The Verge"
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
       "source": "TechCrunch"
     },
     {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-      "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-      "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "BrickForgerAI",
-      "link": "https://www.producthunt.com/products/brickforgerai",
-      "desc": "Turn any prompt into a brick set you can actually build Discussion | Link",
-      "title_en": "BrickForgerAI"
+      "title": "Tadata",
+      "link": "https://www.producthunt.com/products/tadata",
+      "desc": "The AI employee in Slack that reads the room. Discussion | Link",
+      "title_en": "Tadata"
     },
     {
-      "title": "Hyperprobe",
-      "link": "https://www.producthunt.com/products/hyperprobe",
-      "desc": "Lets your AI agents debug production without redeploying Discussion | Link",
-      "title_en": "Hyperprobe"
+      "title": "DocsAlot Visual Editor",
+      "link": "https://www.producthunt.com/products/docsalot-2",
+      "desc": "Create beautiful docs, by typing. No AI required. Discussion | Link",
+      "title_en": "DocsAlot Visual Editor"
     },
     {
-      "title": "Reflexio",
-      "link": "https://www.producthunt.com/products/reflexio-2",
-      "desc": "Behavioral learning that makes AI agents better over time Discussion | Link",
-      "title_en": "Reflexio"
+      "title": "AI Toolbox 3.0",
+      "link": "https://www.producthunt.com/products/chatgpt-toolbox",
+      "desc": "Search, organize and export every AI chat in one place Discussion | Link",
+      "title_en": "AI Toolbox 3.0"
     },
     {
-      "title": "Experiential Labs",
-      "link": "https://www.producthunt.com/products/experiential-labs",
-      "desc": "Open source AI gateway turning traffic into a better model Discussion | Link",
-      "title_en": "Experiential Labs"
+      "title": "Notify.domains",
+      "link": "https://www.producthunt.com/products/notify-domains",
+      "desc": "Know the moment a domain opportunity appears Discussion | Link",
+      "title_en": "Notify.domains"
     },
     {
-      "title": "Ponytail",
-      "link": "https://www.producthunt.com/products/ponytail",
-      "desc": "Make new code the last resort Discussion | Link",
-      "title_en": "Ponytail"
+      "title": "H3 Max by fal",
+      "link": "https://www.producthunt.com/products/fal-ai",
+      "desc": "fal's post-trained MiniMax H3 for quality video production Discussion | Link",
+      "title_en": "H3 Max by fal"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [],
+  "suniverse_tools": [
+    {
+      "title": "H3 Max by fal",
+      "link": "https://www.producthunt.com/products/fal-ai",
+      "desc": "fal's post-trained MiniMax H3 for quality video production Discussion | Link",
+      "title_en": "H3 Max by fal"
+    }
+  ],
   "major": [
     {
-      "title": "OpenAI admits to German wiki ‘incident’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-      "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknow…",
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. T…",
       "source": "The Verge"
     },
     {
-      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-      "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-      "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Hikers rescued after using Google Gemini for planning",
-      "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-      "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.…",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "OpenAI admits to German wiki ‘incident’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknow…",
+    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+    "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. T…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -9951,6 +9946,90 @@
         "title": "OpenAI admits to German wiki ‘incident’",
         "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
         "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknow…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-07": {
+      "news": [
+        {
+          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+          "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. T…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+          "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+          "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+          "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Tadata",
+          "link": "https://www.producthunt.com/products/tadata",
+          "desc": "The AI employee in Slack that reads the room. Discussion | Link",
+          "title_en": "Tadata"
+        },
+        {
+          "title": "DocsAlot Visual Editor",
+          "link": "https://www.producthunt.com/products/docsalot-2",
+          "desc": "Create beautiful docs, by typing. No AI required. Discussion | Link",
+          "title_en": "DocsAlot Visual Editor"
+        },
+        {
+          "title": "AI Toolbox 3.0",
+          "link": "https://www.producthunt.com/products/chatgpt-toolbox",
+          "desc": "Search, organize and export every AI chat in one place Discussion | Link",
+          "title_en": "AI Toolbox 3.0"
+        },
+        {
+          "title": "Notify.domains",
+          "link": "https://www.producthunt.com/products/notify-domains",
+          "desc": "Know the moment a domain opportunity appears Discussion | Link",
+          "title_en": "Notify.domains"
+        },
+        {
+          "title": "H3 Max by fal",
+          "link": "https://www.producthunt.com/products/fal-ai",
+          "desc": "fal's post-trained MiniMax H3 for quality video production Discussion | Link",
+          "title_en": "H3 Max by fal"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [
+        {
+          "title": "H3 Max by fal",
+          "link": "https://www.producthunt.com/products/fal-ai",
+          "desc": "fal's post-trained MiniMax H3 for quality video production Discussion | Link",
+          "title_en": "H3 Max by fal"
+        }
+      ],
+      "major": [
+        {
+          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+          "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. T…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+          "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. T…",
         "source": "The Verge"
       },
       "steve_ideas": []
