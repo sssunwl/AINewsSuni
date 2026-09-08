@@ -1,85 +1,66 @@
 {
-  "updated": "2026-09-07 13:38 HKT",
+  "updated": "2026-09-08 13:34 HKT",
   "news": [
     {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. T…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "title": "Opaque recurrence, and other AI terms that you should probably know",
+      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most …",
       "source": "TechCrunch"
     },
     {
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
-      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "source": "TechCrunch"
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
+      "source": "MIT Tech"
     }
   ],
   "tools": [
     {
-      "title": "Tadata",
-      "link": "https://www.producthunt.com/products/tadata",
-      "desc": "The AI employee in Slack that reads the room. Discussion | Link",
-      "title_en": "Tadata"
+      "title": "Nina by Antalpha",
+      "link": "https://www.producthunt.com/products/antalpha",
+      "desc": "Non-custodial AI Agent: research, predict & trade crypto Discussion | Link",
+      "title_en": "Nina by Antalpha"
     },
     {
-      "title": "DocsAlot Visual Editor",
-      "link": "https://www.producthunt.com/products/docsalot-2",
-      "desc": "Create beautiful docs, by typing. No AI required. Discussion | Link",
-      "title_en": "DocsAlot Visual Editor"
+      "title": "Tucky",
+      "link": "https://www.producthunt.com/products/tucky",
+      "desc": "Notes docked to your screen edge, with an AI agent inside Discussion | Link",
+      "title_en": "Tucky"
     },
     {
-      "title": "AI Toolbox 3.0",
-      "link": "https://www.producthunt.com/products/chatgpt-toolbox",
-      "desc": "Search, organize and export every AI chat in one place Discussion | Link",
-      "title_en": "AI Toolbox 3.0"
+      "title": "PR Lens by Coldtea.ai",
+      "link": "https://www.producthunt.com/products/coldtea",
+      "desc": "See code through a new lens Discussion | Link",
+      "title_en": "PR Lens by Coldtea.ai"
     },
     {
-      "title": "Notify.domains",
-      "link": "https://www.producthunt.com/products/notify-domains",
-      "desc": "Know the moment a domain opportunity appears Discussion | Link",
-      "title_en": "Notify.domains"
+      "title": "Airuncode",
+      "link": "https://www.producthunt.com/products/airuncode",
+      "desc": "Run multiple local coding agents on your machine Discussion | Link",
+      "title_en": "Airuncode"
     },
     {
-      "title": "H3 Max by fal",
-      "link": "https://www.producthunt.com/products/fal-ai",
-      "desc": "fal's post-trained MiniMax H3 for quality video production Discussion | Link",
-      "title_en": "H3 Max by fal"
+      "title": "Remind",
+      "link": "https://www.producthunt.com/products/remind-7",
+      "desc": "Full-screen meeting reminders with AI briefings Discussion | Link",
+      "title_en": "Remind"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [
-    {
-      "title": "H3 Max by fal",
-      "link": "https://www.producthunt.com/products/fal-ai",
-      "desc": "fal's post-trained MiniMax H3 for quality video production Discussion | Link",
-      "title_en": "H3 Max by fal"
-    }
-  ],
+  "suniverse_tools": [],
   "major": [
     {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. T…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
-      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "source": "TechCrunch"
+      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+      "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
+      "source": "MIT Tech"
     }
   ],
   "pick": {
-    "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-    "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. T…",
-    "source": "The Verge"
+    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+    "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
+    "source": "MIT Tech"
   },
   "steve_ideas": [],
   "history": {
@@ -10031,6 +10012,71 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
         "summary": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. T…",
         "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-08": {
+      "news": [
+        {
+          "title": "Opaque recurrence, and other AI terms that you should probably know",
+          "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most …",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+          "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
+          "source": "MIT Tech"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Nina by Antalpha",
+          "link": "https://www.producthunt.com/products/antalpha",
+          "desc": "Non-custodial AI Agent: research, predict & trade crypto Discussion | Link",
+          "title_en": "Nina by Antalpha"
+        },
+        {
+          "title": "Tucky",
+          "link": "https://www.producthunt.com/products/tucky",
+          "desc": "Notes docked to your screen edge, with an AI agent inside Discussion | Link",
+          "title_en": "Tucky"
+        },
+        {
+          "title": "PR Lens by Coldtea.ai",
+          "link": "https://www.producthunt.com/products/coldtea",
+          "desc": "See code through a new lens Discussion | Link",
+          "title_en": "PR Lens by Coldtea.ai"
+        },
+        {
+          "title": "Airuncode",
+          "link": "https://www.producthunt.com/products/airuncode",
+          "desc": "Run multiple local coding agents on your machine Discussion | Link",
+          "title_en": "Airuncode"
+        },
+        {
+          "title": "Remind",
+          "link": "https://www.producthunt.com/products/remind-7",
+          "desc": "Full-screen meeting reminders with AI briefings Discussion | Link",
+          "title_en": "Remind"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+          "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
+          "source": "MIT Tech"
+        }
+      ],
+      "pick": {
+        "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
+        "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
+        "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
+        "source": "MIT Tech"
       },
       "steve_ideas": []
     }
