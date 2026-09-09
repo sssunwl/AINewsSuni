@@ -1,66 +1,127 @@
 {
-  "updated": "2026-09-08 13:34 HKT",
+  "updated": "2026-09-09 13:41 HKT",
   "news": [
     {
-      "title": "Opaque recurrence, and other AI terms that you should probably know",
-      "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most …",
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earl…",
+      "source": "The Verge"
+    },
+    {
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Meta bets on AI agent Muse to catch up in AI race",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can p…",
+      "source": "The Verge"
+    },
+    {
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular …",
+      "source": "The Verge"
+    },
+    {
+      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome a…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generativ…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since wa…",
       "source": "TechCrunch"
     },
     {
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
-      "source": "MIT Tech"
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Nina by Antalpha",
-      "link": "https://www.producthunt.com/products/antalpha",
-      "desc": "Non-custodial AI Agent: research, predict & trade crypto Discussion | Link",
-      "title_en": "Nina by Antalpha"
+      "title": "GoodLads",
+      "link": "https://www.producthunt.com/products/good-lads-1-0",
+      "desc": "AI growth manager for your Google Ads account Discussion | Link",
+      "title_en": "GoodLads"
     },
     {
-      "title": "Tucky",
-      "link": "https://www.producthunt.com/products/tucky",
-      "desc": "Notes docked to your screen edge, with an AI agent inside Discussion | Link",
-      "title_en": "Tucky"
+      "title": "Widgo",
+      "link": "https://www.producthunt.com/products/paillor",
+      "desc": "AI Sales rep for your website visitors Discussion | Link",
+      "title_en": "Widgo"
     },
     {
-      "title": "PR Lens by Coldtea.ai",
-      "link": "https://www.producthunt.com/products/coldtea",
-      "desc": "See code through a new lens Discussion | Link",
-      "title_en": "PR Lens by Coldtea.ai"
+      "title": "Switch",
+      "link": "https://www.producthunt.com/products/switch-11",
+      "desc": "Bring any AI agent into Slack, Teams & Discord Discussion | Link",
+      "title_en": "Switch"
     },
     {
-      "title": "Airuncode",
-      "link": "https://www.producthunt.com/products/airuncode",
-      "desc": "Run multiple local coding agents on your machine Discussion | Link",
-      "title_en": "Airuncode"
+      "title": "Relaticle",
+      "link": "https://www.producthunt.com/products/relaticle",
+      "desc": "Open-source CRM with approval-gated AI writes Discussion | Link",
+      "title_en": "Relaticle"
     },
     {
-      "title": "Remind",
-      "link": "https://www.producthunt.com/products/remind-7",
-      "desc": "Full-screen meeting reminders with AI briefings Discussion | Link",
-      "title_en": "Remind"
+      "title": "Knockin'",
+      "link": "https://www.producthunt.com/products/knockin",
+      "desc": "Turns your static bio into an AI business card that replies Discussion | Link",
+      "title_en": "Knockin'"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generativ…",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-      "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
-      "source": "MIT Tech"
+      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earl…",
+      "source": "The Verge"
+    },
+    {
+      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image…",
+      "source": "The Verge"
+    },
+    {
+      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular …",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
-    "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
-    "source": "MIT Tech"
+    "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+    "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earl…",
+    "source": "The Verge"
   },
   "steve_ideas": [],
   "history": {
@@ -10077,6 +10138,132 @@
         "link": "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
         "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
         "source": "MIT Tech"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-09": {
+      "news": [
+        {
+          "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+          "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earl…",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+          "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta bets on AI agent Muse to catch up in AI race",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
+          "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can p…",
+          "source": "The Verge"
+        },
+        {
+          "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+          "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google’s Atlas of the human genome could pave the way for new treatments",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
+          "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome a…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+          "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+          "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generativ…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Hackers are stealing Claude tokens from subscribers",
+          "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
+          "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since wa…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+          "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+          "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "GoodLads",
+          "link": "https://www.producthunt.com/products/good-lads-1-0",
+          "desc": "AI growth manager for your Google Ads account Discussion | Link",
+          "title_en": "GoodLads"
+        },
+        {
+          "title": "Widgo",
+          "link": "https://www.producthunt.com/products/paillor",
+          "desc": "AI Sales rep for your website visitors Discussion | Link",
+          "title_en": "Widgo"
+        },
+        {
+          "title": "Switch",
+          "link": "https://www.producthunt.com/products/switch-11",
+          "desc": "Bring any AI agent into Slack, Teams & Discord Discussion | Link",
+          "title_en": "Switch"
+        },
+        {
+          "title": "Relaticle",
+          "link": "https://www.producthunt.com/products/relaticle",
+          "desc": "Open-source CRM with approval-gated AI writes Discussion | Link",
+          "title_en": "Relaticle"
+        },
+        {
+          "title": "Knockin'",
+          "link": "https://www.producthunt.com/products/knockin",
+          "desc": "Turns your static bio into an AI business card that replies Discussion | Link",
+          "title_en": "Knockin'"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+          "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+          "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+          "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generativ…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+          "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earl…",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
+          "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image…",
+          "source": "The Verge"
+        },
+        {
+          "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
+          "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular …",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
+        "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earl…",
+        "source": "The Verge"
       },
       "steve_ideas": []
     }
