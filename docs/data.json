@@ -1,126 +1,127 @@
 {
-  "updated": "2026-09-09 13:41 HKT",
+  "updated": "2026-09-10 13:32 HKT",
   "news": [
     {
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earl…",
+      "title": "Suno releases its first AI music model made with record industry help",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+      "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge t…",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image…",
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have bee…",
       "source": "The Verge"
     },
     {
-      "title": "Meta bets on AI agent Muse to catch up in AI race",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race",
-      "summary": "Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can p…",
+      "title": "Read the Apple document explaining how new listening features still protect your privacy",
+      "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+      "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including …",
       "source": "The Verge"
     },
     {
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular …",
+      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Referenc…",
       "source": "The Verge"
     },
     {
-      "title": "Google’s Atlas of the human genome could pave the way for new treatments",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas",
-      "summary": "Google DeepMind has unveiled an AI tool that its scientists claim could help unravel the mysteries of the human genome a…",
+      "title": "Microsoft has new AI privacy rules for schools",
+      "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+      "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems annou…",
       "source": "The Verge"
     },
     {
-      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generativ…",
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The…",
       "source": "The Verge"
     },
     {
-      "title": "Hackers are stealing Claude tokens from subscribers",
-      "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-      "summary": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since wa…",
-      "source": "TechCrunch"
+      "title": "Students who use AI generally score worse at school",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+      "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a gl…",
+      "source": "The Verge"
     },
     {
-      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-      "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-      "summary": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-      "source": "TechCrunch"
+      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill…",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "GoodLads",
-      "link": "https://www.producthunt.com/products/good-lads-1-0",
-      "desc": "AI growth manager for your Google Ads account Discussion | Link",
-      "title_en": "GoodLads"
+      "title": "Frigade Assist API",
+      "link": "https://www.producthunt.com/products/frigade",
+      "desc": "Give your AI agent guides that show users where to click Discussion | Link",
+      "title_en": "Frigade Assist API"
     },
     {
-      "title": "Widgo",
-      "link": "https://www.producthunt.com/products/paillor",
-      "desc": "AI Sales rep for your website visitors Discussion | Link",
-      "title_en": "Widgo"
+      "title": "ChatGPT Images 2.5",
+      "link": "https://www.producthunt.com/products/openai",
+      "desc": "Sharper visuals, faster flow, better creative control Discussion | Link",
+      "title_en": "ChatGPT Images 2.5"
     },
     {
-      "title": "Switch",
-      "link": "https://www.producthunt.com/products/switch-11",
-      "desc": "Bring any AI agent into Slack, Teams & Discord Discussion | Link",
-      "title_en": "Switch"
+      "title": "Basedash in Español Français & Português",
+      "link": "https://www.producthunt.com/products/basedash",
+      "desc": "Work with your data in your language Discussion | Link",
+      "title_en": "Basedash in Español Français & Português"
     },
     {
-      "title": "Relaticle",
-      "link": "https://www.producthunt.com/products/relaticle",
-      "desc": "Open-source CRM with approval-gated AI writes Discussion | Link",
-      "title_en": "Relaticle"
+      "title": "Type.com",
+      "link": "https://www.producthunt.com/products/type-com",
+      "desc": "A shared workspace for Claude, Codex, and your team Discussion | Link",
+      "title_en": "Type.com"
     },
     {
-      "title": "Knockin'",
-      "link": "https://www.producthunt.com/products/knockin",
-      "desc": "Turns your static bio into an AI business card that replies Discussion | Link",
-      "title_en": "Knockin'"
+      "title": "Noodle Seed",
+      "link": "https://www.producthunt.com/products/noodle-seed",
+      "desc": "Your product in AI and AI in your product Discussion | Link",
+      "title_en": "Noodle Seed"
     }
   ],
   "suniverse_news": [
     {
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image…",
+      "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+      "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+      "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Referenc…",
       "source": "The Verge"
     },
     {
-      "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-      "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-      "summary": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generativ…",
+      "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+      "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+      "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The…",
       "source": "The Verge"
     }
   ],
-  "suniverse_tools": [],
+  "suniverse_tools": [
+    {
+      "title": "ChatGPT Images 2.5",
+      "link": "https://www.producthunt.com/products/openai",
+      "desc": "Sharper visuals, faster flow, better creative control Discussion | Link",
+      "title_en": "ChatGPT Images 2.5"
+    }
+  ],
   "major": [
     {
-      "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-      "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earl…",
+      "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+      "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have bee…",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-      "summary": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image…",
-      "source": "The Verge"
-    },
-    {
-      "title": "AI power users claim Anthropic duped them with subscriptions, and they’re taking it to court",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/990313/anthropic-class-action-lawsuit-pricing-subscription-plans",
-      "summary": "Anthropic says power users are key to its business - it's prioritized them even when it means cutting off other popular …",
+      "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+      "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-    "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earl…",
+    "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+    "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have bee…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -10263,6 +10264,133 @@
         "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
         "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
         "summary": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earl…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-10": {
+      "news": [
+        {
+          "title": "Suno releases its first AI music model made with record industry help",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
+          "summary": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge t…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+          "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have bee…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Read the Apple document explaining how new listening features still protect your privacy",
+          "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
+          "summary": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+          "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+          "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Referenc…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Microsoft has new AI privacy rules for schools",
+          "link": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy",
+          "summary": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems annou…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+          "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+          "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Students who use AI generally score worse at school",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa",
+          "summary": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a gl…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+          "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Frigade Assist API",
+          "link": "https://www.producthunt.com/products/frigade",
+          "desc": "Give your AI agent guides that show users where to click Discussion | Link",
+          "title_en": "Frigade Assist API"
+        },
+        {
+          "title": "ChatGPT Images 2.5",
+          "link": "https://www.producthunt.com/products/openai",
+          "desc": "Sharper visuals, faster flow, better creative control Discussion | Link",
+          "title_en": "ChatGPT Images 2.5"
+        },
+        {
+          "title": "Basedash in Español Français & Português",
+          "link": "https://www.producthunt.com/products/basedash",
+          "desc": "Work with your data in your language Discussion | Link",
+          "title_en": "Basedash in Español Français & Português"
+        },
+        {
+          "title": "Type.com",
+          "link": "https://www.producthunt.com/products/type-com",
+          "desc": "A shared workspace for Claude, Codex, and your team Discussion | Link",
+          "title_en": "Type.com"
+        },
+        {
+          "title": "Noodle Seed",
+          "link": "https://www.producthunt.com/products/noodle-seed",
+          "desc": "Your product in AI and AI in your product Discussion | Link",
+          "title_en": "Noodle Seed"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+          "link": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+          "summary": "Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Referenc…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Amazon Prime Video’s new AI tech matches lips to dubbed audio",
+          "link": "https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing",
+          "summary": "Amazon's Prime Video is launching a new AI-powered feature that lines up an actor's mouth with \"human-dubbed\" audio. The…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [
+        {
+          "title": "ChatGPT Images 2.5",
+          "link": "https://www.producthunt.com/products/openai",
+          "desc": "Sharper visuals, faster flow, better creative control Discussion | Link",
+          "title_en": "ChatGPT Images 2.5"
+        }
+      ],
+      "major": [
+        {
+          "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+          "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have bee…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+          "summary": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+        "summary": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have bee…",
         "source": "The Verge"
       },
       "steve_ideas": []
