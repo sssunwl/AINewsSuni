@@ -1,115 +1,114 @@
 {
-  "updated": "2026-09-11 13:35 HKT",
+  "updated": "2026-09-12 13:21 HKT",
   "news": [
     {
-      "title": "Slack can now vibe-code interactive charts and reports inside chats",
-      "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-      "summary": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites,…",
+      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an a…",
       "source": "The Verge"
     },
     {
-      "title": "Schools are catching on to Big Tech’s playbook",
-      "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-      "summary": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to …",
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anth…",
       "source": "The Verge"
     },
     {
-      "title": "Universal Music is launching an AI music platform with ElevenLabs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-      "summary": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed …",
+      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for perso…",
       "source": "The Verge"
     },
     {
-      "title": "Meta’s Muse AI works and creeps me out",
-      "link": "https://www.theverge.com/tech/993391/meta-muse-ai-hands-on",
-      "summary": "Meta has launched its new Muse assistant, marking the company's first real foray into AI-powered productivity tools. The…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Why the current tech backlash feels different",
-      "link": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-      "summary": "This interview has been lightly edited for length and clarity. Nick Statt: Hello and welcome to Decoder, Nilay’s show ab…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Mathematicians want proof OpenAI didn’t use their work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discov…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
-      "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
-      "summary": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, i…",
+      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
       "source": "TechCrunch"
     },
     {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building bu…",
+      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Viso Now",
-      "link": "https://www.producthunt.com/products/viso-now",
-      "desc": "Build computer vision applications with AI Discussion | Link",
-      "title_en": "Viso Now"
+      "title": "easyspecs.ai",
+      "link": "https://www.producthunt.com/products/easyspecs-ai",
+      "desc": "The spec review platform Discussion | Link",
+      "title_en": "easyspecs.ai"
     },
     {
-      "title": "Athenic AI",
-      "link": "https://www.producthunt.com/products/athenic-ai",
-      "desc": "Beat the market with 90+ datasets and AI made for analysis Discussion | Link",
-      "title_en": "Athenic AI"
+      "title": "chat-recall",
+      "link": "https://www.producthunt.com/products/chat-recall",
+      "desc": "Ctrl+F for every conversation you've had with an AI Discussion | Link",
+      "title_en": "chat-recall"
     },
     {
-      "title": "Typewise Nova",
-      "link": "https://www.producthunt.com/products/typewise",
-      "desc": "AI customer experience that builds and improves itself Discussion | Link",
-      "title_en": "Typewise Nova"
+      "title": "sizeless",
+      "link": "https://www.producthunt.com/products/sizeless",
+      "desc": "Spatial AI for underground infrastructure Discussion | Link",
+      "title_en": "sizeless"
     },
     {
-      "title": "Modeinspect",
-      "link": "https://www.producthunt.com/products/modeinspect-1-0",
-      "desc": "99 Days Free AI Credits - Design product UI in your codebase Discussion | Link",
-      "title_en": "Modeinspect"
+      "title": "Accordio",
+      "link": "https://www.producthunt.com/products/accordio",
+      "desc": "Give Claude the admin tools is missing Discussion | Link",
+      "title_en": "Accordio"
     },
     {
-      "title": "AI Observability by OpenObserve",
-      "link": "https://www.producthunt.com/products/openobserve",
-      "desc": "OpenTelemetry-native observability for agents and LLMs Discussion | Link",
-      "title_en": "AI Observability by OpenObserve"
+      "title": "Jackalope",
+      "link": "https://www.producthunt.com/products/jackalope",
+      "desc": "Codex, Claude Code, Grok, + OpenCode in one shared workspace Discussion | Link",
+      "title_en": "Jackalope"
     }
   ],
   "suniverse_news": [
     {
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building bu…",
-      "source": "TechCrunch"
-    }
-  ],
-  "suniverse_tools": [
-    {
-      "title": "Modeinspect",
-      "link": "https://www.producthunt.com/products/modeinspect-1-0",
-      "desc": "99 Days Free AI Credits - Design product UI in your codebase Discussion | Link",
-      "title_en": "Modeinspect"
-    }
-  ],
-  "major": [
-    {
-      "title": "Mathematicians want proof OpenAI didn’t use their work",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-      "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discov…",
+      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for perso…",
       "source": "The Verge"
     }
   ],
+  "suniverse_tools": [],
+  "major": [
+    {
+      "title": "Anthropic spent this week in hot water over cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anth…",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "source": "TechCrunch"
+    }
+  ],
   "pick": {
-    "title": "Mathematicians want proof OpenAI didn’t use their work",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-    "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discov…",
+    "title": "Anthropic spent this week in hot water over cybersecurity",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+    "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anth…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -10494,6 +10493,120 @@
         "title": "Mathematicians want proof OpenAI didn’t use their work",
         "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
         "summary": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discov…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-12": {
+      "news": [
+        {
+          "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
+          "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an a…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic spent this week in hot water over cybersecurity",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+          "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anth…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for perso…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI’s feud with mathematicians is only escalating",
+          "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+          "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+          "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+          "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+          "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "easyspecs.ai",
+          "link": "https://www.producthunt.com/products/easyspecs-ai",
+          "desc": "The spec review platform Discussion | Link",
+          "title_en": "easyspecs.ai"
+        },
+        {
+          "title": "chat-recall",
+          "link": "https://www.producthunt.com/products/chat-recall",
+          "desc": "Ctrl+F for every conversation you've had with an AI Discussion | Link",
+          "title_en": "chat-recall"
+        },
+        {
+          "title": "sizeless",
+          "link": "https://www.producthunt.com/products/sizeless",
+          "desc": "Spatial AI for underground infrastructure Discussion | Link",
+          "title_en": "sizeless"
+        },
+        {
+          "title": "Accordio",
+          "link": "https://www.producthunt.com/products/accordio",
+          "desc": "Give Claude the admin tools is missing Discussion | Link",
+          "title_en": "Accordio"
+        },
+        {
+          "title": "Jackalope",
+          "link": "https://www.producthunt.com/products/jackalope",
+          "desc": "Codex, Claude Code, Grok, + OpenCode in one shared workspace Discussion | Link",
+          "title_en": "Jackalope"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
+          "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
+          "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for perso…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Anthropic spent this week in hot water over cybersecurity",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+          "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anth…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI’s feud with mathematicians is only escalating",
+          "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+          "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Anthropic spent this week in hot water over cybersecurity",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+        "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anth…",
         "source": "The Verge"
       },
       "steve_ideas": []
