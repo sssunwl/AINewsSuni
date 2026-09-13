@@ -1,114 +1,107 @@
 {
-  "updated": "2026-09-12 13:21 HKT",
+  "updated": "2026-09-13 13:37 HKT",
   "news": [
     {
-      "title": "Lawyer fined $5K over AI-hallucinated witnesses in a murder case",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-      "summary": "New Mexico's Supreme Court is punishing a lawyer for including AI-fabricated witnesses and fake police testimony in an a…",
+      "title": "OpenAI 的流氓人工智慧在 5 月試圖攻擊另一家公司",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "summary": "5 月份，數百個惡意和垃圾郵件包被上傳到 RubyGems，對主機造成嚴重破壞。不…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anth…",
+      "title": "Sam Altman 表示 OpenAI 在 2026 年上市將是“不明智的”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "summary": "OpenAI執行長Sam Altman在接受《財星》採訪時證實，2026年OpenAI不會進行IPO。越過海岸…",
       "source": "The Verge"
     },
     {
-      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for perso…",
+      "title": "Anthropic執行長表示，是時候為人工智慧踩煞車了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "summary": "Anthropic 執行長 Dario Amodei 表示，現在是放慢人工智慧開發的時候了，並將為第三方評估者提供…",
       "source": "The Verge"
     },
     {
-      "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-      "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+      "title": "川普給資料中心污染通行證",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+      "summary": "唐納德·特朗普總統以加快人工智慧資料中心建設的名義削弱環境法規…",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI只想贏",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+      "summary": "過去幾年，OpenAI 在數學領域日益困難的領域插上了旗幟。本星期， …",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
+      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "summary": "儘管 OpenAI 已秘密申請 IPO，但執行長 Sam A 表示，該公司今年不會上市…",
       "source": "TechCrunch"
     },
     {
-      "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
-      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-      "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11…",
+      "title": "Anthropic執行長概述了減緩人工智慧發展的計劃",
+      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+      "summary": "Anthropic 的 Dario Amodei 和 OpenAI 的 Sam Altman 似乎都同意現在是「開拓前沿」的時候了。那會帶來什麼…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "easyspecs.ai",
-      "link": "https://www.producthunt.com/products/easyspecs-ai",
-      "desc": "The spec review platform Discussion | Link",
-      "title_en": "easyspecs.ai"
+      "title": "A刷 (ABrush)",
+      "link": "https://www.producthunt.com/products/abrush-ai-2",
+      "desc": "數位藝術家的 AI Studio 討論 |關聯",
+      "title_en": "ABrush"
     },
     {
-      "title": "chat-recall",
-      "link": "https://www.producthunt.com/products/chat-recall",
-      "desc": "Ctrl+F for every conversation you've had with an AI Discussion | Link",
-      "title_en": "chat-recall"
+      "title": "工作生活熊貓 (Work Life Panda)",
+      "link": "https://www.producthunt.com/products/work-life-panda",
+      "desc": "每項任務、每個日曆、一個應用程式。私人設備上人工智慧討論 |關聯",
+      "title_en": "Work Life Panda"
     },
     {
-      "title": "sizeless",
+      "title": "連結輕彈 (LinkFlick)",
+      "link": "https://www.producthunt.com/products/linkflick",
+      "desc": "停止在 Mac 之間重新配對妙控鍵盤 討論 |關聯",
+      "title_en": "LinkFlick"
+    },
+    {
+      "title": "隊長殺戮開關 (Captain Kill Switch)",
+      "link": "https://www.producthunt.com/products/captain-kill-switch",
+      "desc": "一鍵關閉所有開啟的應用程式 討論 |關聯",
+      "title_en": "Captain Kill Switch"
+    },
+    {
+      "title": "無尺寸的 (sizeless)",
       "link": "https://www.producthunt.com/products/sizeless",
-      "desc": "Spatial AI for underground infrastructure Discussion | Link",
+      "desc": "地下基礎設施空間人工智慧討論 |關聯",
       "title_en": "sizeless"
-    },
-    {
-      "title": "Accordio",
-      "link": "https://www.producthunt.com/products/accordio",
-      "desc": "Give Claude the admin tools is missing Discussion | Link",
-      "title_en": "Accordio"
-    },
-    {
-      "title": "Jackalope",
-      "link": "https://www.producthunt.com/products/jackalope",
-      "desc": "Codex, Claude Code, Grok, + OpenCode in one shared workspace Discussion | Link",
-      "title_en": "Jackalope"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "Meta says it&#8217;s changing AI suggestions after posing invasive personal questions",
-      "link": "https://www.theverge.com/tech/993974/meta-ai-prompt-invasive-suggestions",
-      "summary": "Meta says it's making changes to the prompts suggested by its AI chatbot after a viral video showed it digging for perso…",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic spent this week in hot water over cybersecurity",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-      "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anth…",
+      "title": "OpenAI 的流氓人工智慧在 5 月試圖攻擊另一家公司",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+      "summary": "5 月份，數百個惡意和垃圾郵件包被上傳到 RubyGems，對主機造成嚴重破壞。不…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI’s feud with mathematicians is only escalating",
-      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-      "source": "TechCrunch"
+      "title": "Sam Altman 表示 OpenAI 在 2026 年上市將是“不明智的”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+      "summary": "OpenAI執行長Sam Altman在接受《財星》採訪時證實，2026年OpenAI不會進行IPO。越過海岸…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic執行長表示，是時候為人工智慧踩煞車了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+      "summary": "Anthropic 執行長 Dario Amodei 表示，現在是放慢人工智慧開發的時候了，並將為第三方評估者提供…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Anthropic spent this week in hot water over cybersecurity",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
-    "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anth…",
+    "title": "OpenAI 的流氓人工智慧在 5 月試圖攻擊另一家公司",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+    "summary": "5 月份，數百個惡意和垃圾郵件包被上傳到 RubyGems，對主機造成嚴重破壞。不…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -10607,6 +10600,113 @@
         "title": "Anthropic spent this week in hot water over cybersecurity",
         "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
         "summary": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anth…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-13": {
+      "news": [
+        {
+          "title": "OpenAI 的流氓人工智慧在 5 月試圖攻擊另一家公司",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+          "summary": "5 月份，數百個惡意和垃圾郵件包被上傳到 RubyGems，對主機造成嚴重破壞。不…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Sam Altman 表示 OpenAI 在 2026 年上市將是“不明智的”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+          "summary": "OpenAI執行長Sam Altman在接受《財星》採訪時證實，2026年OpenAI不會進行IPO。越過海岸…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic執行長表示，是時候為人工智慧踩煞車了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+          "summary": "Anthropic 執行長 Dario Amodei 表示，現在是放慢人工智慧開發的時候了，並將為第三方評估者提供…",
+          "source": "The Verge"
+        },
+        {
+          "title": "川普給資料中心污染通行證",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
+          "summary": "唐納德·特朗普總統以加快人工智慧資料中心建設的名義削弱環境法規…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI只想贏",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
+          "summary": "過去幾年，OpenAI 在數學領域日益困難的領域插上了旗幟。本星期， …",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
+          "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "summary": "儘管 OpenAI 已秘密申請 IPO，但執行長 Sam A 表示，該公司今年不會上市…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic執行長概述了減緩人工智慧發展的計劃",
+          "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+          "summary": "Anthropic 的 Dario Amodei 和 OpenAI 的 Sam Altman 似乎都同意現在是「開拓前沿」的時候了。那會帶來什麼…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "A刷 (ABrush)",
+          "link": "https://www.producthunt.com/products/abrush-ai-2",
+          "desc": "數位藝術家的 AI Studio 討論 |關聯",
+          "title_en": "ABrush"
+        },
+        {
+          "title": "工作生活熊貓 (Work Life Panda)",
+          "link": "https://www.producthunt.com/products/work-life-panda",
+          "desc": "每項任務、每個日曆、一個應用程式。私人設備上人工智慧討論 |關聯",
+          "title_en": "Work Life Panda"
+        },
+        {
+          "title": "連結輕彈 (LinkFlick)",
+          "link": "https://www.producthunt.com/products/linkflick",
+          "desc": "停止在 Mac 之間重新配對妙控鍵盤 討論 |關聯",
+          "title_en": "LinkFlick"
+        },
+        {
+          "title": "隊長殺戮開關 (Captain Kill Switch)",
+          "link": "https://www.producthunt.com/products/captain-kill-switch",
+          "desc": "一鍵關閉所有開啟的應用程式 討論 |關聯",
+          "title_en": "Captain Kill Switch"
+        },
+        {
+          "title": "無尺寸的 (sizeless)",
+          "link": "https://www.producthunt.com/products/sizeless",
+          "desc": "地下基礎設施空間人工智慧討論 |關聯",
+          "title_en": "sizeless"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 的流氓人工智慧在 5 月試圖攻擊另一家公司",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+          "summary": "5 月份，數百個惡意和垃圾郵件包被上傳到 RubyGems，對主機造成嚴重破壞。不…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Sam Altman 表示 OpenAI 在 2026 年上市將是“不明智的”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+          "summary": "OpenAI執行長Sam Altman在接受《財星》採訪時證實，2026年OpenAI不會進行IPO。越過海岸…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic執行長表示，是時候為人工智慧踩煞車了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+          "summary": "Anthropic 執行長 Dario Amodei 表示，現在是放慢人工智慧開發的時候了，並將為第三方評估者提供…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 的流氓人工智慧在 5 月試圖攻擊另一家公司",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+        "summary": "5 月份，數百個惡意和垃圾郵件包被上傳到 RubyGems，對主機造成嚴重破壞。不…",
         "source": "The Verge"
       },
       "steve_ideas": []
