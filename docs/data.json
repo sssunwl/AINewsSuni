@@ -1,107 +1,71 @@
 {
-  "updated": "2026-09-13 13:37 HKT",
+  "updated": "2026-09-14 13:44 HKT",
   "news": [
     {
-      "title": "OpenAI 的流氓人工智慧在 5 月試圖攻擊另一家公司",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "summary": "5 月份，數百個惡意和垃圾郵件包被上傳到 RubyGems，對主機造成嚴重破壞。不…",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow…",
       "source": "The Verge"
     },
     {
-      "title": "Sam Altman 表示 OpenAI 在 2026 年上市將是“不明智的”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "summary": "OpenAI執行長Sam Altman在接受《財星》採訪時證實，2026年OpenAI不會進行IPO。越過海岸…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic執行長表示，是時候為人工智慧踩煞車了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "summary": "Anthropic 執行長 Dario Amodei 表示，現在是放慢人工智慧開發的時候了，並將為第三方評估者提供…",
-      "source": "The Verge"
-    },
-    {
-      "title": "川普給資料中心污染通行證",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-      "summary": "唐納德·特朗普總統以加快人工智慧資料中心建設的名義削弱環境法規…",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI只想贏",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994255/openai-millennium-prize-problem-tristan-buckmaster-competition",
-      "summary": "過去幾年，OpenAI 在數學領域日益困難的領域插上了旗幟。本星期， …",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的”",
-      "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-      "summary": "儘管 OpenAI 已秘密申請 IPO，但執行長 Sam A 表示，該公司今年不會上市…",
+      "title": "What’s behind the AI industry’s latest warnings of doom?",
+      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
       "source": "TechCrunch"
     },
     {
-      "title": "Anthropic執行長概述了減緩人工智慧發展的計劃",
-      "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-      "summary": "Anthropic 的 Dario Amodei 和 OpenAI 的 Sam Altman 似乎都同意現在是「開拓前沿」的時候了。那會帶來什麼…",
+      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very …",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "A刷 (ABrush)",
-      "link": "https://www.producthunt.com/products/abrush-ai-2",
-      "desc": "數位藝術家的 AI Studio 討論 |關聯",
-      "title_en": "ABrush"
+      "title": "Neopress",
+      "link": "https://www.producthunt.com/products/neopress",
+      "desc": "Build and grow your website by chatting with AI Discussion | Link",
+      "title_en": "Neopress"
     },
     {
-      "title": "工作生活熊貓 (Work Life Panda)",
-      "link": "https://www.producthunt.com/products/work-life-panda",
-      "desc": "每項任務、每個日曆、一個應用程式。私人設備上人工智慧討論 |關聯",
-      "title_en": "Work Life Panda"
+      "title": "Perplexity Hybrid Compute",
+      "link": "https://www.producthunt.com/products/perplexity-ai",
+      "desc": "Splitting AI tasks: Cloud for research, Mac for privacy Discussion | Link",
+      "title_en": "Perplexity Hybrid Compute"
     },
     {
-      "title": "連結輕彈 (LinkFlick)",
+      "title": "Visiby",
+      "link": "https://www.producthunt.com/products/visiby",
+      "desc": "Track and grow your visibility across AI search Discussion | Link",
+      "title_en": "Visiby"
+    },
+    {
+      "title": "LinkFlick",
       "link": "https://www.producthunt.com/products/linkflick",
-      "desc": "停止在 Mac 之間重新配對妙控鍵盤 討論 |關聯",
+      "desc": "Stop re-pairing your Magic Keyboard between Macs Discussion | Link",
       "title_en": "LinkFlick"
     },
     {
-      "title": "隊長殺戮開關 (Captain Kill Switch)",
-      "link": "https://www.producthunt.com/products/captain-kill-switch",
-      "desc": "一鍵關閉所有開啟的應用程式 討論 |關聯",
-      "title_en": "Captain Kill Switch"
-    },
-    {
-      "title": "無尺寸的 (sizeless)",
-      "link": "https://www.producthunt.com/products/sizeless",
-      "desc": "地下基礎設施空間人工智慧討論 |關聯",
-      "title_en": "sizeless"
+      "title": "Work Life Panda",
+      "link": "https://www.producthunt.com/products/work-life-panda",
+      "desc": "Every task, every calendar, one app. Private on-device AI Discussion | Link",
+      "title_en": "Work Life Panda"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 的流氓人工智慧在 5 月試圖攻擊另一家公司",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-      "summary": "5 月份，數百個惡意和垃圾郵件包被上傳到 RubyGems，對主機造成嚴重破壞。不…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Sam Altman 表示 OpenAI 在 2026 年上市將是“不明智的”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
-      "summary": "OpenAI執行長Sam Altman在接受《財星》採訪時證實，2026年OpenAI不會進行IPO。越過海岸…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic執行長表示，是時候為人工智慧踩煞車了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-      "summary": "Anthropic 執行長 Dario Amodei 表示，現在是放慢人工智慧開發的時候了，並將為第三方評估者提供…",
+      "title": "Trump and Mike Johnson think the AI industry is overreacting",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "OpenAI 的流氓人工智慧在 5 月試圖攻擊另一家公司",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-    "summary": "5 月份，數百個惡意和垃圾郵件包被上傳到 RubyGems，對主機造成嚴重破壞。不…",
+    "title": "Trump and Mike Johnson think the AI industry is overreacting",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+    "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -10707,6 +10671,77 @@
         "title": "OpenAI 的流氓人工智慧在 5 月試圖攻擊另一家公司",
         "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
         "summary": "5 月份，數百個惡意和垃圾郵件包被上傳到 RubyGems，對主機造成嚴重破壞。不…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-14": {
+      "news": [
+        {
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow…",
+          "source": "The Verge"
+        },
+        {
+          "title": "What’s behind the AI industry’s latest warnings of doom?",
+          "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+          "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
+          "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
+          "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very …",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Neopress",
+          "link": "https://www.producthunt.com/products/neopress",
+          "desc": "Build and grow your website by chatting with AI Discussion | Link",
+          "title_en": "Neopress"
+        },
+        {
+          "title": "Perplexity Hybrid Compute",
+          "link": "https://www.producthunt.com/products/perplexity-ai",
+          "desc": "Splitting AI tasks: Cloud for research, Mac for privacy Discussion | Link",
+          "title_en": "Perplexity Hybrid Compute"
+        },
+        {
+          "title": "Visiby",
+          "link": "https://www.producthunt.com/products/visiby",
+          "desc": "Track and grow your visibility across AI search Discussion | Link",
+          "title_en": "Visiby"
+        },
+        {
+          "title": "LinkFlick",
+          "link": "https://www.producthunt.com/products/linkflick",
+          "desc": "Stop re-pairing your Magic Keyboard between Macs Discussion | Link",
+          "title_en": "LinkFlick"
+        },
+        {
+          "title": "Work Life Panda",
+          "link": "https://www.producthunt.com/products/work-life-panda",
+          "desc": "Every task, every calendar, one app. Private on-device AI Discussion | Link",
+          "title_en": "Work Life Panda"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Trump and Mike Johnson think the AI industry is overreacting",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+          "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Trump and Mike Johnson think the AI industry is overreacting",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+        "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow…",
         "source": "The Verge"
       },
       "steve_ideas": []
