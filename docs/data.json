@@ -1,71 +1,120 @@
 {
-  "updated": "2026-09-14 13:44 HKT",
+  "updated": "2026-09-15 13:45 HKT",
   "news": [
     {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow…",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon M…",
       "source": "The Verge"
     },
     {
-      "title": "What’s behind the AI industry’s latest warnings of doom?",
-      "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-      "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+      "title": "What execs and politicians are saying about slowing down AI development",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. …",
+      "source": "The Verge"
+    },
+    {
+      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progre…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
       "source": "TechCrunch"
     },
     {
-      "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-      "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-      "summary": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very …",
+      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang see…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrai…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "With iOS 27, I’m actually using Siri again",
+      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Neopress",
-      "link": "https://www.producthunt.com/products/neopress",
-      "desc": "Build and grow your website by chatting with AI Discussion | Link",
-      "title_en": "Neopress"
+      "title": "Slashy Assistant",
+      "link": "https://www.producthunt.com/products/slashy-3",
+      "desc": "The AI assistant that does email for you Discussion | Link",
+      "title_en": "Slashy Assistant"
     },
     {
-      "title": "Perplexity Hybrid Compute",
-      "link": "https://www.producthunt.com/products/perplexity-ai",
-      "desc": "Splitting AI tasks: Cloud for research, Mac for privacy Discussion | Link",
-      "title_en": "Perplexity Hybrid Compute"
+      "title": "Juggler",
+      "link": "https://www.producthunt.com/products/juggler",
+      "desc": "A visual AI coding harness Discussion | Link",
+      "title_en": "Juggler"
     },
     {
-      "title": "Visiby",
-      "link": "https://www.producthunt.com/products/visiby",
-      "desc": "Track and grow your visibility across AI search Discussion | Link",
-      "title_en": "Visiby"
+      "title": "Hello Inbox",
+      "link": "https://www.producthunt.com/products/helloinbox",
+      "desc": "Get more marketing emails into the inbox Discussion | Link",
+      "title_en": "Hello Inbox"
     },
     {
-      "title": "LinkFlick",
-      "link": "https://www.producthunt.com/products/linkflick",
-      "desc": "Stop re-pairing your Magic Keyboard between Macs Discussion | Link",
-      "title_en": "LinkFlick"
+      "title": "Marqly 6.0",
+      "link": "https://www.producthunt.com/products/marqly",
+      "desc": "Ask your bookmarks. Bring them to your AI. Discussion | Link",
+      "title_en": "Marqly 6.0"
     },
     {
-      "title": "Work Life Panda",
-      "link": "https://www.producthunt.com/products/work-life-panda",
-      "desc": "Every task, every calendar, one app. Private on-device AI Discussion | Link",
-      "title_en": "Work Life Panda"
+      "title": "TryCase",
+      "link": "https://www.producthunt.com/products/trycase",
+      "desc": "AI tests your PRs. Get a video walkthrough before you merge. Discussion | Link",
+      "title_en": "TryCase"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [],
+  "suniverse_tools": [
+    {
+      "title": "Hello Inbox",
+      "link": "https://www.producthunt.com/products/helloinbox",
+      "desc": "Get more marketing emails into the inbox Discussion | Link",
+      "title_en": "Hello Inbox"
+    },
+    {
+      "title": "TryCase",
+      "link": "https://www.producthunt.com/products/trycase",
+      "desc": "AI tests your PRs. Get a video walkthrough before you merge. Discussion | Link",
+      "title_en": "TryCase"
+    }
+  ],
   "major": [
     {
-      "title": "Trump and Mike Johnson think the AI industry is overreacting",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-      "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow…",
+      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon M…",
       "source": "The Verge"
+    },
+    {
+      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrai…",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Trump and Mike Johnson think the AI industry is overreacting",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-    "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow…",
+    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+    "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon M…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -10742,6 +10791,126 @@
         "title": "Trump and Mike Johnson think the AI industry is overreacting",
         "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
         "summary": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-15": {
+      "news": [
+        {
+          "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon M…",
+          "source": "The Verge"
+        },
+        {
+          "title": "What execs and politicians are saying about slowing down AI development",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+          "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+          "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+          "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
+          "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
+          "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progre…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Jensen Huang took a call from Trump, and showed off something else, too",
+          "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
+          "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+          "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+          "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang see…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrai…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "With iOS 27, I’m actually using Siri again",
+          "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+          "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Slashy Assistant",
+          "link": "https://www.producthunt.com/products/slashy-3",
+          "desc": "The AI assistant that does email for you Discussion | Link",
+          "title_en": "Slashy Assistant"
+        },
+        {
+          "title": "Juggler",
+          "link": "https://www.producthunt.com/products/juggler",
+          "desc": "A visual AI coding harness Discussion | Link",
+          "title_en": "Juggler"
+        },
+        {
+          "title": "Hello Inbox",
+          "link": "https://www.producthunt.com/products/helloinbox",
+          "desc": "Get more marketing emails into the inbox Discussion | Link",
+          "title_en": "Hello Inbox"
+        },
+        {
+          "title": "Marqly 6.0",
+          "link": "https://www.producthunt.com/products/marqly",
+          "desc": "Ask your bookmarks. Bring them to your AI. Discussion | Link",
+          "title_en": "Marqly 6.0"
+        },
+        {
+          "title": "TryCase",
+          "link": "https://www.producthunt.com/products/trycase",
+          "desc": "AI tests your PRs. Get a video walkthrough before you merge. Discussion | Link",
+          "title_en": "TryCase"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [
+        {
+          "title": "Hello Inbox",
+          "link": "https://www.producthunt.com/products/helloinbox",
+          "desc": "Get more marketing emails into the inbox Discussion | Link",
+          "title_en": "Hello Inbox"
+        },
+        {
+          "title": "TryCase",
+          "link": "https://www.producthunt.com/products/trycase",
+          "desc": "AI tests your PRs. Get a video walkthrough before you merge. Discussion | Link",
+          "title_en": "TryCase"
+        }
+      ],
+      "major": [
+        {
+          "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+          "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon M…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+          "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+          "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrai…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+        "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon M…",
         "source": "The Verge"
       },
       "steve_ideas": []
