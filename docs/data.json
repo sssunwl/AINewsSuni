@@ -1,121 +1,115 @@
 {
-  "updated": "2026-09-15 13:45 HKT",
+  "updated": "2026-09-16 13:36 HKT",
   "news": [
     {
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon M…",
+      "title": "AI and data centers are incredibly unpopular in every poll",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what …",
       "source": "The Verge"
     },
     {
-      "title": "What execs and politicians are saying about slowing down AI development",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-      "summary": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"…",
+      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its sta…",
       "source": "The Verge"
     },
     {
-      "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-      "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-      "summary": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. …",
+      "title": "This doorbell camera lets a human security guard watch your front door",
+      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+      "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new Si…",
       "source": "The Verge"
     },
     {
-      "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-      "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-      "summary": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progre…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Jensen Huang took a call from Trump, and showed off something else, too",
-      "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
-      "summary": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be eng…",
       "source": "TechCrunch"
     },
     {
-      "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-      "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-      "summary": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang see…",
+      "title": "The AI data center boom is colliding with cities scarred by big industry",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construc…",
       "source": "TechCrunch"
     },
     {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrai…",
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handl…",
       "source": "TechCrunch"
     },
     {
-      "title": "With iOS 27, I’m actually using Siri again",
-      "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-      "summary": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day…",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Slashy Assistant",
-      "link": "https://www.producthunt.com/products/slashy-3",
-      "desc": "The AI assistant that does email for you Discussion | Link",
-      "title_en": "Slashy Assistant"
+      "title": "Voiskey",
+      "link": "https://www.producthunt.com/products/voiskey",
+      "desc": "AI voice typing that sounds right in every app Discussion | Link",
+      "title_en": "Voiskey"
     },
     {
-      "title": "Juggler",
-      "link": "https://www.producthunt.com/products/juggler",
-      "desc": "A visual AI coding harness Discussion | Link",
-      "title_en": "Juggler"
+      "title": "jurniti",
+      "link": "https://www.producthunt.com/products/jurniti",
+      "desc": "Always-on AI agents in Firecracker microVMs Discussion | Link",
+      "title_en": "jurniti"
     },
     {
-      "title": "Hello Inbox",
-      "link": "https://www.producthunt.com/products/helloinbox",
-      "desc": "Get more marketing emails into the inbox Discussion | Link",
-      "title_en": "Hello Inbox"
+      "title": "Mailyte",
+      "link": "https://www.producthunt.com/products/mailyte",
+      "desc": "Email for your team, your app, and your customers. Discussion | Link",
+      "title_en": "Mailyte"
     },
     {
-      "title": "Marqly 6.0",
-      "link": "https://www.producthunt.com/products/marqly",
-      "desc": "Ask your bookmarks. Bring them to your AI. Discussion | Link",
-      "title_en": "Marqly 6.0"
+      "title": "tiun.",
+      "link": "https://www.producthunt.com/products/tiun-2",
+      "desc": "Auth, billing, and payments for AI builders Discussion | Link",
+      "title_en": "tiun."
     },
     {
-      "title": "TryCase",
-      "link": "https://www.producthunt.com/products/trycase",
-      "desc": "AI tests your PRs. Get a video walkthrough before you merge. Discussion | Link",
-      "title_en": "TryCase"
+      "title": "Buddy AI Access (MCP)",
+      "link": "https://www.producthunt.com/products/buddy",
+      "desc": "Your agent needs more than your repo Discussion | Link",
+      "title_en": "Buddy AI Access (MCP)"
     }
   ],
-  "suniverse_news": [],
-  "suniverse_tools": [
+  "suniverse_news": [
     {
-      "title": "Hello Inbox",
-      "link": "https://www.producthunt.com/products/helloinbox",
-      "desc": "Get more marketing emails into the inbox Discussion | Link",
-      "title_en": "Hello Inbox"
-    },
-    {
-      "title": "TryCase",
-      "link": "https://www.producthunt.com/products/trycase",
-      "desc": "AI tests your PRs. Get a video walkthrough before you merge. Discussion | Link",
-      "title_en": "TryCase"
+      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its sta…",
+      "source": "The Verge"
     }
   ],
+  "suniverse_tools": [],
   "major": [
     {
-      "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-      "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon M…",
-      "source": "The Verge"
+      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handl…",
+      "source": "TechCrunch"
     },
     {
-      "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-      "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-      "summary": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrai…",
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut…",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-    "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon M…",
-    "source": "The Verge"
+    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+    "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handl…",
+    "source": "TechCrunch"
   },
   "steve_ideas": [],
   "history": {
@@ -10912,6 +10906,120 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
         "summary": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon M…",
         "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-16": {
+      "news": [
+        {
+          "title": "AI and data centers are incredibly unpopular in every poll",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+          "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+          "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+          "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its sta…",
+          "source": "The Verge"
+        },
+        {
+          "title": "This doorbell camera lets a human security guard watch your front door",
+          "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
+          "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new Si…",
+          "source": "The Verge"
+        },
+        {
+          "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+          "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
+          "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be eng…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The AI data center boom is colliding with cities scarred by big industry",
+          "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+          "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construc…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+          "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+          "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handl…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
+          "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
+          "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Voiskey",
+          "link": "https://www.producthunt.com/products/voiskey",
+          "desc": "AI voice typing that sounds right in every app Discussion | Link",
+          "title_en": "Voiskey"
+        },
+        {
+          "title": "jurniti",
+          "link": "https://www.producthunt.com/products/jurniti",
+          "desc": "Always-on AI agents in Firecracker microVMs Discussion | Link",
+          "title_en": "jurniti"
+        },
+        {
+          "title": "Mailyte",
+          "link": "https://www.producthunt.com/products/mailyte",
+          "desc": "Email for your team, your app, and your customers. Discussion | Link",
+          "title_en": "Mailyte"
+        },
+        {
+          "title": "tiun.",
+          "link": "https://www.producthunt.com/products/tiun-2",
+          "desc": "Auth, billing, and payments for AI builders Discussion | Link",
+          "title_en": "tiun."
+        },
+        {
+          "title": "Buddy AI Access (MCP)",
+          "link": "https://www.producthunt.com/products/buddy",
+          "desc": "Your agent needs more than your repo Discussion | Link",
+          "title_en": "Buddy AI Access (MCP)"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+          "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+          "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its sta…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+          "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+          "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handl…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+        "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handl…",
+        "source": "TechCrunch"
       },
       "steve_ideas": []
     }
