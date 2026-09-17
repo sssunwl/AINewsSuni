@@ -1,115 +1,108 @@
 {
-  "updated": "2026-09-16 13:36 HKT",
+  "updated": "2026-09-17 13:41 HKT",
   "news": [
     {
-      "title": "AI and data centers are incredibly unpopular in every poll",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-      "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what …",
+      "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+      "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+      "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with th…",
       "source": "The Verge"
     },
     {
-      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its sta…",
+      "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+      "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+      "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classi…",
       "source": "The Verge"
     },
     {
-      "title": "This doorbell camera lets a human security guard watch your front door",
-      "link": "https://www.theverge.com/tech/995365/simplisafe-video-doorbell-series-2-virtual-guard-price-specs",
-      "summary": "DIY home security company SimpliSafe is bringing its AI-powered proactive security feature to the front door. The new Si…",
+      "title": "The AI data center e-waste problem is huge — and getting bigger",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+      "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fi…",
       "source": "The Verge"
     },
     {
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-      "summary": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be eng…",
-      "source": "TechCrunch"
+      "title": "Apple might make servers again to cash in on the AI rush",
+      "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+      "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to m…",
+      "source": "The Verge"
     },
     {
-      "title": "The AI data center boom is colliding with cities scarred by big industry",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-      "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construc…",
-      "source": "TechCrunch"
+      "title": "Google will now let any AI agent run your smart home",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connec…",
+      "source": "The Verge"
     },
     {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handl…",
-      "source": "TechCrunch"
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through…",
+      "source": "The Verge"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut…",
-      "source": "TechCrunch"
+      "title": "The sexy AI-powered dating app scams are here",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+      "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-u…",
+      "source": "The Verge"
     },
     {
-      "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-      "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-      "summary": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-      "source": "TechCrunch"
+      "title": "A brief history of AI executives calling for regulation",
+      "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to m…",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "Voiskey",
-      "link": "https://www.producthunt.com/products/voiskey",
-      "desc": "AI voice typing that sounds right in every app Discussion | Link",
-      "title_en": "Voiskey"
+      "title": "Jottoo",
+      "link": "https://www.producthunt.com/products/jottoo",
+      "desc": "AI meeting notes that turn into tracked tasks Discussion | Link",
+      "title_en": "Jottoo"
     },
     {
-      "title": "jurniti",
-      "link": "https://www.producthunt.com/products/jurniti",
-      "desc": "Always-on AI agents in Firecracker microVMs Discussion | Link",
-      "title_en": "jurniti"
+      "title": "Thread",
+      "link": "https://www.producthunt.com/products/thread-ai-journal-memory",
+      "desc": "AI journal that connects your thoughts into something bigger Discussion | Link",
+      "title_en": "Thread"
     },
     {
-      "title": "Mailyte",
-      "link": "https://www.producthunt.com/products/mailyte",
-      "desc": "Email for your team, your app, and your customers. Discussion | Link",
-      "title_en": "Mailyte"
+      "title": "ZeroClick",
+      "link": "https://www.producthunt.com/products/zeroclick",
+      "desc": "Sell your product to AI agents Discussion | Link",
+      "title_en": "ZeroClick"
     },
     {
-      "title": "tiun.",
-      "link": "https://www.producthunt.com/products/tiun-2",
-      "desc": "Auth, billing, and payments for AI builders Discussion | Link",
-      "title_en": "tiun."
+      "title": "Convo",
+      "link": "https://www.producthunt.com/products/convo-7",
+      "desc": "The AI copilot for people who sell Discussion | Link",
+      "title_en": "Convo"
     },
     {
-      "title": "Buddy AI Access (MCP)",
-      "link": "https://www.producthunt.com/products/buddy",
-      "desc": "Your agent needs more than your repo Discussion | Link",
-      "title_en": "Buddy AI Access (MCP)"
+      "title": "PeakHour 6",
+      "link": "https://www.producthunt.com/products/peak-hour",
+      "desc": "Real-time network monitor for Mac w/ detailed WiFi insights Discussion | Link",
+      "title_en": "PeakHour 6"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
-      "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
-      "summary": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its sta…",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-      "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-      "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handl…",
-      "source": "TechCrunch"
+      "title": "Google will now let any AI agent run your smart home",
+      "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+      "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connec…",
+      "source": "The Verge"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut…",
-      "source": "TechCrunch"
+      "title": "Claude comes for Gemini with its own take on Docs and Slides",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+      "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-    "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-    "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handl…",
-    "source": "TechCrunch"
+    "title": "Google will now let any AI agent run your smart home",
+    "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+    "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connec…",
+    "source": "The Verge"
   },
   "steve_ideas": [],
   "history": {
@@ -11020,6 +11013,113 @@
         "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
         "summary": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handl…",
         "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-17": {
+      "news": [
+        {
+          "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+          "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+          "summary": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with th…",
+          "source": "The Verge"
+        },
+        {
+          "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
+          "link": "https://www.theverge.com/entertainment/996499/ai-odyssey-movie-review",
+          "summary": "Christopher Nolan's engrossing take on The Odyssey dominated at the box office and spurred a newfound interest in classi…",
+          "source": "The Verge"
+        },
+        {
+          "title": "The AI data center e-waste problem is huge — and getting bigger",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+          "summary": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fi…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple might make servers again to cash in on the AI rush",
+          "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+          "summary": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to m…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google will now let any AI agent run your smart home",
+          "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+          "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connec…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Claude comes for Gemini with its own take on Docs and Slides",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+          "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through…",
+          "source": "The Verge"
+        },
+        {
+          "title": "The sexy AI-powered dating app scams are here",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+          "summary": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-u…",
+          "source": "The Verge"
+        },
+        {
+          "title": "A brief history of AI executives calling for regulation",
+          "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+          "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to m…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Jottoo",
+          "link": "https://www.producthunt.com/products/jottoo",
+          "desc": "AI meeting notes that turn into tracked tasks Discussion | Link",
+          "title_en": "Jottoo"
+        },
+        {
+          "title": "Thread",
+          "link": "https://www.producthunt.com/products/thread-ai-journal-memory",
+          "desc": "AI journal that connects your thoughts into something bigger Discussion | Link",
+          "title_en": "Thread"
+        },
+        {
+          "title": "ZeroClick",
+          "link": "https://www.producthunt.com/products/zeroclick",
+          "desc": "Sell your product to AI agents Discussion | Link",
+          "title_en": "ZeroClick"
+        },
+        {
+          "title": "Convo",
+          "link": "https://www.producthunt.com/products/convo-7",
+          "desc": "The AI copilot for people who sell Discussion | Link",
+          "title_en": "Convo"
+        },
+        {
+          "title": "PeakHour 6",
+          "link": "https://www.producthunt.com/products/peak-hour",
+          "desc": "Real-time network monitor for Mac w/ detailed WiFi insights Discussion | Link",
+          "title_en": "PeakHour 6"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Google will now let any AI agent run your smart home",
+          "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+          "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connec…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Claude comes for Gemini with its own take on Docs and Slides",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+          "summary": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Google will now let any AI agent run your smart home",
+        "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+        "summary": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connec…",
+        "source": "The Verge"
       },
       "steve_ideas": []
     }
