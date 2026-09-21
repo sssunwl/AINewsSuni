@@ -335,12 +335,12 @@ def build_tg(news, tools, sun_news, sun_tools, major, pick, ideas=None):
             lines.append(esc(idea["detail"]))
             lines.append("")
 
-    lines += [f'🌐 <a href="https://sssunwl.github.io/AINewsSuni/">AINewsSuni</a>'
-              f'  ·  <a href="https://sssunwl.github.io/AIofficeSuni/">Suniverse</a>']
+    lines += [f'🌐 <a href="https://sssunwl.github.io/aisuni/news/">AI 新聞</a>'
+              f'  ·  <a href="https://sssunwl.github.io/aisuni/">Suniverse AI 學院</a>']
 
     text = "\n".join(lines)
     if len(text) > 4000:
-        text = text[:3970] + "\n…\n\n🌐 <a href=\"https://sssunwl.github.io/AINewsSuni/\">AINewsSuni</a>"
+        text = text[:3970] + "\n…\n\n🌐 <a href=\"https://sssunwl.github.io/aisuni/news/\">AI 新聞</a>"
     return text
 
 # ── 發送 ─────────────────────────────────────────────────────────────

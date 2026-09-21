@@ -46,4 +46,6 @@ SS 每週會跟 Sun（本機、有 Claude in Chrome 的 session）討論一次�
 
 ## 其他
 
-本 repo 也是 AINewsSuni（AI 新聞摘要機器人）本體所在，詳見 [README.md](README.md)；AI 學院教學素材在 [ai-academy/](ai-academy/README.md)。
+本 repo 也是 AINewsSuni（AI 新聞摘要機器人）本體所在，詳見 [README.md](README.md)。
+
+**2026-09-21 起網站已併入 AI 學院**：對外頁面在 `aisuni/`（<https://sssunwl.github.io/aisuni/>，新聞頁 `aisuni/news/`）。本 repo 的 `docs/index.html` 只是轉址頁，**不要再在這裡改網頁**；機器人照舊每天寫 `docs/data.json`，aisuni 的新聞頁跨站讀這份檔，所以 `data.json` 的路徑與欄位不能隨便改。不公開的學院素材（草稿、付費入門包）留在 [ai-academy/](ai-academy/README.md)。
