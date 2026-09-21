@@ -6,7 +6,7 @@
 - 「落地」欄標 **concepts/**:跨專案的純概念,找不到單一專案可掛,才在 `concepts/` 新寫檔案,格式比照 `cases/ig-resource-organizer.md` 的簡潔風格
 - 「落地」欄標 **⏳待CASES**:對應專案(SENA/SnowS、sun-agents 健檢)目前還沒有 CASES 條目,先寫 concepts/,等專案本身夠成熟時再回頭升格成正式 CASES 條目
 **產出節奏**:一天一課,由每晚 daily-progress-ledger 的「明日額度建議」排入。
-**發佈**:改完 `cases/` 或 `concepts/` 後,照 README 現有流程同步 `index.html` → 複製到 Fablecase repo → push。
+**發佈**:改完 `cases/` 或 `concepts/` 後,照 README 現有流程同步 `index.html` → 複製到 aisuni repo → push。
 
 ## 第一模組:全世界只有五件事(基礎心智模型)
 
@@ -15,7 +15,7 @@
 | 01 | 輸入→處理→儲存→判斷→輸出 | 所有網站和 App 都是這五件事 | SENA 全架構圖;SnowS 導出流程逐步對應 | concepts/ |
 | 02 | Server = 一直開著的電腦 | 服務要 24 小時找得到人 | **WeatherLab 之死**:cron 掛在 Mac 上,沒開機 = 服務斷,還沒人發現 | cases/weatherlab |
 | 03 | 本機排程 vs 雲端排程 | 同樣是「定時做事」,死法不同 | WeatherLab(Mac cron,已死)vs okinews(GitHub Actions,天天準時跑) | concepts/(okinews 也還沒進 CASES,一併記一筆) |
-| 04 | GitHub = 歷史,不是雲端硬碟 | 改壞了要能回到昨天 | SoSolsunday 積壓一個月沒 commit 的教訓 | concepts/(SoSolsunday 也還沒進 CASES) |
+| 04 | GitHub = 歷史,不是雲端硬碟 | 改壞了要能回到昨天 | OffDayz 積壓一個月沒 commit 的教訓 | concepts/(OffDayz 也還沒進 CASES) |
 | 05 | GitHub Actions | 讓 GitHub 的電腦幫你定時打工 | 你已有 6 條在跑:ainews / okinews / kujinews / InvestUniS / Polymarket / office tick | concepts/ |
 
 ## 第二模組:櫃檯與鑰匙(API 與安全)
