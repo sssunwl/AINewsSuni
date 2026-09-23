@@ -1,116 +1,122 @@
 {
-  "updated": "2026-09-22 13:49 HKT",
+  "updated": "2026-09-23 13:27 HKT",
   "news": [
     {
-      "title": "California tightens rules on AI data center energy and water use",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto …",
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathem…",
       "source": "The Verge"
     },
     {
-      "title": "Can John Ternus find Apple’s next big thing?",
-      "link": "https://www.theverge.com/podcast/996874/apple-john-ternus-tim-cook-mark-gurman-future-ai-siri-iphone",
-      "summary": "Today, I’m talking with Mark Gurman, who is the world’s best-sourced Apple reporter — both as Bloomberg’s chief Apple co…",
+      "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+      "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its har…",
       "source": "The Verge"
     },
     {
-      "title": "iPhone owners can now submit claims in Apple’s $250 million Siri AI settlement",
-      "link": "https://www.theverge.com/tech/998191/apple-siri-ai-iphone-16-class-action-lawsuit-settlement",
-      "summary": "Apple is paying $250 million to settle claims that it failed to deliver an AI-upgraded Siri - and now, eligible iPhone o…",
+      "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+      "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to bu…",
       "source": "The Verge"
     },
     {
-      "title": "UN says AI safeguards can’t wait for certainty",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-      "summary": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations sci…",
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incid…",
       "source": "The Verge"
     },
     {
-      "title": "Amazon blocks Meta’s Muse AI agent",
-      "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
-      "summary": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message sta…",
+      "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+      "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, …",
       "source": "The Verge"
     },
     {
-      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-      "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-      "summary": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "title": "Meta patches Muse exploit that let attackers control the AI agent",
+      "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+      "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow some…",
+      "source": "The Verge"
+    },
+    {
+      "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+      "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+      "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this…",
       "source": "TechCrunch"
     },
     {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-      "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-      "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, in…",
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the …",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "AI Creative Insights by Decode",
-      "link": "https://www.producthunt.com/products/decode-by-entropik",
-      "desc": "Predict which ad wins before you spend on media Discussion | Link",
-      "title_en": "AI Creative Insights by Decode"
+      "title": "Googlebook",
+      "link": "https://www.producthunt.com/products/googlebook-4",
+      "desc": "The laptop your Android phone has been waiting for Discussion | Link",
+      "title_en": "Googlebook"
     },
     {
-      "title": "Google Flow for iOS & Android",
-      "link": "https://www.producthunt.com/products/google",
-      "desc": "Google's AI creative studio now on mobile Discussion | Link",
-      "title_en": "Google Flow for iOS & Android"
+      "title": "QuietGlass",
+      "link": "https://www.producthunt.com/products/quietglass",
+      "desc": "Screen privacy for your Mac, with or without AirPods Discussion | Link",
+      "title_en": "QuietGlass"
     },
     {
-      "title": "Milliseconds.ai",
-      "link": "https://www.producthunt.com/products/milliseconds-ai",
-      "desc": "Fast AI decisions on text and images, via one API Discussion | Link",
-      "title_en": "Milliseconds.ai"
+      "title": "Plane Agents",
+      "link": "https://www.producthunt.com/products/planehq",
+      "desc": "Assign work to AI agents, like any teammate Discussion | Link",
+      "title_en": "Plane Agents"
     },
     {
-      "title": "Hyrax AI",
-      "link": "https://www.producthunt.com/products/tristan-benozer",
-      "desc": "The AI architect for your entire codebase Discussion | Link",
-      "title_en": "Hyrax AI"
+      "title": "SereneDB",
+      "link": "https://www.producthunt.com/products/serenedb-krummelanke",
+      "desc": "Ultra-Fast Search & Analytics Database, Agentic AI ready Discussion | Link",
+      "title_en": "SereneDB"
     },
     {
-      "title": "Sai",
-      "link": "https://www.producthunt.com/products/simular",
-      "desc": "The autonomous computer fleet at your command Discussion | Link",
-      "title_en": "Sai"
+      "title": "Xem",
+      "link": "https://www.producthunt.com/products/xem",
+      "desc": "Open-source email marketing with managed SMTP Discussion | Link",
+      "title_en": "Xem"
     }
   ],
   "suniverse_news": [
     {
-      "title": "California tightens rules on AI data center energy and water use",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-      "summary": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto …",
-      "source": "The Verge"
+      "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+      "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+      "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the …",
+      "source": "TechCrunch"
     }
   ],
   "suniverse_tools": [
     {
-      "title": "Milliseconds.ai",
-      "link": "https://www.producthunt.com/products/milliseconds-ai",
-      "desc": "Fast AI decisions on text and images, via one API Discussion | Link",
-      "title_en": "Milliseconds.ai"
+      "title": "Xem",
+      "link": "https://www.producthunt.com/products/xem",
+      "desc": "Open-source email marketing with managed SMTP Discussion | Link",
+      "title_en": "Xem"
     }
   ],
   "major": [
     {
-      "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-      "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-      "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-      "source": "TechCrunch"
+      "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+      "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathem…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+      "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incid…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-    "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-    "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-    "source": "TechCrunch"
+    "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+    "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathem…",
+    "source": "The Verge"
   },
   "steve_ideas": [],
   "history": {
@@ -11678,6 +11684,127 @@
         "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
         "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
         "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-23": {
+      "news": [
+        {
+          "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+          "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathem…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+          "summary": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its har…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+          "summary": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to bu…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+          "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incid…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Trump says the US is officially renaming AI to ‘super intelligence’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence",
+          "summary": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta patches Muse exploit that let attackers control the AI agent",
+          "link": "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+          "summary": "Meta has issued a patch for its Muse macOS app following the discovery of a zero-day vulnerability that could allow some…",
+          "source": "The Verge"
+        },
+        {
+          "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+          "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+          "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+          "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+          "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the …",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Googlebook",
+          "link": "https://www.producthunt.com/products/googlebook-4",
+          "desc": "The laptop your Android phone has been waiting for Discussion | Link",
+          "title_en": "Googlebook"
+        },
+        {
+          "title": "QuietGlass",
+          "link": "https://www.producthunt.com/products/quietglass",
+          "desc": "Screen privacy for your Mac, with or without AirPods Discussion | Link",
+          "title_en": "QuietGlass"
+        },
+        {
+          "title": "Plane Agents",
+          "link": "https://www.producthunt.com/products/planehq",
+          "desc": "Assign work to AI agents, like any teammate Discussion | Link",
+          "title_en": "Plane Agents"
+        },
+        {
+          "title": "SereneDB",
+          "link": "https://www.producthunt.com/products/serenedb-krummelanke",
+          "desc": "Ultra-Fast Search & Analytics Database, Agentic AI ready Discussion | Link",
+          "title_en": "SereneDB"
+        },
+        {
+          "title": "Xem",
+          "link": "https://www.producthunt.com/products/xem",
+          "desc": "Open-source email marketing with managed SMTP Discussion | Link",
+          "title_en": "Xem"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+          "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+          "summary": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the …",
+          "source": "TechCrunch"
+        }
+      ],
+      "suniverse_tools": [
+        {
+          "title": "Xem",
+          "link": "https://www.producthunt.com/products/xem",
+          "desc": "Open-source email marketing with managed SMTP Discussion | Link",
+          "title_en": "Xem"
+        }
+      ],
+      "major": [
+        {
+          "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+          "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathem…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+          "summary": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incid…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+        "summary": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathem…",
+        "source": "The Verge"
       },
       "steve_ideas": []
     }
