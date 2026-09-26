@@ -1,107 +1,120 @@
 {
-  "updated": "2026-09-25 13:44 HKT",
+  "updated": "2026-09-26 13:48 HKT",
   "news": [
     {
-      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona r…",
+      "title": "Meta makes the Muse filesystem even more accessible",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The …",
       "source": "The Verge"
     },
     {
-      "title": "Jensen Huang talks about AI and climate change like a supervillain",
-      "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-      "summary": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suff…",
+      "title": "Sony and UMG are suing Suno again",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+      "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on…",
       "source": "The Verge"
     },
     {
-      "title": "Meta is going to let you build games with AI right on your phone",
-      "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
-      "summary": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new dev…",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns a…",
       "source": "The Verge"
     },
     {
-      "title": "Muse will apparently let you download its entire filesystem",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-      "summary": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter J…",
+      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet tre…",
       "source": "The Verge"
     },
     {
-      "title": "Muse sure looks a lot like OpenClaw",
-      "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-      "summary": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store cha…",
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot…",
       "source": "The Verge"
     },
     {
-      "title": "It’s sinister that Meta’s Muse AI mascot is so cute",
-      "link": "https://www.theverge.com/column/999999/optimizer-meta-muse-ai-cute",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the lat…",
-      "source": "The Verge"
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing li…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-      "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, li…",
-      "source": "The Verge"
+      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term pla…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Why can’t we just keep rogue AIs off the internet?",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-      "summary": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, a…",
-      "source": "The Verge"
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's …",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Opaline",
-      "link": "https://www.producthunt.com/products/rudel",
-      "desc": "PostHog for team Claude Code and Codex sessions. Discussion | Link",
-      "title_en": "Opaline"
+      "title": "Evvery",
+      "link": "https://www.producthunt.com/products/evvery",
+      "desc": "Everyday AI meant for everyone. Discussion | Link",
+      "title_en": "Evvery"
     },
     {
-      "title": "minimi 2.0",
-      "link": "https://www.producthunt.com/products/shram",
-      "desc": "AI cat that closes your open loops Discussion | Link",
-      "title_en": "minimi 2.0"
+      "title": "Kliva",
+      "link": "https://www.producthunt.com/products/kliva",
+      "desc": "Trail race plans that sync to your Garmin Discussion | Link",
+      "title_en": "Kliva"
     },
     {
-      "title": "NOAN",
-      "link": "https://www.producthunt.com/products/noan-2",
-      "desc": "The fact layer for your AI agents Discussion | Link",
-      "title_en": "NOAN"
+      "title": "Aks.ai",
+      "link": "https://www.producthunt.com/products/aks-ai",
+      "desc": "Your personal companion for guided self-reflection. Discussion | Link",
+      "title_en": "Aks.ai"
     },
     {
-      "title": "CtrlOps 1.0",
-      "link": "https://www.producthunt.com/products/ctrlops",
-      "desc": "Your server. Audited, managed, and deployed with AI. Discussion | Link",
-      "title_en": "CtrlOps 1.0"
+      "title": "Pair2FA",
+      "link": "https://www.producthunt.com/products/pair2fa",
+      "desc": "Secure 2FA sharing for teams Discussion | Link",
+      "title_en": "Pair2FA"
     },
     {
-      "title": "Floot MCP",
-      "link": "https://www.producthunt.com/products/floot",
-      "desc": "Build and ship web and mobile apps inside Claude or ChatGPT Discussion | Link",
-      "title_en": "Floot MCP"
+      "title": "LaterOn v2: The agentic email plaftform",
+      "link": "https://www.producthunt.com/products/lateron-email",
+      "desc": "Describe an email job once. Get sh*t done. Discussion | Link",
+      "title_en": "LaterOn v2: The agentic email plaftform"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot…",
+      "source": "The Verge"
+    },
+    {
+      "title": "At Meta Connect, the company’s smart glasses were everywhere",
+      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing li…",
+      "source": "TechCrunch"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-      "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-      "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona r…",
+      "title": "One company is at the center of a wave of rogue AI attacks",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns a…",
       "source": "The Verge"
     },
     {
-      "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-      "summary": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, li…",
-      "source": "The Verge"
+      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's …",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-    "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-    "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona r…",
+    "title": "One company is at the center of a wave of rogue AI attacks",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+    "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns a…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -12005,6 +12018,126 @@
         "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
         "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
         "summary": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona r…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-26": {
+      "news": [
+        {
+          "title": "Meta makes the Muse filesystem even more accessible",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
+          "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Sony and UMG are suing Suno again",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
+          "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on…",
+          "source": "The Verge"
+        },
+        {
+          "title": "One company is at the center of a wave of rogue AI attacks",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+          "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns a…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
+          "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
+          "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet tre…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+          "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+          "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot…",
+          "source": "The Verge"
+        },
+        {
+          "title": "At Meta Connect, the company’s smart glasses were everywhere",
+          "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+          "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing li…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+          "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+          "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term pla…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+          "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+          "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's …",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Evvery",
+          "link": "https://www.producthunt.com/products/evvery",
+          "desc": "Everyday AI meant for everyone. Discussion | Link",
+          "title_en": "Evvery"
+        },
+        {
+          "title": "Kliva",
+          "link": "https://www.producthunt.com/products/kliva",
+          "desc": "Trail race plans that sync to your Garmin Discussion | Link",
+          "title_en": "Kliva"
+        },
+        {
+          "title": "Aks.ai",
+          "link": "https://www.producthunt.com/products/aks-ai",
+          "desc": "Your personal companion for guided self-reflection. Discussion | Link",
+          "title_en": "Aks.ai"
+        },
+        {
+          "title": "Pair2FA",
+          "link": "https://www.producthunt.com/products/pair2fa",
+          "desc": "Secure 2FA sharing for teams Discussion | Link",
+          "title_en": "Pair2FA"
+        },
+        {
+          "title": "LaterOn v2: The agentic email plaftform",
+          "link": "https://www.producthunt.com/products/lateron-email",
+          "desc": "Describe an email job once. Get sh*t done. Discussion | Link",
+          "title_en": "LaterOn v2: The agentic email plaftform"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+          "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+          "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot…",
+          "source": "The Verge"
+        },
+        {
+          "title": "At Meta Connect, the company’s smart glasses were everywhere",
+          "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
+          "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing li…",
+          "source": "TechCrunch"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "One company is at the center of a wave of rogue AI attacks",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+          "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns a…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+          "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+          "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's …",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "One company is at the center of a wave of rogue AI attacks",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
+        "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns a…",
         "source": "The Verge"
       },
       "steve_ideas": []
