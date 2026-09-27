@@ -1,120 +1,102 @@
 {
-  "updated": "2026-09-26 13:48 HKT",
+  "updated": "2026-09-27 14:09 HKT",
   "news": [
     {
-      "title": "Meta makes the Muse filesystem even more accessible",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-      "summary": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The …",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the com…",
       "source": "The Verge"
     },
     {
-      "title": "Sony and UMG are suing Suno again",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000758/suno-sony-umg-lawsuit-ai-music",
-      "summary": "Sony and Universal Music Group filed yet another suit against Suno. The labels claim its new v6 model still infringes on…",
+      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the futur…",
       "source": "The Verge"
     },
     {
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns a…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test",
-      "link": "https://www.theverge.com/tech/1000321/apple-intelligence-home-security-camera-amazon-ring-alexa-google-nest-gemini-home-review",
-      "summary": "A few years back, I was at a beachside Easter egg hunt, watching my kids dash through sand dunes searching for sweet tre…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot…",
-      "source": "The Verge"
-    },
-    {
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing li…",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
       "source": "TechCrunch"
     },
     {
-      "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
-      "summary": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term pla…",
+      "title": "Insurers claim AI is already increasing healthcare costs",
+      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year p…",
       "source": "TechCrunch"
     },
     {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's …",
+      "title": "I created an interactive digital avatar of myself — and you can talk to it",
+      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI cl…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Evvery",
-      "link": "https://www.producthunt.com/products/evvery",
-      "desc": "Everyday AI meant for everyone. Discussion | Link",
-      "title_en": "Evvery"
+      "title": "Chit",
+      "link": "https://www.producthunt.com/products/chit-2",
+      "desc": "A printed receipt of your day in Claude Code Discussion | Link",
+      "title_en": "Chit"
     },
     {
-      "title": "Kliva",
-      "link": "https://www.producthunt.com/products/kliva",
-      "desc": "Trail race plans that sync to your Garmin Discussion | Link",
-      "title_en": "Kliva"
+      "title": "Hemory",
+      "link": "https://www.producthunt.com/products/hemory",
+      "desc": "Keep listening. Searchable memory for your AI agents. Discussion | Link",
+      "title_en": "Hemory"
     },
     {
-      "title": "Aks.ai",
-      "link": "https://www.producthunt.com/products/aks-ai",
-      "desc": "Your personal companion for guided self-reflection. Discussion | Link",
-      "title_en": "Aks.ai"
+      "title": "GoodSocials",
+      "link": "https://www.producthunt.com/products/goodsocials",
+      "desc": "AI social media manager for LinkedIn. Only authentic content Discussion | Link",
+      "title_en": "GoodSocials"
     },
     {
-      "title": "Pair2FA",
-      "link": "https://www.producthunt.com/products/pair2fa",
-      "desc": "Secure 2FA sharing for teams Discussion | Link",
-      "title_en": "Pair2FA"
+      "title": "SocialGPT",
+      "link": "https://www.producthunt.com/products/socialgpt",
+      "desc": "Edit videos by chatting with your timeline Discussion | Link",
+      "title_en": "SocialGPT"
     },
     {
-      "title": "LaterOn v2: The agentic email plaftform",
-      "link": "https://www.producthunt.com/products/lateron-email",
-      "desc": "Describe an email job once. Get sh*t done. Discussion | Link",
-      "title_en": "LaterOn v2: The agentic email plaftform"
+      "title": "Promptic",
+      "link": "https://www.producthunt.com/products/promptic-3",
+      "desc": "Optimize GenAI applications for quality and cost Discussion | Link",
+      "title_en": "Promptic"
     }
   ],
-  "suniverse_news": [
+  "suniverse_news": [],
+  "suniverse_tools": [
     {
-      "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-      "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
-      "summary": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot…",
-      "source": "The Verge"
+      "title": "GoodSocials",
+      "link": "https://www.producthunt.com/products/goodsocials",
+      "desc": "AI social media manager for LinkedIn. Only authentic content Discussion | Link",
+      "title_en": "GoodSocials"
     },
     {
-      "title": "At Meta Connect, the company’s smart glasses were everywhere",
-      "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
-      "summary": "The company behind Facebook and Instagram wants to keep consumers connected to the digital world via its ever-growing li…",
-      "source": "TechCrunch"
+      "title": "SocialGPT",
+      "link": "https://www.producthunt.com/products/socialgpt",
+      "desc": "Edit videos by chatting with your timeline Discussion | Link",
+      "title_en": "SocialGPT"
     }
   ],
-  "suniverse_tools": [],
   "major": [
     {
-      "title": "One company is at the center of a wave of rogue AI attacks",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-      "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns a…",
+      "title": "OpenAI pauses training of its ‘most capable models’",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the com…",
       "source": "The Verge"
     },
     {
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-      "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-      "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's …",
+      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "One company is at the center of a wave of rogue AI attacks",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
-    "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns a…",
+    "title": "OpenAI pauses training of its ‘most capable models’",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+    "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the com…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -12138,6 +12120,108 @@
         "title": "One company is at the center of a wave of rogue AI attacks",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1000644/irregular-rogue-ai-cyberattacks-hacking-openai-meta-anthropic-google",
         "summary": "In July, OpenAI revealed that its AI agents had attacked Hugging Face without permission, sparking widespread concerns a…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-27": {
+      "news": [
+        {
+          "title": "OpenAI pauses training of its ‘most capable models’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the com…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+          "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+          "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the futur…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+          "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+          "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Insurers claim AI is already increasing healthcare costs",
+          "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+          "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year p…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "I created an interactive digital avatar of myself — and you can talk to it",
+          "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+          "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI cl…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Chit",
+          "link": "https://www.producthunt.com/products/chit-2",
+          "desc": "A printed receipt of your day in Claude Code Discussion | Link",
+          "title_en": "Chit"
+        },
+        {
+          "title": "Hemory",
+          "link": "https://www.producthunt.com/products/hemory",
+          "desc": "Keep listening. Searchable memory for your AI agents. Discussion | Link",
+          "title_en": "Hemory"
+        },
+        {
+          "title": "GoodSocials",
+          "link": "https://www.producthunt.com/products/goodsocials",
+          "desc": "AI social media manager for LinkedIn. Only authentic content Discussion | Link",
+          "title_en": "GoodSocials"
+        },
+        {
+          "title": "SocialGPT",
+          "link": "https://www.producthunt.com/products/socialgpt",
+          "desc": "Edit videos by chatting with your timeline Discussion | Link",
+          "title_en": "SocialGPT"
+        },
+        {
+          "title": "Promptic",
+          "link": "https://www.producthunt.com/products/promptic-3",
+          "desc": "Optimize GenAI applications for quality and cost Discussion | Link",
+          "title_en": "Promptic"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [
+        {
+          "title": "GoodSocials",
+          "link": "https://www.producthunt.com/products/goodsocials",
+          "desc": "AI social media manager for LinkedIn. Only authentic content Discussion | Link",
+          "title_en": "GoodSocials"
+        },
+        {
+          "title": "SocialGPT",
+          "link": "https://www.producthunt.com/products/socialgpt",
+          "desc": "Edit videos by chatting with your timeline Discussion | Link",
+          "title_en": "SocialGPT"
+        }
+      ],
+      "major": [
+        {
+          "title": "OpenAI pauses training of its ‘most capable models’",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+          "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the com…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+          "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+          "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI pauses training of its ‘most capable models’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+        "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the com…",
         "source": "The Verge"
       },
       "steve_ideas": []
