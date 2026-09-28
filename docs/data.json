@@ -1,102 +1,95 @@
 {
-  "updated": "2026-09-27 14:09 HKT",
+  "updated": "2026-09-28 14:17 HKT",
   "news": [
     {
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the com…",
+      "title": "Engram is a sampler that turns broken AI hallucinations into music",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a samp…",
       "source": "The Verge"
     },
     {
-      "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
-      "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
-      "summary": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the futur…",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNC…",
       "source": "The Verge"
     },
     {
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
       "source": "TechCrunch"
     },
     {
-      "title": "Insurers claim AI is already increasing healthcare costs",
-      "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
-      "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year p…",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
       "source": "TechCrunch"
     },
     {
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
-      "summary": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI cl…",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "summary": "\"AI is the devil and I its maker.\"",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Chit",
-      "link": "https://www.producthunt.com/products/chit-2",
-      "desc": "A printed receipt of your day in Claude Code Discussion | Link",
-      "title_en": "Chit"
+      "title": "GPT-6 Sol & Luna",
+      "link": "https://www.producthunt.com/products/openai",
+      "desc": "Frontier AI intelligence, now at half the price Discussion | Link",
+      "title_en": "GPT-6 Sol & Luna"
     },
     {
-      "title": "Hemory",
-      "link": "https://www.producthunt.com/products/hemory",
-      "desc": "Keep listening. Searchable memory for your AI agents. Discussion | Link",
-      "title_en": "Hemory"
+      "title": "Harmony",
+      "link": "https://www.producthunt.com/products/harmony-it",
+      "desc": "AI agents that resolve IT/HR tickets inside Slack and Teams Discussion | Link",
+      "title_en": "Harmony"
     },
     {
-      "title": "GoodSocials",
-      "link": "https://www.producthunt.com/products/goodsocials",
-      "desc": "AI social media manager for LinkedIn. Only authentic content Discussion | Link",
-      "title_en": "GoodSocials"
+      "title": "Cuey",
+      "link": "https://www.producthunt.com/products/cuey-2",
+      "desc": "Compare ChatGPT, Claude & Gemini answers in one tab. Discussion | Link",
+      "title_en": "Cuey"
     },
     {
-      "title": "SocialGPT",
-      "link": "https://www.producthunt.com/products/socialgpt",
-      "desc": "Edit videos by chatting with your timeline Discussion | Link",
-      "title_en": "SocialGPT"
+      "title": "Humalike x GTA RP",
+      "link": "https://www.producthunt.com/products/humalike-2",
+      "desc": "AI NPCs that talk, remember & act on their own Discussion | Link",
+      "title_en": "Humalike x GTA RP"
     },
     {
-      "title": "Promptic",
-      "link": "https://www.producthunt.com/products/promptic-3",
-      "desc": "Optimize GenAI applications for quality and cost Discussion | Link",
-      "title_en": "Promptic"
+      "title": "Superhuman Go",
+      "link": "https://www.producthunt.com/products/superhuman-go",
+      "desc": "The AI assistant that works where you do Discussion | Link",
+      "title_en": "Superhuman Go"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [
-    {
-      "title": "GoodSocials",
-      "link": "https://www.producthunt.com/products/goodsocials",
-      "desc": "AI social media manager for LinkedIn. Only authentic content Discussion | Link",
-      "title_en": "GoodSocials"
-    },
-    {
-      "title": "SocialGPT",
-      "link": "https://www.producthunt.com/products/socialgpt",
-      "desc": "Edit videos by chatting with your timeline Discussion | Link",
-      "title_en": "SocialGPT"
-    }
-  ],
+  "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI pauses training of its ‘most capable models’",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-      "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the com…",
+      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNC…",
       "source": "The Verge"
     },
     {
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "link": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-      "summary": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+      "title": "Anthropic’s CEO is about to have dinner with President Trump",
+      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "OpenAI pauses training of its ‘most capable models’",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
-    "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the com…",
+    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+    "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNC…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -12222,6 +12215,101 @@
         "title": "OpenAI pauses training of its ‘most capable models’",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
         "summary": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the com…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-28": {
+      "news": [
+        {
+          "title": "Engram is a sampler that turns broken AI hallucinations into music",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+          "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a samp…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+          "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNC…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic’s CEO is about to have dinner with President Trump",
+          "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+          "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Can Muse overcome Meta’s trust issues?",
+          "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+          "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+          "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+          "summary": "\"AI is the devil and I its maker.\"",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "GPT-6 Sol & Luna",
+          "link": "https://www.producthunt.com/products/openai",
+          "desc": "Frontier AI intelligence, now at half the price Discussion | Link",
+          "title_en": "GPT-6 Sol & Luna"
+        },
+        {
+          "title": "Harmony",
+          "link": "https://www.producthunt.com/products/harmony-it",
+          "desc": "AI agents that resolve IT/HR tickets inside Slack and Teams Discussion | Link",
+          "title_en": "Harmony"
+        },
+        {
+          "title": "Cuey",
+          "link": "https://www.producthunt.com/products/cuey-2",
+          "desc": "Compare ChatGPT, Claude & Gemini answers in one tab. Discussion | Link",
+          "title_en": "Cuey"
+        },
+        {
+          "title": "Humalike x GTA RP",
+          "link": "https://www.producthunt.com/products/humalike-2",
+          "desc": "AI NPCs that talk, remember & act on their own Discussion | Link",
+          "title_en": "Humalike x GTA RP"
+        },
+        {
+          "title": "Superhuman Go",
+          "link": "https://www.producthunt.com/products/superhuman-go",
+          "desc": "The AI assistant that works where you do Discussion | Link",
+          "title_en": "Superhuman Go"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+          "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNC…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic’s CEO is about to have dinner with President Trump",
+          "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+          "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Can Muse overcome Meta’s trust issues?",
+          "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+          "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+        "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNC…",
         "source": "The Verge"
       },
       "steve_ideas": []
