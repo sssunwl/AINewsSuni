@@ -1,95 +1,120 @@
 {
-  "updated": "2026-09-28 14:17 HKT",
+  "updated": "2026-09-29 14:33 HKT",
   "news": [
     {
-      "title": "Engram is a sampler that turns broken AI hallucinations into music",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
-      "summary": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a samp…",
+      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fe…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNC…",
+      "title": "OpenAI’s AI agents need to catch up",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one …",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-      "source": "TechCrunch"
+      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+      "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vi…",
+      "source": "The Verge"
     },
     {
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "source": "TechCrunch"
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attribut…",
+      "source": "The Verge"
     },
     {
-      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
-      "summary": "\"AI is the devil and I its maker.\"",
-      "source": "TechCrunch"
+      "title": "OpenAI keeps bulldozing mathematicians",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+      "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive break…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+      "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+      "summary": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier b…",
+      "source": "The Verge"
+    },
+    {
+      "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
+      "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
+      "summary": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. Atlassian is one of those companies …",
+      "source": "The Verge"
+    },
+    {
+      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+      "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+      "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a …",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "GPT-6 Sol & Luna",
-      "link": "https://www.producthunt.com/products/openai",
-      "desc": "Frontier AI intelligence, now at half the price Discussion | Link",
-      "title_en": "GPT-6 Sol & Luna"
+      "title": "Okara",
+      "link": "https://www.producthunt.com/products/okara-2",
+      "desc": "The world's first AI CMO Discussion | Link",
+      "title_en": "Okara"
     },
     {
-      "title": "Harmony",
-      "link": "https://www.producthunt.com/products/harmony-it",
-      "desc": "AI agents that resolve IT/HR tickets inside Slack and Teams Discussion | Link",
-      "title_en": "Harmony"
+      "title": "MCP Connectors by Databox",
+      "link": "https://www.producthunt.com/products/databox",
+      "desc": "Give your AI Analyst context to explain performance and act Discussion | Link",
+      "title_en": "MCP Connectors by Databox"
     },
     {
-      "title": "Cuey",
-      "link": "https://www.producthunt.com/products/cuey-2",
-      "desc": "Compare ChatGPT, Claude & Gemini answers in one tab. Discussion | Link",
-      "title_en": "Cuey"
+      "title": "VibeDefend by CybeDefend",
+      "link": "https://www.producthunt.com/products/cybedefend",
+      "desc": "The one command line to secure your Cursor and Claude Code Discussion | Link",
+      "title_en": "VibeDefend by CybeDefend"
     },
     {
-      "title": "Humalike x GTA RP",
-      "link": "https://www.producthunt.com/products/humalike-2",
-      "desc": "AI NPCs that talk, remember & act on their own Discussion | Link",
-      "title_en": "Humalike x GTA RP"
+      "title": "Microsoft Copilot",
+      "link": "https://www.producthunt.com/products/microsoft-copilot",
+      "desc": "The Al built for work Discussion | Link",
+      "title_en": "Microsoft Copilot"
     },
     {
-      "title": "Superhuman Go",
-      "link": "https://www.producthunt.com/products/superhuman-go",
-      "desc": "The AI assistant that works where you do Discussion | Link",
-      "title_en": "Superhuman Go"
+      "title": "Statable Analytics",
+      "link": "https://www.producthunt.com/products/statable-analytics",
+      "desc": "Web analytics built for you and your AI agents Discussion | Link",
+      "title_en": "Statable Analytics"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+      "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+      "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a …",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-      "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNC…",
+      "title": "OpenAI’s AI agents need to catch up",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one …",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic’s CEO is about to have dinner with President Trump",
-      "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
-      "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
-      "source": "TechCrunch"
+      "title": "Florida seeks a ban on ChatGPT acting like a person",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+      "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attribut…",
+      "source": "The Verge"
     },
     {
-      "title": "Can Muse overcome Meta’s trust issues?",
-      "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
-      "source": "TechCrunch"
+      "title": "OpenAI keeps bulldozing mathematicians",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+      "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive break…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
-    "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNC…",
+    "title": "OpenAI’s AI agents need to catch up",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+    "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one …",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -12310,6 +12335,126 @@
         "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
         "summary": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNC…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-09-29": {
+      "news": [
+        {
+          "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+          "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+          "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fe…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI’s AI agents need to catch up",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+          "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one …",
+          "source": "The Verge"
+        },
+        {
+          "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
+          "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vi…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Florida seeks a ban on ChatGPT acting like a person",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+          "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attribut…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI keeps bulldozing mathematicians",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+          "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive break…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Walmart won’t hike prices based on your shopping history, CEO says",
+          "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
+          "summary": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier b…",
+          "source": "The Verge"
+        },
+        {
+          "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
+          "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
+          "summary": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. Atlassian is one of those companies …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+          "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+          "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a …",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Okara",
+          "link": "https://www.producthunt.com/products/okara-2",
+          "desc": "The world's first AI CMO Discussion | Link",
+          "title_en": "Okara"
+        },
+        {
+          "title": "MCP Connectors by Databox",
+          "link": "https://www.producthunt.com/products/databox",
+          "desc": "Give your AI Analyst context to explain performance and act Discussion | Link",
+          "title_en": "MCP Connectors by Databox"
+        },
+        {
+          "title": "VibeDefend by CybeDefend",
+          "link": "https://www.producthunt.com/products/cybedefend",
+          "desc": "The one command line to secure your Cursor and Claude Code Discussion | Link",
+          "title_en": "VibeDefend by CybeDefend"
+        },
+        {
+          "title": "Microsoft Copilot",
+          "link": "https://www.producthunt.com/products/microsoft-copilot",
+          "desc": "The Al built for work Discussion | Link",
+          "title_en": "Microsoft Copilot"
+        },
+        {
+          "title": "Statable Analytics",
+          "link": "https://www.producthunt.com/products/statable-analytics",
+          "desc": "Web analytics built for you and your AI agents Discussion | Link",
+          "title_en": "Statable Analytics"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+          "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+          "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a …",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI’s AI agents need to catch up",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+          "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Florida seeks a ban on ChatGPT acting like a person",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
+          "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attribut…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI keeps bulldozing mathematicians",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
+          "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive break…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI’s AI agents need to catch up",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+        "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one …",
         "source": "The Verge"
       },
       "steve_ideas": []
