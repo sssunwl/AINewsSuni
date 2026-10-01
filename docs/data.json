@@ -1,120 +1,114 @@
 {
-  "updated": "2026-09-29 14:33 HKT",
+  "updated": "2026-10-01 14:47 HKT",
   "news": [
     {
-      "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-      "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-      "summary": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fe…",
+      "title": "馬斯克 (Elon Musk) 的 Grokipedia 擁有「全新」設計",
+      "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "summary": "Grokipedia 是 SpaceXAI 的人工智慧驅動的維基百科競爭對手，最近再次開始合併編輯，今天，它得到了…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI’s AI agents need to catch up",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one …",
+      "title": "谷歌宣布推出 Gemini 4，並表示它的功能非常強大，目前只有「值得信賴的網路防禦者」才能擁有它",
+      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "summary": "谷歌今天發布了其下一個人工智慧前沿模型，稱為 Gemini 4 Argon。新車型傳遞“前沿...",
       "source": "The Verge"
     },
     {
-      "title": "AI is supercharging hacking, and your local hospitals and banks aren’t ready",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
-      "summary": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vi…",
+      "title": "AI電子寵物來了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+      "summary": "雖然人工智慧在人們的手機和電腦上取得了很大進展，但在專用設備上基本上失敗了。但結束了…",
       "source": "The Verge"
     },
     {
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attribut…",
+      "title": "以下是人工智慧領導人對川普新安全計畫的評價",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "summary": "週二與大型科技領導人共進晚餐後，唐納德·特朗普總統回答了記者關於您的問題…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI keeps bulldozing mathematicians",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-      "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive break…",
+      "title": "關於 Meta 可愛又令人毛骨悚然的 Muse AI 代理的所有最新消息",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+      "summary": "Meta 推出了一款新的 Muse AI 代理，據稱可以幫助您處理從發送電子郵件到線上購物等各種事務。 ……",
       "source": "The Verge"
     },
     {
-      "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-      "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-      "summary": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier b…",
+      "title": "據報道，Google測試向出版商支付人工智慧搜尋結果",
+      "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+      "summary": "谷歌啟動了一項試點計劃，向出版商支付其人工智慧搜尋功能的貢獻，...",
       "source": "The Verge"
     },
     {
-      "title": "The SaaSpocalypse that wasn&#8217;t, with Atlassian CEO Mike Cannon-Brookes",
-      "link": "https://www.theverge.com/podcast/1000914/atlassian-ceo-mike-cannon-brookes-saaspocalypse-ai-enterprise-software-trello-jira",
-      "summary": "Today, I’m talking with Mike Cannon-Brookes, who is cofounder and CEO of Atlassian. Atlassian is one of those companies …",
+      "title": "Instagram正在添加人工智慧「助手」來告訴你如何發帖",
+      "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "summary": "Instagram 是最新的社交媒體平台，添加了內建人工智慧功能，可為用戶提供有關他們的…的回饋。",
       "source": "The Verge"
     },
     {
-      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-      "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-      "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a …",
+      "title": "根據川普的協議，科技領導者將如何自我監管人工智慧安全",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+      "summary": "我們現在掌握了川普總統昨天宣布的「具有道德約束力」人工智慧安全協議的完整細節，其中…",
       "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "Okara",
-      "link": "https://www.producthunt.com/products/okara-2",
-      "desc": "The world's first AI CMO Discussion | Link",
-      "title_en": "Okara"
+      "title": "埃夫拉特 (Evlat)",
+      "link": "https://www.producthunt.com/products/evlat",
+      "desc": "知道哪個 AI 編碼代理正在等你 討論 |關聯",
+      "title_en": "Evlat"
     },
     {
-      "title": "MCP Connectors by Databox",
-      "link": "https://www.producthunt.com/products/databox",
-      "desc": "Give your AI Analyst context to explain performance and act Discussion | Link",
-      "title_en": "MCP Connectors by Databox"
+      "title": "弗雷迪健康 (freddy.health)",
+      "link": "https://www.producthunt.com/products/freddy",
+      "desc": "在 Claude、ChatGPT、Muse 或任何其他 AI 討論中與你的身體對話 |關聯",
+      "title_en": "freddy.health"
     },
     {
-      "title": "VibeDefend by CybeDefend",
-      "link": "https://www.producthunt.com/products/cybedefend",
-      "desc": "The one command line to secure your Cursor and Claude Code Discussion | Link",
-      "title_en": "VibeDefend by CybeDefend"
+      "title": "貝維爾 (Bevell)",
+      "link": "https://www.producthunt.com/products/bevell",
+      "desc": "CAD 自動化發揮重要作用。討論 |關聯",
+      "title_en": "Bevell"
     },
     {
-      "title": "Microsoft Copilot",
-      "link": "https://www.producthunt.com/products/microsoft-copilot",
-      "desc": "The Al built for work Discussion | Link",
-      "title_en": "Microsoft Copilot"
+      "title": "Rx電影工作室 (RxFilmStudio)",
+      "link": "https://www.producthunt.com/products/rxfilmstudio",
+      "desc": "使用 AI 代理程式建立和編輯產品影片關聯",
+      "title_en": "RxFilmStudio"
     },
     {
-      "title": "Statable Analytics",
-      "link": "https://www.producthunt.com/products/statable-analytics",
-      "desc": "Web analytics built for you and your AI agents Discussion | Link",
-      "title_en": "Statable Analytics"
+      "title": "耳語大腦 (WhisperBrain)",
+      "link": "https://www.producthunt.com/products/whisperbrain",
+      "desc": "您的會議第二個大腦。討論 |關聯",
+      "title_en": "WhisperBrain"
     }
   ],
   "suniverse_news": [
     {
-      "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-      "link": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
-      "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a …",
+      "title": "Instagram正在添加人工智慧「助手」來告訴你如何發帖",
+      "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+      "summary": "Instagram 是最新的社交媒體平台，添加了內建人工智慧功能，可為用戶提供有關他們的…的回饋。",
       "source": "The Verge"
     }
   ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI’s AI agents need to catch up",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-      "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one …",
+      "title": "馬斯克 (Elon Musk) 的 Grokipedia 擁有「全新」設計",
+      "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+      "summary": "Grokipedia 是 SpaceXAI 的人工智慧驅動的維基百科競爭對手，最近再次開始合併編輯，今天，它得到了…",
       "source": "The Verge"
     },
     {
-      "title": "Florida seeks a ban on ChatGPT acting like a person",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-      "summary": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attribut…",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI keeps bulldozing mathematicians",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-      "summary": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive break…",
+      "title": "谷歌宣布推出 Gemini 4，並表示它的功能非常強大，目前只有「值得信賴的網路防禦者」才能擁有它",
+      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+      "summary": "谷歌今天發布了其下一個人工智慧前沿模型，稱為 Gemini 4 Argon。新車型傳遞“前沿...",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "OpenAI’s AI agents need to catch up",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-    "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one …",
+    "title": "馬斯克 (Elon Musk) 的 Grokipedia 擁有「全新」設計",
+    "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+    "summary": "Grokipedia 是 SpaceXAI 的人工智慧驅動的維基百科競爭對手，最近再次開始合併編輯，今天，它得到了…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -12455,6 +12449,120 @@
         "title": "OpenAI’s AI agents need to catch up",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
         "summary": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one …",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-01": {
+      "news": [
+        {
+          "title": "馬斯克 (Elon Musk) 的 Grokipedia 擁有「全新」設計",
+          "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+          "summary": "Grokipedia 是 SpaceXAI 的人工智慧驅動的維基百科競爭對手，最近再次開始合併編輯，今天，它得到了…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌宣布推出 Gemini 4，並表示它的功能非常強大，目前只有「值得信賴的網路防禦者」才能擁有它",
+          "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+          "summary": "谷歌今天發布了其下一個人工智慧前沿模型，稱為 Gemini 4 Argon。新車型傳遞“前沿...",
+          "source": "The Verge"
+        },
+        {
+          "title": "AI電子寵物來了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+          "summary": "雖然人工智慧在人們的手機和電腦上取得了很大進展，但在專用設備上基本上失敗了。但結束了…",
+          "source": "The Verge"
+        },
+        {
+          "title": "以下是人工智慧領導人對川普新安全計畫的評價",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+          "summary": "週二與大型科技領導人共進晚餐後，唐納德·特朗普總統回答了記者關於您的問題…",
+          "source": "The Verge"
+        },
+        {
+          "title": "關於 Meta 可愛又令人毛骨悚然的 Muse AI 代理的所有最新消息",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
+          "summary": "Meta 推出了一款新的 Muse AI 代理，據稱可以幫助您處理從發送電子郵件到線上購物等各種事務。 ……",
+          "source": "The Verge"
+        },
+        {
+          "title": "據報道，Google測試向出版商支付人工智慧搜尋結果",
+          "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
+          "summary": "谷歌啟動了一項試點計劃，向出版商支付其人工智慧搜尋功能的貢獻，...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Instagram正在添加人工智慧「助手」來告訴你如何發帖",
+          "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+          "summary": "Instagram 是最新的社交媒體平台，添加了內建人工智慧功能，可為用戶提供有關他們的…的回饋。",
+          "source": "The Verge"
+        },
+        {
+          "title": "根據川普的協議，科技領導者將如何自我監管人工智慧安全",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+          "summary": "我們現在掌握了川普總統昨天宣布的「具有道德約束力」人工智慧安全協議的完整細節，其中…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "埃夫拉特 (Evlat)",
+          "link": "https://www.producthunt.com/products/evlat",
+          "desc": "知道哪個 AI 編碼代理正在等你 討論 |關聯",
+          "title_en": "Evlat"
+        },
+        {
+          "title": "弗雷迪健康 (freddy.health)",
+          "link": "https://www.producthunt.com/products/freddy",
+          "desc": "在 Claude、ChatGPT、Muse 或任何其他 AI 討論中與你的身體對話 |關聯",
+          "title_en": "freddy.health"
+        },
+        {
+          "title": "貝維爾 (Bevell)",
+          "link": "https://www.producthunt.com/products/bevell",
+          "desc": "CAD 自動化發揮重要作用。討論 |關聯",
+          "title_en": "Bevell"
+        },
+        {
+          "title": "Rx電影工作室 (RxFilmStudio)",
+          "link": "https://www.producthunt.com/products/rxfilmstudio",
+          "desc": "使用 AI 代理程式建立和編輯產品影片關聯",
+          "title_en": "RxFilmStudio"
+        },
+        {
+          "title": "耳語大腦 (WhisperBrain)",
+          "link": "https://www.producthunt.com/products/whisperbrain",
+          "desc": "您的會議第二個大腦。討論 |關聯",
+          "title_en": "WhisperBrain"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Instagram正在添加人工智慧「助手」來告訴你如何發帖",
+          "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
+          "summary": "Instagram 是最新的社交媒體平台，添加了內建人工智慧功能，可為用戶提供有關他們的…的回饋。",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "馬斯克 (Elon Musk) 的 Grokipedia 擁有「全新」設計",
+          "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+          "summary": "Grokipedia 是 SpaceXAI 的人工智慧驅動的維基百科競爭對手，最近再次開始合併編輯，今天，它得到了…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌宣布推出 Gemini 4，並表示它的功能非常強大，目前只有「值得信賴的網路防禦者」才能擁有它",
+          "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+          "summary": "谷歌今天發布了其下一個人工智慧前沿模型，稱為 Gemini 4 Argon。新車型傳遞“前沿...",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "馬斯克 (Elon Musk) 的 Grokipedia 擁有「全新」設計",
+        "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+        "summary": "Grokipedia 是 SpaceXAI 的人工智慧驅動的維基百科競爭對手，最近再次開始合併編輯，今天，它得到了…",
         "source": "The Verge"
       },
       "steve_ideas": []
