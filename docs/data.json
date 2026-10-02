@@ -1,114 +1,113 @@
 {
-  "updated": "2026-10-01 14:47 HKT",
+  "updated": "2026-10-02 14:38 HKT",
   "news": [
     {
-      "title": "馬斯克 (Elon Musk) 的 Grokipedia 擁有「全新」設計",
-      "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "summary": "Grokipedia 是 SpaceXAI 的人工智慧驅動的維基百科競爭對手，最近再次開始合併編輯，今天，它得到了…",
+      "title": "谷歌新的引導視覺功能可以幫助您閱讀細則",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "summary": "Guided Vision 今天在兼容 Android 裝置上的 Gemini Live 中推出，利用 AI 提供即時音訊描述…",
       "source": "The Verge"
     },
     {
-      "title": "谷歌宣布推出 Gemini 4，並表示它的功能非常強大，目前只有「值得信賴的網路防禦者」才能擁有它",
-      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "summary": "谷歌今天發布了其下一個人工智慧前沿模型，稱為 Gemini 4 Argon。新車型傳遞“前沿...",
+      "title": "法官駁回針對谷歌人工智慧概覽的反壟斷訴訟",
+      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+      "summary": "一名聯邦法官駁回了 Chegg 和滾石母公司 Penske Media 提起的兩項反壟斷訴訟…",
       "source": "The Verge"
     },
     {
-      "title": "AI電子寵物來了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-      "summary": "雖然人工智慧在人們的手機和電腦上取得了很大進展，但在專用設備上基本上失敗了。但結束了…",
+      "title": "OpenAI 的新代理商是對 Meta 的一次嘗試——但它能與免費代理商競爭嗎？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "summary": "在 OpenAI 的年度 DevDay 會議上，該公司使出渾身解數與競爭對手競爭——主要是 Meta，…",
       "source": "The Verge"
     },
     {
-      "title": "以下是人工智慧領導人對川普新安全計畫的評價",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-      "summary": "週二與大型科技領導人共進晚餐後，唐納德·特朗普總統回答了記者關於您的問題…",
+      "title": "我們對凱文·奧利裡 (Kevin O'Leary) 猶他州資料中心崩潰事件進行了長達數月的調查",
+      "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+      "summary": "今天，我正在與 The Verge 的長期專題作家 Josh Dzieza 談論凱文·奧利裡 (Kevin O’Leary) 建立…的計劃。",
       "source": "The Verge"
     },
     {
-      "title": "關於 Meta 可愛又令人毛骨悚然的 Muse AI 代理的所有最新消息",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002671/meta-muse-ai",
-      "summary": "Meta 推出了一款新的 Muse AI 代理，據稱可以幫助您處理從發送電子郵件到線上購物等各種事務。 ……",
-      "source": "The Verge"
+      "title": "據報道，馬斯克的人工智慧聊天機器人 Grok 鼓勵川普捕捉委內瑞拉總統",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "summary": "據報道，川普總統在入侵委內瑞拉並抓獲尼古拉斯馬杜羅之前徵求了Grok的意見。",
+      "source": "TechCrunch"
     },
     {
-      "title": "據報道，Google測試向出版商支付人工智慧搜尋結果",
-      "link": "https://www.theverge.com/tech/1002665/google-paying-publishers-ai-search-features",
-      "summary": "谷歌啟動了一項試點計劃，向出版商支付其人工智慧搜尋功能的貢獻，...",
-      "source": "The Verge"
+      "title": "ChatGPT 現在可以為您虛擬試衣",
+      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "summary": "OpenAI 正在為 ChatGPT 推出新的購物功能，讓使用者可以使用虛擬方式試穿服裝和配件…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Instagram正在添加人工智慧「助手」來告訴你如何發帖",
-      "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-      "summary": "Instagram 是最新的社交媒體平台，添加了內建人工智慧功能，可為用戶提供有關他們的…的回饋。",
-      "source": "The Verge"
+      "title": "谷歌認為 SpaceX 的星際飛船必須發射 1800 次才能讓太空資料中心落地",
+      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "summary": "谷歌將其首款先進晶片送入軌道，為太空資料中心鋪路。",
+      "source": "TechCrunch"
     },
     {
-      "title": "根據川普的協議，科技領導者將如何自我監管人工智慧安全",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-      "summary": "我們現在掌握了川普總統昨天宣布的「具有道德約束力」人工智慧安全協議的完整細節，其中…",
-      "source": "The Verge"
+      "title": "根據《華爾街日報》報道，OpenAI 與 3 名安全研究人員斷絕關係",
+      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "summary": "OpenAI 與三名安全研究人員分道揚鑣，因為內部調查發現他們對敏感資訊處理不當…",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "埃夫拉特 (Evlat)",
-      "link": "https://www.producthunt.com/products/evlat",
-      "desc": "知道哪個 AI 編碼代理正在等你 討論 |關聯",
-      "title_en": "Evlat"
+      "title": "塞米特克薩 (Semitexa)",
+      "link": "https://www.producthunt.com/products/semitexa",
+      "desc": "The PHP framework your AI agent can actually inspect Discussion | Link",
+      "title_en": "Semitexa"
     },
     {
-      "title": "弗雷迪健康 (freddy.health)",
-      "link": "https://www.producthunt.com/products/freddy",
-      "desc": "在 Claude、ChatGPT、Muse 或任何其他 AI 討論中與你的身體對話 |關聯",
-      "title_en": "freddy.health"
+      "title": "完全投入 (UTTER IN)",
+      "link": "https://www.producthunt.com/products/utter-in",
+      "desc": "Say it once and your AI assistant plans the rest Discussion | Link",
+      "title_en": "UTTER IN"
     },
     {
-      "title": "貝維爾 (Bevell)",
-      "link": "https://www.producthunt.com/products/bevell",
-      "desc": "CAD 自動化發揮重要作用。討論 |關聯",
-      "title_en": "Bevell"
+      "title": "赫洛 (Helo)",
+      "link": "https://www.producthunt.com/products/helo-2",
+      "desc": "An independent email API from former Postmark folks Discussion | Link",
+      "title_en": "Helo"
     },
     {
-      "title": "Rx電影工作室 (RxFilmStudio)",
-      "link": "https://www.producthunt.com/products/rxfilmstudio",
-      "desc": "使用 AI 代理程式建立和編輯產品影片關聯",
-      "title_en": "RxFilmStudio"
+      "title": "維特拉.ai (Vitra.ai)",
+      "link": "https://www.producthunt.com/products/vitra-ai-agentic-content-platform",
+      "desc": "用於建立和在地化內容的代理內容平台 討論 |關聯",
+      "title_en": "Vitra.ai"
     },
     {
-      "title": "耳語大腦 (WhisperBrain)",
-      "link": "https://www.producthunt.com/products/whisperbrain",
-      "desc": "您的會議第二個大腦。討論 |關聯",
-      "title_en": "WhisperBrain"
+      "title": "連鎖剪 (ChainSnip)",
+      "link": "https://www.producthunt.com/products/chainsnip",
+      "desc": "會計師錢包餘額證明討論 |關聯",
+      "title_en": "ChainSnip"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "Instagram正在添加人工智慧「助手」來告訴你如何發帖",
-      "link": "https://www.theverge.com/tech/1002402/instagram-ai-edits-assistant-creators-analytics-youtube",
-      "summary": "Instagram 是最新的社交媒體平台，添加了內建人工智慧功能，可為用戶提供有關他們的…的回饋。",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "馬斯克 (Elon Musk) 的 Grokipedia 擁有「全新」設計",
-      "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-      "summary": "Grokipedia 是 SpaceXAI 的人工智慧驅動的維基百科競爭對手，最近再次開始合併編輯，今天，它得到了…",
+      "title": "谷歌新的引導視覺功能可以幫助您閱讀細則",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+      "summary": "Guided Vision 今天在兼容 Android 裝置上的 Gemini Live 中推出，利用 AI 提供即時音訊描述…",
       "source": "The Verge"
     },
     {
-      "title": "谷歌宣布推出 Gemini 4，並表示它的功能非常強大，目前只有「值得信賴的網路防禦者」才能擁有它",
-      "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-      "summary": "谷歌今天發布了其下一個人工智慧前沿模型，稱為 Gemini 4 Argon。新車型傳遞“前沿...",
+      "title": "OpenAI 的新代理商是對 Meta 的一次嘗試——但它能與免費代理商競爭嗎？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+      "summary": "在 OpenAI 的年度 DevDay 會議上，該公司使出渾身解數與競爭對手競爭——主要是 Meta，…",
       "source": "The Verge"
+    },
+    {
+      "title": "據報道，馬斯克的人工智慧聊天機器人 Grok 鼓勵川普捕捉委內瑞拉總統",
+      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "summary": "據報道，川普總統在入侵委內瑞拉並抓獲尼古拉斯馬杜羅之前徵求了Grok的意見。",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "馬斯克 (Elon Musk) 的 Grokipedia 擁有「全新」設計",
-    "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-    "summary": "Grokipedia 是 SpaceXAI 的人工智慧驅動的維基百科競爭對手，最近再次開始合併編輯，今天，它得到了…",
+    "title": "谷歌新的引導視覺功能可以幫助您閱讀細則",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+    "summary": "Guided Vision 今天在兼容 Android 裝置上的 Gemini Live 中推出，利用 AI 提供即時音訊描述…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -12563,6 +12562,119 @@
         "title": "馬斯克 (Elon Musk) 的 Grokipedia 擁有「全新」設計",
         "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
         "summary": "Grokipedia 是 SpaceXAI 的人工智慧驅動的維基百科競爭對手，最近再次開始合併編輯，今天，它得到了…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-02": {
+      "news": [
+        {
+          "title": "谷歌新的引導視覺功能可以幫助您閱讀細則",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+          "summary": "Guided Vision 今天在兼容 Android 裝置上的 Gemini Live 中推出，利用 AI 提供即時音訊描述…",
+          "source": "The Verge"
+        },
+        {
+          "title": "法官駁回針對谷歌人工智慧概覽的反壟斷訴訟",
+          "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+          "summary": "一名聯邦法官駁回了 Chegg 和滾石母公司 Penske Media 提起的兩項反壟斷訴訟…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 的新代理商是對 Meta 的一次嘗試——但它能與免費代理商競爭嗎？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+          "summary": "在 OpenAI 的年度 DevDay 會議上，該公司使出渾身解數與競爭對手競爭——主要是 Meta，…",
+          "source": "The Verge"
+        },
+        {
+          "title": "我們對凱文·奧利裡 (Kevin O'Leary) 猶他州資料中心崩潰事件進行了長達數月的調查",
+          "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+          "summary": "今天，我正在與 The Verge 的長期專題作家 Josh Dzieza 談論凱文·奧利裡 (Kevin O’Leary) 建立…的計劃。",
+          "source": "The Verge"
+        },
+        {
+          "title": "據報道，馬斯克的人工智慧聊天機器人 Grok 鼓勵川普捕捉委內瑞拉總統",
+          "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+          "summary": "據報道，川普總統在入侵委內瑞拉並抓獲尼古拉斯馬杜羅之前徵求了Grok的意見。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "ChatGPT 現在可以為您虛擬試衣",
+          "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+          "summary": "OpenAI 正在為 ChatGPT 推出新的購物功能，讓使用者可以使用虛擬方式試穿服裝和配件…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "谷歌認為 SpaceX 的星際飛船必須發射 1800 次才能讓太空資料中心落地",
+          "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+          "summary": "谷歌將其首款先進晶片送入軌道，為太空資料中心鋪路。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "根據《華爾街日報》報道，OpenAI 與 3 名安全研究人員斷絕關係",
+          "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+          "summary": "OpenAI 與三名安全研究人員分道揚鑣，因為內部調查發現他們對敏感資訊處理不當…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "塞米特克薩 (Semitexa)",
+          "link": "https://www.producthunt.com/products/semitexa",
+          "desc": "The PHP framework your AI agent can actually inspect Discussion | Link",
+          "title_en": "Semitexa"
+        },
+        {
+          "title": "完全投入 (UTTER IN)",
+          "link": "https://www.producthunt.com/products/utter-in",
+          "desc": "Say it once and your AI assistant plans the rest Discussion | Link",
+          "title_en": "UTTER IN"
+        },
+        {
+          "title": "赫洛 (Helo)",
+          "link": "https://www.producthunt.com/products/helo-2",
+          "desc": "An independent email API from former Postmark folks Discussion | Link",
+          "title_en": "Helo"
+        },
+        {
+          "title": "維特拉.ai (Vitra.ai)",
+          "link": "https://www.producthunt.com/products/vitra-ai-agentic-content-platform",
+          "desc": "用於建立和在地化內容的代理內容平台 討論 |關聯",
+          "title_en": "Vitra.ai"
+        },
+        {
+          "title": "連鎖剪 (ChainSnip)",
+          "link": "https://www.producthunt.com/products/chainsnip",
+          "desc": "會計師錢包餘額證明討論 |關聯",
+          "title_en": "ChainSnip"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "谷歌新的引導視覺功能可以幫助您閱讀細則",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+          "summary": "Guided Vision 今天在兼容 Android 裝置上的 Gemini Live 中推出，利用 AI 提供即時音訊描述…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 的新代理商是對 Meta 的一次嘗試——但它能與免費代理商競爭嗎？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+          "summary": "在 OpenAI 的年度 DevDay 會議上，該公司使出渾身解數與競爭對手競爭——主要是 Meta，…",
+          "source": "The Verge"
+        },
+        {
+          "title": "據報道，馬斯克的人工智慧聊天機器人 Grok 鼓勵川普捕捉委內瑞拉總統",
+          "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+          "summary": "據報道，川普總統在入侵委內瑞拉並抓獲尼古拉斯馬杜羅之前徵求了Grok的意見。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "谷歌新的引導視覺功能可以幫助您閱讀細則",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+        "summary": "Guided Vision 今天在兼容 Android 裝置上的 Gemini Live 中推出，利用 AI 提供即時音訊描述…",
         "source": "The Verge"
       },
       "steve_ideas": []
