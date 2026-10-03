@@ -1,113 +1,101 @@
 {
-  "updated": "2026-10-02 14:38 HKT",
+  "updated": "2026-10-03 13:59 HKT",
   "news": [
     {
-      "title": "谷歌新的引導視覺功能可以幫助您閱讀細則",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "summary": "Guided Vision 今天在兼容 Android 裝置上的 Gemini Live 中推出，利用 AI 提供即時音訊描述…",
+      "title": "Meta 開源程式碼可讓您製作 Muse AI 小工具",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "summary": "Meta 現在可以讓您製作自己的 Muse 小工具，這些小工具具有該公司新的 AI 代理以及該公司公開的程式碼...",
       "source": "The Verge"
     },
     {
-      "title": "法官駁回針對谷歌人工智慧概覽的反壟斷訴訟",
-      "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-      "summary": "一名聯邦法官駁回了 Chegg 和滾石母公司 Penske Media 提起的兩項反壟斷訴訟…",
+      "title": "蘋果將限制 Mac 磁碟訪問，因為人工智慧代理「大幅」增加了風險",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "summary": "正如早些時候報導的那樣，蘋果將在 Mac 上增加「全磁碟存取」的新限制，以應對人工智慧代理帶來的風險。",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 的新代理商是對 Meta 的一次嘗試——但它能與免費代理商競爭嗎？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "summary": "在 OpenAI 的年度 DevDay 會議上，該公司使出渾身解數與競爭對手競爭——主要是 Meta，…",
+      "title": "OpenAI 的 Dot Agent 是一款企業軟體，也可以為你訂餐",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "summary": "這是一個上週就有的故事：OpenAI 的新代理平台，名為 Dots，充滿了可愛的小傢伙，可以為你做事…",
       "source": "The Verge"
     },
     {
-      "title": "我們對凱文·奧利裡 (Kevin O'Leary) 猶他州資料中心崩潰事件進行了長達數月的調查",
-      "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-      "summary": "今天，我正在與 The Verge 的長期專題作家 Josh Dzieza 談論凱文·奧利裡 (Kevin O’Leary) 建立…的計劃。",
+      "title": "（與伊隆馬斯克）分手很難",
+      "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+      "summary": "在 MySpace 風格的網路劇中，Shivon Zilis 宣布她和四個孩子的父親 Elo...",
       "source": "The Verge"
     },
     {
-      "title": "據報道，馬斯克的人工智慧聊天機器人 Grok 鼓勵川普捕捉委內瑞拉總統",
-      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "summary": "據報道，川普總統在入侵委內瑞拉並抓獲尼古拉斯馬杜羅之前徵求了Grok的意見。",
-      "source": "TechCrunch"
+      "title": "人工智慧的幻覺讓有資格的客戶變得更糟",
+      "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+      "summary": "麥迪遜是紐約市的服務員，他會詢問每位用餐者的過敏情況來迎接每一張桌子。最近，有…",
+      "source": "The Verge"
     },
     {
-      "title": "ChatGPT 現在可以為您虛擬試衣",
-      "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-      "summary": "OpenAI 正在為 ChatGPT 推出新的購物功能，讓使用者可以使用虛擬方式試穿服裝和配件…",
-      "source": "TechCrunch"
+      "title": "如果資料中心偽裝在樹林裡，會有人討厭它嗎？",
+      "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking li…",
+      "source": "The Verge"
     },
     {
-      "title": "谷歌認為 SpaceX 的星際飛船必須發射 1800 次才能讓太空資料中心落地",
-      "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-      "summary": "谷歌將其首款先進晶片送入軌道，為太空資料中心鋪路。",
-      "source": "TechCrunch"
+      "title": "亞馬遜寫可怕的部落格警告社群不要封鎖資料中心",
+      "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+      "summary": "亞馬遜呼籲人們支持人工智慧資料中心項目，否則將面臨對美國經濟和國家造成不可挽回損害的風險…",
+      "source": "The Verge"
     },
     {
-      "title": "根據《華爾街日報》報道，OpenAI 與 3 名安全研究人員斷絕關係",
-      "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-      "summary": "OpenAI 與三名安全研究人員分道揚鑣，因為內部調查發現他們對敏感資訊處理不當…",
-      "source": "TechCrunch"
+      "title": "AI 音樂製作者 Suno 現在可以產生口語單字",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+      "summary": "Suno 正在拓展人工智慧音樂領域，推出了一項新功能，可以根據腳本產生語音…",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "塞米特克薩 (Semitexa)",
-      "link": "https://www.producthunt.com/products/semitexa",
-      "desc": "The PHP framework your AI agent can actually inspect Discussion | Link",
-      "title_en": "Semitexa"
+      "title": "竹實驗室 R1 (Bambu Lab R1)",
+      "link": "https://www.producthunt.com/products/bambu-lab-r1",
+      "desc": "CO2 雷射切割與 Bambu 式自動化討論 |關聯",
+      "title_en": "Bambu Lab R1"
     },
     {
-      "title": "完全投入 (UTTER IN)",
-      "link": "https://www.producthunt.com/products/utter-in",
-      "desc": "Say it once and your AI assistant plans the rest Discussion | Link",
-      "title_en": "UTTER IN"
+      "title": "交流 (Communicate)",
+      "link": "https://www.producthunt.com/products/communicate",
+      "desc": "人工智慧支援代理以您的知識為基礎，並進行交接 討論 |關聯",
+      "title_en": "Communicate"
     },
     {
-      "title": "赫洛 (Helo)",
-      "link": "https://www.producthunt.com/products/helo-2",
-      "desc": "An independent email API from former Postmark folks Discussion | Link",
-      "title_en": "Helo"
+      "title": "莫西 (Moxie)",
+      "link": "https://www.producthunt.com/products/moxie-2",
+      "desc": "使用任何 AI 與 Claude Code，在任務中切換帳戶 討論 |關聯",
+      "title_en": "Moxie"
     },
     {
-      "title": "維特拉.ai (Vitra.ai)",
-      "link": "https://www.producthunt.com/products/vitra-ai-agentic-content-platform",
-      "desc": "用於建立和在地化內容的代理內容平台 討論 |關聯",
-      "title_en": "Vitra.ai"
+      "title": "音節AI頭像2.0 (Syllaby AI Avatar 2.0)",
+      "link": "https://www.producthunt.com/products/syllaby-ai-avatar-2-0",
+      "desc": "在幾秒鐘內創建您自己的頭像討論 |關聯",
+      "title_en": "Syllaby AI Avatar 2.0"
     },
     {
-      "title": "連鎖剪 (ChainSnip)",
-      "link": "https://www.producthunt.com/products/chainsnip",
-      "desc": "會計師錢包餘額證明討論 |關聯",
-      "title_en": "ChainSnip"
+      "title": "緯切 (WeftCut)",
+      "link": "https://www.producthunt.com/products/weftcut",
+      "desc": "您的 AI 代理可以驅動的開源影片編輯器關聯",
+      "title_en": "WeftCut"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "谷歌新的引導視覺功能可以幫助您閱讀細則",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-      "summary": "Guided Vision 今天在兼容 Android 裝置上的 Gemini Live 中推出，利用 AI 提供即時音訊描述…",
+      "title": "OpenAI 的 Dot Agent 是一款企業軟體，也可以為你訂餐",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+      "summary": "這是一個上週就有的故事：OpenAI 的新代理平台，名為 Dots，充滿了可愛的小傢伙，可以為你做事…",
       "source": "The Verge"
-    },
-    {
-      "title": "OpenAI 的新代理商是對 Meta 的一次嘗試——但它能與免費代理商競爭嗎？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-      "summary": "在 OpenAI 的年度 DevDay 會議上，該公司使出渾身解數與競爭對手競爭——主要是 Meta，…",
-      "source": "The Verge"
-    },
-    {
-      "title": "據報道，馬斯克的人工智慧聊天機器人 Grok 鼓勵川普捕捉委內瑞拉總統",
-      "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-      "summary": "據報道，川普總統在入侵委內瑞拉並抓獲尼古拉斯馬杜羅之前徵求了Grok的意見。",
-      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "谷歌新的引導視覺功能可以幫助您閱讀細則",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-    "summary": "Guided Vision 今天在兼容 Android 裝置上的 Gemini Live 中推出，利用 AI 提供即時音訊描述…",
+    "title": "OpenAI 的 Dot Agent 是一款企業軟體，也可以為你訂餐",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+    "summary": "這是一個上週就有的故事：OpenAI 的新代理平台，名為 Dots，充滿了可愛的小傢伙，可以為你做事…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -12675,6 +12663,107 @@
         "title": "谷歌新的引導視覺功能可以幫助您閱讀細則",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
         "summary": "Guided Vision 今天在兼容 Android 裝置上的 Gemini Live 中推出，利用 AI 提供即時音訊描述…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-03": {
+      "news": [
+        {
+          "title": "Meta 開源程式碼可讓您製作 Muse AI 小工具",
+          "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+          "summary": "Meta 現在可以讓您製作自己的 Muse 小工具，這些小工具具有該公司新的 AI 代理以及該公司公開的程式碼...",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果將限制 Mac 磁碟訪問，因為人工智慧代理「大幅」增加了風險",
+          "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+          "summary": "正如早些時候報導的那樣，蘋果將在 Mac 上增加「全磁碟存取」的新限制，以應對人工智慧代理帶來的風險。",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 的 Dot Agent 是一款企業軟體，也可以為你訂餐",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+          "summary": "這是一個上週就有的故事：OpenAI 的新代理平台，名為 Dots，充滿了可愛的小傢伙，可以為你做事…",
+          "source": "The Verge"
+        },
+        {
+          "title": "（與伊隆馬斯克）分手很難",
+          "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+          "summary": "在 MySpace 風格的網路劇中，Shivon Zilis 宣布她和四個孩子的父親 Elo...",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧的幻覺讓有資格的客戶變得更糟",
+          "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+          "summary": "麥迪遜是紐約市的服務員，他會詢問每位用餐者的過敏情況來迎接每一張桌子。最近，有…",
+          "source": "The Verge"
+        },
+        {
+          "title": "如果資料中心偽裝在樹林裡，會有人討厭它嗎？",
+          "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+          "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking li…",
+          "source": "The Verge"
+        },
+        {
+          "title": "亞馬遜寫可怕的部落格警告社群不要封鎖資料中心",
+          "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+          "summary": "亞馬遜呼籲人們支持人工智慧資料中心項目，否則將面臨對美國經濟和國家造成不可挽回損害的風險…",
+          "source": "The Verge"
+        },
+        {
+          "title": "AI 音樂製作者 Suno 現在可以產生口語單字",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+          "summary": "Suno 正在拓展人工智慧音樂領域，推出了一項新功能，可以根據腳本產生語音…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "竹實驗室 R1 (Bambu Lab R1)",
+          "link": "https://www.producthunt.com/products/bambu-lab-r1",
+          "desc": "CO2 雷射切割與 Bambu 式自動化討論 |關聯",
+          "title_en": "Bambu Lab R1"
+        },
+        {
+          "title": "交流 (Communicate)",
+          "link": "https://www.producthunt.com/products/communicate",
+          "desc": "人工智慧支援代理以您的知識為基礎，並進行交接 討論 |關聯",
+          "title_en": "Communicate"
+        },
+        {
+          "title": "莫西 (Moxie)",
+          "link": "https://www.producthunt.com/products/moxie-2",
+          "desc": "使用任何 AI 與 Claude Code，在任務中切換帳戶 討論 |關聯",
+          "title_en": "Moxie"
+        },
+        {
+          "title": "音節AI頭像2.0 (Syllaby AI Avatar 2.0)",
+          "link": "https://www.producthunt.com/products/syllaby-ai-avatar-2-0",
+          "desc": "在幾秒鐘內創建您自己的頭像討論 |關聯",
+          "title_en": "Syllaby AI Avatar 2.0"
+        },
+        {
+          "title": "緯切 (WeftCut)",
+          "link": "https://www.producthunt.com/products/weftcut",
+          "desc": "您的 AI 代理可以驅動的開源影片編輯器關聯",
+          "title_en": "WeftCut"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 的 Dot Agent 是一款企業軟體，也可以為你訂餐",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+          "summary": "這是一個上週就有的故事：OpenAI 的新代理平台，名為 Dots，充滿了可愛的小傢伙，可以為你做事…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 的 Dot Agent 是一款企業軟體，也可以為你訂餐",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+        "summary": "這是一個上週就有的故事：OpenAI 的新代理平台，名為 Dots，充滿了可愛的小傢伙，可以為你做事…",
         "source": "The Verge"
       },
       "steve_ideas": []
