@@ -1,101 +1,95 @@
 {
-  "updated": "2026-10-03 13:59 HKT",
+  "updated": "2026-10-04 14:36 HKT",
   "news": [
     {
-      "title": "Meta 開源程式碼可讓您製作 Muse AI 小工具",
-      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-      "summary": "Meta 現在可以讓您製作自己的 Muse 小工具，這些小工具具有該公司新的 AI 代理以及該公司公開的程式碼...",
+      "title": "卡普空正在為「我們與人工智慧一起創造遊戲的未來」做準備",
+      "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+      "summary": "Capcom 的 Pragmata 可能全都是關於人工智慧的恐怖，但實際上該工作室似乎不那麼看不起這項技術。持續…",
       "source": "The Verge"
     },
     {
-      "title": "蘋果將限制 Mac 磁碟訪問，因為人工智慧代理「大幅」增加了風險",
-      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
-      "summary": "正如早些時候報導的那樣，蘋果將在 Mac 上增加「全磁碟存取」的新限制，以應對人工智慧代理帶來的風險。",
+      "title": "Splice 執行長 Kakul Srivastava 認為人工智慧電子郵件正在扼殺對話",
+      "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+      "summary": "Kakul Srivastava 是 Splice 的首席執行官，Splice 是無數製作人依賴的單鏡頭和旋律循環樣本平台。 ……",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 的 Dot Agent 是一款企業軟體，也可以為你訂餐",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "summary": "這是一個上週就有的故事：OpenAI 的新代理平台，名為 Dots，充滿了可愛的小傢伙，可以為你做事…",
+      "title": "OpenAI 安全員工辭職並敲響警鐘",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "summary": "David Robinson 曾經撰寫 OpenAI 發布的每個主要模型附帶的安全報告。本週，他...",
       "source": "The Verge"
     },
     {
-      "title": "（與伊隆馬斯克）分手很難",
-      "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-      "summary": "在 MySpace 風格的網路劇中，Shivon Zilis 宣布她和四個孩子的父親 Elo...",
-      "source": "The Verge"
+      "title": "亞馬遜回應資料中心的強烈反對，表示不再使用保密協議",
+      "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+      "summary": "亞馬遜網路服務公司的執行長試圖反駁人們對資料中心的普遍懷疑。",
+      "source": "TechCrunch"
     },
     {
-      "title": "人工智慧的幻覺讓有資格的客戶變得更糟",
-      "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
-      "summary": "麥迪遜是紐約市的服務員，他會詢問每位用餐者的過敏情況來迎接每一張桌子。最近，有…",
-      "source": "The Verge"
+      "title": "OpenAI 安全員工辭職，稱公司“文化被破壞”",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "大衛羅賓遜 (David Robinson) 自己承認，他「有些陳腔濫調」：一家領先的人工智慧公司的一名員工發出了可怕的警告…",
+      "source": "TechCrunch"
     },
     {
-      "title": "如果資料中心偽裝在樹林裡，會有人討厭它嗎？",
-      "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
-      "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking li…",
-      "source": "The Verge"
-    },
-    {
-      "title": "亞馬遜寫可怕的部落格警告社群不要封鎖資料中心",
-      "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "summary": "亞馬遜呼籲人們支持人工智慧資料中心項目，否則將面臨對美國經濟和國家造成不可挽回損害的風險…",
-      "source": "The Verge"
-    },
-    {
-      "title": "AI 音樂製作者 Suno 現在可以產生口語單字",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-      "summary": "Suno 正在拓展人工智慧音樂領域，推出了一項新功能，可以根據腳本產生語音…",
-      "source": "The Verge"
+      "title": "所有可以存在於你的簡訊中的人工智慧代理",
+      "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "我們創建了一份最著名的人工智慧代理列表，這些代理可以存在於您的短信中，從一般助理到代理…",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "竹實驗室 R1 (Bambu Lab R1)",
-      "link": "https://www.producthunt.com/products/bambu-lab-r1",
-      "desc": "CO2 雷射切割與 Bambu 式自動化討論 |關聯",
-      "title_en": "Bambu Lab R1"
+      "title": "一次性TP填充 (OTPfill)",
+      "link": "https://www.producthunt.com/products/otpfill",
+      "desc": "在 Mac 上自動填入電子郵件中的 OTP 代碼關聯",
+      "title_en": "OTPfill"
     },
     {
-      "title": "交流 (Communicate)",
-      "link": "https://www.producthunt.com/products/communicate",
-      "desc": "人工智慧支援代理以您的知識為基礎，並進行交接 討論 |關聯",
-      "title_en": "Communicate"
+      "title": "動物園工作 (ZooWork)",
+      "link": "https://www.producthunt.com/products/zoowork",
+      "desc": "面向 FDE 和領域專家的 AI 代理交付平台關聯",
+      "title_en": "ZooWork"
     },
     {
-      "title": "莫西 (Moxie)",
-      "link": "https://www.producthunt.com/products/moxie-2",
-      "desc": "使用任何 AI 與 Claude Code，在任務中切換帳戶 討論 |關聯",
-      "title_en": "Moxie"
+      "title": "SCMD",
+      "link": "https://www.producthunt.com/products/scmd",
+      "desc": "管理Claude記住並保留的記憶。討論 |關聯",
+      "title_en": "SCMD"
     },
     {
-      "title": "音節AI頭像2.0 (Syllaby AI Avatar 2.0)",
-      "link": "https://www.producthunt.com/products/syllaby-ai-avatar-2-0",
-      "desc": "在幾秒鐘內創建您自己的頭像討論 |關聯",
-      "title_en": "Syllaby AI Avatar 2.0"
+      "title": "方正電台 (FoundrRadio)",
+      "link": "https://www.producthunt.com/products/foundrradio",
+      "desc": "選擇一個頻率，啟動您的廣播電台並開始播出 討論 |關聯",
+      "title_en": "FoundrRadio"
     },
     {
-      "title": "緯切 (WeftCut)",
-      "link": "https://www.producthunt.com/products/weftcut",
-      "desc": "您的 AI 代理可以驅動的開源影片編輯器關聯",
-      "title_en": "WeftCut"
+      "title": "代理活動 (Agent Activity)",
+      "link": "https://www.producthunt.com/products/agent-activity",
+      "desc": "看看你的人工智慧代理在背後做了什麼討論 |關聯",
+      "title_en": "Agent Activity"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 的 Dot Agent 是一款企業軟體，也可以為你訂餐",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-      "summary": "這是一個上週就有的故事：OpenAI 的新代理平台，名為 Dots，充滿了可愛的小傢伙，可以為你做事…",
+      "title": "OpenAI 安全員工辭職並敲響警鐘",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+      "summary": "David Robinson 曾經撰寫 OpenAI 發布的每個主要模型附帶的安全報告。本週，他...",
       "source": "The Verge"
+    },
+    {
+      "title": "OpenAI 安全員工辭職，稱公司“文化被破壞”",
+      "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+      "summary": "大衛羅賓遜 (David Robinson) 自己承認，他「有些陳腔濫調」：一家領先的人工智慧公司的一名員工發出了可怕的警告…",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "OpenAI 的 Dot Agent 是一款企業軟體，也可以為你訂餐",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
-    "summary": "這是一個上週就有的故事：OpenAI 的新代理平台，名為 Dots，充滿了可愛的小傢伙，可以為你做事…",
+    "title": "OpenAI 安全員工辭職並敲響警鐘",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+    "summary": "David Robinson 曾經撰寫 OpenAI 發布的每個主要模型附帶的安全報告。本週，他...",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -12764,6 +12758,101 @@
         "title": "OpenAI 的 Dot Agent 是一款企業軟體，也可以為你訂餐",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
         "summary": "這是一個上週就有的故事：OpenAI 的新代理平台，名為 Dots，充滿了可愛的小傢伙，可以為你做事…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-04": {
+      "news": [
+        {
+          "title": "卡普空正在為「我們與人工智慧一起創造遊戲的未來」做準備",
+          "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+          "summary": "Capcom 的 Pragmata 可能全都是關於人工智慧的恐怖，但實際上該工作室似乎不那麼看不起這項技術。持續…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Splice 執行長 Kakul Srivastava 認為人工智慧電子郵件正在扼殺對話",
+          "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
+          "summary": "Kakul Srivastava 是 Splice 的首席執行官，Splice 是無數製作人依賴的單鏡頭和旋律循環樣本平台。 ……",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 安全員工辭職並敲響警鐘",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+          "summary": "David Robinson 曾經撰寫 OpenAI 發布的每個主要模型附帶的安全報告。本週，他...",
+          "source": "The Verge"
+        },
+        {
+          "title": "亞馬遜回應資料中心的強烈反對，表示不再使用保密協議",
+          "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+          "summary": "亞馬遜網路服務公司的執行長試圖反駁人們對資料中心的普遍懷疑。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI 安全員工辭職，稱公司“文化被破壞”",
+          "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+          "summary": "大衛羅賓遜 (David Robinson) 自己承認，他「有些陳腔濫調」：一家領先的人工智慧公司的一名員工發出了可怕的警告…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "所有可以存在於你的簡訊中的人工智慧代理",
+          "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "summary": "我們創建了一份最著名的人工智慧代理列表，這些代理可以存在於您的短信中，從一般助理到代理…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "一次性TP填充 (OTPfill)",
+          "link": "https://www.producthunt.com/products/otpfill",
+          "desc": "在 Mac 上自動填入電子郵件中的 OTP 代碼關聯",
+          "title_en": "OTPfill"
+        },
+        {
+          "title": "動物園工作 (ZooWork)",
+          "link": "https://www.producthunt.com/products/zoowork",
+          "desc": "面向 FDE 和領域專家的 AI 代理交付平台關聯",
+          "title_en": "ZooWork"
+        },
+        {
+          "title": "SCMD",
+          "link": "https://www.producthunt.com/products/scmd",
+          "desc": "管理Claude記住並保留的記憶。討論 |關聯",
+          "title_en": "SCMD"
+        },
+        {
+          "title": "方正電台 (FoundrRadio)",
+          "link": "https://www.producthunt.com/products/foundrradio",
+          "desc": "選擇一個頻率，啟動您的廣播電台並開始播出 討論 |關聯",
+          "title_en": "FoundrRadio"
+        },
+        {
+          "title": "代理活動 (Agent Activity)",
+          "link": "https://www.producthunt.com/products/agent-activity",
+          "desc": "看看你的人工智慧代理在背後做了什麼討論 |關聯",
+          "title_en": "Agent Activity"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 安全員工辭職並敲響警鐘",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+          "summary": "David Robinson 曾經撰寫 OpenAI 發布的每個主要模型附帶的安全報告。本週，他...",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 安全員工辭職，稱公司“文化被破壞”",
+          "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+          "summary": "大衛羅賓遜 (David Robinson) 自己承認，他「有些陳腔濫調」：一家領先的人工智慧公司的一名員工發出了可怕的警告…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 安全員工辭職並敲響警鐘",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+        "summary": "David Robinson 曾經撰寫 OpenAI 發布的每個主要模型附帶的安全報告。本週，他...",
         "source": "The Verge"
       },
       "steve_ideas": []
