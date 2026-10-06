@@ -1,89 +1,113 @@
 {
-  "updated": "2026-10-05 14:31 HKT",
+  "updated": "2026-10-06 15:08 HKT",
   "news": [
     {
-      "title": "新澤西州前副州長正在使用人工智慧說他沒有性騷擾",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-      "summary": "新澤西州副州長戴爾·考德威爾 (Dale Caldwell) 於 9 月 25 日被迫辭職，因為調查發現他...",
+      "title": "Gemini打電話給我可能會告訴你媽媽你遲到了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "summary": "谷歌可能會將其「Call for Me」人工智慧功能擴展到商務電話之外，這樣你就可以用它向朋友發送訊息...",
       "source": "The Verge"
     },
     {
-      "title": "人工智慧無法在星海爭霸中擊敗人類，所以它決定作弊",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "summary": "《StarSkirmish》讓 AI 製造的玩星海爭霸的機器人相互競爭，也與人類製造的機器人對抗。 OpenAI 的 GPT-6…",
+      "title": "這家新創公司正在發佈人工智慧生成的痤瘡處方",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health annou…",
       "source": "The Verge"
     },
     {
-      "title": "由於人工智慧提交量“顯著增加”，谷歌凍結了其開源漏洞賞金計劃",
-      "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-      "summary": "AI 溢出似乎壓倒了 bug 賞金計劃。",
-      "source": "TechCrunch"
+      "title": "所有圍繞人工智慧接管數學的戲劇",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "summary": "去年，OpenAI、Anthropic 和其他實驗室宣佈在許多長期存在的數學問題上取得突破…",
+      "source": "The Verge"
     },
     {
-      "title": "「超級智慧」與不具約束力的安全協定能否解決人工智慧的形象問題？",
-      "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-      "summary": "在公平方面，我們討論了川普政府重塑人工智慧品牌的嘗試。",
-      "source": "TechCrunch"
+      "title": "維基百科營運商表示 OpenAI 的「流氓」機器人可能與 5 月的一次服務中斷有關",
+      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "summary": "在最近披露了許多有關人工智慧代理商訪問第三方網站和服務的資訊後，維基媒體基金會…",
+      "source": "The Verge"
     },
     {
-      "title": "川普推出新的超級情報部隊",
-      "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-      "summary": "這個新的工作小組是川普對人工智慧安全爭論的最新回應。",
-      "source": "TechCrunch"
+      "title": "OpenAI 正在 ChatGPT 和 Codex 中添加文字浮水印",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+      "summary": "文字輸出中不可見的機器可讀浮水印正在向 ChatGPT 和 Codex 推出，但僅適用於歐洲用戶…",
+      "source": "The Verge"
     },
     {
-      "title": "EmTech 未來 2026 年：當人工智慧遇見一切",
-      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
-      "summary": "谷歌副總裁兼研究主管 Yossi Matias 探討了人工智慧如何開始重塑生物學、基礎設施…",
-      "source": "MIT Tech"
+      "title": "OpenAI PR 在向 Sam Altman 詢問 ChatGPT 用戶自殺事件時告訴記者“繼續前進”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+      "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the e…",
+      "source": "The Verge"
+    },
+    {
+      "title": "薩姆·奧爾特曼表示「一些不好的事情」將會發生，但人工智慧是完全值得的",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+      "summary": "Sam Altman 認為人工智慧的好處將是如此之大，以至於「世界應該接受一些壞事的發生」…",
+      "source": "The Verge"
+    },
+    {
+      "title": "參議員 Adam Schiff 談人工智慧監管、言論自由和再次彈劾川普",
+      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+      "summary": "今天，我正在與來自加州的民主黨參議員亞當希夫交談。希夫 (Schiff) 擔任多個委員會的高級職務…",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "opensend.cc",
-      "link": "https://www.producthunt.com/products/opensend-cc",
-      "desc": "在您的伺服器上執行的開源電子郵件平台關聯",
-      "title_en": "opensend.cc"
+      "title": "阿普托 (Appto)",
+      "link": "https://www.producthunt.com/products/appto",
+      "desc": "一個在您自己的 AI 訂閱上運行的 iOS 應用程式工廠關聯",
+      "title_en": "Appto"
     },
     {
-      "title": "加倫書 (qarunbook)",
-      "link": "https://www.producthunt.com/products/qarunbook",
-      "desc": "您的團隊和 AI 可以透過討論 | 制定測試計劃關聯",
-      "title_en": "qarunbook"
+      "title": "Etsy 客戶服務人工智慧 (Customer Service AI for Etsy)",
+      "link": "https://www.producthunt.com/products/customer-service-ai-for-etsy",
+      "desc": "秒回覆Etsy買家留言，始終專業 討論 |關聯",
+      "title_en": "Customer Service AI for Etsy"
     },
     {
-      "title": "吃火車的感覺 (Eat Train Feel)",
-      "link": "https://www.producthunt.com/products/eat-train-feel",
-      "desc": "適合您的教練 運動、食物和您的感受 討論 |關聯",
-      "title_en": "Eat Train Feel"
+      "title": "魯作業系統 (ruOS)",
+      "link": "https://www.producthunt.com/products/ruos",
+      "desc": "人工智慧代理為您完成工作的雲端桌面關聯",
+      "title_en": "ruOS"
     },
     {
-      "title": "光圈 (Aperture)",
-      "link": "https://www.producthunt.com/products/aperture-7",
-      "desc": "一個檢查自己工作的人工智慧程式碼編輯器 討論 |關聯",
-      "title_en": "Aperture"
+      "title": "蘭科曲 (Ranktune)",
+      "link": "https://www.producthunt.com/products/ranktune",
+      "desc": "追蹤 AI 可見性、引用和推薦流量關聯",
+      "title_en": "Ranktune"
     },
     {
-      "title": "索爾克 (Sorcrr)",
-      "link": "https://www.producthunt.com/products/sorcrr",
-      "desc": "人工智慧啟用賞金驅動的招募和 gtm 推薦平台討論 |關聯",
-      "title_en": "Sorcrr"
+      "title": "班格 (Banger)",
+      "link": "https://www.producthunt.com/products/banger-mail",
+      "desc": "透過人工智慧運行的電子郵件自動化贏得並留住客戶關聯",
+      "title_en": "Banger"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "人工智慧無法在星海爭霸中擊敗人類，所以它決定作弊",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-      "summary": "《StarSkirmish》讓 AI 製造的玩星海爭霸的機器人相互競爭，也與人類製造的機器人對抗。 OpenAI 的 GPT-6…",
+      "title": "Gemini打電話給我可能會告訴你媽媽你遲到了",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "summary": "谷歌可能會將其「Call for Me」人工智慧功能擴展到商務電話之外，這樣你就可以用它向朋友發送訊息...",
+      "source": "The Verge"
+    },
+    {
+      "title": "所有圍繞人工智慧接管數學的戲劇",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+      "summary": "去年，OpenAI、Anthropic 和其他實驗室宣佈在許多長期存在的數學問題上取得突破…",
+      "source": "The Verge"
+    },
+    {
+      "title": "維基百科營運商表示 OpenAI 的「流氓」機器人可能與 5 月的一次服務中斷有關",
+      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+      "summary": "在最近披露了許多有關人工智慧代理商訪問第三方網站和服務的資訊後，維基媒體基金會…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "人工智慧無法在星海爭霸中擊敗人類，所以它決定作弊",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-    "summary": "《StarSkirmish》讓 AI 製造的玩星海爭霸的機器人相互競爭，也與人類製造的機器人對抗。 OpenAI 的 GPT-6…",
+    "title": "Gemini打電話給我可能會告訴你媽媽你遲到了",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+    "summary": "谷歌可能會將其「Call for Me」人工智慧功能擴展到商務電話之外，這樣你就可以用它向朋友發送訊息...",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -12936,6 +12960,119 @@
         "title": "人工智慧無法在星海爭霸中擊敗人類，所以它決定作弊",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
         "summary": "《StarSkirmish》讓 AI 製造的玩星海爭霸的機器人相互競爭，也與人類製造的機器人對抗。 OpenAI 的 GPT-6…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-06": {
+      "news": [
+        {
+          "title": "Gemini打電話給我可能會告訴你媽媽你遲到了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "summary": "谷歌可能會將其「Call for Me」人工智慧功能擴展到商務電話之外，這樣你就可以用它向朋友發送訊息...",
+          "source": "The Verge"
+        },
+        {
+          "title": "這家新創公司正在發佈人工智慧生成的痤瘡處方",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+          "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health annou…",
+          "source": "The Verge"
+        },
+        {
+          "title": "所有圍繞人工智慧接管數學的戲劇",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+          "summary": "去年，OpenAI、Anthropic 和其他實驗室宣佈在許多長期存在的數學問題上取得突破…",
+          "source": "The Verge"
+        },
+        {
+          "title": "維基百科營運商表示 OpenAI 的「流氓」機器人可能與 5 月的一次服務中斷有關",
+          "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+          "summary": "在最近披露了許多有關人工智慧代理商訪問第三方網站和服務的資訊後，維基媒體基金會…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 正在 ChatGPT 和 Codex 中添加文字浮水印",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+          "summary": "文字輸出中不可見的機器可讀浮水印正在向 ChatGPT 和 Codex 推出，但僅適用於歐洲用戶…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI PR 在向 Sam Altman 詢問 ChatGPT 用戶自殺事件時告訴記者“繼續前進”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+          "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the e…",
+          "source": "The Verge"
+        },
+        {
+          "title": "薩姆·奧爾特曼表示「一些不好的事情」將會發生，但人工智慧是完全值得的",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+          "summary": "Sam Altman 認為人工智慧的好處將是如此之大，以至於「世界應該接受一些壞事的發生」…",
+          "source": "The Verge"
+        },
+        {
+          "title": "參議員 Adam Schiff 談人工智慧監管、言論自由和再次彈劾川普",
+          "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+          "summary": "今天，我正在與來自加州的民主黨參議員亞當希夫交談。希夫 (Schiff) 擔任多個委員會的高級職務…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "阿普托 (Appto)",
+          "link": "https://www.producthunt.com/products/appto",
+          "desc": "一個在您自己的 AI 訂閱上運行的 iOS 應用程式工廠關聯",
+          "title_en": "Appto"
+        },
+        {
+          "title": "Etsy 客戶服務人工智慧 (Customer Service AI for Etsy)",
+          "link": "https://www.producthunt.com/products/customer-service-ai-for-etsy",
+          "desc": "秒回覆Etsy買家留言，始終專業 討論 |關聯",
+          "title_en": "Customer Service AI for Etsy"
+        },
+        {
+          "title": "魯作業系統 (ruOS)",
+          "link": "https://www.producthunt.com/products/ruos",
+          "desc": "人工智慧代理為您完成工作的雲端桌面關聯",
+          "title_en": "ruOS"
+        },
+        {
+          "title": "蘭科曲 (Ranktune)",
+          "link": "https://www.producthunt.com/products/ranktune",
+          "desc": "追蹤 AI 可見性、引用和推薦流量關聯",
+          "title_en": "Ranktune"
+        },
+        {
+          "title": "班格 (Banger)",
+          "link": "https://www.producthunt.com/products/banger-mail",
+          "desc": "透過人工智慧運行的電子郵件自動化贏得並留住客戶關聯",
+          "title_en": "Banger"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Gemini打電話給我可能會告訴你媽媽你遲到了",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "summary": "谷歌可能會將其「Call for Me」人工智慧功能擴展到商務電話之外，這樣你就可以用它向朋友發送訊息...",
+          "source": "The Verge"
+        },
+        {
+          "title": "所有圍繞人工智慧接管數學的戲劇",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+          "summary": "去年，OpenAI、Anthropic 和其他實驗室宣佈在許多長期存在的數學問題上取得突破…",
+          "source": "The Verge"
+        },
+        {
+          "title": "維基百科營運商表示 OpenAI 的「流氓」機器人可能與 5 月的一次服務中斷有關",
+          "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+          "summary": "在最近披露了許多有關人工智慧代理商訪問第三方網站和服務的資訊後，維基媒體基金會…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Gemini打電話給我可能會告訴你媽媽你遲到了",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+        "summary": "谷歌可能會將其「Call for Me」人工智慧功能擴展到商務電話之外，這樣你就可以用它向朋友發送訊息...",
         "source": "The Verge"
       },
       "steve_ideas": []
