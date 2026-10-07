@@ -1,67 +1,61 @@
 {
-  "updated": "2026-10-06 15:08 HKT",
+  "updated": "2026-10-07 14:49 HKT",
   "news": [
     {
-      "title": "Gemini打電話給我可能會告訴你媽媽你遲到了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "summary": "谷歌可能會將其「Call for Me」人工智慧功能擴展到商務電話之外，這樣你就可以用它向朋友發送訊息...",
+      "title": "OpenAI 又取得了一批數學突破",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "summary": "OpenAI 揭示了由未發布的前沿模型產生的許多長期存在的數學問題的解決方案...",
       "source": "The Verge"
     },
     {
-      "title": "這家新創公司正在發佈人工智慧生成的痤瘡處方",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-      "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health annou…",
+      "title": "我們不能僅僅改變「錄音」的定義",
+      "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+      "summary": "借助人工智慧硬件，科技公司正在推動什麼構成錄音、什麼不構成錄音的定義。對於大多數…",
       "source": "The Verge"
     },
     {
-      "title": "所有圍繞人工智慧接管數學的戲劇",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "summary": "去年，OpenAI、Anthropic 和其他實驗室宣佈在許多長期存在的數學問題上取得突破…",
+      "title": "谷歌即將取消對 Gemini Flash 和 Pro 的免費訪問",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "summary": "從 10 月 9 日開始，任何使用免費方案的 Google Gemini 的人都將僅限於 Flash Lite 型號。免費用戶可…",
       "source": "The Verge"
     },
     {
-      "title": "維基百科營運商表示 OpenAI 的「流氓」機器人可能與 5 月的一次服務中斷有關",
-      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "summary": "在最近披露了許多有關人工智慧代理商訪問第三方網站和服務的資訊後，維基媒體基金會…",
+      "title": "亞馬遜 Alexa Plus 連續幾分鐘令人毛骨悚然地唱著“lalala”",
+      "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "summary": "令人不安的 Alexa Plus 錯誤導致一些 Amazon Echo 智慧家庭揚聲器只能說，有時甚至唱歌…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 正在 ChatGPT 和 Codex 中添加文字浮水印",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "summary": "文字輸出中不可見的機器可讀浮水印正在向 ChatGPT 和 Codex 推出，但僅適用於歐洲用戶…",
-      "source": "The Verge"
+      "title": "前 Ramp 工程師在廢棄他們的第一個產品後為 Melius 平台籌集了 2000 萬美元",
+      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+      "summary": "該公司沒有幫助行銷人員管理和優化廣告支出，而是專注於建立產生…的工具。",
+      "source": "TechCrunch"
     },
     {
-      "title": "OpenAI PR 在向 Sam Altman 詢問 ChatGPT 用戶自殺事件時告訴記者“繼續前進”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-      "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the e…",
-      "source": "The Verge"
+      "title": "人工智慧決策模型如何改變內容審核",
+      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+      "summary": "週二，Musubi 宣布了一個用於即時審核的輕量級決策模型，名為 PolicyLM-1.7B，發佈於…",
+      "source": "TechCrunch"
     },
     {
-      "title": "薩姆·奧爾特曼表示「一些不好的事情」將會發生，但人工智慧是完全值得的",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
-      "summary": "Sam Altman 認為人工智慧的好處將是如此之大，以至於「世界應該接受一些壞事的發生」…",
-      "source": "The Verge"
+      "title": "人工智慧運算新創公司 Lambda 將在計劃 IPO 之前籌集 40 億美元",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "summary": "Nvidia 支持的 Lambda 在計劃於 2027 年 IPO 之前以 145 億美元的投前估值籌集最多 40 億美元，主導...",
+      "source": "TechCrunch"
     },
     {
-      "title": "參議員 Adam Schiff 談人工智慧監管、言論自由和再次彈劾川普",
-      "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-      "summary": "今天，我正在與來自加州的民主黨參議員亞當希夫交談。希夫 (Schiff) 擔任多個委員會的高級職務…",
-      "source": "The Verge"
+      "title": "人工智慧代理的下一個障礙：讓網站允許他們進入",
+      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+      "summary": "個人人工智慧代理承諾為您購物、預訂航班和預訂。但故意阻止和反機器人防禦......",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "阿普托 (Appto)",
-      "link": "https://www.producthunt.com/products/appto",
-      "desc": "一個在您自己的 AI 訂閱上運行的 iOS 應用程式工廠關聯",
-      "title_en": "Appto"
-    },
-    {
-      "title": "Etsy 客戶服務人工智慧 (Customer Service AI for Etsy)",
-      "link": "https://www.producthunt.com/products/customer-service-ai-for-etsy",
-      "desc": "秒回覆Etsy買家留言，始終專業 討論 |關聯",
-      "title_en": "Customer Service AI for Etsy"
+      "title": "蘭科曲 (Ranktune)",
+      "link": "https://www.producthunt.com/products/ranktune",
+      "desc": "追蹤 AI 可見性、引用和推薦流量關聯",
+      "title_en": "Ranktune"
     },
     {
       "title": "魯作業系統 (ruOS)",
@@ -70,44 +64,44 @@
       "title_en": "ruOS"
     },
     {
-      "title": "蘭科曲 (Ranktune)",
-      "link": "https://www.producthunt.com/products/ranktune",
-      "desc": "追蹤 AI 可見性、引用和推薦流量關聯",
-      "title_en": "Ranktune"
+      "title": "融合人工智慧 (Fuse AI)",
+      "link": "https://www.producthunt.com/products/fuseai",
+      "desc": "建立自訂 GTM 堆疊。一個SDK。 1 個 MCP。討論 |關聯",
+      "title_en": "Fuse AI"
     },
     {
-      "title": "班格 (Banger)",
-      "link": "https://www.producthunt.com/products/banger-mail",
-      "desc": "透過人工智慧運行的電子郵件自動化贏得並留住客戶關聯",
-      "title_en": "Banger"
+      "title": "菲比斯 (Pheebs)",
+      "link": "https://www.producthunt.com/products/pheebs",
+      "desc": "衡量工程師和團隊如何實際使用 AI 討論 |關聯",
+      "title_en": "Pheebs"
+    },
+    {
+      "title": "裡爾瀏覽器 (Rill Browser)",
+      "link": "https://www.producthunt.com/products/rill-3",
+      "desc": "The browser where Claude Code and Codex work beside you Discussion | Link",
+      "title_en": "Rill Browser"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Gemini打電話給我可能會告訴你媽媽你遲到了",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-      "summary": "谷歌可能會將其「Call for Me」人工智慧功能擴展到商務電話之外，這樣你就可以用它向朋友發送訊息...",
+      "title": "OpenAI 又取得了一批數學突破",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+      "summary": "OpenAI 揭示了由未發布的前沿模型產生的許多長期存在的數學問題的解決方案...",
       "source": "The Verge"
     },
     {
-      "title": "所有圍繞人工智慧接管數學的戲劇",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "summary": "去年，OpenAI、Anthropic 和其他實驗室宣佈在許多長期存在的數學問題上取得突破…",
-      "source": "The Verge"
-    },
-    {
-      "title": "維基百科營運商表示 OpenAI 的「流氓」機器人可能與 5 月的一次服務中斷有關",
-      "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "summary": "在最近披露了許多有關人工智慧代理商訪問第三方網站和服務的資訊後，維基媒體基金會…",
+      "title": "谷歌即將取消對 Gemini Flash 和 Pro 的免費訪問",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+      "summary": "從 10 月 9 日開始，任何使用免費方案的 Google Gemini 的人都將僅限於 Flash Lite 型號。免費用戶可…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Gemini打電話給我可能會告訴你媽媽你遲到了",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-    "summary": "谷歌可能會將其「Call for Me」人工智慧功能擴展到商務電話之外，這樣你就可以用它向朋友發送訊息...",
+    "title": "OpenAI 又取得了一批數學突破",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+    "summary": "OpenAI 揭示了由未發布的前沿模型產生的許多長期存在的數學問題的解決方案...",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -13073,6 +13067,113 @@
         "title": "Gemini打電話給我可能會告訴你媽媽你遲到了",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
         "summary": "谷歌可能會將其「Call for Me」人工智慧功能擴展到商務電話之外，這樣你就可以用它向朋友發送訊息...",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-07": {
+      "news": [
+        {
+          "title": "OpenAI 又取得了一批數學突破",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+          "summary": "OpenAI 揭示了由未發布的前沿模型產生的許多長期存在的數學問題的解決方案...",
+          "source": "The Verge"
+        },
+        {
+          "title": "我們不能僅僅改變「錄音」的定義",
+          "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
+          "summary": "借助人工智慧硬件，科技公司正在推動什麼構成錄音、什麼不構成錄音的定義。對於大多數…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌即將取消對 Gemini Flash 和 Pro 的免費訪問",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+          "summary": "從 10 月 9 日開始，任何使用免費方案的 Google Gemini 的人都將僅限於 Flash Lite 型號。免費用戶可…",
+          "source": "The Verge"
+        },
+        {
+          "title": "亞馬遜 Alexa Plus 連續幾分鐘令人毛骨悚然地唱著“lalala”",
+          "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+          "summary": "令人不安的 Alexa Plus 錯誤導致一些 Amazon Echo 智慧家庭揚聲器只能說，有時甚至唱歌…",
+          "source": "The Verge"
+        },
+        {
+          "title": "前 Ramp 工程師在廢棄他們的第一個產品後為 Melius 平台籌集了 2000 萬美元",
+          "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+          "summary": "該公司沒有幫助行銷人員管理和優化廣告支出，而是專注於建立產生…的工具。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "人工智慧決策模型如何改變內容審核",
+          "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+          "summary": "週二，Musubi 宣布了一個用於即時審核的輕量級決策模型，名為 PolicyLM-1.7B，發佈於…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "人工智慧運算新創公司 Lambda 將在計劃 IPO 之前籌集 40 億美元",
+          "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+          "summary": "Nvidia 支持的 Lambda 在計劃於 2027 年 IPO 之前以 145 億美元的投前估值籌集最多 40 億美元，主導...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "人工智慧代理的下一個障礙：讓網站允許他們進入",
+          "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+          "summary": "個人人工智慧代理承諾為您購物、預訂航班和預訂。但故意阻止和反機器人防禦......",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "蘭科曲 (Ranktune)",
+          "link": "https://www.producthunt.com/products/ranktune",
+          "desc": "追蹤 AI 可見性、引用和推薦流量關聯",
+          "title_en": "Ranktune"
+        },
+        {
+          "title": "魯作業系統 (ruOS)",
+          "link": "https://www.producthunt.com/products/ruos",
+          "desc": "人工智慧代理為您完成工作的雲端桌面關聯",
+          "title_en": "ruOS"
+        },
+        {
+          "title": "融合人工智慧 (Fuse AI)",
+          "link": "https://www.producthunt.com/products/fuseai",
+          "desc": "建立自訂 GTM 堆疊。一個SDK。 1 個 MCP。討論 |關聯",
+          "title_en": "Fuse AI"
+        },
+        {
+          "title": "菲比斯 (Pheebs)",
+          "link": "https://www.producthunt.com/products/pheebs",
+          "desc": "衡量工程師和團隊如何實際使用 AI 討論 |關聯",
+          "title_en": "Pheebs"
+        },
+        {
+          "title": "裡爾瀏覽器 (Rill Browser)",
+          "link": "https://www.producthunt.com/products/rill-3",
+          "desc": "The browser where Claude Code and Codex work beside you Discussion | Link",
+          "title_en": "Rill Browser"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 又取得了一批數學突破",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+          "summary": "OpenAI 揭示了由未發布的前沿模型產生的許多長期存在的數學問題的解決方案...",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌即將取消對 Gemini Flash 和 Pro 的免費訪問",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
+          "summary": "從 10 月 9 日開始，任何使用免費方案的 Google Gemini 的人都將僅限於 Flash Lite 型號。免費用戶可…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 又取得了一批數學突破",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+        "summary": "OpenAI 揭示了由未發布的前沿模型產生的許多長期存在的數學問題的解決方案...",
         "source": "The Verge"
       },
       "steve_ideas": []
