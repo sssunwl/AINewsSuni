@@ -1,107 +1,113 @@
 {
-  "updated": "2026-10-07 14:49 HKT",
+  "updated": "2026-10-08 14:57 HKT",
   "news": [
     {
-      "title": "OpenAI 又取得了一批數學突破",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "summary": "OpenAI 揭示了由未發布的前沿模型產生的許多長期存在的數學問題的解決方案...",
+      "title": "ChatGPT 的「智慧型 UI」更新以圖片、圖表和按鈕填滿其回應",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "summary": "OpenAI 在 ChatGPT 中推出了一項新的智慧 UI 功能，該功能允許聊天機器人透過互動方式回答您的問題…",
       "source": "The Verge"
     },
     {
-      "title": "我們不能僅僅改變「錄音」的定義",
-      "link": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-      "summary": "借助人工智慧硬件，科技公司正在推動什麼構成錄音、什麼不構成錄音的定義。對於大多數…",
+      "title": "微軟 Surface Laptop Ultra 活動中宣布的所有內容",
+      "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "summary": "微軟剛在舊金山結束了以 Windows 和 Surface 為中心的大型主題演講。最大的公告是爭論…",
       "source": "The Verge"
     },
     {
-      "title": "谷歌即將取消對 Gemini Flash 和 Pro 的免費訪問",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "summary": "從 10 月 9 日開始，任何使用免費方案的 Google Gemini 的人都將僅限於 Flash Lite 型號。免費用戶可…",
+      "title": "微軟正在為 Copilot 提供對 Windows 和檔案的更多控制權",
+      "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+      "summary": "在今天的 Windows 和 Surface 活動中，微軟展示了對其 Copilot AI 系統的升級，該系統將使其能夠存取…",
       "source": "The Verge"
     },
     {
-      "title": "亞馬遜 Alexa Plus 連續幾分鐘令人毛骨悚然地唱著“lalala”",
-      "link": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
-      "summary": "令人不安的 Alexa Plus 錯誤導致一些 Amazon Echo 智慧家庭揚聲器只能說，有時甚至唱歌…",
+      "title": "Surface RTX Spark Dev Box 現已開放預訂，售價 5,999 美元",
+      "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+      "summary": "微軟基於 Nvidia 的 Surface RTX Spark Dev Box 現已開放預訂，預計於 11 月發貨…",
       "source": "The Verge"
     },
     {
-      "title": "前 Ramp 工程師在廢棄他們的第一個產品後為 Melius 平台籌集了 2000 萬美元",
-      "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
-      "summary": "該公司沒有幫助行銷人員管理和優化廣告支出，而是專注於建立產生…的工具。",
-      "source": "TechCrunch"
+      "title": "ChatGPT 正在取得大學規劃工具",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "summary": "OpenAI 為 ChatGPT for Teens 帶來了新工具，這是一種針對青少年的模式，於 8 月推出，具有保障措施和休息提醒…",
+      "source": "The Verge"
     },
     {
-      "title": "人工智慧決策模型如何改變內容審核",
-      "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
-      "summary": "週二，Musubi 宣布了一個用於即時審核的輕量級決策模型，名為 PolicyLM-1.7B，發佈於…",
-      "source": "TechCrunch"
+      "title": "Muse 在 iPad 上推出",
+      "link": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "summary": "在推出近一個月前並連續幾週成為 Apple App Store 中免費應用程式的榜首之後，最新的更新…",
+      "source": "The Verge"
     },
     {
-      "title": "人工智慧運算新創公司 Lambda 將在計劃 IPO 之前籌集 40 億美元",
-      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
-      "summary": "Nvidia 支持的 Lambda 在計劃於 2027 年 IPO 之前以 145 億美元的投前估值籌集最多 40 億美元，主導...",
-      "source": "TechCrunch"
+      "title": "谷歌投資數百萬美元幫助馬克·祖克柏創建“虛擬細胞”",
+      "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "summary": "Google DeepMind、Meta 和人工智慧藥物發現新創公司 Isomorphic Labs 共同投資 3 億美元，發起一項…",
+      "source": "The Verge"
     },
     {
-      "title": "人工智慧代理的下一個障礙：讓網站允許他們進入",
-      "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-      "summary": "個人人工智慧代理承諾為您購物、預訂航班和預訂。但故意阻止和反機器人防禦......",
-      "source": "TechCrunch"
+      "title": "人工智慧可能會顛覆食品配送",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+      "summary": "DoorDash 是領先的食品配送應用程序，今年第二季度處理了 9.7 億份訂單，創收 4.5 美元…",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "蘭科曲 (Ranktune)",
-      "link": "https://www.producthunt.com/products/ranktune",
-      "desc": "追蹤 AI 可見性、引用和推薦流量關聯",
-      "title_en": "Ranktune"
+      "title": "個體企業家的 IrisGo (IrisGo for Solopreneurs)",
+      "link": "https://www.producthunt.com/products/irisgo-public-beta",
+      "desc": "AI 工作流程自動化：展示一次，讓它運作關聯",
+      "title_en": "IrisGo for Solopreneurs"
     },
     {
-      "title": "魯作業系統 (ruOS)",
-      "link": "https://www.producthunt.com/products/ruos",
-      "desc": "人工智慧代理為您完成工作的雲端桌面關聯",
-      "title_en": "ruOS"
+      "title": "速度 (Velozity)",
+      "link": "https://www.producthunt.com/products/velozity-2",
+      "desc": "多人人工智慧辦公室是您的團隊和代理商工作的地方。討論 |關聯",
+      "title_en": "Velozity"
     },
     {
-      "title": "融合人工智慧 (Fuse AI)",
-      "link": "https://www.producthunt.com/products/fuseai",
-      "desc": "建立自訂 GTM 堆疊。一個SDK。 1 個 MCP。討論 |關聯",
-      "title_en": "Fuse AI"
+      "title": "證明來源 (Proofsource)",
+      "link": "https://www.producthunt.com/products/proofsource",
+      "desc": "人工智慧搜尋可見性，透過代理來彌補差距關聯",
+      "title_en": "Proofsource"
     },
     {
-      "title": "菲比斯 (Pheebs)",
-      "link": "https://www.producthunt.com/products/pheebs",
-      "desc": "衡量工程師和團隊如何實際使用 AI 討論 |關聯",
-      "title_en": "Pheebs"
+      "title": "創頁3.0 (GenPage 3.0)",
+      "link": "https://www.producthunt.com/products/genpage",
+      "desc": "使用 AI 建置、個人化和優化登陸頁面討論 |關聯",
+      "title_en": "GenPage 3.0"
     },
     {
-      "title": "裡爾瀏覽器 (Rill Browser)",
-      "link": "https://www.producthunt.com/products/rill-3",
-      "desc": "The browser where Claude Code and Codex work beside you Discussion | Link",
-      "title_en": "Rill Browser"
+      "title": "每日中心 (DailyHub)",
+      "link": "https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day",
+      "desc": "專案、任務和習慣的個人指揮中心。討論 |關聯",
+      "title_en": "DailyHub"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 又取得了一批數學突破",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-      "summary": "OpenAI 揭示了由未發布的前沿模型產生的許多長期存在的數學問題的解決方案...",
+      "title": "ChatGPT 的「智慧型 UI」更新以圖片、圖表和按鈕填滿其回應",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "summary": "OpenAI 在 ChatGPT 中推出了一項新的智慧 UI 功能，該功能允許聊天機器人透過互動方式回答您的問題…",
       "source": "The Verge"
     },
     {
-      "title": "谷歌即將取消對 Gemini Flash 和 Pro 的免費訪問",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "summary": "從 10 月 9 日開始，任何使用免費方案的 Google Gemini 的人都將僅限於 Flash Lite 型號。免費用戶可…",
+      "title": "ChatGPT 正在取得大學規劃工具",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "summary": "OpenAI 為 ChatGPT for Teens 帶來了新工具，這是一種針對青少年的模式，於 8 月推出，具有保障措施和休息提醒…",
+      "source": "The Verge"
+    },
+    {
+      "title": "谷歌投資數百萬美元幫助馬克·祖克柏創建“虛擬細胞”",
+      "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "summary": "Google DeepMind、Meta 和人工智慧藥物發現新創公司 Isomorphic Labs 共同投資 3 億美元，發起一項…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "OpenAI 又取得了一批數學突破",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-    "summary": "OpenAI 揭示了由未發布的前沿模型產生的許多長期存在的數學問題的解決方案...",
+    "title": "ChatGPT 的「智慧型 UI」更新以圖片、圖表和按鈕填滿其回應",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+    "summary": "OpenAI 在 ChatGPT 中推出了一項新的智慧 UI 功能，該功能允許聊天機器人透過互動方式回答您的問題…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -13174,6 +13180,119 @@
         "title": "OpenAI 又取得了一批數學突破",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
         "summary": "OpenAI 揭示了由未發布的前沿模型產生的許多長期存在的數學問題的解決方案...",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-08": {
+      "news": [
+        {
+          "title": "ChatGPT 的「智慧型 UI」更新以圖片、圖表和按鈕填滿其回應",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+          "summary": "OpenAI 在 ChatGPT 中推出了一項新的智慧 UI 功能，該功能允許聊天機器人透過互動方式回答您的問題…",
+          "source": "The Verge"
+        },
+        {
+          "title": "微軟 Surface Laptop Ultra 活動中宣布的所有內容",
+          "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+          "summary": "微軟剛在舊金山結束了以 Windows 和 Surface 為中心的大型主題演講。最大的公告是爭論…",
+          "source": "The Verge"
+        },
+        {
+          "title": "微軟正在為 Copilot 提供對 Windows 和檔案的更多控制權",
+          "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+          "summary": "在今天的 Windows 和 Surface 活動中，微軟展示了對其 Copilot AI 系統的升級，該系統將使其能夠存取…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Surface RTX Spark Dev Box 現已開放預訂，售價 5,999 美元",
+          "link": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+          "summary": "微軟基於 Nvidia 的 Surface RTX Spark Dev Box 現已開放預訂，預計於 11 月發貨…",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT 正在取得大學規劃工具",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+          "summary": "OpenAI 為 ChatGPT for Teens 帶來了新工具，這是一種針對青少年的模式，於 8 月推出，具有保障措施和休息提醒…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Muse 在 iPad 上推出",
+          "link": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+          "summary": "在推出近一個月前並連續幾週成為 Apple App Store 中免費應用程式的榜首之後，最新的更新…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌投資數百萬美元幫助馬克·祖克柏創建“虛擬細胞”",
+          "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+          "summary": "Google DeepMind、Meta 和人工智慧藥物發現新創公司 Isomorphic Labs 共同投資 3 億美元，發起一項…",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧可能會顛覆食品配送",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
+          "summary": "DoorDash 是領先的食品配送應用程序，今年第二季度處理了 9.7 億份訂單，創收 4.5 美元…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "個體企業家的 IrisGo (IrisGo for Solopreneurs)",
+          "link": "https://www.producthunt.com/products/irisgo-public-beta",
+          "desc": "AI 工作流程自動化：展示一次，讓它運作關聯",
+          "title_en": "IrisGo for Solopreneurs"
+        },
+        {
+          "title": "速度 (Velozity)",
+          "link": "https://www.producthunt.com/products/velozity-2",
+          "desc": "多人人工智慧辦公室是您的團隊和代理商工作的地方。討論 |關聯",
+          "title_en": "Velozity"
+        },
+        {
+          "title": "證明來源 (Proofsource)",
+          "link": "https://www.producthunt.com/products/proofsource",
+          "desc": "人工智慧搜尋可見性，透過代理來彌補差距關聯",
+          "title_en": "Proofsource"
+        },
+        {
+          "title": "創頁3.0 (GenPage 3.0)",
+          "link": "https://www.producthunt.com/products/genpage",
+          "desc": "使用 AI 建置、個人化和優化登陸頁面討論 |關聯",
+          "title_en": "GenPage 3.0"
+        },
+        {
+          "title": "每日中心 (DailyHub)",
+          "link": "https://www.producthunt.com/products/dailyhub-a-quiet-workspace-for-your-day",
+          "desc": "專案、任務和習慣的個人指揮中心。討論 |關聯",
+          "title_en": "DailyHub"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "ChatGPT 的「智慧型 UI」更新以圖片、圖表和按鈕填滿其回應",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+          "summary": "OpenAI 在 ChatGPT 中推出了一項新的智慧 UI 功能，該功能允許聊天機器人透過互動方式回答您的問題…",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT 正在取得大學規劃工具",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+          "summary": "OpenAI 為 ChatGPT for Teens 帶來了新工具，這是一種針對青少年的模式，於 8 月推出，具有保障措施和休息提醒…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌投資數百萬美元幫助馬克·祖克柏創建“虛擬細胞”",
+          "link": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+          "summary": "Google DeepMind、Meta 和人工智慧藥物發現新創公司 Isomorphic Labs 共同投資 3 億美元，發起一項…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "ChatGPT 的「智慧型 UI」更新以圖片、圖表和按鈕填滿其回應",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+        "summary": "OpenAI 在 ChatGPT 中推出了一項新的智慧 UI 功能，該功能允許聊天機器人透過互動方式回答您的問題…",
         "source": "The Verge"
       },
       "steve_ideas": []
