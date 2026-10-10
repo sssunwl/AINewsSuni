@@ -1,67 +1,73 @@
 {
-  "updated": "2026-10-09 15:06 HKT",
+  "updated": "2026-10-10 14:39 HKT",
   "news": [
     {
-      "title": "Anthropic 為開源專案推出免費的人工智慧安全掃描",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scan…",
+      "title": "Anthropic 的人工智慧向費城警方提供了有關未偵破兇殺案的虛假提示",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "summary": "人類人工智慧模型向費城警察局 (PPD) 提供了有關未偵破兇殺案的虛假資訊…",
       "source": "The Verge"
     },
     {
-      "title": "加州正試圖關閉機器人與人類的籠子比賽",
-      "link": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
-      "summary": "加州體育委員會向一家舉辦人類比賽的新創公司發出了一封停止函…",
+      "title": "「純粹的瘋狂」：數學家需要數年時間才能理解 OpenAI 的最新跌幅",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "summary": "“令人震驚。” “壓倒。” “空前的。” “超現實的。” “純粹的瘋狂。”這些描述不僅僅是…",
       "source": "The Verge"
     },
     {
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "summary": "《今日美國》及其旗下的幾家當地報紙正在起訴 OpenAI，指控該公司抄襲「hun…",
+      "title": "尼康顯微影片大賽獲勝者因使用生成人工智慧而被取消資格",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+      "summary": "尼康表示，最初在「運動中的小世界」競賽中獲得第一名的影片「不符合競賽...",
       "source": "The Verge"
     },
     {
-      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-      "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-      "summary": "如果馬斯克和 SpaceXAI 要支援任何 Linux 發行版，那麼他們顯然會支援 Omarchy。今天它宣布了…",
+      "title": "川普為人工智慧重新命名的嘗試看起來非常人為",
+      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "summary": "唐納德·特朗普總統有一套用言語攻擊敵人的技巧。他的第一次成功的總統競選是建立的…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-      "summary": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of …",
+      "title": "Instinct 是最熱門的人工智慧代理商——它能在 Muse 中倖存嗎？",
+      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusua…",
       "source": "The Verge"
     },
     {
-      "title": "谷歌的人工智慧筆記應用程式可以完全離線轉錄您的會議",
-      "link": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline",
-      "summary": "谷歌發布了一款實驗性筆記應用程序，可以完全離線轉錄會議和音頻文件，例如…",
+      "title": "OpenAI 加大力度決定解僱三名人工智慧安全研究人員",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "summary": "OpenAI 堅定地決定解僱三名安全研究人員，因為調查發現他們犯下了「...",
       "source": "The Verge"
     },
     {
-      "title": "谷歌正在為您的工作任務推出一站式 Gemini 代理",
-      "link": "https://www.theverge.com/tech/1007904/google-gemini-ai-agent-enterprise",
-      "summary": "谷歌正在推出一款「通用」Gemini AI 代理，它可以在後台跨應用程式和裝置工作。該工具，安...",
-      "source": "The Verge"
+      "title": "Anthropic 無法可靠地控制其人工智慧代理。相反，它正在切斷實時互聯網的內部評估",
+      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+      "summary": "Anthropic 表示，它“關閉了所有內部評估的即時網路存取”，直至另行通知。",
+      "source": "TechCrunch"
     },
     {
-      "title": "你能相信 Meta 的 Muse 或 OpenAI 的 Dots 來掌控你的生活嗎？",
-      "link": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
-      "summary": "My Decoder guest today is Hayden Field, The Verge’s senior AI reporter, and we’re discussing the new wave of consumer-fr…",
-      "source": "The Verge"
+      "title": "非文本 AI 模型 Jev 的製造商在推出幾週後估值為 $7.5B",
+      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "summary": "讓用戶和大公司對 Jev 如此興奮的是 TypeSafe 聲稱它的工作速度明顯更快，而且我們…",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Gemini特工 (Gemini agent)",
+      "title": "適用於 Google Cloud 的 Gemini 代理 (Gemini Agent for Google Cloud)",
       "link": "https://www.producthunt.com/products/google",
-      "desc": "一款適用於您所有工作的通用 AI 代理關聯",
-      "title_en": "Gemini agent"
+      "desc": "在 Gemini 和 Claude 上運行的工作代理關聯",
+      "title_en": "Gemini Agent for Google Cloud"
     },
     {
-      "title": "微軟 Surface 筆記型電腦 Ultra (Microsoft Surface Laptop Ultra)",
-      "link": "https://www.producthunt.com/products/microsoft-surface-laptop-ultra",
-      "desc": "在微軟新Surface上本地運行120B AI模型討論|關聯",
-      "title_en": "Microsoft Surface Laptop Ultra"
+      "title": "模糊的工作空間 (Ambiguous Workspace)",
+      "link": "https://www.producthunt.com/products/ambiguous-workspace",
+      "desc": "18 個專為 AI 代理和人類打造的生產力應用程式關聯",
+      "title_en": "Ambiguous Workspace"
+    },
+    {
+      "title": "Google 實驗室的 Playground (Playground by Google Labs)",
+      "link": "https://www.producthunt.com/products/google-labs",
+      "desc": "使用 Google AI 討論 | 創建、玩和分享您自己的遊戲關聯",
+      "title_en": "Playground by Google Labs"
     },
     {
       "title": "布薩基地 (Busabase)",
@@ -70,44 +76,38 @@
       "title_en": "Busabase"
     },
     {
-      "title": "協助 (Assist)",
-      "link": "https://www.producthunt.com/products/assist-5",
-      "desc": "隱形助手，存在於 MacBook 的缺口中關聯",
-      "title_en": "Assist"
-    },
-    {
-      "title": "松樹電腦 (Pine Computer)",
-      "link": "https://www.producthunt.com/products/pine-computer",
-      "desc": "專為人工智慧完成工作而建構的雲端計算機關聯",
-      "title_en": "Pine Computer"
+      "title": "微軟 Surface 筆記型電腦 Ultra (Microsoft Surface Laptop Ultra)",
+      "link": "https://www.producthunt.com/products/microsoft-surface-laptop-ultra",
+      "desc": "在微軟新Surface上本地運行120B AI模型討論|關聯",
+      "title_en": "Microsoft Surface Laptop Ultra"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic 為開源專案推出免費的人工智慧安全掃描",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scan…",
+      "title": "Anthropic 的人工智慧向費城警方提供了有關未偵破兇殺案的虛假提示",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "summary": "人類人工智慧模型向費城警察局 (PPD) 提供了有關未偵破兇殺案的虛假資訊…",
       "source": "The Verge"
     },
     {
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "summary": "《今日美國》及其旗下的幾家當地報紙正在起訴 OpenAI，指控該公司抄襲「hun…",
+      "title": "「純粹的瘋狂」：數學家需要數年時間才能理解 OpenAI 的最新跌幅",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+      "summary": "“令人震驚。” “壓倒。” “空前的。” “超現實的。” “純粹的瘋狂。”這些描述不僅僅是…",
       "source": "The Verge"
     },
     {
-      "title": "SpaceXAI backs Omarchy, the controversial Linux distro, with $1.5 million in compute",
-      "link": "https://www.theverge.com/tech/1008148/spacexai-omarchy-grok-david-heinemeier-hansson",
-      "summary": "如果馬斯克和 SpaceXAI 要支援任何 Linux 發行版，那麼他們顯然會支援 Omarchy。今天它宣布了…",
+      "title": "OpenAI 加大力度決定解僱三名人工智慧安全研究人員",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+      "summary": "OpenAI 堅定地決定解僱三名安全研究人員，因為調查發現他們犯下了「...",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Anthropic 為開源專案推出免費的人工智慧安全掃描",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-    "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scan…",
+    "title": "Anthropic 的人工智慧向費城警方提供了有關未偵破兇殺案的虛假提示",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+    "summary": "人類人工智慧模型向費城警察局 (PPD) 提供了有關未偵破兇殺案的虛假資訊…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -13406,6 +13406,119 @@
         "title": "Anthropic 為開源專案推出免費的人工智慧安全掃描",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
         "summary": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scan…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-10": {
+      "news": [
+        {
+          "title": "Anthropic 的人工智慧向費城警方提供了有關未偵破兇殺案的虛假提示",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+          "summary": "人類人工智慧模型向費城警察局 (PPD) 提供了有關未偵破兇殺案的虛假資訊…",
+          "source": "The Verge"
+        },
+        {
+          "title": "「純粹的瘋狂」：數學家需要數年時間才能理解 OpenAI 的最新跌幅",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "summary": "“令人震驚。” “壓倒。” “空前的。” “超現實的。” “純粹的瘋狂。”這些描述不僅僅是…",
+          "source": "The Verge"
+        },
+        {
+          "title": "尼康顯微影片大賽獲勝者因使用生成人工智慧而被取消資格",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+          "summary": "尼康表示，最初在「運動中的小世界」競賽中獲得第一名的影片「不符合競賽...",
+          "source": "The Verge"
+        },
+        {
+          "title": "川普為人工智慧重新命名的嘗試看起來非常人為",
+          "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+          "summary": "唐納德·特朗普總統有一套用言語攻擊敵人的技巧。他的第一次成功的總統競選是建立的…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Instinct 是最熱門的人工智慧代理商——它能在 Muse 中倖存嗎？",
+          "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+          "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusua…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 加大力度決定解僱三名人工智慧安全研究人員",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+          "summary": "OpenAI 堅定地決定解僱三名安全研究人員，因為調查發現他們犯下了「...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 無法可靠地控制其人工智慧代理。相反，它正在切斷實時互聯網的內部評估",
+          "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
+          "summary": "Anthropic 表示，它“關閉了所有內部評估的即時網路存取”，直至另行通知。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "非文本 AI 模型 Jev 的製造商在推出幾週後估值為 $7.5B",
+          "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+          "summary": "讓用戶和大公司對 Jev 如此興奮的是 TypeSafe 聲稱它的工作速度明顯更快，而且我們…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "適用於 Google Cloud 的 Gemini 代理 (Gemini Agent for Google Cloud)",
+          "link": "https://www.producthunt.com/products/google",
+          "desc": "在 Gemini 和 Claude 上運行的工作代理關聯",
+          "title_en": "Gemini Agent for Google Cloud"
+        },
+        {
+          "title": "模糊的工作空間 (Ambiguous Workspace)",
+          "link": "https://www.producthunt.com/products/ambiguous-workspace",
+          "desc": "18 個專為 AI 代理和人類打造的生產力應用程式關聯",
+          "title_en": "Ambiguous Workspace"
+        },
+        {
+          "title": "Google 實驗室的 Playground (Playground by Google Labs)",
+          "link": "https://www.producthunt.com/products/google-labs",
+          "desc": "使用 Google AI 討論 | 創建、玩和分享您自己的遊戲關聯",
+          "title_en": "Playground by Google Labs"
+        },
+        {
+          "title": "布薩基地 (Busabase)",
+          "link": "https://www.producthunt.com/products/busabase",
+          "desc": "人工智慧代理的通用記錄系統討論|關聯",
+          "title_en": "Busabase"
+        },
+        {
+          "title": "微軟 Surface 筆記型電腦 Ultra (Microsoft Surface Laptop Ultra)",
+          "link": "https://www.producthunt.com/products/microsoft-surface-laptop-ultra",
+          "desc": "在微軟新Surface上本地運行120B AI模型討論|關聯",
+          "title_en": "Microsoft Surface Laptop Ultra"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Anthropic 的人工智慧向費城警方提供了有關未偵破兇殺案的虛假提示",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+          "summary": "人類人工智慧模型向費城警察局 (PPD) 提供了有關未偵破兇殺案的虛假資訊…",
+          "source": "The Verge"
+        },
+        {
+          "title": "「純粹的瘋狂」：數學家需要數年時間才能理解 OpenAI 的最新跌幅",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+          "summary": "“令人震驚。” “壓倒。” “空前的。” “超現實的。” “純粹的瘋狂。”這些描述不僅僅是…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 加大力度決定解僱三名人工智慧安全研究人員",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+          "summary": "OpenAI 堅定地決定解僱三名安全研究人員，因為調查發現他們犯下了「...",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Anthropic 的人工智慧向費城警方提供了有關未偵破兇殺案的虛假提示",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "summary": "人類人工智慧模型向費城警察局 (PPD) 提供了有關未偵破兇殺案的虛假資訊…",
         "source": "The Verge"
       },
       "steve_ideas": []
