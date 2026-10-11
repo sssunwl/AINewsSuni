@@ -1,113 +1,107 @@
 {
-  "updated": "2026-10-10 14:39 HKT",
+  "updated": "2026-10-11 14:46 HKT",
   "news": [
     {
-      "title": "Anthropic 的人工智慧向費城警方提供了有關未偵破兇殺案的虛假提示",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "summary": "人類人工智慧模型向費城警察局 (PPD) 提供了有關未偵破兇殺案的虛假資訊…",
+      "title": "薩蒂亞·納德拉 (Satya Nadella) 表示，我們應該假設所有人工智慧模型都“受到損害”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to …",
       "source": "The Verge"
     },
     {
-      "title": "「純粹的瘋狂」：數學家需要數年時間才能理解 OpenAI 的最新跌幅",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "summary": "“令人震驚。” “壓倒。” “空前的。” “超現實的。” “純粹的瘋狂。”這些描述不僅僅是…",
+      "title": "DistroKid 已悄悄下架歌曲回應 UMG 訴訟",
+      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+      "summary": "藝術家們在社交媒體上抱怨 DistroKid 在沒有通知的情況下毫不客氣地刪除了他們的作品。現在…",
       "source": "The Verge"
     },
     {
-      "title": "尼康顯微影片大賽獲勝者因使用生成人工智慧而被取消資格",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "summary": "尼康表示，最初在「運動中的小世界」競賽中獲得第一名的影片「不符合競賽...",
+      "title": "Anthropic 正在切斷網路上的內部評估",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "summary": "在最近發生了一系列引人注目的人工智慧特工逃脫收容的事件後，Anthropic 正在切斷網路…",
       "source": "The Verge"
     },
     {
-      "title": "川普為人工智慧重新命名的嘗試看起來非常人為",
-      "link": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
-      "summary": "唐納德·特朗普總統有一套用言語攻擊敵人的技巧。他的第一次成功的總統競選是建立的…",
+      "title": "人工智慧代理製造商承諾保護隱私——他們會兌現嗎？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "summary": "在今年的 OpenAI DevDay 上，執行長 Sam Altman 推出了該公司的新 AI 代理商 Dots - 並告訴觀眾，該公司...",
       "source": "The Verge"
     },
     {
-      "title": "Instinct 是最熱門的人工智慧代理商——它能在 Muse 中倖存嗎？",
-      "link": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-      "summary": "Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusua…",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI 加大力度決定解僱三名人工智慧安全研究人員",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "summary": "OpenAI 堅定地決定解僱三名安全研究人員，因為調查發現他們犯下了「...",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic 無法可靠地控制其人工智慧代理。相反，它正在切斷實時互聯網的內部評估",
-      "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
-      "summary": "Anthropic 表示，它“關閉了所有內部評估的即時網路存取”，直至另行通知。",
+      "title": "微軟的 Satya Nadella 表示人工智慧模型需要“緊急煞車”",
+      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
       "source": "TechCrunch"
     },
     {
-      "title": "非文本 AI 模型 Jev 的製造商在推出幾週後估值為 $7.5B",
-      "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
-      "summary": "讓用戶和大公司對 Jev 如此興奮的是 TypeSafe 聲稱它的工作速度明顯更快，而且我們…",
+      "title": "蘋果揭露了從個人化播客新創公司 Huxe 聘請團隊和授權技術的交易",
+      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "summary": "蘋果是否希望進入人工智慧生成的播客業務？",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "距離 TechCrunch Disrupt 2026 還剩 3 天：在新創公司進入主流之前與它們會面",
+      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "summary": "TechCrunch Disrupt 2026 將於 10 月 13 日至 15 日在舊金山舉行。超過 300 家新創公司將展示他們所打造的產品到 10 家…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "以下是可以存在於您的簡訊中的頂級人工智慧代理",
+      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "我們創建了一份最著名的人工智慧代理列表，這些代理可以存在於您的短信中，從一般助理到代理…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "適用於 Google Cloud 的 Gemini 代理 (Gemini Agent for Google Cloud)",
-      "link": "https://www.producthunt.com/products/google",
-      "desc": "在 Gemini 和 Claude 上運行的工作代理關聯",
-      "title_en": "Gemini Agent for Google Cloud"
+      "title": "雷索人工智慧 (ReSO AI)",
+      "link": "https://www.producthunt.com/products/reso",
+      "desc": "當客戶詢問 AI 時獲得發現和推薦關聯",
+      "title_en": "ReSO AI"
     },
     {
-      "title": "模糊的工作空間 (Ambiguous Workspace)",
-      "link": "https://www.producthunt.com/products/ambiguous-workspace",
-      "desc": "18 個專為 AI 代理和人類打造的生產力應用程式關聯",
-      "title_en": "Ambiguous Workspace"
+      "title": "AgentDock",
+      "link": "https://www.producthunt.com/products/agentdock",
+      "desc": "在任何終端中從一個收件匣回答Claude代碼和法典關聯",
+      "title_en": "AgentDock"
     },
     {
-      "title": "Google 實驗室的 Playground (Playground by Google Labs)",
-      "link": "https://www.producthunt.com/products/google-labs",
-      "desc": "使用 Google AI 討論 | 創建、玩和分享您自己的遊戲關聯",
-      "title_en": "Playground by Google Labs"
+      "title": "圖拉比 (Toolaby)",
+      "link": "https://www.producthunt.com/products/toolaby",
+      "desc": "只需兩行程式碼即可為您的 Chrome 擴充功能付費關聯",
+      "title_en": "Toolaby"
     },
     {
-      "title": "布薩基地 (Busabase)",
-      "link": "https://www.producthunt.com/products/busabase",
-      "desc": "人工智慧代理的通用記錄系統討論|關聯",
-      "title_en": "Busabase"
+      "title": "月形 (Lune)",
+      "link": "https://www.producthunt.com/products/lune-research",
+      "desc": "為科學人工智慧代理構建的搜尋引擎關聯",
+      "title_en": "Lune"
     },
     {
-      "title": "微軟 Surface 筆記型電腦 Ultra (Microsoft Surface Laptop Ultra)",
-      "link": "https://www.producthunt.com/products/microsoft-surface-laptop-ultra",
-      "desc": "在微軟新Surface上本地運行120B AI模型討論|關聯",
-      "title_en": "Microsoft Surface Laptop Ultra"
+      "title": "Mac 版 Maildun (Maildun for Mac)",
+      "link": "https://www.producthunt.com/products/maildun-for-mac",
+      "desc": "手動、使用 AI 或透過 MCP 設計品牌電子郵件關聯",
+      "title_en": "Maildun for Mac"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic 的人工智慧向費城警方提供了有關未偵破兇殺案的虛假提示",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-      "summary": "人類人工智慧模型向費城警察局 (PPD) 提供了有關未偵破兇殺案的虛假資訊…",
+      "title": "Anthropic 正在切斷網路上的內部評估",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "summary": "在最近發生了一系列引人注目的人工智慧特工逃脫收容的事件後，Anthropic 正在切斷網路…",
       "source": "The Verge"
     },
     {
-      "title": "「純粹的瘋狂」：數學家需要數年時間才能理解 OpenAI 的最新跌幅",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
-      "summary": "“令人震驚。” “壓倒。” “空前的。” “超現實的。” “純粹的瘋狂。”這些描述不僅僅是…",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI 加大力度決定解僱三名人工智慧安全研究人員",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-      "summary": "OpenAI 堅定地決定解僱三名安全研究人員，因為調查發現他們犯下了「...",
+      "title": "人工智慧代理製造商承諾保護隱私——他們會兌現嗎？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "summary": "在今年的 OpenAI DevDay 上，執行長 Sam Altman 推出了該公司的新 AI 代理商 Dots - 並告訴觀眾，該公司...",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Anthropic 的人工智慧向費城警方提供了有關未偵破兇殺案的虛假提示",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
-    "summary": "人類人工智慧模型向費城警察局 (PPD) 提供了有關未偵破兇殺案的虛假資訊…",
+    "title": "Anthropic 正在切斷網路上的內部評估",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+    "summary": "在最近發生了一系列引人注目的人工智慧特工逃脫收容的事件後，Anthropic 正在切斷網路…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -13519,6 +13513,113 @@
         "title": "Anthropic 的人工智慧向費城警方提供了有關未偵破兇殺案的虛假提示",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
         "summary": "人類人工智慧模型向費城警察局 (PPD) 提供了有關未偵破兇殺案的虛假資訊…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-11": {
+      "news": [
+        {
+          "title": "薩蒂亞·納德拉 (Satya Nadella) 表示，我們應該假設所有人工智慧模型都“受到損害”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+          "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to …",
+          "source": "The Verge"
+        },
+        {
+          "title": "DistroKid 已悄悄下架歌曲回應 UMG 訴訟",
+          "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+          "summary": "藝術家們在社交媒體上抱怨 DistroKid 在沒有通知的情況下毫不客氣地刪除了他們的作品。現在…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 正在切斷網路上的內部評估",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+          "summary": "在最近發生了一系列引人注目的人工智慧特工逃脫收容的事件後，Anthropic 正在切斷網路…",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧代理製造商承諾保護隱私——他們會兌現嗎？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+          "summary": "在今年的 OpenAI DevDay 上，執行長 Sam Altman 推出了該公司的新 AI 代理商 Dots - 並告訴觀眾，該公司...",
+          "source": "The Verge"
+        },
+        {
+          "title": "微軟的 Satya Nadella 表示人工智慧模型需要“緊急煞車”",
+          "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "蘋果揭露了從個人化播客新創公司 Huxe 聘請團隊和授權技術的交易",
+          "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "summary": "蘋果是否希望進入人工智慧生成的播客業務？",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "距離 TechCrunch Disrupt 2026 還剩 3 天：在新創公司進入主流之前與它們會面",
+          "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+          "summary": "TechCrunch Disrupt 2026 將於 10 月 13 日至 15 日在舊金山舉行。超過 300 家新創公司將展示他們所打造的產品到 10 家…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "以下是可以存在於您的簡訊中的頂級人工智慧代理",
+          "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "summary": "我們創建了一份最著名的人工智慧代理列表，這些代理可以存在於您的短信中，從一般助理到代理…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "雷索人工智慧 (ReSO AI)",
+          "link": "https://www.producthunt.com/products/reso",
+          "desc": "當客戶詢問 AI 時獲得發現和推薦關聯",
+          "title_en": "ReSO AI"
+        },
+        {
+          "title": "AgentDock",
+          "link": "https://www.producthunt.com/products/agentdock",
+          "desc": "在任何終端中從一個收件匣回答Claude代碼和法典關聯",
+          "title_en": "AgentDock"
+        },
+        {
+          "title": "圖拉比 (Toolaby)",
+          "link": "https://www.producthunt.com/products/toolaby",
+          "desc": "只需兩行程式碼即可為您的 Chrome 擴充功能付費關聯",
+          "title_en": "Toolaby"
+        },
+        {
+          "title": "月形 (Lune)",
+          "link": "https://www.producthunt.com/products/lune-research",
+          "desc": "為科學人工智慧代理構建的搜尋引擎關聯",
+          "title_en": "Lune"
+        },
+        {
+          "title": "Mac 版 Maildun (Maildun for Mac)",
+          "link": "https://www.producthunt.com/products/maildun-for-mac",
+          "desc": "手動、使用 AI 或透過 MCP 設計品牌電子郵件關聯",
+          "title_en": "Maildun for Mac"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Anthropic 正在切斷網路上的內部評估",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+          "summary": "在最近發生了一系列引人注目的人工智慧特工逃脫收容的事件後，Anthropic 正在切斷網路…",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧代理製造商承諾保護隱私——他們會兌現嗎？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+          "summary": "在今年的 OpenAI DevDay 上，執行長 Sam Altman 推出了該公司的新 AI 代理商 Dots - 並告訴觀眾，該公司...",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Anthropic 正在切斷網路上的內部評估",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+        "summary": "在最近發生了一系列引人注目的人工智慧特工逃脫收容的事件後，Anthropic 正在切斷網路…",
         "source": "The Verge"
       },
       "steve_ideas": []
