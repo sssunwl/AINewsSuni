@@ -1,108 +1,90 @@
 {
-  "updated": "2026-10-11 14:46 HKT",
+  "updated": "2026-10-12 14:55 HKT",
   "news": [
     {
-      "title": "薩蒂亞·納德拉 (Satya Nadella) 表示，我們應該假設所有人工智慧模型都“受到損害”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-      "summary": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to …",
+      "title": "矽谷正與川普重新命名人工智慧的嘗試保持一致",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+      "summary": "當唐納德·特朗普總統宣布他計劃將人工智能重新命名為“超級智能”時，你會支持…",
       "source": "The Verge"
     },
     {
-      "title": "DistroKid 已悄悄下架歌曲回應 UMG 訴訟",
-      "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-      "summary": "藝術家們在社交媒體上抱怨 DistroKid 在沒有通知的情況下毫不客氣地刪除了他們的作品。現在…",
+      "title": "學習使用本地人工智慧是令人興奮、不知所措和令人沮喪的",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+      "summary": "我正在踏上一段迄今為止一直猶豫要不要繼續的旅程：實際常規地使用人工智慧。給予我最個人的…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 正在切斷網路上的內部評估",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "summary": "在最近發生了一系列引人注目的人工智慧特工逃脫收容的事件後，Anthropic 正在切斷網路…",
-      "source": "The Verge"
-    },
-    {
-      "title": "人工智慧代理製造商承諾保護隱私——他們會兌現嗎？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "summary": "在今年的 OpenAI DevDay 上，執行長 Sam Altman 推出了該公司的新 AI 代理商 Dots - 並告訴觀眾，該公司...",
-      "source": "The Verge"
-    },
-    {
-      "title": "微軟的 Satya Nadella 表示人工智慧模型需要“緊急煞車”",
-      "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "title": "HomeView 會成為蘋果第一個成功的智慧家庭產品嗎？",
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now i…",
       "source": "TechCrunch"
     },
     {
-      "title": "蘋果揭露了從個人化播客新創公司 Huxe 聘請團隊和授權技術的交易",
-      "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-      "summary": "蘋果是否希望進入人工智慧生成的播客業務？",
+      "title": "距離 TechCrunch Disrupt 2026 還有 48 小時－直接聆聽未來發展者的心聲",
+      "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+      "summary": "不到 48 小時，TechCrunch Disrupt 2026 將在舊金山 Moscone West 拉開序幕。在此之前，您的通票最多可節省 100 美元",
       "source": "TechCrunch"
     },
     {
-      "title": "距離 TechCrunch Disrupt 2026 還剩 3 天：在新創公司進入主流之前與它們會面",
-      "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-      "summary": "TechCrunch Disrupt 2026 將於 10 月 13 日至 15 日在舊金山舉行。超過 300 家新創公司將展示他們所打造的產品到 10 家…",
+      "title": "人工智慧產業能否透過廢除保密協議來說服資料中心反對者？",
+      "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+      "summary": "在公平方面，我們討論資料中心暫停的影響以及人工智慧產業是否存在溝通問題。",
       "source": "TechCrunch"
     },
     {
-      "title": "以下是可以存在於您的簡訊中的頂級人工智慧代理",
-      "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "我們創建了一份最著名的人工智慧代理列表，這些代理可以存在於您的短信中，從一般助理到代理…",
+      "title": "這些高層認為語音 AI 尚未達到 ChatGPT 時刻",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "summary": "語音人工智慧經常錯過其上下文層的重要點，並導致整個管道中斷",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "雷索人工智慧 (ReSO AI)",
-      "link": "https://www.producthunt.com/products/reso",
-      "desc": "當客戶詢問 AI 時獲得發現和推薦關聯",
-      "title_en": "ReSO AI"
+      "title": "幽靈核心 (Ghost Core)",
+      "link": "https://www.producthunt.com/products/ghost-core",
+      "desc": "完全在裝置上運行的個人人工智慧電腦關聯",
+      "title_en": "Ghost Core"
     },
     {
-      "title": "AgentDock",
-      "link": "https://www.producthunt.com/products/agentdock",
-      "desc": "在任何終端中從一個收件匣回答Claude代碼和法典關聯",
-      "title_en": "AgentDock"
+      "title": "阿吉機器人 (Agibot)",
+      "link": "https://www.producthunt.com/products/agibot",
+      "desc": "適用於您的 Mac 的始終在線的個人 AI 代理。永遠 0 美元 討論 |關聯",
+      "title_en": "Agibot"
     },
     {
-      "title": "圖拉比 (Toolaby)",
-      "link": "https://www.producthunt.com/products/toolaby",
-      "desc": "只需兩行程式碼即可為您的 Chrome 擴充功能付費關聯",
-      "title_en": "Toolaby"
+      "title": "打開螢幕2 (OpenScreen 2)",
+      "link": "https://www.producthunt.com/products/openscreen-2",
+      "desc": "錄製您的簡報並讓您的 AI 代理進行編輯關聯",
+      "title_en": "OpenScreen 2"
     },
     {
-      "title": "月形 (Lune)",
-      "link": "https://www.producthunt.com/products/lune-research",
-      "desc": "為科學人工智慧代理構建的搜尋引擎關聯",
-      "title_en": "Lune"
+      "title": "租用鑰匙 (HireKey)",
+      "link": "https://www.producthunt.com/products/hirekey",
+      "desc": "招募人員通知您的技術職位搜尋人工智慧副駕駛關聯",
+      "title_en": "HireKey"
     },
     {
-      "title": "Mac 版 Maildun (Maildun for Mac)",
-      "link": "https://www.producthunt.com/products/maildun-for-mac",
-      "desc": "手動、使用 AI 或透過 MCP 設計品牌電子郵件關聯",
-      "title_en": "Maildun for Mac"
+      "title": "Automations in Perplexity Computer",
+      "link": "https://www.producthunt.com/products/perplexity-ai",
+      "desc": "能夠記憶、執行並保持工作順利進行的自動化關聯",
+      "title_en": "Automations in Perplexity Computer"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic 正在切斷網路上的內部評估",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-      "summary": "在最近發生了一系列引人注目的人工智慧特工逃脫收容的事件後，Anthropic 正在切斷網路…",
-      "source": "The Verge"
-    },
-    {
-      "title": "人工智慧代理製造商承諾保護隱私——他們會兌現嗎？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-      "summary": "在今年的 OpenAI DevDay 上，執行長 Sam Altman 推出了該公司的新 AI 代理商 Dots - 並告訴觀眾，該公司...",
-      "source": "The Verge"
+      "title": "這些高層認為語音 AI 尚未達到 ChatGPT 時刻",
+      "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+      "summary": "語音人工智慧經常錯過其上下文層的重要點，並導致整個管道中斷",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Anthropic 正在切斷網路上的內部評估",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-    "summary": "在最近發生了一系列引人注目的人工智慧特工逃脫收容的事件後，Anthropic 正在切斷網路…",
-    "source": "The Verge"
+    "title": "這些高層認為語音 AI 尚未達到 ChatGPT 時刻",
+    "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+    "summary": "語音人工智慧經常錯過其上下文層的重要點，並導致整個管道中斷",
+    "source": "TechCrunch"
   },
   "steve_ideas": [],
   "history": {
@@ -13621,6 +13603,95 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
         "summary": "在最近發生了一系列引人注目的人工智慧特工逃脫收容的事件後，Anthropic 正在切斷網路…",
         "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-12": {
+      "news": [
+        {
+          "title": "矽谷正與川普重新命名人工智慧的嘗試保持一致",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+          "summary": "當唐納德·特朗普總統宣布他計劃將人工智能重新命名為“超級智能”時，你會支持…",
+          "source": "The Verge"
+        },
+        {
+          "title": "學習使用本地人工智慧是令人興奮、不知所措和令人沮喪的",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1008484/learning-local-ai-hermes-qwen-model-mac-studio-testing-diary-progress",
+          "summary": "我正在踏上一段迄今為止一直猶豫要不要繼續的旅程：實際常規地使用人工智慧。給予我最個人的…",
+          "source": "The Verge"
+        },
+        {
+          "title": "HomeView 會成為蘋果第一個成功的智慧家庭產品嗎？",
+          "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+          "summary": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now i…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "距離 TechCrunch Disrupt 2026 還有 48 小時－直接聆聽未來發展者的心聲",
+          "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+          "summary": "不到 48 小時，TechCrunch Disrupt 2026 將在舊金山 Moscone West 拉開序幕。在此之前，您的通票最多可節省 100 美元",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "人工智慧產業能否透過廢除保密協議來說服資料中心反對者？",
+          "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+          "summary": "在公平方面，我們討論資料中心暫停的影響以及人工智慧產業是否存在溝通問題。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "這些高層認為語音 AI 尚未達到 ChatGPT 時刻",
+          "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+          "summary": "語音人工智慧經常錯過其上下文層的重要點，並導致整個管道中斷",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "幽靈核心 (Ghost Core)",
+          "link": "https://www.producthunt.com/products/ghost-core",
+          "desc": "完全在裝置上運行的個人人工智慧電腦關聯",
+          "title_en": "Ghost Core"
+        },
+        {
+          "title": "阿吉機器人 (Agibot)",
+          "link": "https://www.producthunt.com/products/agibot",
+          "desc": "適用於您的 Mac 的始終在線的個人 AI 代理。永遠 0 美元 討論 |關聯",
+          "title_en": "Agibot"
+        },
+        {
+          "title": "打開螢幕2 (OpenScreen 2)",
+          "link": "https://www.producthunt.com/products/openscreen-2",
+          "desc": "錄製您的簡報並讓您的 AI 代理進行編輯關聯",
+          "title_en": "OpenScreen 2"
+        },
+        {
+          "title": "租用鑰匙 (HireKey)",
+          "link": "https://www.producthunt.com/products/hirekey",
+          "desc": "招募人員通知您的技術職位搜尋人工智慧副駕駛關聯",
+          "title_en": "HireKey"
+        },
+        {
+          "title": "Automations in Perplexity Computer",
+          "link": "https://www.producthunt.com/products/perplexity-ai",
+          "desc": "能夠記憶、執行並保持工作順利進行的自動化關聯",
+          "title_en": "Automations in Perplexity Computer"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "這些高層認為語音 AI 尚未達到 ChatGPT 時刻",
+          "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+          "summary": "語音人工智慧經常錯過其上下文層的重要點，並導致整個管道中斷",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "這些高層認為語音 AI 尚未達到 ChatGPT 時刻",
+        "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+        "summary": "語音人工智慧經常錯過其上下文層的重要點，並導致整個管道中斷",
+        "source": "TechCrunch"
       },
       "steve_ideas": []
     }
