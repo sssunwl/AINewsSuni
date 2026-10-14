@@ -1,114 +1,114 @@
 {
-  "updated": "2026-10-13 15:19 HKT",
+  "updated": "2026-10-14 13:45 HKT",
   "news": [
     {
-      "title": "Meta has some Wonder Full new AI models",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-      "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintel…",
+      "title": "OpenAI 員工因涉嫌在會議室植入竊聽器而被捕",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "summary": "一名 OpenAI 工程師因該公司表示在其中一個地方發現了隱藏的「複雜錄音設備」而被捕。",
       "source": "The Verge"
     },
     {
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference syste…",
+      "title": "Shopify 向更多 AI 代理程式開放目錄",
+      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+      "summary": "更多人工智慧代理商很快將能夠從 Shopify 清單中瀏覽和購買，這標誌著該公司的年齡增長...",
       "source": "The Verge"
     },
     {
-      "title": "Meta releases its first frontier model, Muse Wonder",
-      "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-      "summary": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and sai…",
-      "source": "TechCrunch"
+      "title": "Xbox 正式擁抱 AI 驅動的遊戲端口的混亂",
+      "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+      "summary": "復古遊戲目前正在經歷一段瘋狂的時期，這要歸功於反編譯和重新編譯，這讓遊戲...",
+      "source": "The Verge"
     },
     {
-      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-      "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-      "summary": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth alm…",
-      "source": "TechCrunch"
+      "title": "我不會錯過 Ray-Ban Meta Audio 眼鏡上的攝影機",
+      "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+      "summary": "有一天，我在公園跑步時從幾個人身邊飛馳而過，我的播放清單開到最大音量。第二天早上…",
+      "source": "The Verge"
     },
     {
-      "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-      "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-      "summary": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. Bu…",
-      "source": "TechCrunch"
+      "title": "Facebook將讓你使用人工智慧來客製化你的提要演算法",
+      "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+      "summary": "Facebook 的新「你的演算法」功能將讓你直接添加和管理你想在你的 feed 和 Fac 中看到的主題...",
+      "source": "The Verge"
     },
     {
-      "title": "Microsoft president says UK is best placed to drive AI regulation",
-      "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-      "summary": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than…",
-      "source": "TechCrunch"
+      "title": "Google 讓您更輕鬆地啟動 Vivi 編碼的應用程式",
+      "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+      "summary": "下次當您使用 Google 的 AI Studio 對自訂應用程式進行振動編碼時，您無需將手機連接到電腦即可…",
+      "source": "The Verge"
     },
     {
-      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-      "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-      "summary": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant constructio…",
-      "source": "TechCrunch"
+      "title": "Instagram 允許 Mia Goth 的人工智慧圖像傳播，她的代表表示，這是“不可理解的”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+      "summary": "本月早些時候，有消息稱女演員米婭·高斯已向演員兼電影製片人希亞拉博夫提出離婚。一個插入…",
+      "source": "The Verge"
     },
     {
-      "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-      "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-      "summary": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s M…",
-      "source": "TechCrunch"
+      "title": "Google終於發布Gemini 4 Argon",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "summary": "在前衛人工智慧競賽的邊緣觀戰數月後，Google終於推出了期待已久的 Gemini 4 Arg…",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "Kai",
-      "link": "https://www.producthunt.com/products/hirekai",
-      "desc": "Autonomous assistant designed to handle meetings and email Discussion | Link",
-      "title_en": "Kai"
+      "title": "面向代理商的 PostNitro (PostNitro for Agents)",
+      "link": "https://www.producthunt.com/products/postnitro",
+      "desc": "讓您的 AI 代理設計和發布社交貼文 討論 |關聯",
+      "title_en": "PostNitro for Agents"
     },
     {
-      "title": "OpenCode 2.0",
-      "link": "https://www.producthunt.com/products/opencode",
-      "desc": "The open source AI coding agent Discussion | Link",
-      "title_en": "OpenCode 2.0"
-    },
-    {
-      "title": "Toby",
+      "title": "托比 (Toby)",
       "link": "https://www.producthunt.com/products/toby-5",
-      "desc": "Realistic mock interviews with an AI hiring manager Discussion | Link",
+      "desc": "與 AI 招募經理的真實模擬面試 討論 |關聯",
       "title_en": "Toby"
     },
     {
-      "title": "HarnessHive",
-      "link": "https://www.producthunt.com/products/harnesshive",
-      "desc": "AI-Native, Simple & Collaborative Wire Harness Design Discussion | Link",
-      "title_en": "HarnessHive"
+      "title": "駕駛人工智慧 (The Drive AI)",
+      "link": "https://www.producthunt.com/products/the-drive-ai-2",
+      "desc": "處理您的檔案的 AI 代理關聯",
+      "title_en": "The Drive AI"
     },
     {
-      "title": "MentionBird",
-      "link": "https://www.producthunt.com/products/mentionbird",
-      "desc": "Ahrefs for AI Search Discussion | Link",
-      "title_en": "MentionBird"
+      "title": "CLI管理器 (CLI Manager)",
+      "link": "https://www.producthunt.com/products/cli-manager",
+      "desc": "讓一個 AI 代理程式開啟並驅動您的其他 CLI 代理程式 討論 |關聯",
+      "title_en": "CLI Manager"
+    },
+    {
+      "title": "開放代碼2.0 (OpenCode 2.0)",
+      "link": "https://www.producthunt.com/products/opencode",
+      "desc": "開源AI編碼代理討論|關聯",
+      "title_en": "OpenCode 2.0"
     }
   ],
   "suniverse_news": [
     {
-      "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-      "link": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-      "summary": "Microsoft is announcing its third-generation Maia in-house AI chip today, designed to be the \"primary AI inference syste…",
+      "title": "Instagram 允許 Mia Goth 的人工智慧圖像傳播，她的代表表示，這是“不可理解的”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+      "summary": "本月早些時候，有消息稱女演員米婭·高斯已向演員兼電影製片人希亞拉博夫提出離婚。一個插入…",
       "source": "The Verge"
     }
   ],
-  "suniverse_tools": [
+  "suniverse_tools": [],
+  "major": [
     {
-      "title": "Kai",
-      "link": "https://www.producthunt.com/products/hirekai",
-      "desc": "Autonomous assistant designed to handle meetings and email Discussion | Link",
-      "title_en": "Kai"
+      "title": "OpenAI 員工因涉嫌在會議室植入竊聽器而被捕",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+      "summary": "一名 OpenAI 工程師因該公司表示在其中一個地方發現了隱藏的「複雜錄音設備」而被捕。",
+      "source": "The Verge"
     },
     {
-      "title": "HarnessHive",
-      "link": "https://www.producthunt.com/products/harnesshive",
-      "desc": "AI-Native, Simple & Collaborative Wire Harness Design Discussion | Link",
-      "title_en": "HarnessHive"
+      "title": "Google終於發布Gemini 4 Argon",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+      "summary": "在前衛人工智慧競賽的邊緣觀戰數月後，Google終於推出了期待已久的 Gemini 4 Arg…",
+      "source": "The Verge"
     }
   ],
-  "major": [],
   "pick": {
-    "title": "Meta has some Wonder Full new AI models",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-    "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintel…",
+    "title": "OpenAI 員工因涉嫌在會議室植入竊聽器而被捕",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+    "summary": "一名 OpenAI 工程師因該公司表示在其中一個地方發現了隱藏的「複雜錄音設備」而被捕。",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -13830,6 +13830,120 @@
         "title": "Meta has some Wonder Full new AI models",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
         "summary": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintel…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-14": {
+      "news": [
+        {
+          "title": "OpenAI 員工因涉嫌在會議室植入竊聽器而被捕",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+          "summary": "一名 OpenAI 工程師因該公司表示在其中一個地方發現了隱藏的「複雜錄音設備」而被捕。",
+          "source": "The Verge"
+        },
+        {
+          "title": "Shopify 向更多 AI 代理程式開放目錄",
+          "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
+          "summary": "更多人工智慧代理商很快將能夠從 Shopify 清單中瀏覽和購買，這標誌著該公司的年齡增長...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Xbox 正式擁抱 AI 驅動的遊戲端口的混亂",
+          "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
+          "summary": "復古遊戲目前正在經歷一段瘋狂的時期，這要歸功於反編譯和重新編譯，這讓遊戲...",
+          "source": "The Verge"
+        },
+        {
+          "title": "我不會錯過 Ray-Ban Meta Audio 眼鏡上的攝影機",
+          "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
+          "summary": "有一天，我在公園跑步時從幾個人身邊飛馳而過，我的播放清單開到最大音量。第二天早上…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Facebook將讓你使用人工智慧來客製化你的提要演算法",
+          "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+          "summary": "Facebook 的新「你的演算法」功能將讓你直接添加和管理你想在你的 feed 和 Fac 中看到的主題...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google 讓您更輕鬆地啟動 Vivi 編碼的應用程式",
+          "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+          "summary": "下次當您使用 Google 的 AI Studio 對自訂應用程式進行振動編碼時，您無需將手機連接到電腦即可…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Instagram 允許 Mia Goth 的人工智慧圖像傳播，她的代表表示，這是“不可理解的”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+          "summary": "本月早些時候，有消息稱女演員米婭·高斯已向演員兼電影製片人希亞拉博夫提出離婚。一個插入…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google終於發布Gemini 4 Argon",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+          "summary": "在前衛人工智慧競賽的邊緣觀戰數月後，Google終於推出了期待已久的 Gemini 4 Arg…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "面向代理商的 PostNitro (PostNitro for Agents)",
+          "link": "https://www.producthunt.com/products/postnitro",
+          "desc": "讓您的 AI 代理設計和發布社交貼文 討論 |關聯",
+          "title_en": "PostNitro for Agents"
+        },
+        {
+          "title": "托比 (Toby)",
+          "link": "https://www.producthunt.com/products/toby-5",
+          "desc": "與 AI 招募經理的真實模擬面試 討論 |關聯",
+          "title_en": "Toby"
+        },
+        {
+          "title": "駕駛人工智慧 (The Drive AI)",
+          "link": "https://www.producthunt.com/products/the-drive-ai-2",
+          "desc": "處理您的檔案的 AI 代理關聯",
+          "title_en": "The Drive AI"
+        },
+        {
+          "title": "CLI管理器 (CLI Manager)",
+          "link": "https://www.producthunt.com/products/cli-manager",
+          "desc": "讓一個 AI 代理程式開啟並驅動您的其他 CLI 代理程式 討論 |關聯",
+          "title_en": "CLI Manager"
+        },
+        {
+          "title": "開放代碼2.0 (OpenCode 2.0)",
+          "link": "https://www.producthunt.com/products/opencode",
+          "desc": "開源AI編碼代理討論|關聯",
+          "title_en": "OpenCode 2.0"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Instagram 允許 Mia Goth 的人工智慧圖像傳播，她的代表表示，這是“不可理解的”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+          "summary": "本月早些時候，有消息稱女演員米婭·高斯已向演員兼電影製片人希亞拉博夫提出離婚。一個插入…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 員工因涉嫌在會議室植入竊聽器而被捕",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+          "summary": "一名 OpenAI 工程師因該公司表示在其中一個地方發現了隱藏的「複雜錄音設備」而被捕。",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google終於發布Gemini 4 Argon",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
+          "summary": "在前衛人工智慧競賽的邊緣觀戰數月後，Google終於推出了期待已久的 Gemini 4 Arg…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 員工因涉嫌在會議室植入竊聽器而被捕",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
+        "summary": "一名 OpenAI 工程師因該公司表示在其中一個地方發現了隱藏的「複雜錄音設備」而被捕。",
         "source": "The Verge"
       },
       "steve_ideas": []
