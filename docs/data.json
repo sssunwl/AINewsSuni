@@ -1,114 +1,120 @@
 {
-  "updated": "2026-10-14 13:45 HKT",
+  "updated": "2026-10-15 13:31 HKT",
   "news": [
     {
-      "title": "OpenAI 員工因涉嫌在會議室植入竊聽器而被捕",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "summary": "一名 OpenAI 工程師因該公司表示在其中一個地方發現了隱藏的「複雜錄音設備」而被捕。",
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an …",
       "source": "The Verge"
     },
     {
-      "title": "Shopify 向更多 AI 代理程式開放目錄",
-      "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-      "summary": "更多人工智慧代理商很快將能夠從 Shopify 清單中瀏覽和購買，這標誌著該公司的年齡增長...",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading …",
       "source": "The Verge"
     },
     {
-      "title": "Xbox 正式擁抱 AI 驅動的遊戲端口的混亂",
-      "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-      "summary": "復古遊戲目前正在經歷一段瘋狂的時期，這要歸功於反編譯和重新編譯，這讓遊戲...",
+      "title": "The AI race is back on",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful…",
       "source": "The Verge"
     },
     {
-      "title": "我不會錯過 Ray-Ban Meta Audio 眼鏡上的攝影機",
-      "link": "https://www.theverge.com/tech/1009128/ray-ban-meta-audio-glasses-review-smart-glasses-headphones-wearables",
-      "summary": "有一天，我在公園跑步時從幾個人身邊飛馳而過，我的播放清單開到最大音量。第二天早上…",
+      "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+      "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now…",
       "source": "The Verge"
     },
     {
-      "title": "Facebook將讓你使用人工智慧來客製化你的提要演算法",
-      "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
-      "summary": "Facebook 的新「你的演算法」功能將讓你直接添加和管理你想在你的 feed 和 Fac 中看到的主題...",
+      "title": "YouTube sticks new labels on AI-generated songs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+      "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar appro…",
       "source": "The Verge"
     },
     {
-      "title": "Google 讓您更輕鬆地啟動 Vivi 編碼的應用程式",
-      "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
-      "summary": "下次當您使用 Google 的 AI Studio 對自訂應用程式進行振動編碼時，您無需將手機連接到電腦即可…",
+      "title": "My AI doppelganger tells me what to eat",
+      "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the lat…",
       "source": "The Verge"
     },
     {
-      "title": "Instagram 允許 Mia Goth 的人工智慧圖像傳播，她的代表表示，這是“不可理解的”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-      "summary": "本月早些時候，有消息稱女演員米婭·高斯已向演員兼電影製片人希亞拉博夫提出離婚。一個插入…",
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a documen…",
       "source": "The Verge"
     },
     {
-      "title": "Google終於發布Gemini 4 Argon",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "summary": "在前衛人工智慧競賽的邊緣觀戰數月後，Google終於推出了期待已久的 Gemini 4 Arg…",
+      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a p…",
       "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "面向代理商的 PostNitro (PostNitro for Agents)",
-      "link": "https://www.producthunt.com/products/postnitro",
-      "desc": "讓您的 AI 代理設計和發布社交貼文 討論 |關聯",
-      "title_en": "PostNitro for Agents"
+      "title": "Make0 Brain",
+      "link": "https://www.producthunt.com/products/make0-brain",
+      "desc": "A memory store that works across all of your AI agents. Discussion | Link",
+      "title_en": "Make0 Brain"
     },
     {
-      "title": "托比 (Toby)",
-      "link": "https://www.producthunt.com/products/toby-5",
-      "desc": "與 AI 招募經理的真實模擬面試 討論 |關聯",
-      "title_en": "Toby"
+      "title": "Epherem",
+      "link": "https://www.producthunt.com/products/epherem",
+      "desc": "Find login and database flaws in your AI-built app Discussion | Link",
+      "title_en": "Epherem"
     },
     {
-      "title": "駕駛人工智慧 (The Drive AI)",
-      "link": "https://www.producthunt.com/products/the-drive-ai-2",
-      "desc": "處理您的檔案的 AI 代理關聯",
-      "title_en": "The Drive AI"
+      "title": "Microsoft Maia 300",
+      "link": "https://www.producthunt.com/products/microsoft-maia-300",
+      "desc": "Microsoft’s own AI chip, headed to multi-gigawatts Discussion | Link",
+      "title_en": "Microsoft Maia 300"
     },
     {
-      "title": "CLI管理器 (CLI Manager)",
-      "link": "https://www.producthunt.com/products/cli-manager",
-      "desc": "讓一個 AI 代理程式開啟並驅動您的其他 CLI 代理程式 討論 |關聯",
-      "title_en": "CLI Manager"
+      "title": "AirJelly",
+      "link": "https://www.producthunt.com/products/airjelly",
+      "desc": "Your Proactive, Self-Organizing Second Brain Discussion | Link",
+      "title_en": "AirJelly"
     },
     {
-      "title": "開放代碼2.0 (OpenCode 2.0)",
-      "link": "https://www.producthunt.com/products/opencode",
-      "desc": "開源AI編碼代理討論|關聯",
-      "title_en": "OpenCode 2.0"
+      "title": "daily.dev for agents",
+      "link": "https://www.producthunt.com/products/daily-dev",
+      "desc": "Where agents discover what's next Discussion | Link",
+      "title_en": "daily.dev for agents"
     }
   ],
   "suniverse_news": [
     {
-      "title": "Instagram 允許 Mia Goth 的人工智慧圖像傳播，她的代表表示，這是“不可理解的”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
-      "summary": "本月早些時候，有消息稱女演員米婭·高斯已向演員兼電影製片人希亞拉博夫提出離婚。一個插入…",
+      "title": "YouTube sticks new labels on AI-generated songs",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+      "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar appro…",
       "source": "The Verge"
     }
   ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 員工因涉嫌在會議室植入竊聽器而被捕",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-      "summary": "一名 OpenAI 工程師因該公司表示在其中一個地方發現了隱藏的「複雜錄音設備」而被捕。",
+      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading …",
       "source": "The Verge"
     },
     {
-      "title": "Google終於發布Gemini 4 Argon",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-      "summary": "在前衛人工智慧競賽的邊緣觀戰數月後，Google終於推出了期待已久的 Gemini 4 Arg…",
+      "title": "The AI race is back on",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful…",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a documen…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "OpenAI 員工因涉嫌在會議室植入竊聽器而被捕",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-    "summary": "一名 OpenAI 工程師因該公司表示在其中一個地方發現了隱藏的「複雜錄音設備」而被捕。",
+    "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+    "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading …",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -13944,6 +13950,126 @@
         "title": "OpenAI 員工因涉嫌在會議室植入竊聽器而被捕",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
         "summary": "一名 OpenAI 工程師因該公司表示在其中一個地方發現了隱藏的「複雜錄音設備」而被捕。",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-15": {
+      "news": [
+        {
+          "title": "McKinsey is making job applicants spar with a fake AI client",
+          "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+          "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+          "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading …",
+          "source": "The Verge"
+        },
+        {
+          "title": "The AI race is back on",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+          "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
+          "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
+          "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now…",
+          "source": "The Verge"
+        },
+        {
+          "title": "YouTube sticks new labels on AI-generated songs",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+          "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar appro…",
+          "source": "The Verge"
+        },
+        {
+          "title": "My AI doppelganger tells me what to eat",
+          "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+          "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the lat…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+          "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a documen…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+          "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+          "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a p…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Make0 Brain",
+          "link": "https://www.producthunt.com/products/make0-brain",
+          "desc": "A memory store that works across all of your AI agents. Discussion | Link",
+          "title_en": "Make0 Brain"
+        },
+        {
+          "title": "Epherem",
+          "link": "https://www.producthunt.com/products/epherem",
+          "desc": "Find login and database flaws in your AI-built app Discussion | Link",
+          "title_en": "Epherem"
+        },
+        {
+          "title": "Microsoft Maia 300",
+          "link": "https://www.producthunt.com/products/microsoft-maia-300",
+          "desc": "Microsoft’s own AI chip, headed to multi-gigawatts Discussion | Link",
+          "title_en": "Microsoft Maia 300"
+        },
+        {
+          "title": "AirJelly",
+          "link": "https://www.producthunt.com/products/airjelly",
+          "desc": "Your Proactive, Self-Organizing Second Brain Discussion | Link",
+          "title_en": "AirJelly"
+        },
+        {
+          "title": "daily.dev for agents",
+          "link": "https://www.producthunt.com/products/daily-dev",
+          "desc": "Where agents discover what's next Discussion | Link",
+          "title_en": "daily.dev for agents"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "YouTube sticks new labels on AI-generated songs",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
+          "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar appro…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+          "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading …",
+          "source": "The Verge"
+        },
+        {
+          "title": "The AI race is back on",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
+          "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+          "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a documen…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading …",
         "source": "The Verge"
       },
       "steve_ideas": []
