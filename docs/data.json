@@ -1,120 +1,121 @@
 {
-  "updated": "2026-10-15 13:31 HKT",
+  "updated": "2026-10-16 13:23 HKT",
   "news": [
     {
-      "title": "McKinsey is making job applicants spar with a fake AI client",
-      "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-      "summary": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an …",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it…",
       "source": "The Verge"
     },
     {
-      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading …",
+      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users compl…",
       "source": "The Verge"
     },
     {
-      "title": "The AI race is back on",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful…",
+      "title": "The tech backlash is now in theaters",
+      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a …",
       "source": "The Verge"
     },
     {
-      "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-      "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-      "summary": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now…",
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of…",
       "source": "The Verge"
     },
     {
-      "title": "YouTube sticks new labels on AI-generated songs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar appro…",
+      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets…",
       "source": "The Verge"
     },
     {
-      "title": "My AI doppelganger tells me what to eat",
-      "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
-      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the lat…",
+      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" B…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a documen…",
+      "title": "Friends don&#8217;t let friends feed their data to AI agents",
+      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regar…",
       "source": "The Verge"
     },
     {
-      "title": "Microsoft has a new machine learning tool to improve weather forecasts",
-      "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
-      "summary": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a p…",
+      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new…",
       "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "Make0 Brain",
-      "link": "https://www.producthunt.com/products/make0-brain",
-      "desc": "A memory store that works across all of your AI agents. Discussion | Link",
-      "title_en": "Make0 Brain"
+      "title": "Actually Asked",
+      "link": "https://www.producthunt.com/products/actually-asked",
+      "desc": "A self-improving branded AI FAQ page Discussion | Link",
+      "title_en": "Actually Asked"
     },
     {
-      "title": "Epherem",
-      "link": "https://www.producthunt.com/products/epherem",
-      "desc": "Find login and database flaws in your AI-built app Discussion | Link",
-      "title_en": "Epherem"
+      "title": "SaidTrace",
+      "link": "https://www.producthunt.com/products/saidtrace",
+      "desc": "Private voice memos. Your choice of AI. Discussion | Link",
+      "title_en": "SaidTrace"
     },
     {
-      "title": "Microsoft Maia 300",
-      "link": "https://www.producthunt.com/products/microsoft-maia-300",
-      "desc": "Microsoft’s own AI chip, headed to multi-gigawatts Discussion | Link",
-      "title_en": "Microsoft Maia 300"
+      "title": "Rushilo",
+      "link": "https://www.producthunt.com/products/rushilo",
+      "desc": "Edit video by talking to Claude Code or Codex Discussion | Link",
+      "title_en": "Rushilo"
     },
     {
-      "title": "AirJelly",
-      "link": "https://www.producthunt.com/products/airjelly",
-      "desc": "Your Proactive, Self-Organizing Second Brain Discussion | Link",
-      "title_en": "AirJelly"
+      "title": "Audimate",
+      "link": "https://www.producthunt.com/products/audimate",
+      "desc": "AI assistant that works right in the apps you already use Discussion | Link",
+      "title_en": "Audimate"
     },
     {
-      "title": "daily.dev for agents",
-      "link": "https://www.producthunt.com/products/daily-dev",
-      "desc": "Where agents discover what's next Discussion | Link",
-      "title_en": "daily.dev for agents"
+      "title": "CmdRound",
+      "link": "https://www.producthunt.com/products/cmdround",
+      "desc": "Assess how engineers build with artificial intelligence Discussion | Link",
+      "title_en": "CmdRound"
     }
   ],
   "suniverse_news": [
     {
-      "title": "YouTube sticks new labels on AI-generated songs",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-      "summary": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar appro…",
+      "title": "Trump posts AI-edited photo to brag about White House restoration work",
+      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Friends don&#8217;t let friends feed their data to AI agents",
+      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regar…",
       "source": "The Verge"
     }
   ],
-  "suniverse_tools": [],
+  "suniverse_tools": [
+    {
+      "title": "Rushilo",
+      "link": "https://www.producthunt.com/products/rushilo",
+      "desc": "Edit video by talking to Claude Code or Codex Discussion | Link",
+      "title_en": "Rushilo"
+    }
+  ],
   "major": [
     {
-      "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-      "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading …",
-      "source": "The Verge"
-    },
-    {
-      "title": "The AI race is back on",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "summary": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful…",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-      "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a documen…",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-    "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading …",
+    "title": "ChatGPT can peek at your Chrome tabs now",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+    "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -14070,6 +14071,127 @@
         "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
         "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading …",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-16": {
+      "news": [
+        {
+          "title": "ChatGPT can peek at your Chrome tabs now",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+          "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
+          "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
+          "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users compl…",
+          "source": "The Verge"
+        },
+        {
+          "title": "The tech backlash is now in theaters",
+          "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
+          "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Trump posts AI-edited photo to brag about White House restoration work",
+          "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+          "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
+          "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
+          "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+          "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+          "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" B…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Friends don&#8217;t let friends feed their data to AI agents",
+          "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+          "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regar…",
+          "source": "The Verge"
+        },
+        {
+          "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+          "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+          "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Actually Asked",
+          "link": "https://www.producthunt.com/products/actually-asked",
+          "desc": "A self-improving branded AI FAQ page Discussion | Link",
+          "title_en": "Actually Asked"
+        },
+        {
+          "title": "SaidTrace",
+          "link": "https://www.producthunt.com/products/saidtrace",
+          "desc": "Private voice memos. Your choice of AI. Discussion | Link",
+          "title_en": "SaidTrace"
+        },
+        {
+          "title": "Rushilo",
+          "link": "https://www.producthunt.com/products/rushilo",
+          "desc": "Edit video by talking to Claude Code or Codex Discussion | Link",
+          "title_en": "Rushilo"
+        },
+        {
+          "title": "Audimate",
+          "link": "https://www.producthunt.com/products/audimate",
+          "desc": "AI assistant that works right in the apps you already use Discussion | Link",
+          "title_en": "Audimate"
+        },
+        {
+          "title": "CmdRound",
+          "link": "https://www.producthunt.com/products/cmdround",
+          "desc": "Assess how engineers build with artificial intelligence Discussion | Link",
+          "title_en": "CmdRound"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Trump posts AI-edited photo to brag about White House restoration work",
+          "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+          "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Friends don&#8217;t let friends feed their data to AI agents",
+          "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+          "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regar…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [
+        {
+          "title": "Rushilo",
+          "link": "https://www.producthunt.com/products/rushilo",
+          "desc": "Edit video by talking to Claude Code or Codex Discussion | Link",
+          "title_en": "Rushilo"
+        }
+      ],
+      "major": [
+        {
+          "title": "ChatGPT can peek at your Chrome tabs now",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+          "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "ChatGPT can peek at your Chrome tabs now",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+        "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it…",
         "source": "The Verge"
       },
       "steve_ideas": []
