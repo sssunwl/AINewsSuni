@@ -1,122 +1,121 @@
 {
-  "updated": "2026-10-16 13:23 HKT",
+  "updated": "2026-10-17 13:17 HKT",
   "news": [
     {
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it…",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerfu…",
       "source": "The Verge"
     },
     {
-      "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-      "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-      "summary": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users compl…",
+      "title": "Meta’s new terms may allow it to train AI on news sites for free",
+      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its…",
       "source": "The Verge"
     },
     {
-      "title": "The tech backlash is now in theaters",
-      "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-      "summary": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a …",
-      "source": "The Verge"
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with …",
+      "source": "TechCrunch"
     },
     {
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of…",
-      "source": "The Verge"
+      "title": "India becomes the latest country to report rogue AI agent activity",
+      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositori…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Bluesky&#8217;s AI tool now lets you make games and apps to share on social",
-      "link": "https://www.theverge.com/tech/1012374/bluesky-ai-attie-small-social-games-apps",
-      "summary": "Bluesky's Attie AI tool, which initially launched earlier this year as a way to use AI to build your own feeds, now lets…",
-      "source": "The Verge"
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Meta and Apple team up to make Muse AI models run better on Macs",
-      "link": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
-      "summary": "Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" B…",
-      "source": "The Verge"
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Friends don&#8217;t let friends feed their data to AI agents",
-      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regar…",
-      "source": "The Verge"
+      "title": "Elorian’s first AI model wants to reason with images, not just about them",
+      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form vi…",
+      "source": "TechCrunch"
     },
     {
-      "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-      "link": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
-      "summary": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new…",
-      "source": "The Verge"
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Actually Asked",
-      "link": "https://www.producthunt.com/products/actually-asked",
-      "desc": "A self-improving branded AI FAQ page Discussion | Link",
-      "title_en": "Actually Asked"
+      "title": "Neophyte",
+      "link": "https://www.producthunt.com/products/neophyte",
+      "desc": "Watch an AI agent sign up and onboard to any product Discussion | Link",
+      "title_en": "Neophyte"
     },
     {
-      "title": "SaidTrace",
-      "link": "https://www.producthunt.com/products/saidtrace",
-      "desc": "Private voice memos. Your choice of AI. Discussion | Link",
-      "title_en": "SaidTrace"
+      "title": "Scalebrowser",
+      "link": "https://www.producthunt.com/products/scalebrowser",
+      "desc": "Human browser capabilities. Now for AI agents. Discussion | Link",
+      "title_en": "Scalebrowser"
     },
     {
-      "title": "Rushilo",
-      "link": "https://www.producthunt.com/products/rushilo",
-      "desc": "Edit video by talking to Claude Code or Codex Discussion | Link",
-      "title_en": "Rushilo"
+      "title": "Mermaid",
+      "link": "https://www.producthunt.com/products/mermaid",
+      "desc": "Tell your Mac what to do. From literally anywhere Discussion | Link",
+      "title_en": "Mermaid"
     },
     {
-      "title": "Audimate",
-      "link": "https://www.producthunt.com/products/audimate",
-      "desc": "AI assistant that works right in the apps you already use Discussion | Link",
-      "title_en": "Audimate"
+      "title": "Fish Audio Drama 3",
+      "link": "https://www.producthunt.com/products/fish-speech",
+      "desc": "AI voice acting you can direct, not just generate Discussion | Link",
+      "title_en": "Fish Audio Drama 3"
     },
     {
-      "title": "CmdRound",
-      "link": "https://www.producthunt.com/products/cmdround",
-      "desc": "Assess how engineers build with artificial intelligence Discussion | Link",
-      "title_en": "CmdRound"
+      "title": "GBrain Tools",
+      "link": "https://www.producthunt.com/products/gbrain",
+      "desc": "A password manager for AI Discussion | Link",
+      "title_en": "GBrain Tools"
     }
   ],
   "suniverse_news": [
     {
-      "title": "Trump posts AI-edited photo to brag about White House restoration work",
-      "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-      "summary": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of…",
-      "source": "The Verge"
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Friends don&#8217;t let friends feed their data to AI agents",
-      "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
-      "summary": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regar…",
-      "source": "The Verge"
+      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
+      "source": "TechCrunch"
     }
   ],
-  "suniverse_tools": [
-    {
-      "title": "Rushilo",
-      "link": "https://www.producthunt.com/products/rushilo",
-      "desc": "Edit video by talking to Claude Code or Codex Discussion | Link",
-      "title_en": "Rushilo"
-    }
-  ],
+  "suniverse_tools": [],
   "major": [
     {
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-      "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it…",
-      "source": "The Verge"
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with …",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "ChatGPT can peek at your Chrome tabs now",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-    "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it…",
-    "source": "The Verge"
+    "title": "Replit is no longer working with Anthropic, CEO says",
+    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with …",
+    "source": "TechCrunch"
   },
   "steve_ideas": [],
   "history": {
@@ -14193,6 +14192,126 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
         "summary": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it…",
         "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-17": {
+      "news": [
+        {
+          "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+          "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+          "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerfu…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta’s new terms may allow it to train AI on news sites for free",
+          "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+          "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Replit is no longer working with Anthropic, CEO says",
+          "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with …",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "India becomes the latest country to report rogue AI agent activity",
+          "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+          "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositori…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+          "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+          "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Elorian’s first AI model wants to reason with images, not just about them",
+          "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+          "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form vi…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Jev is Vercel’s fastest-adopted AI model ever",
+          "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+          "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Neophyte",
+          "link": "https://www.producthunt.com/products/neophyte",
+          "desc": "Watch an AI agent sign up and onboard to any product Discussion | Link",
+          "title_en": "Neophyte"
+        },
+        {
+          "title": "Scalebrowser",
+          "link": "https://www.producthunt.com/products/scalebrowser",
+          "desc": "Human browser capabilities. Now for AI agents. Discussion | Link",
+          "title_en": "Scalebrowser"
+        },
+        {
+          "title": "Mermaid",
+          "link": "https://www.producthunt.com/products/mermaid",
+          "desc": "Tell your Mac what to do. From literally anywhere Discussion | Link",
+          "title_en": "Mermaid"
+        },
+        {
+          "title": "Fish Audio Drama 3",
+          "link": "https://www.producthunt.com/products/fish-speech",
+          "desc": "AI voice acting you can direct, not just generate Discussion | Link",
+          "title_en": "Fish Audio Drama 3"
+        },
+        {
+          "title": "GBrain Tools",
+          "link": "https://www.producthunt.com/products/gbrain",
+          "desc": "A password manager for AI Discussion | Link",
+          "title_en": "GBrain Tools"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+          "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+          "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
+          "source": "TechCrunch"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Replit is no longer working with Anthropic, CEO says",
+          "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with …",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+          "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+          "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Replit is no longer working with Anthropic, CEO says",
+        "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with …",
+        "source": "TechCrunch"
       },
       "steve_ideas": []
     }
