@@ -1,121 +1,96 @@
 {
-  "updated": "2026-10-17 13:17 HKT",
+  "updated": "2026-10-18 13:23 HKT",
   "news": [
     {
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
-      "summary": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerfu…",
+      "title": "Meta 刪除了可能允許其抓取新聞網站的語言",
+      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+      "summary": "在強烈反對之後，Meta 再次更新其條款，刪除暗示它可以從網站上抓取內容的語言，我…",
       "source": "The Verge"
     },
     {
-      "title": "Meta’s new terms may allow it to train AI on news sites for free",
-      "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-      "summary": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its…",
+      "title": "網站正在向人工智慧代理關閉大門",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "summary": "自主代理是人工智慧領域最熱門的東西。 OpenAI、Meta、Google、Instinct 和其他公司承諾他們的代理商可以搜尋…",
       "source": "The Verge"
     },
     {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with …",
+      "title": "Meta 刪除了引起抓取和人工智慧訓練問題的語言",
+      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+      "summary": "Meta 發言人堅稱，更新的條款並不反映 Meta 抓取網路方式的變化。",
       "source": "TechCrunch"
     },
     {
-      "title": "India becomes the latest country to report rogue AI agent activity",
-      "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-      "summary": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositori…",
+      "title": "Anthropic 表示，其員工隊伍的初級人員數量已有所減少，花在會議上的時間也越來越多",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "Anthropic 的員工組成和完成的工作類型在過去一年發生了顯著變化。",
       "source": "TechCrunch"
     },
     {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Elorian’s first AI model wants to reason with images, not just about them",
-      "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-      "summary": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form vi…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Jev is Vercel’s fastest-adopted AI model ever",
-      "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
-      "summary": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "title": "Replit 執行長表示，將 OpenAI 設為預設值，而不是 Anthropic",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "週末，Masad 澄清 OpenAI 將取代 Anthropic 成為其預設模型提供者。Claude仍然會…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Neophyte",
-      "link": "https://www.producthunt.com/products/neophyte",
-      "desc": "Watch an AI agent sign up and onboard to any product Discussion | Link",
-      "title_en": "Neophyte"
+      "title": "概念：您的代理的上下文 (Notion: Context for your agents)",
+      "link": "https://www.producthunt.com/products/notion",
+      "desc": "切換 AI 代理而無需重新解釋您的工作 討論 |關聯",
+      "title_en": "Notion: Context for your agents"
     },
     {
-      "title": "Scalebrowser",
-      "link": "https://www.producthunt.com/products/scalebrowser",
-      "desc": "Human browser capabilities. Now for AI agents. Discussion | Link",
-      "title_en": "Scalebrowser"
+      "title": "用麵食訓練 (Train with Pasta)",
+      "link": "https://www.producthunt.com/products/train-with-pasta",
+      "desc": "由 Apple Intelligence 提供支援的私人教練關聯",
+      "title_en": "Train with Pasta"
     },
     {
-      "title": "Mermaid",
-      "link": "https://www.producthunt.com/products/mermaid",
-      "desc": "Tell your Mac what to do. From literally anywhere Discussion | Link",
-      "title_en": "Mermaid"
+      "title": "Claude代碼的 CrewTower Mod (CrewTower Mod for Claude Code)",
+      "link": "https://www.producthunt.com/products/crew-tower",
+      "desc": "直接透過 MacBook 缺口與 Claude Code 對話 討論 |關聯",
+      "title_en": "CrewTower Mod for Claude Code"
     },
     {
-      "title": "Fish Audio Drama 3",
-      "link": "https://www.producthunt.com/products/fish-speech",
-      "desc": "AI voice acting you can direct, not just generate Discussion | Link",
-      "title_en": "Fish Audio Drama 3"
+      "title": "鸚鵡 (Parrot)",
+      "link": "https://www.producthunt.com/products/parrot-10",
+      "desc": "Smart Meeting Assistant for Mac that helps during the call Discussion | Link",
+      "title_en": "Parrot"
     },
     {
-      "title": "GBrain Tools",
-      "link": "https://www.producthunt.com/products/gbrain",
-      "desc": "A password manager for AI Discussion | Link",
-      "title_en": "GBrain Tools"
+      "title": "步驟 5 預覽 (Step 5 Preview)",
+      "link": "https://www.producthunt.com/products/step-3-5-flash",
+      "desc": "600B 開放式舉重，針對長時間運行的智能體進行訓練關聯",
+      "title_en": "Step 5 Preview"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-      "link": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
-      "source": "TechCrunch"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with …",
+      "title": "網站正在向人工智慧代理關閉大門",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "summary": "自主代理是人工智慧領域最熱門的東西。 OpenAI、Meta、Google、Instinct 和其他公司承諾他們的代理商可以搜尋…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic 表示，其員工隊伍的初級人員數量已有所減少，花在會議上的時間也越來越多",
+      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "summary": "Anthropic 的員工組成和完成的工作類型在過去一年發生了顯著變化。",
       "source": "TechCrunch"
     },
     {
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-      "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is cur…",
+      "title": "Replit 執行長表示，將 OpenAI 設為預設值，而不是 Anthropic",
+      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "summary": "週末，Masad 澄清 OpenAI 將取代 Anthropic 成為其預設模型提供者。Claude仍然會…",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Replit is no longer working with Anthropic, CEO says",
-    "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with …",
-    "source": "TechCrunch"
+    "title": "網站正在向人工智慧代理關閉大門",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+    "summary": "自主代理是人工智慧領域最熱門的東西。 OpenAI、Meta、Google、Instinct 和其他公司承諾他們的代理商可以搜尋…",
+    "source": "The Verge"
   },
   "steve_ideas": [],
   "history": {
@@ -14312,6 +14287,101 @@
         "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
         "summary": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with …",
         "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-18": {
+      "news": [
+        {
+          "title": "Meta 刪除了可能允許其抓取新聞網站的語言",
+          "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+          "summary": "在強烈反對之後，Meta 再次更新其條款，刪除暗示它可以從網站上抓取內容的語言，我…",
+          "source": "The Verge"
+        },
+        {
+          "title": "網站正在向人工智慧代理關閉大門",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "summary": "自主代理是人工智慧領域最熱門的東西。 OpenAI、Meta、Google、Instinct 和其他公司承諾他們的代理商可以搜尋…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta 刪除了引起抓取和人工智慧訓練問題的語言",
+          "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "summary": "Meta 發言人堅稱，更新的條款並不反映 Meta 抓取網路方式的變化。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Anthropic 表示，其員工隊伍的初級人員數量已有所減少，花在會議上的時間也越來越多",
+          "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+          "summary": "Anthropic 的員工組成和完成的工作類型在過去一年發生了顯著變化。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Replit 執行長表示，將 OpenAI 設為預設值，而不是 Anthropic",
+          "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "summary": "週末，Masad 澄清 OpenAI 將取代 Anthropic 成為其預設模型提供者。Claude仍然會…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "概念：您的代理的上下文 (Notion: Context for your agents)",
+          "link": "https://www.producthunt.com/products/notion",
+          "desc": "切換 AI 代理而無需重新解釋您的工作 討論 |關聯",
+          "title_en": "Notion: Context for your agents"
+        },
+        {
+          "title": "用麵食訓練 (Train with Pasta)",
+          "link": "https://www.producthunt.com/products/train-with-pasta",
+          "desc": "由 Apple Intelligence 提供支援的私人教練關聯",
+          "title_en": "Train with Pasta"
+        },
+        {
+          "title": "Claude代碼的 CrewTower Mod (CrewTower Mod for Claude Code)",
+          "link": "https://www.producthunt.com/products/crew-tower",
+          "desc": "直接透過 MacBook 缺口與 Claude Code 對話 討論 |關聯",
+          "title_en": "CrewTower Mod for Claude Code"
+        },
+        {
+          "title": "鸚鵡 (Parrot)",
+          "link": "https://www.producthunt.com/products/parrot-10",
+          "desc": "Smart Meeting Assistant for Mac that helps during the call Discussion | Link",
+          "title_en": "Parrot"
+        },
+        {
+          "title": "步驟 5 預覽 (Step 5 Preview)",
+          "link": "https://www.producthunt.com/products/step-3-5-flash",
+          "desc": "600B 開放式舉重，針對長時間運行的智能體進行訓練關聯",
+          "title_en": "Step 5 Preview"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "網站正在向人工智慧代理關閉大門",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "summary": "自主代理是人工智慧領域最熱門的東西。 OpenAI、Meta、Google、Instinct 和其他公司承諾他們的代理商可以搜尋…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 表示，其員工隊伍的初級人員數量已有所減少，花在會議上的時間也越來越多",
+          "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+          "summary": "Anthropic 的員工組成和完成的工作類型在過去一年發生了顯著變化。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Replit 執行長表示，將 OpenAI 設為預設值，而不是 Anthropic",
+          "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "summary": "週末，Masad 澄清 OpenAI 將取代 Anthropic 成為其預設模型提供者。Claude仍然會…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "網站正在向人工智慧代理關閉大門",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "summary": "自主代理是人工智慧領域最熱門的東西。 OpenAI、Meta、Google、Instinct 和其他公司承諾他們的代理商可以搜尋…",
+        "source": "The Verge"
       },
       "steve_ideas": []
     }
