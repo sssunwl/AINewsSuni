@@ -1,96 +1,72 @@
 {
-  "updated": "2026-10-18 13:23 HKT",
+  "updated": "2026-10-19 13:40 HKT",
   "news": [
     {
-      "title": "Meta 刪除了可能允許其抓取新聞網站的語言",
-      "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-      "summary": "在強烈反對之後，Meta 再次更新其條款，刪除暗示它可以從網站上抓取內容的語言，我…",
+      "title": "一名女子因阻擋送貨機器人而在費城被捕",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "summary": "卡羅琳·馬文 (Carolyn Marvin) 因阻擋 Uber 送貨機器人的道路並重新…",
       "source": "The Verge"
     },
     {
-      "title": "網站正在向人工智慧代理關閉大門",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "summary": "自主代理是人工智慧領域最熱門的東西。 OpenAI、Meta、Google、Instinct 和其他公司承諾他們的代理商可以搜尋…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Meta 刪除了引起抓取和人工智慧訓練問題的語言",
-      "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-      "summary": "Meta 發言人堅稱，更新的條款並不反映 Meta 抓取網路方式的變化。",
+      "title": "Anthropic 表示將把 5% 的股份捐給“公益基金”",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic表示將向該基金投入其5%的股份。",
       "source": "TechCrunch"
     },
     {
-      "title": "Anthropic 表示，其員工隊伍的初級人員數量已有所減少，花在會議上的時間也越來越多",
-      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "summary": "Anthropic 的員工組成和完成的工作類型在過去一年發生了顯著變化。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Replit 執行長表示，將 OpenAI 設為預設值，而不是 Anthropic",
-      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "週末，Masad 澄清 OpenAI 將取代 Anthropic 成為其預設模型提供者。Claude仍然會…",
+      "title": "迪士尼同意聘用 Character.AI 的大部分員工",
+      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "summary": "文件還稱，迪士尼提供的「絕大多數」Character.AI 員工都接受了他們。哈…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "概念：您的代理的上下文 (Notion: Context for your agents)",
-      "link": "https://www.producthunt.com/products/notion",
-      "desc": "切換 AI 代理而無需重新解釋您的工作 討論 |關聯",
-      "title_en": "Notion: Context for your agents"
+      "title": "重力筆記 (Gravity Notes)",
+      "link": "https://www.producthunt.com/products/gravity-notes-for-mac",
+      "desc": "為您和您的人工智慧代理提供的一份筆記清單關聯",
+      "title_en": "Gravity Notes"
     },
     {
-      "title": "用麵食訓練 (Train with Pasta)",
-      "link": "https://www.producthunt.com/products/train-with-pasta",
-      "desc": "由 Apple Intelligence 提供支援的私人教練關聯",
-      "title_en": "Train with Pasta"
+      "title": "克里亞3號 (Krea 3)",
+      "link": "https://www.producthunt.com/products/krea",
+      "desc": "Krea 的 AI 圖像模型：8 秒內編輯 2K 次關聯",
+      "title_en": "Krea 3"
     },
     {
-      "title": "Claude代碼的 CrewTower Mod (CrewTower Mod for Claude Code)",
-      "link": "https://www.producthunt.com/products/crew-tower",
-      "desc": "直接透過 MacBook 缺口與 Claude Code 對話 討論 |關聯",
-      "title_en": "CrewTower Mod for Claude Code"
+      "title": "我的鏡頭 (MyLens)",
+      "link": "https://www.producthunt.com/products/mylens-ai",
+      "desc": "利用 AI 進行大規模 1-1 現場演示。討論 |關聯",
+      "title_en": "MyLens"
     },
     {
-      "title": "鸚鵡 (Parrot)",
-      "link": "https://www.producthunt.com/products/parrot-10",
-      "desc": "Smart Meeting Assistant for Mac that helps during the call Discussion | Link",
-      "title_en": "Parrot"
+      "title": "蜜蜂前沿和蜜蜂日食 (Bee Frontier and Bee Eclipse)",
+      "link": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
+      "desc": "亞馬遜的個人人工智慧記憶，現在在你的手腕或手機上關聯",
+      "title_en": "Bee Frontier and Bee Eclipse"
     },
     {
-      "title": "步驟 5 預覽 (Step 5 Preview)",
-      "link": "https://www.producthunt.com/products/step-3-5-flash",
-      "desc": "600B 開放式舉重，針對長時間運行的智能體進行訓練關聯",
-      "title_en": "Step 5 Preview"
+      "title": "奧彭布羅卡 (Openbroca)",
+      "link": "https://www.producthunt.com/products/openbroca",
+      "desc": "適用於 Mac 的輕量級 AI 聽寫，聽起來就像你的聲音關聯",
+      "title_en": "Openbroca"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "網站正在向人工智慧代理關閉大門",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "summary": "自主代理是人工智慧領域最熱門的東西。 OpenAI、Meta、Google、Instinct 和其他公司承諾他們的代理商可以搜尋…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic 表示，其員工隊伍的初級人員數量已有所減少，花在會議上的時間也越來越多",
-      "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-      "summary": "Anthropic 的員工組成和完成的工作類型在過去一年發生了顯著變化。",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Replit 執行長表示，將 OpenAI 設為預設值，而不是 Anthropic",
-      "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-      "summary": "週末，Masad 澄清 OpenAI 將取代 Anthropic 成為其預設模型提供者。Claude仍然會…",
+      "title": "Anthropic 表示將把 5% 的股份捐給“公益基金”",
+      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic表示將向該基金投入其5%的股份。",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "網站正在向人工智慧代理關閉大門",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-    "summary": "自主代理是人工智慧領域最熱門的東西。 OpenAI、Meta、Google、Instinct 和其他公司承諾他們的代理商可以搜尋…",
-    "source": "The Verge"
+    "title": "Anthropic 表示將把 5% 的股份捐給“公益基金”",
+    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+    "summary": "Anthropic表示將向該基金投入其5%的股份。",
+    "source": "TechCrunch"
   },
   "steve_ideas": [],
   "history": {
@@ -14382,6 +14358,77 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
         "summary": "自主代理是人工智慧領域最熱門的東西。 OpenAI、Meta、Google、Instinct 和其他公司承諾他們的代理商可以搜尋…",
         "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-19": {
+      "news": [
+        {
+          "title": "一名女子因阻擋送貨機器人而在費城被捕",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+          "summary": "卡羅琳·馬文 (Carolyn Marvin) 因阻擋 Uber 送貨機器人的道路並重新…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 表示將把 5% 的股份捐給“公益基金”",
+          "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "summary": "Anthropic表示將向該基金投入其5%的股份。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "迪士尼同意聘用 Character.AI 的大部分員工",
+          "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+          "summary": "文件還稱，迪士尼提供的「絕大多數」Character.AI 員工都接受了他們。哈…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "重力筆記 (Gravity Notes)",
+          "link": "https://www.producthunt.com/products/gravity-notes-for-mac",
+          "desc": "為您和您的人工智慧代理提供的一份筆記清單關聯",
+          "title_en": "Gravity Notes"
+        },
+        {
+          "title": "克里亞3號 (Krea 3)",
+          "link": "https://www.producthunt.com/products/krea",
+          "desc": "Krea 的 AI 圖像模型：8 秒內編輯 2K 次關聯",
+          "title_en": "Krea 3"
+        },
+        {
+          "title": "我的鏡頭 (MyLens)",
+          "link": "https://www.producthunt.com/products/mylens-ai",
+          "desc": "利用 AI 進行大規模 1-1 現場演示。討論 |關聯",
+          "title_en": "MyLens"
+        },
+        {
+          "title": "蜜蜂前沿和蜜蜂日食 (Bee Frontier and Bee Eclipse)",
+          "link": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
+          "desc": "亞馬遜的個人人工智慧記憶，現在在你的手腕或手機上關聯",
+          "title_en": "Bee Frontier and Bee Eclipse"
+        },
+        {
+          "title": "奧彭布羅卡 (Openbroca)",
+          "link": "https://www.producthunt.com/products/openbroca",
+          "desc": "適用於 Mac 的輕量級 AI 聽寫，聽起來就像你的聲音關聯",
+          "title_en": "Openbroca"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Anthropic 表示將把 5% 的股份捐給“公益基金”",
+          "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "summary": "Anthropic表示將向該基金投入其5%的股份。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Anthropic 表示將把 5% 的股份捐給“公益基金”",
+        "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+        "summary": "Anthropic表示將向該基金投入其5%的股份。",
+        "source": "TechCrunch"
       },
       "steve_ideas": []
     }
