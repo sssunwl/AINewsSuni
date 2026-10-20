@@ -1,71 +1,101 @@
 {
-  "updated": "2026-10-19 13:40 HKT",
+  "updated": "2026-10-20 13:38 HKT",
   "news": [
     {
-      "title": "一名女子因阻擋送貨機器人而在費城被捕",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
-      "summary": "卡羅琳·馬文 (Carolyn Marvin) 因阻擋 Uber 送貨機器人的道路並重新…",
+      "title": "The fossil fuel comeback is here",
+      "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a n…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 表示將把 5% 的股份捐給“公益基金”",
-      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "summary": "Anthropic表示將向該基金投入其5%的股份。",
+      "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+      "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors …",
+      "source": "The Verge"
+    },
+    {
+      "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+      "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+      "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been…",
+      "source": "The Verge"
+    },
+    {
+      "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+      "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to fi…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Democrats think cracking down on AI could give them an edge",
+      "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+      "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one o…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+      "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+      "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and …",
       "source": "TechCrunch"
     },
     {
-      "title": "迪士尼同意聘用 Character.AI 的大部分員工",
-      "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-      "summary": "文件還稱，迪士尼提供的「絕大多數」Character.AI 員工都接受了他們。哈…",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the p…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+      "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+      "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "重力筆記 (Gravity Notes)",
-      "link": "https://www.producthunt.com/products/gravity-notes-for-mac",
-      "desc": "為您和您的人工智慧代理提供的一份筆記清單關聯",
-      "title_en": "Gravity Notes"
+      "title": "readywhen",
+      "link": "https://www.producthunt.com/products/readywhen",
+      "desc": "The senior personal assistant that works inside WhatsApp Discussion | Link",
+      "title_en": "readywhen"
     },
     {
-      "title": "克里亞3號 (Krea 3)",
-      "link": "https://www.producthunt.com/products/krea",
-      "desc": "Krea 的 AI 圖像模型：8 秒內編輯 2K 次關聯",
-      "title_en": "Krea 3"
+      "title": "Starkomand",
+      "link": "https://www.producthunt.com/products/starkomand",
+      "desc": "Run your AI coding agents on an infinite canvas. Discussion | Link",
+      "title_en": "Starkomand"
     },
     {
-      "title": "我的鏡頭 (MyLens)",
-      "link": "https://www.producthunt.com/products/mylens-ai",
-      "desc": "利用 AI 進行大規模 1-1 現場演示。討論 |關聯",
-      "title_en": "MyLens"
+      "title": "CrawlForge MCP",
+      "link": "https://www.producthunt.com/products/crawlforge-mcp",
+      "desc": "Give your AI agent 31 web tools in one MCP server Discussion | Link",
+      "title_en": "CrawlForge MCP"
     },
     {
-      "title": "蜜蜂前沿和蜜蜂日食 (Bee Frontier and Bee Eclipse)",
-      "link": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
-      "desc": "亞馬遜的個人人工智慧記憶，現在在你的手腕或手機上關聯",
-      "title_en": "Bee Frontier and Bee Eclipse"
+      "title": "Own 1",
+      "link": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
+      "desc": "Own your data. Own your AI. A mind of your own. Discussion | Link",
+      "title_en": "Own 1"
     },
     {
-      "title": "奧彭布羅卡 (Openbroca)",
-      "link": "https://www.producthunt.com/products/openbroca",
-      "desc": "適用於 Mac 的輕量級 AI 聽寫，聽起來就像你的聲音關聯",
-      "title_en": "Openbroca"
+      "title": "walkai-talkai",
+      "link": "https://www.producthunt.com/products/walkai-talkai",
+      "desc": "Talk to your AI coding agent over a walkie-talkie Discussion | Link",
+      "title_en": "walkai-talkai"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Anthropic 表示將把 5% 的股份捐給“公益基金”",
-      "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-      "summary": "Anthropic表示將向該基金投入其5%的股份。",
+      "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+      "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+      "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the p…",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Anthropic 表示將把 5% 的股份捐給“公益基金”",
-    "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-    "summary": "Anthropic表示將向該基金投入其5%的股份。",
+    "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+    "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+    "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the p…",
     "source": "TechCrunch"
   },
   "steve_ideas": [],
@@ -14428,6 +14458,107 @@
         "title": "Anthropic 表示將把 5% 的股份捐給“公益基金”",
         "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
         "summary": "Anthropic表示將向該基金投入其5%的股份。",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-20": {
+      "news": [
+        {
+          "title": "The fossil fuel comeback is here",
+          "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+          "summary": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a n…",
+          "source": "The Verge"
+        },
+        {
+          "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+          "summary": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors …",
+          "source": "The Verge"
+        },
+        {
+          "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
+          "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+          "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been…",
+          "source": "The Verge"
+        },
+        {
+          "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+          "summary": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to fi…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Democrats think cracking down on AI could give them an edge",
+          "link": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+          "summary": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one o…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+          "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+          "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and …",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+          "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+          "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the p…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+          "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+          "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "readywhen",
+          "link": "https://www.producthunt.com/products/readywhen",
+          "desc": "The senior personal assistant that works inside WhatsApp Discussion | Link",
+          "title_en": "readywhen"
+        },
+        {
+          "title": "Starkomand",
+          "link": "https://www.producthunt.com/products/starkomand",
+          "desc": "Run your AI coding agents on an infinite canvas. Discussion | Link",
+          "title_en": "Starkomand"
+        },
+        {
+          "title": "CrawlForge MCP",
+          "link": "https://www.producthunt.com/products/crawlforge-mcp",
+          "desc": "Give your AI agent 31 web tools in one MCP server Discussion | Link",
+          "title_en": "CrawlForge MCP"
+        },
+        {
+          "title": "Own 1",
+          "link": "https://www.producthunt.com/products/own-1-a-powerful-personal-ai-computer",
+          "desc": "Own your data. Own your AI. A mind of your own. Discussion | Link",
+          "title_en": "Own 1"
+        },
+        {
+          "title": "walkai-talkai",
+          "link": "https://www.producthunt.com/products/walkai-talkai",
+          "desc": "Talk to your AI coding agent over a walkie-talkie Discussion | Link",
+          "title_en": "walkai-talkai"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+          "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+          "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the p…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+        "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+        "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the p…",
         "source": "TechCrunch"
       },
       "steve_ideas": []
