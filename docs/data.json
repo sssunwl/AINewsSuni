@@ -1,126 +1,108 @@
 {
-  "updated": "2026-10-22 13:43 HKT",
+  "updated": "2026-10-23 13:42 HKT",
   "news": [
     {
-      "title": "數據中心可能抹去數十年來空氣品質的進步",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-      "summary": "新數據中心的湧現可能會使德克薩斯州的空氣污染回到 2000 年代以來的最高水平，該州已經…",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from …",
       "source": "The Verge"
     },
     {
-      "title": "Meta 將創建新的股票類別來資助人工智慧的發展",
-      "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-      "summary": "Meta 表示，它正在發行一種新的股票來為其人工智慧計畫提供資金。作為其第三季收益報告的一部分...",
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 與其新人工智慧代理 Claude Duet 對抗 Muse",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "summary": "Anthropic 剛剛宣布推出 AI 代理，可與 Meta 的 Muse 和 OpenAI 的 Dots 競爭：Claude Duet。新代理商的設計目的是…",
+      "title": "Meta turns Muse sharing back on",
+      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to…",
       "source": "The Verge"
     },
     {
-      "title": "沃爾瑪邀請人工智慧代理人為你購物",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents",
-      "summary": "沃爾瑪很快就會允許人工智慧代理在其網站上為你購物。下個月，這家零售巨頭將允許您使用人工智慧…",
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, …",
       "source": "The Verge"
     },
     {
-      "title": "Apple CarPlay 推出對話式 Gemini 導航",
-      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "summary": "繼去年將 Gemini AI 助理引入 Android Auto 後，Google現在將其帶給 Apple CarPlay 用戶。 …",
+      "title": "Discord now formats Markdown previews right",
+      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly ins…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 稱人工智慧代理謊稱禁用其安全監控系統",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "summary": "OpenAI 揭露了兩起安全事件，涉及人工智慧代理在國際期間削弱其安全監控系統。",
+      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping …",
       "source": "The Verge"
     },
     {
-      "title": "Blackstone 的 Jas Khaira 表示，對人工智慧建設債務的擔憂被誇大了",
-      "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-      "summary": "Blackstone 的人工智慧負責人解釋了為什麼這家私募股權巨頭沒有因市場波動而驚慌失措。",
-      "source": "TechCrunch"
+      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve live…",
+      "source": "The Verge"
     },
     {
-      "title": "TechCrunch 創辦人高峰會 2026：您需要了解的一切",
-      "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-      "summary": "TechCrunch 創辦人高峰會是 11 月 4 日在波士頓舉行的全天聚會，各階段的創辦人都會與…",
-      "source": "TechCrunch"
+      "title": "Someone hacked the Switch 2 by using an old game and AI",
+      "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom versio…",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "使用工作室 (UseIt Studio)",
-      "link": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery",
-      "desc": "Your AI design agent for real, editable project files. Discussion | Link",
-      "title_en": "UseIt Studio"
+      "title": "Causo",
+      "link": "https://www.producthunt.com/products/causo",
+      "desc": "Find leads beyond database filters with AI research & MCP Discussion | Link",
+      "title_en": "Causo"
     },
     {
-      "title": "Intelli for ChatGPT 和 Claude (Intelli for ChatGPT & Claude)",
-      "link": "https://www.producthunt.com/products/intelli",
-      "desc": "從 ChatGPT 或 Claude 運行 WhatsApp、Instagram 和網路聊天 討論 |關聯",
-      "title_en": "Intelli for ChatGPT & Claude"
+      "title": "CutBay",
+      "link": "https://www.producthunt.com/products/cutbay",
+      "desc": "AI Video Agent: Turn Anything into Videos via Chat Discussion | Link",
+      "title_en": "CutBay"
     },
     {
-      "title": "伊利亞 (ilha)",
-      "link": "https://www.producthunt.com/products/ilha",
-      "desc": "您的Claude代碼和法典限制，處於一流水平 討論 |關聯",
-      "title_en": "ilha"
+      "title": "Loom Record for agents",
+      "link": "https://www.producthunt.com/products/loom",
+      "desc": "Hit record and hand off to AI, now in the new Loom app Discussion | Link",
+      "title_en": "Loom Record for agents"
     },
     {
-      "title": "亞里特 (Yarite)",
-      "link": "https://www.producthunt.com/products/yarite",
-      "desc": "每天要打給誰的清單。沒有任何東西可以離開你的手機。討論 |關聯",
-      "title_en": "Yarite"
+      "title": "Kalender Sync",
+      "link": "https://www.producthunt.com/products/kalender-sync",
+      "desc": "Sync your calendars & connect them to ChatGPT, Claude & Co. Discussion | Link",
+      "title_en": "Kalender Sync"
     },
     {
-      "title": "大腦 (The Brains)",
-      "link": "https://www.producthunt.com/products/the-brains",
-      "desc": "創辦人和投資人作為MCP伺服器，每一個答案都被引用 討論|關聯",
-      "title_en": "The Brains"
+      "title": "Concierge by Juniors AI",
+      "link": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+      "desc": "Omni-channel AI-first customer support (6 months free) Discussion | Link",
+      "title_en": "Concierge by Juniors AI"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from …",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [
     {
-      "title": "使用工作室 (UseIt Studio)",
-      "link": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery",
-      "desc": "Your AI design agent for real, editable project files. Discussion | Link",
-      "title_en": "UseIt Studio"
-    },
-    {
-      "title": "Intelli for ChatGPT 和 Claude (Intelli for ChatGPT & Claude)",
-      "link": "https://www.producthunt.com/products/intelli",
-      "desc": "從 ChatGPT 或 Claude 運行 WhatsApp、Instagram 和網路聊天 討論 |關聯",
-      "title_en": "Intelli for ChatGPT & Claude"
+      "title": "CutBay",
+      "link": "https://www.producthunt.com/products/cutbay",
+      "desc": "AI Video Agent: Turn Anything into Videos via Chat Discussion | Link",
+      "title_en": "CutBay"
     }
   ],
-  "major": [
-    {
-      "title": "Anthropic 與其新人工智慧代理 Claude Duet 對抗 Muse",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-      "summary": "Anthropic 剛剛宣布推出 AI 代理，可與 Meta 的 Muse 和 OpenAI 的 Dots 競爭：Claude Duet。新代理商的設計目的是…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple CarPlay 推出對話式 Gemini 導航",
-      "link": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-      "summary": "繼去年將 Gemini AI 助理引入 Android Auto 後，Google現在將其帶給 Apple CarPlay 用戶。 …",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI 稱人工智慧代理謊稱禁用其安全監控系統",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-      "summary": "OpenAI 揭露了兩起安全事件，涉及人工智慧代理在國際期間削弱其安全監控系統。",
-      "source": "The Verge"
-    }
-  ],
+  "major": [],
   "pick": {
-    "title": "Anthropic 與其新人工智慧代理 Claude Duet 對抗 Muse",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
-    "summary": "Anthropic 剛剛宣布推出 AI 代理，可與 Meta 的 Muse 和 OpenAI 的 Dots 競爭：Claude Duet。新代理商的設計目的是…",
+    "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+    "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+    "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -14830,6 +14812,114 @@
         "title": "Anthropic 與其新人工智慧代理 Claude Duet 對抗 Muse",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
         "summary": "Anthropic 剛剛宣布推出 AI 代理，可與 Meta 的 Muse 和 OpenAI 的 Dots 競爭：Claude Duet。新代理商的設計目的是…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-23": {
+      "news": [
+        {
+          "title": "Canva’s first AI image model plans designs before generating them",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+          "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+          "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+          "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta turns Muse sharing back on",
+          "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+          "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+          "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Discord now formats Markdown previews right",
+          "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+          "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly ins…",
+          "source": "The Verge"
+        },
+        {
+          "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
+          "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
+          "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
+          "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve live…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Someone hacked the Switch 2 by using an old game and AI",
+          "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
+          "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom versio…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Causo",
+          "link": "https://www.producthunt.com/products/causo",
+          "desc": "Find leads beyond database filters with AI research & MCP Discussion | Link",
+          "title_en": "Causo"
+        },
+        {
+          "title": "CutBay",
+          "link": "https://www.producthunt.com/products/cutbay",
+          "desc": "AI Video Agent: Turn Anything into Videos via Chat Discussion | Link",
+          "title_en": "CutBay"
+        },
+        {
+          "title": "Loom Record for agents",
+          "link": "https://www.producthunt.com/products/loom",
+          "desc": "Hit record and hand off to AI, now in the new Loom app Discussion | Link",
+          "title_en": "Loom Record for agents"
+        },
+        {
+          "title": "Kalender Sync",
+          "link": "https://www.producthunt.com/products/kalender-sync",
+          "desc": "Sync your calendars & connect them to ChatGPT, Claude & Co. Discussion | Link",
+          "title_en": "Kalender Sync"
+        },
+        {
+          "title": "Concierge by Juniors AI",
+          "link": "https://www.producthunt.com/products/concierge-by-juniors-ai",
+          "desc": "Omni-channel AI-first customer support (6 months free) Discussion | Link",
+          "title_en": "Concierge by Juniors AI"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Canva’s first AI image model plans designs before generating them",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+          "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from …",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [
+        {
+          "title": "CutBay",
+          "link": "https://www.producthunt.com/products/cutbay",
+          "desc": "AI Video Agent: Turn Anything into Videos via Chat Discussion | Link",
+          "title_en": "CutBay"
+        }
+      ],
+      "major": [],
+      "pick": {
+        "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+        "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+        "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites…",
         "source": "The Verge"
       },
       "steve_ideas": []
