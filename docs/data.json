@@ -1,108 +1,114 @@
 {
-  "updated": "2026-10-23 13:42 HKT",
+  "updated": "2026-10-24 13:20 HKT",
   "news": [
     {
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from …",
+      "title": "OpenAI 現在無需連接互聯網即可訓練其前沿人工智慧模型",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "summary": "在發生一系列流氓駭客事件後，OpenAI 現在正在無需連接網路的情況下訓練其最先進的人工智慧模型…",
       "source": "The Verge"
     },
     {
-      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-      "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites…",
+      "title": "Jack Dorsey 的 Block 製作了一個人工智慧模型，它可以像一個尷尬的新朋友一樣與你交談",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+      "summary": "Jack Dorsey 的 Block 宣布了一種名為 Dessa 的人工智慧模型，該模型「從頭開始只接受人類對話的訓練」…",
       "source": "The Verge"
     },
     {
-      "title": "Meta turns Muse sharing back on",
-      "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to…",
+      "title": "iPhone Duo 應該是 iPad",
+      "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "summary": "我們給 iPhone Duo 分成 7 分/10 分。但這並不總是我們計劃的分數，而且可能不會永遠是正確的分數…",
       "source": "The Verge"
     },
     {
-      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
-      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, …",
+      "title": "現在Google表示可能會使用你的 Gmail 和 Google Photos 資料來定位廣告",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "summary": "谷歌更新了其隱私政策，這可能意味著您將開始看到基於您個人資料的定向​​廣告…",
       "source": "The Verge"
     },
     {
-      "title": "Discord now formats Markdown previews right",
-      "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-      "summary": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly ins…",
+      "title": "在出版商抵制人工智慧抓取後，Meta 推遲了新的商業條款",
+      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "summary": "在出版商擔心他們可能允許合作後，Meta 推遲了新業務條款的執行。",
       "source": "The Verge"
     },
     {
-      "title": "In Meta’s version of the future, I’ll have my Muse call your Muse",
-      "link": "https://www.theverge.com/tech/1016905/meta-earnings-fall-2026-muse-network",
-      "summary": "Mark Zuckerberg is barrelling toward a future in which an autonomous network of AI agents will run our lives - shopping …",
+      "title": "復古遊戲正在被人工智慧淹沒",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "summary": "最近，復古電子遊戲無所不在——尤其是在它們不應該出現的地方。網路瀏覽器中的 Halo，...",
       "source": "The Verge"
     },
     {
-      "title": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence",
-      "summary": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve live…",
-      "source": "The Verge"
+      "title": "OpenAI 表示將不再在即時互聯網上訓練其人工智慧模型，理由是“存在重大風險”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary": "在一名工程師表示解決方案行不通幾週後，OpenAI 將切斷前沿模型與互聯網的連接。",
+      "source": "TechCrunch"
     },
     {
-      "title": "Someone hacked the Switch 2 by using an old game and AI",
-      "link": "https://www.theverge.com/games/1016862/nintendo-switch-2-jailbreak-ai",
-      "summary": "The Nintendo Switch 2 has apparently been jailbroken, and a modder has already shown the console running a custom versio…",
-      "source": "The Verge"
+      "title": "聖誕節最熱門的玩具？ Nvidia CEO 玩可愛的 Microduck 機器人，銷售量達 20,000 個",
+      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "summary": "機器人跺著小腳，發出微小的 R2-D2 噪音，坐下來，倒地“小睡”，然後翻筋斗…",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Causo",
-      "link": "https://www.producthunt.com/products/causo",
-      "desc": "Find leads beyond database filters with AI research & MCP Discussion | Link",
-      "title_en": "Causo"
+      "title": "特工亨特 (Agent Hunt)",
+      "link": "https://www.producthunt.com/products/monid",
+      "desc": "人工智慧代理最常使用的工具的即時排名關聯",
+      "title_en": "Agent Hunt"
     },
     {
-      "title": "CutBay",
-      "link": "https://www.producthunt.com/products/cutbay",
-      "desc": "AI Video Agent: Turn Anything into Videos via Chat Discussion | Link",
-      "title_en": "CutBay"
+      "title": "普蘭戈 (Plango)",
+      "link": "https://www.producthunt.com/products/plango",
+      "desc": "用AI防禦AI討論|關聯",
+      "title_en": "Plango"
     },
     {
-      "title": "Loom Record for agents",
-      "link": "https://www.producthunt.com/products/loom",
-      "desc": "Hit record and hand off to AI, now in the new Loom app Discussion | Link",
-      "title_en": "Loom Record for agents"
+      "title": "莫尼什 (Monish)",
+      "link": "https://www.producthunt.com/products/monish",
+      "desc": "您的 AI 代理就在您的 iPhone 鎖定畫面上關聯",
+      "title_en": "Monish"
     },
     {
-      "title": "Kalender Sync",
-      "link": "https://www.producthunt.com/products/kalender-sync",
-      "desc": "Sync your calendars & connect them to ChatGPT, Claude & Co. Discussion | Link",
-      "title_en": "Kalender Sync"
+      "title": "Cloudflare 克萊里克 (Cloudflare Clairic)",
+      "link": "https://www.producthunt.com/products/cloudflare",
+      "desc": "Cloudflare 的 AI 模式可實現快速、便宜的資料擷取關聯",
+      "title_en": "Cloudflare Clairic"
     },
     {
-      "title": "Concierge by Juniors AI",
-      "link": "https://www.producthunt.com/products/concierge-by-juniors-ai",
-      "desc": "Omni-channel AI-first customer support (6 months free) Discussion | Link",
-      "title_en": "Concierge by Juniors AI"
+      "title": "通量 3 最大 (FLUX 3 Max)",
+      "link": "https://www.producthunt.com/products/fal-ai",
+      "desc": "fal的FLUX 3 Max：12秒左右拍出10秒的AI影片 討論 |關聯",
+      "title_en": "FLUX 3 Max"
     }
   ],
   "suniverse_news": [
     {
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from …",
+      "title": "現在Google表示可能會使用你的 Gmail 和 Google Photos 資料來定位廣告",
+      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "summary": "谷歌更新了其隱私政策，這可能意味著您將開始看到基於您個人資料的定向​​廣告…",
       "source": "The Verge"
     }
   ],
-  "suniverse_tools": [
+  "suniverse_tools": [],
+  "major": [
     {
-      "title": "CutBay",
-      "link": "https://www.producthunt.com/products/cutbay",
-      "desc": "AI Video Agent: Turn Anything into Videos via Chat Discussion | Link",
-      "title_en": "CutBay"
+      "title": "OpenAI 現在無需連接互聯網即可訓練其前沿人工智慧模型",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "summary": "在發生一系列流氓駭客事件後，OpenAI 現在正在無需連接網路的情況下訓練其最先進的人工智慧模型…",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI 表示將不再在即時互聯網上訓練其人工智慧模型，理由是“存在重大風險”",
+      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary": "在一名工程師表示解決方案行不通幾週後，OpenAI 將切斷前沿模型與互聯網的連接。",
+      "source": "TechCrunch"
     }
   ],
-  "major": [],
   "pick": {
-    "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-    "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-    "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites…",
+    "title": "OpenAI 現在無需連接互聯網即可訓練其前沿人工智慧模型",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+    "summary": "在發生一系列流氓駭客事件後，OpenAI 現在正在無需連接網路的情況下訓練其最先進的人工智慧模型…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -14920,6 +14926,120 @@
         "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
         "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
         "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-24": {
+      "news": [
+        {
+          "title": "OpenAI 現在無需連接互聯網即可訓練其前沿人工智慧模型",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+          "summary": "在發生一系列流氓駭客事件後，OpenAI 現在正在無需連接網路的情況下訓練其最先進的人工智慧模型…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Jack Dorsey 的 Block 製作了一個人工智慧模型，它可以像一個尷尬的新朋友一樣與你交談",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
+          "summary": "Jack Dorsey 的 Block 宣布了一種名為 Dessa 的人工智慧模型，該模型「從頭開始只接受人類對話的訓練」…",
+          "source": "The Verge"
+        },
+        {
+          "title": "iPhone Duo 應該是 iPad",
+          "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+          "summary": "我們給 iPhone Duo 分成 7 分/10 分。但這並不總是我們計劃的分數，而且可能不會永遠是正確的分數…",
+          "source": "The Verge"
+        },
+        {
+          "title": "現在Google表示可能會使用你的 Gmail 和 Google Photos 資料來定位廣告",
+          "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "summary": "谷歌更新了其隱私政策，這可能意味著您將開始看到基於您個人資料的定向​​廣告…",
+          "source": "The Verge"
+        },
+        {
+          "title": "在出版商抵制人工智慧抓取後，Meta 推遲了新的商業條款",
+          "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+          "summary": "在出版商擔心他們可能允許合作後，Meta 推遲了新業務條款的執行。",
+          "source": "The Verge"
+        },
+        {
+          "title": "復古遊戲正在被人工智慧淹沒",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+          "summary": "最近，復古電子遊戲無所不在——尤其是在它們不應該出現的地方。網路瀏覽器中的 Halo，...",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 表示將不再在即時互聯網上訓練其人工智慧模型，理由是“存在重大風險”",
+          "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "summary": "在一名工程師表示解決方案行不通幾週後，OpenAI 將切斷前沿模型與互聯網的連接。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "聖誕節最熱門的玩具？ Nvidia CEO 玩可愛的 Microduck 機器人，銷售量達 20,000 個",
+          "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+          "summary": "機器人跺著小腳，發出微小的 R2-D2 噪音，坐下來，倒地“小睡”，然後翻筋斗…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "特工亨特 (Agent Hunt)",
+          "link": "https://www.producthunt.com/products/monid",
+          "desc": "人工智慧代理最常使用的工具的即時排名關聯",
+          "title_en": "Agent Hunt"
+        },
+        {
+          "title": "普蘭戈 (Plango)",
+          "link": "https://www.producthunt.com/products/plango",
+          "desc": "用AI防禦AI討論|關聯",
+          "title_en": "Plango"
+        },
+        {
+          "title": "莫尼什 (Monish)",
+          "link": "https://www.producthunt.com/products/monish",
+          "desc": "您的 AI 代理就在您的 iPhone 鎖定畫面上關聯",
+          "title_en": "Monish"
+        },
+        {
+          "title": "Cloudflare 克萊里克 (Cloudflare Clairic)",
+          "link": "https://www.producthunt.com/products/cloudflare",
+          "desc": "Cloudflare 的 AI 模式可實現快速、便宜的資料擷取關聯",
+          "title_en": "Cloudflare Clairic"
+        },
+        {
+          "title": "通量 3 最大 (FLUX 3 Max)",
+          "link": "https://www.producthunt.com/products/fal-ai",
+          "desc": "fal的FLUX 3 Max：12秒左右拍出10秒的AI影片 討論 |關聯",
+          "title_en": "FLUX 3 Max"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "現在Google表示可能會使用你的 Gmail 和 Google Photos 資料來定位廣告",
+          "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+          "summary": "谷歌更新了其隱私政策，這可能意味著您將開始看到基於您個人資料的定向​​廣告…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 現在無需連接互聯網即可訓練其前沿人工智慧模型",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+          "summary": "在發生一系列流氓駭客事件後，OpenAI 現在正在無需連接網路的情況下訓練其最先進的人工智慧模型…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 表示將不再在即時互聯網上訓練其人工智慧模型，理由是“存在重大風險”",
+          "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+          "summary": "在一名工程師表示解決方案行不通幾週後，OpenAI 將切斷前沿模型與互聯網的連接。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 現在無需連接互聯網即可訓練其前沿人工智慧模型",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+        "summary": "在發生一系列流氓駭客事件後，OpenAI 現在正在無需連接網路的情況下訓練其最先進的人工智慧模型…",
         "source": "The Verge"
       },
       "steve_ideas": []
