@@ -1,115 +1,96 @@
 {
-  "updated": "2026-10-24 13:20 HKT",
+  "updated": "2026-10-25 13:37 HKT",
   "news": [
     {
-      "title": "OpenAI 現在無需連接互聯網即可訓練其前沿人工智慧模型",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "summary": "在發生一系列流氓駭客事件後，OpenAI 現在正在無需連接網路的情況下訓練其最先進的人工智慧模型…",
+      "title": "藍色星球III在人工智慧時代保持著粗糙的邊緣",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "summary": "BBC 的《藍色星球 III》希望透過保留不太完美的鏡頭來證明其真實性。前世化身…",
       "source": "The Verge"
     },
     {
-      "title": "Jack Dorsey 的 Block 製作了一個人工智慧模型，它可以像一個尷尬的新朋友一樣與你交談",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "summary": "Jack Dorsey 的 Block 宣布了一種名為 Dessa 的人工智慧模型，該模型「從頭開始只接受人類對話的訓練」…",
+      "title": "賓州將要求在人工智慧生成的廣告上添加標籤",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "週四，賓州州長喬許夏皮羅 (Josh Shapiro) 將《人工智慧欺騙性廣告法案》簽署為法律，...",
       "source": "The Verge"
     },
     {
-      "title": "iPhone Duo 應該是 iPad",
-      "link": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
-      "summary": "我們給 iPhone Duo 分成 7 分/10 分。但這並不總是我們計劃的分數，而且可能不會永遠是正確的分數…",
-      "source": "The Verge"
-    },
-    {
-      "title": "現在Google表示可能會使用你的 Gmail 和 Google Photos 資料來定位廣告",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "summary": "谷歌更新了其隱私政策，這可能意味著您將開始看到基於您個人資料的定向​​廣告…",
-      "source": "The Verge"
-    },
-    {
-      "title": "在出版商抵制人工智慧抓取後，Meta 推遲了新的商業條款",
-      "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
-      "summary": "在出版商擔心他們可能允許合作後，Meta 推遲了新業務條款的執行。",
-      "source": "The Verge"
-    },
-    {
-      "title": "復古遊戲正在被人工智慧淹沒",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-      "summary": "最近，復古電子遊戲無所不在——尤其是在它們不應該出現的地方。網路瀏覽器中的 Halo，...",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI 表示將不再在即時互聯網上訓練其人工智慧模型，理由是“存在重大風險”",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "summary": "在一名工程師表示解決方案行不通幾週後，OpenAI 將切斷前沿模型與互聯網的連接。",
+      "title": "人工智慧墓地：未成功的項目和新創公司的清單",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
       "source": "TechCrunch"
     },
     {
-      "title": "聖誕節最熱門的玩具？ Nvidia CEO 玩可愛的 Microduck 機器人，銷售量達 20,000 個",
-      "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "summary": "機器人跺著小腳，發出微小的 R2-D2 噪音，坐下來，倒地“小睡”，然後翻筋斗…",
+      "title": "Block 的新語音模型聽起來非常人性化",
+      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "summary": "Block表示語音模型可以在MacBook M4 Max上本地運行",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "在被迫選擇的情況下，Grok 的人工智慧模型選擇了共和黨人。 OpenAI 選擇了民主黨人。",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary": "一項新研究發現，Grok 的 AI 絕大多數推薦共和黨候選人，而 OpenAI 的 GPT 有利於民主黨，...",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "以下是可以存在於您的簡訊中的頂級人工智慧代理",
+      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "特工亨特 (Agent Hunt)",
-      "link": "https://www.producthunt.com/products/monid",
-      "desc": "人工智慧代理最常使用的工具的即時排名關聯",
-      "title_en": "Agent Hunt"
+      "title": "我的點子 (myPip)",
+      "link": "https://www.producthunt.com/products/mypip-2",
+      "desc": "Vibe 使用 AI 編碼、發布遊戲並透過 AI 貨幣化討論 |關聯",
+      "title_en": "myPip"
     },
     {
-      "title": "普蘭戈 (Plango)",
-      "link": "https://www.producthunt.com/products/plango",
-      "desc": "用AI防禦AI討論|關聯",
-      "title_en": "Plango"
+      "title": "1代理密碼 (1Password for Agents)",
+      "link": "https://www.producthunt.com/products/1password",
+      "desc": "讓 AI 代理程式為您登入而無需查看您的密碼 討論 |關聯",
+      "title_en": "1Password for Agents"
     },
     {
-      "title": "莫尼什 (Monish)",
-      "link": "https://www.producthunt.com/products/monish",
-      "desc": "您的 AI 代理就在您的 iPhone 鎖定畫面上關聯",
-      "title_en": "Monish"
+      "title": "Basedash 計劃 CSV 匯出 (Basedash Scheduled CSV Exports)",
+      "link": "https://www.producthunt.com/products/basedash",
+      "desc": "問一次。每週在 Slack 或電子郵件中取得新的 CSV。討論 |關聯",
+      "title_en": "Basedash Scheduled CSV Exports"
     },
     {
-      "title": "Cloudflare 克萊里克 (Cloudflare Clairic)",
-      "link": "https://www.producthunt.com/products/cloudflare",
-      "desc": "Cloudflare 的 AI 模式可實現快速、便宜的資料擷取關聯",
-      "title_en": "Cloudflare Clairic"
+      "title": "電腦輔助設計 (zCAD AI)",
+      "link": "https://www.producthunt.com/products/zcad-ai",
+      "desc": "AI 3D 可創建真實零件，而不僅僅是形狀 討論 |關聯",
+      "title_en": "zCAD AI"
     },
     {
-      "title": "通量 3 最大 (FLUX 3 Max)",
-      "link": "https://www.producthunt.com/products/fal-ai",
-      "desc": "fal的FLUX 3 Max：12秒左右拍出10秒的AI影片 討論 |關聯",
-      "title_en": "FLUX 3 Max"
+      "title": "領英 (LinkIntel)",
+      "link": "https://www.producthunt.com/products/linkintel",
+      "desc": "將見解直接發佈到您的 AI 討論 |關聯",
+      "title_en": "LinkIntel"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "現在Google表示可能會使用你的 Gmail 和 Google Photos 資料來定位廣告",
-      "link": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "summary": "谷歌更新了其隱私政策，這可能意味著您將開始看到基於您個人資料的定向​​廣告…",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 現在無需連接互聯網即可訓練其前沿人工智慧模型",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-      "summary": "在發生一系列流氓駭客事件後，OpenAI 現在正在無需連接網路的情況下訓練其最先進的人工智慧模型…",
-      "source": "The Verge"
+      "title": "人工智慧墓地：未成功的項目和新創公司的清單",
+      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
+      "source": "TechCrunch"
     },
     {
-      "title": "OpenAI 表示將不再在即時互聯網上訓練其人工智慧模型，理由是“存在重大風險”",
-      "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "summary": "在一名工程師表示解決方案行不通幾週後，OpenAI 將切斷前沿模型與互聯網的連接。",
+      "title": "在被迫選擇的情況下，Grok 的人工智慧模型選擇了共和黨人。 OpenAI 選擇了民主黨人。",
+      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary": "一項新研究發現，Grok 的 AI 絕大多數推薦共和黨候選人，而 OpenAI 的 GPT 有利於民主黨，...",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "OpenAI 現在無需連接互聯網即可訓練其前沿人工智慧模型",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-    "summary": "在發生一系列流氓駭客事件後，OpenAI 現在正在無需連接網路的情況下訓練其最先進的人工智慧模型…",
-    "source": "The Verge"
+    "title": "人工智慧墓地：未成功的項目和新創公司的清單",
+    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+    "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
+    "source": "TechCrunch"
   },
   "steve_ideas": [],
   "history": {
@@ -15041,6 +15022,101 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
         "summary": "在發生一系列流氓駭客事件後，OpenAI 現在正在無需連接網路的情況下訓練其最先進的人工智慧模型…",
         "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-25": {
+      "news": [
+        {
+          "title": "藍色星球III在人工智慧時代保持著粗糙的邊緣",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+          "summary": "BBC 的《藍色星球 III》希望透過保留不太完美的鏡頭來證明其真實性。前世化身…",
+          "source": "The Verge"
+        },
+        {
+          "title": "賓州將要求在人工智慧生成的廣告上添加標籤",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+          "summary": "週四，賓州州長喬許夏皮羅 (Josh Shapiro) 將《人工智慧欺騙性廣告法案》簽署為法律，...",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧墓地：未成功的項目和新創公司的清單",
+          "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Block 的新語音模型聽起來非常人性化",
+          "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+          "summary": "Block表示語音模型可以在MacBook M4 Max上本地運行",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "在被迫選擇的情況下，Grok 的人工智慧模型選擇了共和黨人。 OpenAI 選擇了民主黨人。",
+          "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+          "summary": "一項新研究發現，Grok 的 AI 絕大多數推薦共和黨候選人，而 OpenAI 的 GPT 有利於民主黨，...",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "以下是可以存在於您的簡訊中的頂級人工智慧代理",
+          "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+          "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "我的點子 (myPip)",
+          "link": "https://www.producthunt.com/products/mypip-2",
+          "desc": "Vibe 使用 AI 編碼、發布遊戲並透過 AI 貨幣化討論 |關聯",
+          "title_en": "myPip"
+        },
+        {
+          "title": "1代理密碼 (1Password for Agents)",
+          "link": "https://www.producthunt.com/products/1password",
+          "desc": "讓 AI 代理程式為您登入而無需查看您的密碼 討論 |關聯",
+          "title_en": "1Password for Agents"
+        },
+        {
+          "title": "Basedash 計劃 CSV 匯出 (Basedash Scheduled CSV Exports)",
+          "link": "https://www.producthunt.com/products/basedash",
+          "desc": "問一次。每週在 Slack 或電子郵件中取得新的 CSV。討論 |關聯",
+          "title_en": "Basedash Scheduled CSV Exports"
+        },
+        {
+          "title": "電腦輔助設計 (zCAD AI)",
+          "link": "https://www.producthunt.com/products/zcad-ai",
+          "desc": "AI 3D 可創建真實零件，而不僅僅是形狀 討論 |關聯",
+          "title_en": "zCAD AI"
+        },
+        {
+          "title": "領英 (LinkIntel)",
+          "link": "https://www.producthunt.com/products/linkintel",
+          "desc": "將見解直接發佈到您的 AI 討論 |關聯",
+          "title_en": "LinkIntel"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "人工智慧墓地：未成功的項目和新創公司的清單",
+          "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "在被迫選擇的情況下，Grok 的人工智慧模型選擇了共和黨人。 OpenAI 選擇了民主黨人。",
+          "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+          "summary": "一項新研究發現，Grok 的 AI 絕大多數推薦共和黨候選人，而 OpenAI 的 GPT 有利於民主黨，...",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "人工智慧墓地：未成功的項目和新創公司的清單",
+        "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
+        "source": "TechCrunch"
       },
       "steve_ideas": []
     }
