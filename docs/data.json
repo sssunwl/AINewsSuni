@@ -1,95 +1,83 @@
 {
-  "updated": "2026-10-25 13:37 HKT",
+  "updated": "2026-10-26 13:44 HKT",
   "news": [
     {
-      "title": "藍色星球III在人工智慧時代保持著粗糙的邊緣",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "summary": "BBC 的《藍色星球 III》希望透過保留不太完美的鏡頭來證明其真實性。前世化身…",
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post mad…",
       "source": "The Verge"
     },
     {
-      "title": "賓州將要求在人工智慧生成的廣告上添加標籤",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "summary": "週四，賓州州長喬許夏皮羅 (Josh Shapiro) 將《人工智慧欺騙性廣告法案》簽署為法律，...",
+      "title": "Google’s AI search changes upended online publishing",
+      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's imp…",
       "source": "The Verge"
     },
     {
-      "title": "人工智慧墓地：未成功的項目和新創公司的清單",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
       "source": "TechCrunch"
     },
     {
-      "title": "Block 的新語音模型聽起來非常人性化",
-      "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "summary": "Block表示語音模型可以在MacBook M4 Max上本地運行",
+      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero finan…",
       "source": "TechCrunch"
     },
     {
-      "title": "在被迫選擇的情況下，Grok 的人工智慧模型選擇了共和黨人。 OpenAI 選擇了民主黨人。",
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "summary": "一項新研究發現，Grok 的 AI 絕大多數推薦共和黨候選人，而 OpenAI 的 GPT 有利於民主黨，...",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "以下是可以存在於您的簡訊中的頂級人工智慧代理",
-      "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents d…",
+      "title": "The hottest AI wearables and gadgets you should know about",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "我的點子 (myPip)",
-      "link": "https://www.producthunt.com/products/mypip-2",
-      "desc": "Vibe 使用 AI 編碼、發布遊戲並透過 AI 貨幣化討論 |關聯",
-      "title_en": "myPip"
+      "title": "Yourcast 2.0",
+      "link": "https://www.producthunt.com/products/yourcast",
+      "desc": "AI summaries with tap-to-jump timestamps, right in Telegram Discussion | Link",
+      "title_en": "Yourcast 2.0"
     },
     {
-      "title": "1代理密碼 (1Password for Agents)",
+      "title": "Specsight",
+      "link": "https://www.producthunt.com/products/specsight",
+      "desc": "Product observability for teams shipping fast with AI Discussion | Link",
+      "title_en": "Specsight"
+    },
+    {
+      "title": "Papermark Data Rooms",
+      "link": "https://www.producthunt.com/products/papermark-2",
+      "desc": "Secure data rooms your AI agents can run. Live in Discussion | Link",
+      "title_en": "Papermark Data Rooms"
+    },
+    {
+      "title": "Llama Windows",
+      "link": "https://www.producthunt.com/products/llama-windows",
+      "desc": "One local AI server for all your Windows apps Discussion | Link",
+      "title_en": "Llama Windows"
+    },
+    {
+      "title": "1Password for Agents",
       "link": "https://www.producthunt.com/products/1password",
-      "desc": "讓 AI 代理程式為您登入而無需查看您的密碼 討論 |關聯",
+      "desc": "Let AI agents sign in for you without seeing your passwords Discussion | Link",
       "title_en": "1Password for Agents"
-    },
-    {
-      "title": "Basedash 計劃 CSV 匯出 (Basedash Scheduled CSV Exports)",
-      "link": "https://www.producthunt.com/products/basedash",
-      "desc": "問一次。每週在 Slack 或電子郵件中取得新的 CSV。討論 |關聯",
-      "title_en": "Basedash Scheduled CSV Exports"
-    },
-    {
-      "title": "電腦輔助設計 (zCAD AI)",
-      "link": "https://www.producthunt.com/products/zcad-ai",
-      "desc": "AI 3D 可創建真實零件，而不僅僅是形狀 討論 |關聯",
-      "title_en": "zCAD AI"
-    },
-    {
-      "title": "領英 (LinkIntel)",
-      "link": "https://www.producthunt.com/products/linkintel",
-      "desc": "將見解直接發佈到您的 AI 討論 |關聯",
-      "title_en": "LinkIntel"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "人工智慧墓地：未成功的項目和新創公司的清單",
-      "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "在被迫選擇的情況下，Grok 的人工智慧模型選擇了共和黨人。 OpenAI 選擇了民主黨人。",
-      "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "summary": "一項新研究發現，Grok 的 AI 絕大多數推薦共和黨候選人，而 OpenAI 的 GPT 有利於民主黨，...",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "人工智慧墓地：未成功的項目和新創公司的清單",
-    "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-    "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
+    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
     "source": "TechCrunch"
   },
   "steve_ideas": [],
@@ -15116,6 +15104,89 @@
         "title": "人工智慧墓地：未成功的項目和新創公司的清單",
         "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
         "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-26": {
+      "news": [
+        {
+          "title": "r/opensource just banned AI, non-English speakers, and more",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+          "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post mad…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google’s AI search changes upended online publishing",
+          "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+          "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's imp…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+          "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+          "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+          "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero finan…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The hottest AI wearables and gadgets you should know about",
+          "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+          "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Yourcast 2.0",
+          "link": "https://www.producthunt.com/products/yourcast",
+          "desc": "AI summaries with tap-to-jump timestamps, right in Telegram Discussion | Link",
+          "title_en": "Yourcast 2.0"
+        },
+        {
+          "title": "Specsight",
+          "link": "https://www.producthunt.com/products/specsight",
+          "desc": "Product observability for teams shipping fast with AI Discussion | Link",
+          "title_en": "Specsight"
+        },
+        {
+          "title": "Papermark Data Rooms",
+          "link": "https://www.producthunt.com/products/papermark-2",
+          "desc": "Secure data rooms your AI agents can run. Live in Discussion | Link",
+          "title_en": "Papermark Data Rooms"
+        },
+        {
+          "title": "Llama Windows",
+          "link": "https://www.producthunt.com/products/llama-windows",
+          "desc": "One local AI server for all your Windows apps Discussion | Link",
+          "title_en": "Llama Windows"
+        },
+        {
+          "title": "1Password for Agents",
+          "link": "https://www.producthunt.com/products/1password",
+          "desc": "Let AI agents sign in for you without seeing your passwords Discussion | Link",
+          "title_en": "1Password for Agents"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+          "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
         "source": "TechCrunch"
       },
       "steve_ideas": []
