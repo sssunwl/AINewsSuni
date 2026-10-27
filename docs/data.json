@@ -1,84 +1,127 @@
 {
-  "updated": "2026-10-26 13:44 HKT",
+  "updated": "2026-10-27 13:57 HKT",
   "news": [
     {
-      "title": "r/opensource just banned AI, non-English speakers, and more",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-      "summary": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post mad…",
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing ma…",
       "source": "The Verge"
     },
     {
-      "title": "Google’s AI search changes upended online publishing",
-      "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's imp…",
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competi…",
       "source": "The Verge"
     },
     {
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "source": "TechCrunch"
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively m…",
+      "source": "The Verge"
     },
     {
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero finan…",
-      "source": "TechCrunch"
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood…",
+      "source": "The Verge"
     },
     {
-      "title": "The hottest AI wearables and gadgets you should know about",
-      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "source": "TechCrunch"
+      "title": "Microsoft offers buyouts to 60,000 employees",
+      "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+      "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to …",
+      "source": "The Verge"
+    },
+    {
+      "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+      "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+      "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent an…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+      "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude …",
+      "source": "The Verge"
+    },
+    {
+      "title": "Can AI help solve the COBOL code crisis?",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+      "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on …",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "Yourcast 2.0",
-      "link": "https://www.producthunt.com/products/yourcast",
-      "desc": "AI summaries with tap-to-jump timestamps, right in Telegram Discussion | Link",
-      "title_en": "Yourcast 2.0"
+      "title": "SurgePix",
+      "link": "https://www.producthunt.com/products/surgepix",
+      "desc": "AI visuals. Edit every layer. Agent-callable. Discussion | Link",
+      "title_en": "SurgePix"
     },
     {
-      "title": "Specsight",
-      "link": "https://www.producthunt.com/products/specsight",
-      "desc": "Product observability for teams shipping fast with AI Discussion | Link",
-      "title_en": "Specsight"
+      "title": "AVP",
+      "link": "https://www.producthunt.com/products/avp",
+      "desc": "Open source alternative to Git for AI coding agents Discussion | Link",
+      "title_en": "AVP"
     },
     {
-      "title": "Papermark Data Rooms",
-      "link": "https://www.producthunt.com/products/papermark-2",
-      "desc": "Secure data rooms your AI agents can run. Live in Discussion | Link",
-      "title_en": "Papermark Data Rooms"
+      "title": "AI Bridge",
+      "link": "https://www.producthunt.com/products/ai-bridge",
+      "desc": "Every AI coding agent on your Mac, in its place Discussion | Link",
+      "title_en": "AI Bridge"
     },
     {
-      "title": "Llama Windows",
-      "link": "https://www.producthunt.com/products/llama-windows",
-      "desc": "One local AI server for all your Windows apps Discussion | Link",
-      "title_en": "Llama Windows"
+      "title": "N8N Chat UI",
+      "link": "https://www.producthunt.com/products/n8n-chat-ui-2",
+      "desc": "Beautiful, no-code, on-brand AI chat widgets for n8n Discussion | Link",
+      "title_en": "N8N Chat UI"
     },
     {
-      "title": "1Password for Agents",
-      "link": "https://www.producthunt.com/products/1password",
-      "desc": "Let AI agents sign in for you without seeing your passwords Discussion | Link",
-      "title_en": "1Password for Agents"
+      "title": "AllModels",
+      "link": "https://www.producthunt.com/products/allmodels-io",
+      "desc": "Explore every abliterated model Discussion | Link",
+      "title_en": "AllModels"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "The RealReal won’t let AI agents hog designer clothing",
+      "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+      "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively m…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood…",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-      "source": "TechCrunch"
+      "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+      "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing ma…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic is burning gas to feed the AI boom",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+      "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competi…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Five weird details from Anthropic’s IPO filing",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+      "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-    "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-    "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
-    "source": "TechCrunch"
+    "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+    "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing ma…",
+    "source": "The Verge"
   },
   "steve_ideas": [],
   "history": {
@@ -15188,6 +15231,132 @@
         "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
         "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
         "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-27": {
+      "news": [
+        {
+          "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing ma…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic is burning gas to feed the AI boom",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+          "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competi…",
+          "source": "The Verge"
+        },
+        {
+          "title": "The RealReal won’t let AI agents hog designer clothing",
+          "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+          "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively m…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Five weird details from Anthropic’s IPO filing",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Microsoft offers buyouts to 60,000 employees",
+          "link": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible",
+          "summary": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
+          "link": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
+          "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent an…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic’s IPO filing lays out a plan to &#8216;revolutionize every area of human endeavor&#8217; with AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
+          "summary": "Anthropic has filed its S-1 prospectus with the Securities and Exchange Commission, preparing the company behind Claude …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Can AI help solve the COBOL code crisis?",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018434/cobol-migration-legacy-code-openai-anthropic",
+          "summary": "What do the IRS, banks, airlines, and government infrastructure around the world have in common? They're all running on …",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "SurgePix",
+          "link": "https://www.producthunt.com/products/surgepix",
+          "desc": "AI visuals. Edit every layer. Agent-callable. Discussion | Link",
+          "title_en": "SurgePix"
+        },
+        {
+          "title": "AVP",
+          "link": "https://www.producthunt.com/products/avp",
+          "desc": "Open source alternative to Git for AI coding agents Discussion | Link",
+          "title_en": "AVP"
+        },
+        {
+          "title": "AI Bridge",
+          "link": "https://www.producthunt.com/products/ai-bridge",
+          "desc": "Every AI coding agent on your Mac, in its place Discussion | Link",
+          "title_en": "AI Bridge"
+        },
+        {
+          "title": "N8N Chat UI",
+          "link": "https://www.producthunt.com/products/n8n-chat-ui-2",
+          "desc": "Beautiful, no-code, on-brand AI chat widgets for n8n Discussion | Link",
+          "title_en": "N8N Chat UI"
+        },
+        {
+          "title": "AllModels",
+          "link": "https://www.producthunt.com/products/allmodels-io",
+          "desc": "Explore every abliterated model Discussion | Link",
+          "title_en": "AllModels"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "The RealReal won’t let AI agents hog designer clothing",
+          "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
+          "summary": "The RealReal, a secondhand luxury fashion consignment retailer, said it's updating its bot defense system, effectively m…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Five weird details from Anthropic’s IPO filing",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+          "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing ma…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic is burning gas to feed the AI boom",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+          "summary": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competi…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Five weird details from Anthropic’s IPO filing",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+          "summary": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI announces three big science discoveries and a new way to work with academics",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
+        "summary": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing ma…",
+        "source": "The Verge"
       },
       "steve_ideas": []
     }
