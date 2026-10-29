@@ -1,113 +1,114 @@
 {
-  "updated": "2026-10-28 14:35 HKT",
+  "updated": "2026-10-29 14:43 HKT",
   "news": [
     {
-      "title": "研究人員已經厭倦了 OpenAI 的突破",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "summary": "週一，OpenAI 宣布了數學、計算機科學和物理學方面令人印象深刻的突破，以及…",
+      "title": "Adam Mosseri 表示，圍繞人工智慧的負面情緒“將會變得更糟”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "summary": "當被問及人工智慧和大學生在畢業典禮上向科技公司執行長發出噓聲的趨勢時，Instagram 負責人 Adam Mosseri …",
       "source": "The Verge"
     },
     {
-      "title": "VisionQuest 是人工智慧真正失控時所發生的情況",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
-      "summary": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital …",
+      "title": "Akai 正在採用具有開源 MPC 的 vivi 編碼模組",
+      "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+      "summary": "MPC 範例密鑰尚未正式公佈，但 Akai 已經在展示改裝社區的實力…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 為阻止華爾街而製定的精心計劃",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "summary": "人類希望兩者兼得。隨著首次公開募股即將到來，它希望利用公開市場的巨大財富…",
+      "title": "Google推出 Gemini 4 Carbon，在網路安全方面實現“重大飛躍”",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "summary": "谷歌發布了最新的前沿模型 Gemini 4 Carbon，在編碼、代理任務、...",
       "source": "The Verge"
     },
     {
-      "title": "Firefox 的智慧視窗增加了人工智慧表單填寫和網頁監控",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
-      "summary": "Mozilla 正在更新 Smart Window（Firefox 的 AI 驅動的瀏覽體驗），其新功能可以幫助您填充…",
+      "title": "微軟將終止智慧電視上的 Copilot 支持",
+      "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+      "summary": "近兩年前，LG 和三星在 CES 2025 上宣布他們最新的智慧電視將支援微軟…",
       "source": "The Verge"
     },
     {
-      "title": "谷歌的下一代 Genie AI 模型可產生更真實的體驗",
-      "link": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model",
-      "summary": "谷歌今天宣布推出 Genie 4 世界模型，用於使用人工智慧生成互動式體驗。该公司表示，该模组...",
+      "title": "Chrome 增強的自動填入功能現在可以從 Gmail 中提取資訊來幫助您填寫表單",
+      "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+      "summary": "去年對 Chrome 的增強型自動填充功能進行了改進，其中包括您的姓名、護照號碼、電子郵件地址…",
       "source": "The Verge"
     },
     {
-      "title": "Apple 正在將 AI 聊天機器人新增至 Pages、Keynote 和 Numbers 中",
-      "link": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update",
-      "summary": "蘋果正在為其生產力應用程式套件引入人工智慧助手，包括 Keynote、Pages 和 Numbers。助理…",
+      "title": "Meta 表示可能會再次推遲其有爭議的新業務條款",
+      "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+      "summary": "Meta 表示，由於面臨出版商的強烈反對，它可能會將新業務條款的實施推遲到 11 月 20 日之後。",
       "source": "The Verge"
     },
     {
-      "title": "Data center backlash is uniting America",
-      "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-      "summary": "如果说 2026 年有一个问题似乎会激发各类选民的兴趣，那就是数据中心。這些的快速建造…",
+      "title": "xAI 正在收購承諾不會因資料中心噪音而提起訴訟的房主",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "summary": "馬斯克 (Elon Musk) 的 xAI 子公司正在提議購買密西西比州社區的房屋，只要居民不加入…",
       "source": "The Verge"
     },
     {
-      "title": "創投公司將在 Anthropic 的 IPO 中賺取數十億美元，但亞馬遜將賺得更多",
-      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "summary": "大量紙幣轉換揭示了亞馬遜對 Anthropic 的所有權的真實程度。",
-      "source": "TechCrunch"
+      "title": "德州選民一致認為：他們討厭資料中心",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+      "summary": "問問德州全國有色人種協進會主席加里·布萊索，看到資料中心開發商來到奧斯汀及其周邊地區是什麼感覺…",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "品味應用_AI (SavorApp_AI)",
-      "link": "https://www.producthunt.com/products/savor-3",
-      "desc": "捕捉重要事項並推動您的意圖 討論 |關聯",
-      "title_en": "SavorApp_AI"
+      "title": "開放銷售 (Open For sales)",
+      "link": "https://www.producthunt.com/products/open-for-sales",
+      "desc": "您的下一次銷售活動即將來臨 討論 |關聯",
+      "title_en": "Open For sales"
     },
     {
-      "title": "太空羊 (Spacesheep)",
-      "link": "https://www.producthunt.com/products/spacesheep",
-      "desc": "未來的文檔，由人工智慧製作，由您的團隊閱讀關聯",
-      "title_en": "Spacesheep"
+      "title": "德迪卡 (Dedica)",
+      "link": "https://www.producthunt.com/products/dedica",
+      "desc": "檢查 AI 代理是否可以使用您的網站 討論 |關聯",
+      "title_en": "Dedica"
     },
     {
-      "title": "他們說4.0 (TheySaid 4.0)",
-      "link": "https://www.producthunt.com/products/theysaid",
-      "desc": "在您建置的地方查看用戶將如何反應。討論 |關聯",
-      "title_en": "TheySaid 4.0"
+      "title": "滾刀 (Hob)",
+      "link": "https://www.producthunt.com/products/hob-3",
+      "desc": "開源、在裝置上替代 Claude 和 ChatGPT 討論 |關聯",
+      "title_en": "Hob"
     },
     {
-      "title": "努普拉 (NuPlay)",
-      "link": "https://www.producthunt.com/products/nuplay",
-      "desc": "人工智慧轉型，運行在一個自我改進的平台上 討論 |關聯",
-      "title_en": "NuPlay"
+      "title": "詐欺攔截器 (Fraud Blocker)",
+      "link": "https://www.producthunt.com/products/fraud-blocker",
+      "desc": "針對 Google 和元廣告的 AI 廣告詐欺防護討論 |關聯",
+      "title_en": "Fraud Blocker"
     },
     {
-      "title": "離網人工智慧 (Off Grid AI)",
-      "link": "https://www.producthunt.com/products/off-grid-ai",
-      "desc": "您手机和计算机上的私人人工智能。討論 |關聯",
-      "title_en": "Off Grid AI"
+      "title": "位元組郵件 (bytemail)",
+      "link": "https://www.producthunt.com/products/bytemail",
+      "desc": "本機 Mac 電子郵件：每個收件匣都在您的水平上，沒有追蹤器關聯",
+      "title_en": "bytemail"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "Adam Mosseri 表示，圍繞人工智慧的負面情緒“將會變得更糟”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+      "summary": "當被問及人工智慧和大學生在畢業典禮上向科技公司執行長發出噓聲的趨勢時，Instagram 負責人 Adam Mosseri …",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "研究人員已經厭倦了 OpenAI 的突破",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-      "summary": "週一，OpenAI 宣布了數學、計算機科學和物理學方面令人印象深刻的突破，以及…",
+      "title": "Google推出 Gemini 4 Carbon，在網路安全方面實現“重大飛躍”",
+      "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+      "summary": "谷歌發布了最新的前沿模型 Gemini 4 Carbon，在編碼、代理任務、...",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 為阻止華爾街而製定的精心計劃",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "summary": "人類希望兩者兼得。隨著首次公開募股即將到來，它希望利用公開市場的巨大財富…",
+      "title": "xAI 正在收購承諾不會因資料中心噪音而提起訴訟的房主",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+      "summary": "馬斯克 (Elon Musk) 的 xAI 子公司正在提議購買密西西比州社區的房屋，只要居民不加入…",
       "source": "The Verge"
-    },
-    {
-      "title": "創投公司將在 Anthropic 的 IPO 中賺取數十億美元，但亞馬遜將賺得更多",
-      "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "summary": "大量紙幣轉換揭示了亞馬遜對 Anthropic 的所有權的真實程度。",
-      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "研究人員已經厭倦了 OpenAI 的突破",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-    "summary": "週一，OpenAI 宣布了數學、計算機科學和物理學方面令人印象深刻的突破，以及…",
+    "title": "Google推出 Gemini 4 Carbon，在網路安全方面實現“重大飛躍”",
+    "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+    "summary": "谷歌發布了最新的前沿模型 Gemini 4 Carbon，在編碼、代理任務、...",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -15456,6 +15457,120 @@
         "title": "研究人員已經厭倦了 OpenAI 的突破",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
         "summary": "週一，OpenAI 宣布了數學、計算機科學和物理學方面令人印象深刻的突破，以及…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-10-29": {
+      "news": [
+        {
+          "title": "Adam Mosseri 表示，圍繞人工智慧的負面情緒“將會變得更糟”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+          "summary": "當被問及人工智慧和大學生在畢業典禮上向科技公司執行長發出噓聲的趨勢時，Instagram 負責人 Adam Mosseri …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Akai 正在採用具有開源 MPC 的 vivi 編碼模組",
+          "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+          "summary": "MPC 範例密鑰尚未正式公佈，但 Akai 已經在展示改裝社區的實力…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google推出 Gemini 4 Carbon，在網路安全方面實現“重大飛躍”",
+          "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "summary": "谷歌發布了最新的前沿模型 Gemini 4 Carbon，在編碼、代理任務、...",
+          "source": "The Verge"
+        },
+        {
+          "title": "微軟將終止智慧電視上的 Copilot 支持",
+          "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+          "summary": "近兩年前，LG 和三星在 CES 2025 上宣布他們最新的智慧電視將支援微軟…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Chrome 增強的自動填入功能現在可以從 Gmail 中提取資訊來幫助您填寫表單",
+          "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+          "summary": "去年對 Chrome 的增強型自動填充功能進行了改進，其中包括您的姓名、護照號碼、電子郵件地址…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta 表示可能會再次推遲其有爭議的新業務條款",
+          "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+          "summary": "Meta 表示，由於面臨出版商的強烈反對，它可能會將新業務條款的實施推遲到 11 月 20 日之後。",
+          "source": "The Verge"
+        },
+        {
+          "title": "xAI 正在收購承諾不會因資料中心噪音而提起訴訟的房主",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+          "summary": "馬斯克 (Elon Musk) 的 xAI 子公司正在提議購買密西西比州社區的房屋，只要居民不加入…",
+          "source": "The Verge"
+        },
+        {
+          "title": "德州選民一致認為：他們討厭資料中心",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+          "summary": "問問德州全國有色人種協進會主席加里·布萊索，看到資料中心開發商來到奧斯汀及其周邊地區是什麼感覺…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "開放銷售 (Open For sales)",
+          "link": "https://www.producthunt.com/products/open-for-sales",
+          "desc": "您的下一次銷售活動即將來臨 討論 |關聯",
+          "title_en": "Open For sales"
+        },
+        {
+          "title": "德迪卡 (Dedica)",
+          "link": "https://www.producthunt.com/products/dedica",
+          "desc": "檢查 AI 代理是否可以使用您的網站 討論 |關聯",
+          "title_en": "Dedica"
+        },
+        {
+          "title": "滾刀 (Hob)",
+          "link": "https://www.producthunt.com/products/hob-3",
+          "desc": "開源、在裝置上替代 Claude 和 ChatGPT 討論 |關聯",
+          "title_en": "Hob"
+        },
+        {
+          "title": "詐欺攔截器 (Fraud Blocker)",
+          "link": "https://www.producthunt.com/products/fraud-blocker",
+          "desc": "針對 Google 和元廣告的 AI 廣告詐欺防護討論 |關聯",
+          "title_en": "Fraud Blocker"
+        },
+        {
+          "title": "位元組郵件 (bytemail)",
+          "link": "https://www.producthunt.com/products/bytemail",
+          "desc": "本機 Mac 電子郵件：每個收件匣都在您的水平上，沒有追蹤器關聯",
+          "title_en": "bytemail"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Adam Mosseri 表示，圍繞人工智慧的負面情緒“將會變得更糟”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+          "summary": "當被問及人工智慧和大學生在畢業典禮上向科技公司執行長發出噓聲的趨勢時，Instagram 負責人 Adam Mosseri …",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Google推出 Gemini 4 Carbon，在網路安全方面實現“重大飛躍”",
+          "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+          "summary": "谷歌發布了最新的前沿模型 Gemini 4 Carbon，在編碼、代理任務、...",
+          "source": "The Verge"
+        },
+        {
+          "title": "xAI 正在收購承諾不會因資料中心噪音而提起訴訟的房主",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+          "summary": "馬斯克 (Elon Musk) 的 xAI 子公司正在提議購買密西西比州社區的房屋，只要居民不加入…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Google推出 Gemini 4 Carbon，在網路安全方面實現“重大飛躍”",
+        "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+        "summary": "谷歌發布了最新的前沿模型 Gemini 4 Carbon，在編碼、代理任務、...",
         "source": "The Verge"
       },
       "steve_ideas": []
