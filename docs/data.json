@@ -1,114 +1,97 @@
 {
-  "updated": "2026-10-31 14:35 HKT",
+  "updated": "2026-11-01 15:05 HKT",
   "news": [
     {
-      "title": "Apple Intelligence 終於攜 iOS 27.3 登陸中國",
-      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "summary": "蘋果在其中文新聞編輯室網站上宣布，將在中國推出 iOS 27.3 Apple Intelligence，...",
+      "title": "I built an AI Tamagotchi before Meta could",
+      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wa…",
       "source": "The Verge"
     },
     {
-      "title": "Sam Altman 表示，RAM 放在資料中心比放在辦公桌上好",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "summary": "當被問及供應鏈短缺（例如持續的 RAM 短缺）時，OpenAI 執行長 Sam Altman 在接受採訪時表示…",
-      "source": "The Verge"
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "source": "TechCrunch"
     },
     {
-      "title": "人工智慧領域的知名人士正在支持一種選擇退出抓取的新方式",
-      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "summary": "OpenAI、Google、微軟和 Anthropic 表示，他們將採用一項新標準，出版商可以使用該標準選擇不成為…",
-      "source": "The Verge"
+      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, …",
+      "source": "TechCrunch"
     },
     {
-      "title": "谷歌的衛星人工智慧伺服器向地球傳輸第一個回應",
-      "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-      "summary": "谷歌配備人工智慧晶片的衛星首次從太空發出響應。在周五的一篇部落格文章中，Google表示我…",
-      "source": "The Verge"
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "source": "TechCrunch"
     },
     {
-      "title": "星巴克希望利用人工智慧在得來速餐廳向你展示“個性化數位菜單”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-      "summary": "當你把車停在得來速餐廳前時，星巴克最終可能會向你展示個人化的數位菜單。在收益報告期間...",
-      "source": "The Verge"
-    },
-    {
-      "title": "教宗利奧呼籲解除人工智慧武裝：“機器是工具，而不是人”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-      "summary": "教皇利奧十四世表示人工智慧系統應該“解除武裝”，並補充說人類“有責任引導、改變…",
-      "source": "The Verge"
-    },
-    {
-      "title": "矽谷希望你投資創造奇蹟",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-      "summary": "投資任何股票都有點像賭博，因為你將錢押在公司未來的表現上...",
-      "source": "The Verge"
-    },
-    {
-      "title": "Sam Altman 同情數學家，但表示 OpenAI 的數學攻擊不會停止",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
-      "summary": "經過幾個月不斷地用 AI 產生的結果對數學家進行轟炸後，OpenAI 執行長 Sam Altman 表示…",
-      "source": "The Verge"
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "XWiki 的 MCP 伺服器 (MCP Server by XWiki)",
-      "link": "https://www.producthunt.com/products/xwiki",
-      "desc": "為您的 AI 提供您的 wiki 知識，同時保持控制關聯",
-      "title_en": "MCP Server by XWiki"
+      "title": "ernd",
+      "link": "https://www.producthunt.com/products/ernd",
+      "desc": "The credit card for the AI stack Discussion | Link",
+      "title_en": "ernd"
     },
     {
-      "title": "敲擊人工智慧 (Knocket AI)",
-      "link": "https://www.producthunt.com/products/knocket-ai",
-      "desc": "與來自您網站或連結的訪客聊天 討論 |關聯",
-      "title_en": "Knocket AI"
+      "title": "Usage for Claude + ChatGPT 4.0",
+      "link": "https://www.producthunt.com/products/usage-for-claude",
+      "desc": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch Discussion | Link",
+      "title_en": "Usage for Claude + ChatGPT 4.0"
     },
     {
-      "title": "Vaani開發者平台 (Vaani Developer Platform)",
-      "link": "https://www.producthunt.com/products/vaani-developer-platfrom",
-      "desc": "您唯一需要的語音人工智慧工具關聯",
-      "title_en": "Vaani Developer Platform"
+      "title": "Riverside Agents",
+      "link": "https://www.producthunt.com/products/riverside-fm",
+      "desc": "A team of AI agents for video: produce, edit, clip, post Discussion | Link",
+      "title_en": "Riverside Agents"
     },
     {
-      "title": "SparkBots AI（由 Jev 提供支援） (SparkBots AI (Powered by Jev))",
-      "link": "https://www.producthunt.com/products/sparkbots-ai-analyze-pages-and-pdfs",
-      "desc": "立即提取關鍵細節並分析任何網頁或 PDF 討論 |關聯",
-      "title_en": "SparkBots AI (Powered by Jev)"
+      "title": "Modelpeers",
+      "link": "https://www.producthunt.com/products/modelpeers",
+      "desc": "Follow AI models and agents like you follow people Discussion | Link",
+      "title_en": "Modelpeers"
     },
     {
-      "title": "伊爾瑟 (ilse)",
-      "link": "https://www.producthunt.com/products/ilse",
-      "desc": "指向您的應用程序，您的 AI 代理會更改代碼關聯",
-      "title_en": "ilse"
+      "title": "Fluent 2",
+      "link": "https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos",
+      "desc": "AI teammates that run locally on your Mac Discussion | Link",
+      "title_en": "Fluent 2"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [],
+  "suniverse_tools": [
+    {
+      "title": "Riverside Agents",
+      "link": "https://www.producthunt.com/products/riverside-fm",
+      "desc": "A team of AI agents for video: produce, edit, clip, post Discussion | Link",
+      "title_en": "Riverside Agents"
+    }
+  ],
   "major": [
     {
-      "title": "Apple Intelligence 終於攜 iOS 27.3 登陸中國",
-      "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "summary": "蘋果在其中文新聞編輯室網站上宣布，將在中國推出 iOS 27.3 Apple Intelligence，...",
-      "source": "The Verge"
+      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+      "source": "TechCrunch"
     },
     {
-      "title": "Sam Altman 表示，RAM 放在資料中心比放在辦公桌上好",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-      "summary": "當被問及供應鏈短缺（例如持續的 RAM 短缺）時，OpenAI 執行長 Sam Altman 在接受採訪時表示…",
-      "source": "The Verge"
-    },
-    {
-      "title": "人工智慧領域的知名人士正在支持一種選擇退出抓取的新方式",
-      "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-      "summary": "OpenAI、Google、微軟和 Anthropic 表示，他們將採用一項新標準，出版商可以使用該標準選擇不成為…",
-      "source": "The Verge"
+      "title": "OpenAI reportedly lowers funding target for new round",
+      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Apple Intelligence 終於攜 iOS 27.3 登陸中國",
-    "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-    "summary": "蘋果在其中文新聞編輯室網站上宣布，將在中國推出 iOS 27.3 Apple Intelligence，...",
-    "source": "The Verge"
+    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "source": "TechCrunch"
   },
   "steve_ideas": [],
   "history": {
@@ -15797,6 +15780,102 @@
         "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
         "summary": "蘋果在其中文新聞編輯室網站上宣布，將在中國推出 iOS 27.3 Apple Intelligence，...",
         "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-01": {
+      "news": [
+        {
+          "title": "I built an AI Tamagotchi before Meta could",
+          "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+          "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wa…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+          "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+          "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, …",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+          "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI reportedly lowers funding target for new round",
+          "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "ernd",
+          "link": "https://www.producthunt.com/products/ernd",
+          "desc": "The credit card for the AI stack Discussion | Link",
+          "title_en": "ernd"
+        },
+        {
+          "title": "Usage for Claude + ChatGPT 4.0",
+          "link": "https://www.producthunt.com/products/usage-for-claude",
+          "desc": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch Discussion | Link",
+          "title_en": "Usage for Claude + ChatGPT 4.0"
+        },
+        {
+          "title": "Riverside Agents",
+          "link": "https://www.producthunt.com/products/riverside-fm",
+          "desc": "A team of AI agents for video: produce, edit, clip, post Discussion | Link",
+          "title_en": "Riverside Agents"
+        },
+        {
+          "title": "Modelpeers",
+          "link": "https://www.producthunt.com/products/modelpeers",
+          "desc": "Follow AI models and agents like you follow people Discussion | Link",
+          "title_en": "Modelpeers"
+        },
+        {
+          "title": "Fluent 2",
+          "link": "https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos",
+          "desc": "AI teammates that run locally on your Mac Discussion | Link",
+          "title_en": "Fluent 2"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [
+        {
+          "title": "Riverside Agents",
+          "link": "https://www.producthunt.com/products/riverside-fm",
+          "desc": "A team of AI agents for video: produce, edit, clip, post Discussion | Link",
+          "title_en": "Riverside Agents"
+        }
+      ],
+      "major": [
+        {
+          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+          "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI reportedly lowers funding target for new round",
+          "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+          "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+        "source": "TechCrunch"
       },
       "steve_ideas": []
     }
