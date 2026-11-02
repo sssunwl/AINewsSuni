@@ -1,96 +1,65 @@
 {
-  "updated": "2026-11-01 15:05 HKT",
+  "updated": "2026-11-02 15:10 HKT",
   "news": [
     {
-      "title": "I built an AI Tamagotchi before Meta could",
-      "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-      "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wa…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-      "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "title": "OpenAI 可能會將其資料中心重新命名為“AI 計算園區”",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "summary": "數據中心非常不受歡迎。但如果我們用別的名字來稱呼它們呢？",
       "source": "TechCrunch"
     },
     {
-      "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-      "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-      "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, …",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "title": "人工智慧可以讓科技執行長的生活變得更輕鬆。其他人呢？",
+      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "summary": "在股票方面，我們討論了為什麼科技公司執行長的聲明看起來如此充耳不聞。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "ernd",
-      "link": "https://www.producthunt.com/products/ernd",
-      "desc": "The credit card for the AI stack Discussion | Link",
-      "title_en": "ernd"
-    },
-    {
-      "title": "Usage for Claude + ChatGPT 4.0",
+      "title": "Claude + ChatGPT 4.0 的用法 (Usage for Claude + ChatGPT 4.0)",
       "link": "https://www.producthunt.com/products/usage-for-claude",
-      "desc": "Claude + ChatGPT limits on your Mac, iPhone, iPad and Watch Discussion | Link",
+      "desc": "Claude + ChatGPT 對 Mac、iPhone、iPad 和 Watch 的限制 討論 |關聯",
       "title_en": "Usage for Claude + ChatGPT 4.0"
     },
     {
-      "title": "Riverside Agents",
+      "title": "河濱代理商 (Riverside Agents)",
       "link": "https://www.producthunt.com/products/riverside-fm",
-      "desc": "A team of AI agents for video: produce, edit, clip, post Discussion | Link",
+      "desc": "影片 AI 代理團隊：製作、編輯、剪輯、發布討論 |關聯",
       "title_en": "Riverside Agents"
     },
     {
-      "title": "Modelpeers",
-      "link": "https://www.producthunt.com/products/modelpeers",
-      "desc": "Follow AI models and agents like you follow people Discussion | Link",
-      "title_en": "Modelpeers"
+      "title": "特工混搭 (agentmash)",
+      "link": "https://www.producthunt.com/products/agentmash",
+      "desc": "面向團隊編碼代理的開源多人 AI 討論 |關聯",
+      "title_en": "agentmash"
     },
     {
-      "title": "Fluent 2",
-      "link": "https://www.producthunt.com/products/fluent-ai-writing-assistant-for-macos",
-      "desc": "AI teammates that run locally on your Mac Discussion | Link",
-      "title_en": "Fluent 2"
+      "title": "埃恩德 (ernd)",
+      "link": "https://www.producthunt.com/products/ernd",
+      "desc": "AI 堆疊的信用卡討論 |關聯",
+      "title_en": "ernd"
+    },
+    {
+      "title": "模特兒同行 (Modelpeers)",
+      "link": "https://www.producthunt.com/products/modelpeers",
+      "desc": "像關注人一樣關注人工智慧模型和代理關聯",
+      "title_en": "Modelpeers"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [
-    {
-      "title": "Riverside Agents",
-      "link": "https://www.producthunt.com/products/riverside-fm",
-      "desc": "A team of AI agents for video: produce, edit, clip, post Discussion | Link",
-      "title_en": "Riverside Agents"
-    }
-  ],
+  "suniverse_tools": [],
   "major": [
     {
-      "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-      "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-      "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI reportedly lowers funding target for new round",
-      "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-      "summary": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "title": "OpenAI 可能會將其資料中心重新命名為“AI 計算園區”",
+      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "summary": "數據中心非常不受歡迎。但如果我們用別的名字來稱呼它們呢？",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-    "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-    "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+    "title": "OpenAI 可能會將其資料中心重新命名為“AI 計算園區”",
+    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+    "summary": "數據中心非常不受歡迎。但如果我們用別的名字來稱呼它們呢？",
     "source": "TechCrunch"
   },
   "steve_ideas": [],
@@ -15875,6 +15844,71 @@
         "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
         "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
         "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-02": {
+      "news": [
+        {
+          "title": "OpenAI 可能會將其資料中心重新命名為“AI 計算園區”",
+          "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "summary": "數據中心非常不受歡迎。但如果我們用別的名字來稱呼它們呢？",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "人工智慧可以讓科技執行長的生活變得更輕鬆。其他人呢？",
+          "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+          "summary": "在股票方面，我們討論了為什麼科技公司執行長的聲明看起來如此充耳不聞。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Claude + ChatGPT 4.0 的用法 (Usage for Claude + ChatGPT 4.0)",
+          "link": "https://www.producthunt.com/products/usage-for-claude",
+          "desc": "Claude + ChatGPT 對 Mac、iPhone、iPad 和 Watch 的限制 討論 |關聯",
+          "title_en": "Usage for Claude + ChatGPT 4.0"
+        },
+        {
+          "title": "河濱代理商 (Riverside Agents)",
+          "link": "https://www.producthunt.com/products/riverside-fm",
+          "desc": "影片 AI 代理團隊：製作、編輯、剪輯、發布討論 |關聯",
+          "title_en": "Riverside Agents"
+        },
+        {
+          "title": "特工混搭 (agentmash)",
+          "link": "https://www.producthunt.com/products/agentmash",
+          "desc": "面向團隊編碼代理的開源多人 AI 討論 |關聯",
+          "title_en": "agentmash"
+        },
+        {
+          "title": "埃恩德 (ernd)",
+          "link": "https://www.producthunt.com/products/ernd",
+          "desc": "AI 堆疊的信用卡討論 |關聯",
+          "title_en": "ernd"
+        },
+        {
+          "title": "模特兒同行 (Modelpeers)",
+          "link": "https://www.producthunt.com/products/modelpeers",
+          "desc": "像關注人一樣關注人工智慧模型和代理關聯",
+          "title_en": "Modelpeers"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 可能會將其資料中心重新命名為“AI 計算園區”",
+          "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "summary": "數據中心非常不受歡迎。但如果我們用別的名字來稱呼它們呢？",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 可能會將其資料中心重新命名為“AI 計算園區”",
+        "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+        "summary": "數據中心非常不受歡迎。但如果我們用別的名字來稱呼它們呢？",
         "source": "TechCrunch"
       },
       "steve_ideas": []
