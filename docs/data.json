@@ -1,66 +1,108 @@
 {
-  "updated": "2026-11-02 15:10 HKT",
+  "updated": "2026-11-03 15:31 HKT",
   "news": [
     {
-      "title": "OpenAI 可能會將其資料中心重新命名為“AI 計算園區”",
-      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "summary": "數據中心非常不受歡迎。但如果我們用別的名字來稱呼它們呢？",
+      "title": "人類對Claude的人工智慧電玩克隆進行了取締",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "summary": "Anthropic 更新了 Claude Code 的系統提示，以防止 AI 工具被用來重新創建現有的視頻遊戲…",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI 將資料中心發電廠作為保護附近地區的一種方式",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "summary": "OpenAI 在周一的一份聲明中表示，它將在即將在埃菲 (Effi) 建立的資料中心試行其「電網保護者計畫」…",
+      "source": "The Verge"
+    },
+    {
+      "title": "《紐約時報》起訴 Brave 網路瀏覽器進行人工智慧抓取和繞過付費牆",
+      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+      "summary": "《紐約時報》和其他一些出版物已對製作 Brave 網路品牌的公司提起訴訟…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Apple Watch 用於回放和重述對話的 AI 功能開始 Beta 測試",
+      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversati…",
       "source": "TechCrunch"
     },
     {
-      "title": "人工智慧可以讓科技執行長的生活變得更輕鬆。其他人呢？",
-      "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-      "summary": "在股票方面，我們討論了為什麼科技公司執行長的聲明看起來如此充耳不聞。",
+      "title": "Google將 Dreambeans 帶到印度，旨在將人工智慧生成的個人故事帶給大眾",
+      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+      "summary": "谷歌最新的人工智慧實驗 Dreambeans 現在支援 13 種印度語言。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "蘋果可能會嘗試透過第三方人工智慧應用做一些事情來增加收入",
+      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+      "summary": "蘋果在周一晚間的財報發布會上暗示，它可以透過第三方「機會」刺激收入…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Y Combinator 的 Garry Tan 大量使用人工智慧代理，他每年在代幣上的花費高達 20 萬美元",
+      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "summary": "Y Combinator Garry Tan 開玩笑地承認他患有“網路精神病”，有時幾乎無法入睡，因為…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Trajectory 融資 4,500 萬美元，讓非技術專家也能進行 AI 模型訓練",
+      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+      "summary": "這家成立一年的新創公司目前估值為 3 億美元。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Claude + ChatGPT 4.0 的用法 (Usage for Claude + ChatGPT 4.0)",
-      "link": "https://www.producthunt.com/products/usage-for-claude",
-      "desc": "Claude + ChatGPT 對 Mac、iPhone、iPad 和 Watch 的限制 討論 |關聯",
-      "title_en": "Usage for Claude + ChatGPT 4.0"
+      "title": "週五工作 (Friday Work)",
+      "link": "https://www.producthunt.com/products/friday-work",
+      "desc": "當Claude達到極限時，你的任務繼續進行關聯",
+      "title_en": "Friday Work"
     },
     {
-      "title": "河濱代理商 (Riverside Agents)",
-      "link": "https://www.producthunt.com/products/riverside-fm",
-      "desc": "影片 AI 代理團隊：製作、編輯、剪輯、發布討論 |關聯",
-      "title_en": "Riverside Agents"
+      "title": "釋放X (UnleashX)",
+      "link": "https://www.producthunt.com/products/unleashx",
+      "desc": "將對話轉化為成果的人工智慧勞動力。討論 |關聯",
+      "title_en": "UnleashX"
     },
     {
-      "title": "特工混搭 (agentmash)",
-      "link": "https://www.producthunt.com/products/agentmash",
-      "desc": "面向團隊編碼代理的開源多人 AI 討論 |關聯",
-      "title_en": "agentmash"
+      "title": "差異旅遊 (diff-tour)",
+      "link": "https://www.producthunt.com/products/diff-tour",
+      "desc": "AI 編寫程式碼。學習像高級工程師一樣閱讀它。討論 |關聯",
+      "title_en": "diff-tour"
     },
     {
-      "title": "埃恩德 (ernd)",
-      "link": "https://www.producthunt.com/products/ernd",
-      "desc": "AI 堆疊的信用卡討論 |關聯",
-      "title_en": "ernd"
+      "title": "赫拉 (Hera)",
+      "link": "https://www.producthunt.com/products/hera-6",
+      "desc": "AI創意畫布討論|關聯",
+      "title_en": "Hera"
     },
     {
-      "title": "模特兒同行 (Modelpeers)",
-      "link": "https://www.producthunt.com/products/modelpeers",
-      "desc": "像關注人一樣關注人工智慧模型和代理關聯",
-      "title_en": "Modelpeers"
+      "title": "信標.sh (beacon.sh)",
+      "link": "https://www.producthunt.com/products/asymptotelabs",
+      "desc": "開源的 AI 編碼代理自我增強記憶討論 |關聯",
+      "title_en": "beacon.sh"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 可能會將其資料中心重新命名為“AI 計算園區”",
-      "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-      "summary": "數據中心非常不受歡迎。但如果我們用別的名字來稱呼它們呢？",
-      "source": "TechCrunch"
+      "title": "人類對Claude的人工智慧電玩克隆進行了取締",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+      "summary": "Anthropic 更新了 Claude Code 的系統提示，以防止 AI 工具被用來重新創建現有的視頻遊戲…",
+      "source": "The Verge"
+    },
+    {
+      "title": "OpenAI 將資料中心發電廠作為保護附近地區的一種方式",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+      "summary": "OpenAI 在周一的一份聲明中表示，它將在即將在埃菲 (Effi) 建立的資料中心試行其「電網保護者計畫」…",
+      "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "OpenAI 可能會將其資料中心重新命名為“AI 計算園區”",
-    "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-    "summary": "數據中心非常不受歡迎。但如果我們用別的名字來稱呼它們呢？",
-    "source": "TechCrunch"
+    "title": "人類對Claude的人工智慧電玩克隆進行了取締",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "summary": "Anthropic 更新了 Claude Code 的系統提示，以防止 AI 工具被用來重新創建現有的視頻遊戲…",
+    "source": "The Verge"
   },
   "steve_ideas": [],
   "history": {
@@ -15910,6 +15952,113 @@
         "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
         "summary": "數據中心非常不受歡迎。但如果我們用別的名字來稱呼它們呢？",
         "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-03": {
+      "news": [
+        {
+          "title": "人類對Claude的人工智慧電玩克隆進行了取締",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+          "summary": "Anthropic 更新了 Claude Code 的系統提示，以防止 AI 工具被用來重新創建現有的視頻遊戲…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 將資料中心發電廠作為保護附近地區的一種方式",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "summary": "OpenAI 在周一的一份聲明中表示，它將在即將在埃菲 (Effi) 建立的資料中心試行其「電網保護者計畫」…",
+          "source": "The Verge"
+        },
+        {
+          "title": "《紐約時報》起訴 Brave 網路瀏覽器進行人工智慧抓取和繞過付費牆",
+          "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
+          "summary": "《紐約時報》和其他一些出版物已對製作 Brave 網路品牌的公司提起訴訟…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple Watch 用於回放和重述對話的 AI 功能開始 Beta 測試",
+          "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
+          "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversati…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Google將 Dreambeans 帶到印度，旨在將人工智慧生成的個人故事帶給大眾",
+          "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+          "summary": "谷歌最新的人工智慧實驗 Dreambeans 現在支援 13 種印度語言。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "蘋果可能會嘗試透過第三方人工智慧應用做一些事情來增加收入",
+          "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+          "summary": "蘋果在周一晚間的財報發布會上暗示，它可以透過第三方「機會」刺激收入…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Y Combinator 的 Garry Tan 大量使用人工智慧代理，他每年在代幣上的花費高達 20 萬美元",
+          "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+          "summary": "Y Combinator Garry Tan 開玩笑地承認他患有“網路精神病”，有時幾乎無法入睡，因為…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Trajectory 融資 4,500 萬美元，讓非技術專家也能進行 AI 模型訓練",
+          "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+          "summary": "這家成立一年的新創公司目前估值為 3 億美元。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "週五工作 (Friday Work)",
+          "link": "https://www.producthunt.com/products/friday-work",
+          "desc": "當Claude達到極限時，你的任務繼續進行關聯",
+          "title_en": "Friday Work"
+        },
+        {
+          "title": "釋放X (UnleashX)",
+          "link": "https://www.producthunt.com/products/unleashx",
+          "desc": "將對話轉化為成果的人工智慧勞動力。討論 |關聯",
+          "title_en": "UnleashX"
+        },
+        {
+          "title": "差異旅遊 (diff-tour)",
+          "link": "https://www.producthunt.com/products/diff-tour",
+          "desc": "AI 編寫程式碼。學習像高級工程師一樣閱讀它。討論 |關聯",
+          "title_en": "diff-tour"
+        },
+        {
+          "title": "赫拉 (Hera)",
+          "link": "https://www.producthunt.com/products/hera-6",
+          "desc": "AI創意畫布討論|關聯",
+          "title_en": "Hera"
+        },
+        {
+          "title": "信標.sh (beacon.sh)",
+          "link": "https://www.producthunt.com/products/asymptotelabs",
+          "desc": "開源的 AI 編碼代理自我增強記憶討論 |關聯",
+          "title_en": "beacon.sh"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "人類對Claude的人工智慧電玩克隆進行了取締",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+          "summary": "Anthropic 更新了 Claude Code 的系統提示，以防止 AI 工具被用來重新創建現有的視頻遊戲…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 將資料中心發電廠作為保護附近地區的一種方式",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+          "summary": "OpenAI 在周一的一份聲明中表示，它將在即將在埃菲 (Effi) 建立的資料中心試行其「電網保護者計畫」…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "人類對Claude的人工智慧電玩克隆進行了取締",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+        "summary": "Anthropic 更新了 Claude Code 的系統提示，以防止 AI 工具被用來重新創建現有的視頻遊戲…",
+        "source": "The Verge"
       },
       "steve_ideas": []
     }
