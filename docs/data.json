@@ -1,107 +1,101 @@
 {
-  "updated": "2026-11-03 15:31 HKT",
+  "updated": "2026-11-04 15:12 HKT",
   "news": [
     {
-      "title": "人類對Claude的人工智慧電玩克隆進行了取締",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "summary": "Anthropic 更新了 Claude Code 的系統提示，以防止 AI 工具被用來重新創建現有的視頻遊戲…",
+      "title": "PC 遊戲中最大的模組網站正在對人工智慧採取立場",
+      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+      "summary": "PC 遊戲模組儲存庫 Nexus Mods 正在強制披露新模組上傳時有關人工智慧的信息，這意味著…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 將資料中心發電廠作為保護附近地區的一種方式",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "summary": "OpenAI 在周一的一份聲明中表示，它將在即將在埃菲 (Effi) 建立的資料中心試行其「電網保護者計畫」…",
+      "title": "請不要再問我人工智慧泡沫何時破滅",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+      "summary": "人們，包括這裡的員工，一直帶著不同程度的興奮或恐懼問我，人工智慧泡沫何時會…",
       "source": "The Verge"
     },
     {
-      "title": "《紐約時報》起訴 Brave 網路瀏覽器進行人工智慧抓取和繞過付費牆",
-      "link": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times",
-      "summary": "《紐約時報》和其他一些出版物已對製作 Brave 網路品牌的公司提起訴訟…",
+      "title": "那些傑夫貝佐斯的植發照片非常假",
+      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+      "summary": "亞馬遜創辦人傑夫貝佐斯和演員傑森史塔森有一個顯著的共同點：他們都是出了名的禿頭，而且…",
       "source": "The Verge"
     },
     {
-      "title": "Apple Watch 用於回放和重述對話的 AI 功能開始 Beta 測試",
-      "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-      "summary": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversati…",
-      "source": "TechCrunch"
+      "title": "蘋果開始允許 Siri AI 存取第三方應用程式",
+      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesda…",
+      "source": "The Verge"
     },
     {
-      "title": "Google將 Dreambeans 帶到印度，旨在將人工智慧生成的個人故事帶給大眾",
-      "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-      "summary": "谷歌最新的人工智慧實驗 Dreambeans 現在支援 13 種印度語言。",
-      "source": "TechCrunch"
+      "title": "Apple 最新的 watchOS Beta 版包含全新的始終在線音訊智慧功能",
+      "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+      "summary": "從今天開始，Siri 可以透過新的音訊智慧功能調到 Apple Watch 的麥克風…",
+      "source": "The Verge"
     },
     {
-      "title": "蘋果可能會嘗試透過第三方人工智慧應用做一些事情來增加收入",
-      "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-      "summary": "蘋果在周一晚間的財報發布會上暗示，它可以透過第三方「機會」刺激收入…",
-      "source": "TechCrunch"
+      "title": "OpenAI 表示 ChatGPT 在搜尋領域正在追趕 Google",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume…",
+      "source": "The Verge"
     },
     {
-      "title": "Y Combinator 的 Garry Tan 大量使用人工智慧代理，他每年在代幣上的花費高達 20 萬美元",
-      "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-      "summary": "Y Combinator Garry Tan 開玩笑地承認他患有“網路精神病”，有時幾乎無法入睡，因為…",
-      "source": "TechCrunch"
+      "title": "由於 Steam 備份，獨立遊戲錯過了發布日期",
+      "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+      "summary": "許多獨立遊戲開發商最近在社群媒體上發文稱，他們的遊戲審批等待時間出乎意料地漫長…",
+      "source": "The Verge"
     },
     {
-      "title": "Trajectory 融資 4,500 萬美元，讓非技術專家也能進行 AI 模型訓練",
-      "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-      "summary": "這家成立一年的新創公司目前估值為 3 億美元。",
-      "source": "TechCrunch"
+      "title": "Netflix 將透過新的「AI Discover」標籤向您展示主題推薦",
+      "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+      "summary": "Netflix 的電視應用程式將獲得一個新的「AI Discover」選項卡，該公司將在其中展示實驗性的、人工智慧驅動的功能，以幫助…",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "週五工作 (Friday Work)",
-      "link": "https://www.producthunt.com/products/friday-work",
-      "desc": "當Claude達到極限時，你的任務繼續進行關聯",
-      "title_en": "Friday Work"
+      "title": "機器郵件 (MachineMail)",
+      "link": "https://www.producthunt.com/products/machinemail",
+      "desc": "人類和機器人的電子郵件收件匣關聯",
+      "title_en": "MachineMail"
     },
     {
-      "title": "釋放X (UnleashX)",
-      "link": "https://www.producthunt.com/products/unleashx",
-      "desc": "將對話轉化為成果的人工智慧勞動力。討論 |關聯",
-      "title_en": "UnleashX"
+      "title": "關特 (kwant)",
+      "link": "https://www.producthunt.com/products/kwant",
+      "desc": "人工智慧機器人在說「完成」之前檢查彼此的工作關聯",
+      "title_en": "kwant"
     },
     {
-      "title": "差異旅遊 (diff-tour)",
-      "link": "https://www.producthunt.com/products/diff-tour",
-      "desc": "AI 編寫程式碼。學習像高級工程師一樣閱讀它。討論 |關聯",
-      "title_en": "diff-tour"
+      "title": "作證 (Testifly)",
+      "link": "https://www.producthunt.com/products/testifly-launch",
+      "desc": "自主人工智慧品質保證。零提示。零維護。討論 |關聯",
+      "title_en": "Testifly"
     },
     {
-      "title": "赫拉 (Hera)",
-      "link": "https://www.producthunt.com/products/hera-6",
-      "desc": "AI創意畫布討論|關聯",
-      "title_en": "Hera"
+      "title": "科爾沃 (Corvo)",
+      "link": "https://www.producthunt.com/products/corvo-3",
+      "desc": "一個在郵件到達時自動整理的郵箱關聯",
+      "title_en": "Corvo"
     },
     {
-      "title": "信標.sh (beacon.sh)",
-      "link": "https://www.producthunt.com/products/asymptotelabs",
-      "desc": "開源的 AI 編碼代理自我增強記憶討論 |關聯",
-      "title_en": "beacon.sh"
+      "title": "泰斯特拉 (Testera)",
+      "link": "https://www.producthunt.com/products/testera-3",
+      "desc": "AI驅動的API測試討論|關聯",
+      "title_en": "Testera"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "人類對Claude的人工智慧電玩克隆進行了取締",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-      "summary": "Anthropic 更新了 Claude Code 的系統提示，以防止 AI 工具被用來重新創建現有的視頻遊戲…",
-      "source": "The Verge"
-    },
-    {
-      "title": "OpenAI 將資料中心發電廠作為保護附近地區的一種方式",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
-      "summary": "OpenAI 在周一的一份聲明中表示，它將在即將在埃菲 (Effi) 建立的資料中心試行其「電網保護者計畫」…",
+      "title": "OpenAI 表示 ChatGPT 在搜尋領域正在追趕 Google",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "人類對Claude的人工智慧電玩克隆進行了取締",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
-    "summary": "Anthropic 更新了 Claude Code 的系統提示，以防止 AI 工具被用來重新創建現有的視頻遊戲…",
+    "title": "OpenAI 表示 ChatGPT 在搜尋領域正在追趕 Google",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+    "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -16058,6 +16052,107 @@
         "title": "人類對Claude的人工智慧電玩克隆進行了取締",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
         "summary": "Anthropic 更新了 Claude Code 的系統提示，以防止 AI 工具被用來重新創建現有的視頻遊戲…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-04": {
+      "news": [
+        {
+          "title": "PC 遊戲中最大的模組網站正在對人工智慧採取立場",
+          "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+          "summary": "PC 遊戲模組儲存庫 Nexus Mods 正在強制披露新模組上傳時有關人工智慧的信息，這意味著…",
+          "source": "The Verge"
+        },
+        {
+          "title": "請不要再問我人工智慧泡沫何時破滅",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+          "summary": "人們，包括這裡的員工，一直帶著不同程度的興奮或恐懼問我，人工智慧泡沫何時會…",
+          "source": "The Verge"
+        },
+        {
+          "title": "那些傑夫貝佐斯的植發照片非常假",
+          "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
+          "summary": "亞馬遜創辦人傑夫貝佐斯和演員傑森史塔森有一個顯著的共同點：他們都是出了名的禿頭，而且…",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果開始允許 Siri AI 存取第三方應用程式",
+          "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+          "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesda…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple 最新的 watchOS Beta 版包含全新的始終在線音訊智慧功能",
+          "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+          "summary": "從今天開始，Siri 可以透過新的音訊智慧功能調到 Apple Watch 的麥克風…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 表示 ChatGPT 在搜尋領域正在追趕 Google",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+          "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume…",
+          "source": "The Verge"
+        },
+        {
+          "title": "由於 Steam 備份，獨立遊戲錯過了發布日期",
+          "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
+          "summary": "許多獨立遊戲開發商最近在社群媒體上發文稱，他們的遊戲審批等待時間出乎意料地漫長…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Netflix 將透過新的「AI Discover」標籤向您展示主題推薦",
+          "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
+          "summary": "Netflix 的電視應用程式將獲得一個新的「AI Discover」選項卡，該公司將在其中展示實驗性的、人工智慧驅動的功能，以幫助…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "機器郵件 (MachineMail)",
+          "link": "https://www.producthunt.com/products/machinemail",
+          "desc": "人類和機器人的電子郵件收件匣關聯",
+          "title_en": "MachineMail"
+        },
+        {
+          "title": "關特 (kwant)",
+          "link": "https://www.producthunt.com/products/kwant",
+          "desc": "人工智慧機器人在說「完成」之前檢查彼此的工作關聯",
+          "title_en": "kwant"
+        },
+        {
+          "title": "作證 (Testifly)",
+          "link": "https://www.producthunt.com/products/testifly-launch",
+          "desc": "自主人工智慧品質保證。零提示。零維護。討論 |關聯",
+          "title_en": "Testifly"
+        },
+        {
+          "title": "科爾沃 (Corvo)",
+          "link": "https://www.producthunt.com/products/corvo-3",
+          "desc": "一個在郵件到達時自動整理的郵箱關聯",
+          "title_en": "Corvo"
+        },
+        {
+          "title": "泰斯特拉 (Testera)",
+          "link": "https://www.producthunt.com/products/testera-3",
+          "desc": "AI驅動的API測試討論|關聯",
+          "title_en": "Testera"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 表示 ChatGPT 在搜尋領域正在追趕 Google",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+          "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 表示 ChatGPT 在搜尋領域正在追趕 Google",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+        "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume…",
         "source": "The Verge"
       },
       "steve_ideas": []
