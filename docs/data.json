@@ -1,101 +1,107 @@
 {
-  "updated": "2026-11-04 15:12 HKT",
+  "updated": "2026-11-05 15:39 HKT",
   "news": [
     {
-      "title": "PC 遊戲中最大的模組網站正在對人工智慧採取立場",
-      "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
-      "summary": "PC 遊戲模組儲存庫 Nexus Mods 正在強制披露新模組上傳時有關人工智慧的信息，這意味著…",
+      "title": "隨著智慧型手機銷量下滑，高通在資料中心上下了重註",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "summary": "與 2025 年相比，智慧型手機銷量下降約 20%，高通希望透過數據中心來幫助推動智慧型手機銷量的成長。",
       "source": "The Verge"
     },
     {
-      "title": "請不要再問我人工智慧泡沫何時破滅",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-      "summary": "人們，包括這裡的員工，一直帶著不同程度的興奮或恐懼問我，人工智慧泡沫何時會…",
+      "title": "伊隆馬斯克本可以浪費 4.46 億美元的 17 種更好方法",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+      "summary": "在社群媒體上花費太多時間的基本問題之一是你透過閱讀貼文來烹飪你的大腦...",
       "source": "The Verge"
     },
     {
-      "title": "那些傑夫貝佐斯的植發照片非常假",
-      "link": "https://www.theverge.com/tech/1025745/fake-jeff-bezos-hair-replacement-photos-debunk",
-      "summary": "亞馬遜創辦人傑夫貝佐斯和演員傑森史塔森有一個顯著的共同點：他們都是出了名的禿頭，而且…",
+      "title": "Gemini for Home 現已接入 AT&T 的智慧安全系統",
+      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "summary": "AT&T 的智慧家庭安全系統現已與 Gemini for Home 整合。該公司表示，其互聯生活系統是…",
       "source": "The Verge"
     },
     {
-      "title": "蘋果開始允許 Siri AI 存取第三方應用程式",
-      "link": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
-      "summary": "Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesda…",
+      "title": "無螢幕人工智慧裝置將於下個月推出",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+      "summary": "Nothing 執行長 Carl Pei 在 X 上的一篇貼文中表示，該公司將於 12 月推出首款人工智慧設備。那隻是一盞燈…",
       "source": "The Verge"
     },
     {
-      "title": "Apple 最新的 watchOS Beta 版包含全新的始終在線音訊智慧功能",
-      "link": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
-      "summary": "從今天開始，Siri 可以透過新的音訊智慧功能調到 Apple Watch 的麥克風…",
+      "title": "我的治療師認為我應該把亞馬遜蜜蜂前沿扔出窗外",
+      "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+      "summary": "這是 Optimizer，由 Verge 高級審稿人 Victoria Song 發送的每週時事通訊，剖析並討論了最新的…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 表示 ChatGPT 在搜尋領域正在追趕 Google",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume…",
+      "title": "ChatGPT 現在將為您製作動畫 GIF",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "summary": "ChatGPT 現在可以使用提示或上傳到 AI 聊天機器人的照片來建立 GIF。该更新正在推出……",
       "source": "The Verge"
     },
     {
-      "title": "由於 Steam 備份，獨立遊戲錯過了發布日期",
-      "link": "https://www.theverge.com/games/1025596/valve-steam-indie-games-missing-launch-dates",
-      "summary": "許多獨立遊戲開發商最近在社群媒體上發文稱，他們的遊戲審批等待時間出乎意料地漫長…",
+      "title": "資料中心在中期選舉失敗",
+      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+      "summary": "在全國選民投票後，資料中心開發商將面臨更嚴格的建築環境…",
       "source": "The Verge"
     },
     {
-      "title": "Netflix 將透過新的「AI Discover」標籤向您展示主題推薦",
-      "link": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations",
-      "summary": "Netflix 的電視應用程式將獲得一個新的「AI Discover」選項卡，該公司將在其中展示實驗性的、人工智慧驅動的功能，以幫助…",
+      "title": "Uber 上季僅完成了 4 次人工智慧代理商的乘車服務",
+      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+      "summary": "人工智慧代理商不會很快搶走 Uber 的午餐。在此期間，第三方人工智慧代理僅安排了四次乘車…",
       "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "機器郵件 (MachineMail)",
-      "link": "https://www.producthunt.com/products/machinemail",
-      "desc": "人類和機器人的電子郵件收件匣關聯",
-      "title_en": "MachineMail"
+      "title": "LiveReacting for ChatGPT",
+      "link": "https://www.producthunt.com/products/livereacting",
+      "desc": "從 ChatGPT 運行 24/7 和預先錄製的即時串流討論 |關聯",
+      "title_en": "LiveReacting for ChatGPT"
     },
     {
-      "title": "關特 (kwant)",
-      "link": "https://www.producthunt.com/products/kwant",
-      "desc": "人工智慧機器人在說「完成」之前檢查彼此的工作關聯",
-      "title_en": "kwant"
+      "title": "瓦納卡工作室 (Wanaka Studio)",
+      "link": "https://www.producthunt.com/products/wanaka-studio",
+      "desc": "使用首款 AI 遊戲引擎製作和發布 3D 遊戲 討論 |關聯",
+      "title_en": "Wanaka Studio"
     },
     {
-      "title": "作證 (Testifly)",
-      "link": "https://www.producthunt.com/products/testifly-launch",
-      "desc": "自主人工智慧品質保證。零提示。零維護。討論 |關聯",
-      "title_en": "Testifly"
+      "title": "軌道邊緣 (TrackEdge)",
+      "link": "https://www.producthunt.com/products/trackedge-2",
+      "desc": "MacBook 觸控板上隱藏的 AI 按鈕關聯",
+      "title_en": "TrackEdge"
     },
     {
-      "title": "科爾沃 (Corvo)",
-      "link": "https://www.producthunt.com/products/corvo-3",
-      "desc": "一個在郵件到達時自動整理的郵箱關聯",
-      "title_en": "Corvo"
+      "title": "PasteGuard Mac 版 (PasteGuard for Mac)",
+      "link": "https://www.producthunt.com/products/pasteguard-2",
+      "desc": "將秘密和個人資料排除在人工智慧聊天之外關聯",
+      "title_en": "PasteGuard for Mac"
     },
     {
-      "title": "泰斯特拉 (Testera)",
-      "link": "https://www.producthunt.com/products/testera-3",
-      "desc": "AI驅動的API測試討論|關聯",
-      "title_en": "Testera"
+      "title": "普雷魯魯 (Prelulu)",
+      "link": "https://www.producthunt.com/products/prelulu",
+      "desc": "成為主角：聊天和視訊角色扮演任何故事關聯",
+      "title_en": "Prelulu"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 表示 ChatGPT 在搜尋領域正在追趕 Google",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-      "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume…",
+      "title": "Gemini for Home 現已接入 AT&T 的智慧安全系統",
+      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+      "summary": "AT&T 的智慧家庭安全系統現已與 Gemini for Home 整合。該公司表示，其互聯生活系統是…",
+      "source": "The Verge"
+    },
+    {
+      "title": "ChatGPT 現在將為您製作動畫 GIF",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+      "summary": "ChatGPT 現在可以使用提示或上傳到 AI 聊天機器人的照片來建立 GIF。该更新正在推出……",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "OpenAI 表示 ChatGPT 在搜尋領域正在追趕 Google",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
-    "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume…",
+    "title": "Gemini for Home 現已接入 AT&T 的智慧安全系統",
+    "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+    "summary": "AT&T 的智慧家庭安全系統現已與 Gemini for Home 整合。該公司表示，其互聯生活系統是…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -16153,6 +16159,113 @@
         "title": "OpenAI 表示 ChatGPT 在搜尋領域正在追趕 Google",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
         "summary": "In many circles, \"Ask Chat\" has replaced \"Google it,\" and that's reflected in a new announcement from OpenAI: the volume…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-05": {
+      "news": [
+        {
+          "title": "隨著智慧型手機銷量下滑，高通在資料中心上下了重註",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+          "summary": "與 2025 年相比，智慧型手機銷量下降約 20%，高通希望透過數據中心來幫助推動智慧型手機銷量的成長。",
+          "source": "The Verge"
+        },
+        {
+          "title": "伊隆馬斯克本可以浪費 4.46 億美元的 17 種更好方法",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+          "summary": "在社群媒體上花費太多時間的基本問題之一是你透過閱讀貼文來烹飪你的大腦...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Gemini for Home 現已接入 AT&T 的智慧安全系統",
+          "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "summary": "AT&T 的智慧家庭安全系統現已與 Gemini for Home 整合。該公司表示，其互聯生活系統是…",
+          "source": "The Verge"
+        },
+        {
+          "title": "無螢幕人工智慧裝置將於下個月推出",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
+          "summary": "Nothing 執行長 Carl Pei 在 X 上的一篇貼文中表示，該公司將於 12 月推出首款人工智慧設備。那隻是一盞燈…",
+          "source": "The Verge"
+        },
+        {
+          "title": "我的治療師認為我應該把亞馬遜蜜蜂前沿扔出窗外",
+          "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
+          "summary": "這是 Optimizer，由 Verge 高級審稿人 Victoria Song 發送的每週時事通訊，剖析並討論了最新的…",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT 現在將為您製作動畫 GIF",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+          "summary": "ChatGPT 現在可以使用提示或上傳到 AI 聊天機器人的照片來建立 GIF。该更新正在推出……",
+          "source": "The Verge"
+        },
+        {
+          "title": "資料中心在中期選舉失敗",
+          "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
+          "summary": "在全國選民投票後，資料中心開發商將面臨更嚴格的建築環境…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Uber 上季僅完成了 4 次人工智慧代理商的乘車服務",
+          "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
+          "summary": "人工智慧代理商不會很快搶走 Uber 的午餐。在此期間，第三方人工智慧代理僅安排了四次乘車…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "LiveReacting for ChatGPT",
+          "link": "https://www.producthunt.com/products/livereacting",
+          "desc": "從 ChatGPT 運行 24/7 和預先錄製的即時串流討論 |關聯",
+          "title_en": "LiveReacting for ChatGPT"
+        },
+        {
+          "title": "瓦納卡工作室 (Wanaka Studio)",
+          "link": "https://www.producthunt.com/products/wanaka-studio",
+          "desc": "使用首款 AI 遊戲引擎製作和發布 3D 遊戲 討論 |關聯",
+          "title_en": "Wanaka Studio"
+        },
+        {
+          "title": "軌道邊緣 (TrackEdge)",
+          "link": "https://www.producthunt.com/products/trackedge-2",
+          "desc": "MacBook 觸控板上隱藏的 AI 按鈕關聯",
+          "title_en": "TrackEdge"
+        },
+        {
+          "title": "PasteGuard Mac 版 (PasteGuard for Mac)",
+          "link": "https://www.producthunt.com/products/pasteguard-2",
+          "desc": "將秘密和個人資料排除在人工智慧聊天之外關聯",
+          "title_en": "PasteGuard for Mac"
+        },
+        {
+          "title": "普雷魯魯 (Prelulu)",
+          "link": "https://www.producthunt.com/products/prelulu",
+          "desc": "成為主角：聊天和視訊角色扮演任何故事關聯",
+          "title_en": "Prelulu"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Gemini for Home 現已接入 AT&T 的智慧安全系統",
+          "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+          "summary": "AT&T 的智慧家庭安全系統現已與 Gemini for Home 整合。該公司表示，其互聯生活系統是…",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT 現在將為您製作動畫 GIF",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
+          "summary": "ChatGPT 現在可以使用提示或上傳到 AI 聊天機器人的照片來建立 GIF。该更新正在推出……",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Gemini for Home 現已接入 AT&T 的智慧安全系統",
+        "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+        "summary": "AT&T 的智慧家庭安全系統現已與 Gemini for Home 整合。該公司表示，其互聯生活系統是…",
         "source": "The Verge"
       },
       "steve_ideas": []
