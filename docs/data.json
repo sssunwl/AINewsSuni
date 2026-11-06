@@ -1,107 +1,113 @@
 {
-  "updated": "2026-11-05 15:39 HKT",
+  "updated": "2026-11-06 15:37 HKT",
   "news": [
     {
-      "title": "隨著智慧型手機銷量下滑，高通在資料中心上下了重註",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-      "summary": "與 2025 年相比，智慧型手機銷量下降約 20%，高通希望透過數據中心來幫助推動智慧型手機銷量的成長。",
+      "title": "OpenAI 退出資料中心專案的 NDA",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "summary": "繼本週的中期選舉後，選民強烈反對資料中心擴建，OpenAI 今天…",
       "source": "The Verge"
     },
     {
-      "title": "伊隆馬斯克本可以浪費 4.46 億美元的 17 種更好方法",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-      "summary": "在社群媒體上花費太多時間的基本問題之一是你透過閱讀貼文來烹飪你的大腦...",
+      "title": "Airbnb 正在開發人工智慧旅行社",
+      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "summary": "Airbnb 計劃在 2027 年上半年推出人工智慧代理，幫助用戶規劃和預訂旅行，該公司表示…",
       "source": "The Verge"
     },
     {
-      "title": "Gemini for Home 現已接入 AT&T 的智慧安全系統",
-      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-      "summary": "AT&T 的智慧家庭安全系統現已與 Gemini for Home 整合。該公司表示，其互聯生活系統是…",
+      "title": "Perplexity 推出了自己的人工智慧工作代理",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "summary": "Perplexity 正在透過自己的以工作為中心的人工智慧代理來挑戰 OpenAI 和 Anthropic。這家新創公司全新的始終在線的「隊友…",
       "source": "The Verge"
     },
     {
-      "title": "無螢幕人工智慧裝置將於下個月推出",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-      "summary": "Nothing 執行長 Carl Pei 在 X 上的一篇貼文中表示，該公司將於 12 月推出首款人工智慧設備。那隻是一盞燈…",
+      "title": "Muse現在有語音模式",
+      "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "summary": "執行長馬克祖克柏今天宣布，Meta 現在可以讓你與 Muse AI 代理進行即時語音對話。特…",
       "source": "The Verge"
     },
     {
-      "title": "我的治療師認為我應該把亞馬遜蜜蜂前沿扔出窗外",
-      "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-      "summary": "這是 Optimizer，由 Verge 高級審稿人 Victoria Song 發送的每週時事通訊，剖析並討論了最新的…",
+      "title": "Claude AI 可以直接插入您的銀行帳戶",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "summary": "Anthropic 推出了管理個人財務的新方案：讓 Claude 來管理您的個人財務，並推出新的個人財務功能…",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT 現在將為您製作動畫 GIF",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "summary": "ChatGPT 現在可以使用提示或上傳到 AI 聊天機器人的照片來建立 GIF。该更新正在推出……",
+      "title": "「全盤否定」：藍色浪潮即將席捲AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+      "summary": "週二晚上，民主黨人創造了歷史，控制了眾議院和參議院，藍色浪潮席捲…",
       "source": "The Verge"
     },
     {
-      "title": "資料中心在中期選舉失敗",
-      "link": "https://www.theverge.com/policy/1026365/data-centers-midterms-results",
-      "summary": "在全國選民投票後，資料中心開發商將面臨更嚴格的建築環境…",
+      "title": "葛萊姆斯將主演一部即將上映的人工智慧電影",
+      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+      "summary": "AI 生成的科幻電影《眾神不送禮物》增添了一點明星力量：流行歌手葛萊姆斯將出現在…",
       "source": "The Verge"
     },
     {
-      "title": "Uber 上季僅完成了 4 次人工智慧代理商的乘車服務",
-      "link": "https://www.theverge.com/transportation/1026306/uber-ai-agents-q3-earnings-disintermediation",
-      "summary": "人工智慧代理商不會很快搶走 Uber 的午餐。在此期間，第三方人工智慧代理僅安排了四次乘車…",
+      "title": "OpenAI 表示其新的網路安全模式更擅長不攻擊其他公司",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+      "summary": "OpenAI 正在推出 GPT-6 Cyber​​，這是其網路安全人工智慧模型的最新版本，據稱該模型更擅長發現 vu...",
       "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "LiveReacting for ChatGPT",
-      "link": "https://www.producthunt.com/products/livereacting",
-      "desc": "從 ChatGPT 運行 24/7 和預先錄製的即時串流討論 |關聯",
-      "title_en": "LiveReacting for ChatGPT"
+      "title": "Easy-Peasy.AI 的 AI 員工 (AI Employees by Easy-Peasy.AI)",
+      "link": "https://www.producthunt.com/products/easy-peasy-ai",
+      "desc": "僱用一個人工智慧團隊來分工並在發送討論之前進行詢問關聯",
+      "title_en": "AI Employees by Easy-Peasy.AI"
     },
     {
-      "title": "瓦納卡工作室 (Wanaka Studio)",
-      "link": "https://www.producthunt.com/products/wanaka-studio",
-      "desc": "使用首款 AI 遊戲引擎製作和發布 3D 遊戲 討論 |關聯",
-      "title_en": "Wanaka Studio"
+      "title": "團隊推廣 (Pushary for Teams)",
+      "link": "https://www.producthunt.com/products/pushary",
+      "desc": "看看誰對你團隊的人工智慧代理表示同意 討論 |關聯",
+      "title_en": "Pushary for Teams"
     },
     {
-      "title": "軌道邊緣 (TrackEdge)",
-      "link": "https://www.producthunt.com/products/trackedge-2",
-      "desc": "MacBook 觸控板上隱藏的 AI 按鈕關聯",
-      "title_en": "TrackEdge"
+      "title": "活腦 (Living Brain)",
+      "link": "https://www.producthunt.com/products/chatandbuild",
+      "desc": "Interoperable, efficient memory layer for agentic AI Discussion | Link",
+      "title_en": "Living Brain"
     },
     {
-      "title": "PasteGuard Mac 版 (PasteGuard for Mac)",
-      "link": "https://www.producthunt.com/products/pasteguard-2",
-      "desc": "將秘密和個人資料排除在人工智慧聊天之外關聯",
-      "title_en": "PasteGuard for Mac"
+      "title": "Stitch.ai",
+      "link": "https://www.producthunt.com/products/stitch-ai",
+      "desc": "您的 AI 工作區，用於郵件、日曆、筆記、任務等關聯",
+      "title_en": "Stitch.ai"
     },
     {
-      "title": "普雷魯魯 (Prelulu)",
-      "link": "https://www.producthunt.com/products/prelulu",
-      "desc": "成為主角：聊天和視訊角色扮演任何故事關聯",
-      "title_en": "Prelulu"
+      "title": "海上 (Maritime)",
+      "link": "https://www.producthunt.com/products/maritime",
+      "desc": "適用於任何 AI 代理的雲端計算機，客製化您的方式關聯",
+      "title_en": "Maritime"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Gemini for Home 現已接入 AT&T 的智慧安全系統",
-      "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-      "summary": "AT&T 的智慧家庭安全系統現已與 Gemini for Home 整合。該公司表示，其互聯生活系統是…",
+      "title": "OpenAI 退出資料中心專案的 NDA",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "summary": "繼本週的中期選舉後，選民強烈反對資料中心擴建，OpenAI 今天…",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT 現在將為您製作動畫 GIF",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-      "summary": "ChatGPT 現在可以使用提示或上傳到 AI 聊天機器人的照片來建立 GIF。该更新正在推出……",
+      "title": "Perplexity 推出了自己的人工智慧工作代理",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "summary": "Perplexity 正在透過自己的以工作為中心的人工智慧代理來挑戰 OpenAI 和 Anthropic。這家新創公司全新的始終在線的「隊友…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Claude AI 可以直接插入您的銀行帳戶",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+      "summary": "Anthropic 推出了管理個人財務的新方案：讓 Claude 來管理您的個人財務，並推出新的個人財務功能…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Gemini for Home 現已接入 AT&T 的智慧安全系統",
-    "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-    "summary": "AT&T 的智慧家庭安全系統現已與 Gemini for Home 整合。該公司表示，其互聯生活系統是…",
+    "title": "OpenAI 退出資料中心專案的 NDA",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+    "summary": "繼本週的中期選舉後，選民強烈反對資料中心擴建，OpenAI 今天…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -16266,6 +16272,119 @@
         "title": "Gemini for Home 現已接入 AT&T 的智慧安全系統",
         "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
         "summary": "AT&T 的智慧家庭安全系統現已與 Gemini for Home 整合。該公司表示，其互聯生活系統是…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-06": {
+      "news": [
+        {
+          "title": "OpenAI 退出資料中心專案的 NDA",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+          "summary": "繼本週的中期選舉後，選民強烈反對資料中心擴建，OpenAI 今天…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Airbnb 正在開發人工智慧旅行社",
+          "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+          "summary": "Airbnb 計劃在 2027 年上半年推出人工智慧代理，幫助用戶規劃和預訂旅行，該公司表示…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Perplexity 推出了自己的人工智慧工作代理",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+          "summary": "Perplexity 正在透過自己的以工作為中心的人工智慧代理來挑戰 OpenAI 和 Anthropic。這家新創公司全新的始終在線的「隊友…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Muse現在有語音模式",
+          "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+          "summary": "執行長馬克祖克柏今天宣布，Meta 現在可以讓你與 Muse AI 代理進行即時語音對話。特…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Claude AI 可以直接插入您的銀行帳戶",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+          "summary": "Anthropic 推出了管理個人財務的新方案：讓 Claude 來管理您的個人財務，並推出新的個人財務功能…",
+          "source": "The Verge"
+        },
+        {
+          "title": "「全盤否定」：藍色浪潮即將席捲AI",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
+          "summary": "週二晚上，民主黨人創造了歷史，控制了眾議院和參議院，藍色浪潮席捲…",
+          "source": "The Verge"
+        },
+        {
+          "title": "葛萊姆斯將主演一部即將上映的人工智慧電影",
+          "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
+          "summary": "AI 生成的科幻電影《眾神不送禮物》增添了一點明星力量：流行歌手葛萊姆斯將出現在…",
+          "source": "The Verge"
+        },
+        {
+          "title": "OpenAI 表示其新的網路安全模式更擅長不攻擊其他公司",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
+          "summary": "OpenAI 正在推出 GPT-6 Cyber​​，這是其網路安全人工智慧模型的最新版本，據稱該模型更擅長發現 vu...",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Easy-Peasy.AI 的 AI 員工 (AI Employees by Easy-Peasy.AI)",
+          "link": "https://www.producthunt.com/products/easy-peasy-ai",
+          "desc": "僱用一個人工智慧團隊來分工並在發送討論之前進行詢問關聯",
+          "title_en": "AI Employees by Easy-Peasy.AI"
+        },
+        {
+          "title": "團隊推廣 (Pushary for Teams)",
+          "link": "https://www.producthunt.com/products/pushary",
+          "desc": "看看誰對你團隊的人工智慧代理表示同意 討論 |關聯",
+          "title_en": "Pushary for Teams"
+        },
+        {
+          "title": "活腦 (Living Brain)",
+          "link": "https://www.producthunt.com/products/chatandbuild",
+          "desc": "Interoperable, efficient memory layer for agentic AI Discussion | Link",
+          "title_en": "Living Brain"
+        },
+        {
+          "title": "Stitch.ai",
+          "link": "https://www.producthunt.com/products/stitch-ai",
+          "desc": "您的 AI 工作區，用於郵件、日曆、筆記、任務等關聯",
+          "title_en": "Stitch.ai"
+        },
+        {
+          "title": "海上 (Maritime)",
+          "link": "https://www.producthunt.com/products/maritime",
+          "desc": "適用於任何 AI 代理的雲端計算機，客製化您的方式關聯",
+          "title_en": "Maritime"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 退出資料中心專案的 NDA",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+          "summary": "繼本週的中期選舉後，選民強烈反對資料中心擴建，OpenAI 今天…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Perplexity 推出了自己的人工智慧工作代理",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+          "summary": "Perplexity 正在透過自己的以工作為中心的人工智慧代理來挑戰 OpenAI 和 Anthropic。這家新創公司全新的始終在線的「隊友…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Claude AI 可以直接插入您的銀行帳戶",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
+          "summary": "Anthropic 推出了管理個人財務的新方案：讓 Claude 來管理您的個人財務，並推出新的個人財務功能…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 退出資料中心專案的 NDA",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+        "summary": "繼本週的中期選舉後，選民強烈反對資料中心擴建，OpenAI 今天…",
         "source": "The Verge"
       },
       "steve_ideas": []
