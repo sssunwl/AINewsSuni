@@ -1,113 +1,101 @@
 {
-  "updated": "2026-11-06 15:37 HKT",
+  "updated": "2026-11-07 14:48 HKT",
   "news": [
     {
-      "title": "OpenAI 退出資料中心專案的 NDA",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "summary": "繼本週的中期選舉後，選民強烈反對資料中心擴建，OpenAI 今天…",
+      "title": "競爭對手 Anthropic 即將 IPO，OpenAI 估值達 1.25 兆美元",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "summary": "據 Bloom 稱，OpenAI 在新一輪融資中目前估值為 1.25 兆美元，該輪融資又籌集了 110 億美元…",
       "source": "The Verge"
     },
     {
-      "title": "Airbnb 正在開發人工智慧旅行社",
-      "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-      "summary": "Airbnb 計劃在 2027 年上半年推出人工智慧代理，幫助用戶規劃和預訂旅行，該公司表示…",
+      "title": "據報道，中國招募人工智慧高層來監視黃仁勳",
+      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+      "summary": "根據 Th 報道，中國情報機構招募了 Megaspeed 高層 Alice Huang 來監視 Nvidia 執行長 Jensen Huang。",
       "source": "The Verge"
     },
     {
-      "title": "Perplexity 推出了自己的人工智慧工作代理",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "summary": "Perplexity 正在透過自己的以工作為中心的人工智慧代理來挑戰 OpenAI 和 Anthropic。這家新創公司全新的始終在線的「隊友…",
+      "title": "人工智慧資料中心的所有最新更新",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "summary": "大規模的新資料中心是科技公司對人工智慧的希望和夢想的物理基礎。但急於擴張…",
       "source": "The Verge"
     },
     {
-      "title": "Muse現在有語音模式",
-      "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-      "summary": "執行長馬克祖克柏今天宣布，Meta 現在可以讓你與 Muse AI 代理進行即時語音對話。特…",
+      "title": "Meta 的 Muse AI 可以為您現在需要的應用程式版本建立自訂“空間”",
+      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+      "summary": "Meta 現在允許您在 Muse 中建立客製化的、類似應用程式的體驗。這項新功能稱為“空間”，允許…",
       "source": "The Verge"
     },
     {
-      "title": "Claude AI 可以直接插入您的銀行帳戶",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "summary": "Anthropic 推出了管理個人財務的新方案：讓 Claude 來管理您的個人財務，並推出新的個人財務功能…",
+      "title": "人工智慧是新的約會破壞者",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her …",
       "source": "The Verge"
     },
     {
-      "title": "「全盤否定」：藍色浪潮即將席捲AI",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1026927/total-repudiation-the-blue-wave-is-about-to-hit-ai",
-      "summary": "週二晚上，民主黨人創造了歷史，控制了眾議院和參議院，藍色浪潮席捲…",
+      "title": "大型科技公司在 2026 年大選中慘敗",
+      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+      "summary": "週二，數百萬美國選民前往投票站，以壓倒性多數投票支持民主黨，反對人工智慧。無花果…",
       "source": "The Verge"
     },
     {
-      "title": "葛萊姆斯將主演一部即將上映的人工智慧電影",
-      "link": "https://www.theverge.com/entertainment/1026282/grimes-ai-movie",
-      "summary": "AI 生成的科幻電影《眾神不送禮物》增添了一點明星力量：流行歌手葛萊姆斯將出現在…",
+      "title": "How Akai and Moog are embracing vibe-coded mods",
+      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+      "summary": "inMusic 是 Akai、Moog、Native Instruments 等公司的母公司，決定擁抱改裝社群。我…",
       "source": "The Verge"
     },
     {
-      "title": "OpenAI 表示其新的網路安全模式更擅長不攻擊其他公司",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch",
-      "summary": "OpenAI 正在推出 GPT-6 Cyber​​，這是其網路安全人工智慧模型的最新版本，據稱該模型更擅長發現 vu...",
+      "title": "亞馬遜將允許你向 Alexa 發送購物清單短信",
+      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+      "summary": "亞馬遜正在為 Alexa for Shopping 添加一項新功能，允許客戶透過向 AI 購物發送簡訊來購買商品…",
       "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "Easy-Peasy.AI 的 AI 員工 (AI Employees by Easy-Peasy.AI)",
-      "link": "https://www.producthunt.com/products/easy-peasy-ai",
-      "desc": "僱用一個人工智慧團隊來分工並在發送討論之前進行詢問關聯",
-      "title_en": "AI Employees by Easy-Peasy.AI"
+      "title": "戶平網站代理 (Tobira Site Agent)",
+      "link": "https://www.producthunt.com/products/tobira-ai",
+      "desc": "Turn your website into an AI agent that sells to AI agents Discussion | Link",
+      "title_en": "Tobira Site Agent"
     },
     {
-      "title": "團隊推廣 (Pushary for Teams)",
-      "link": "https://www.producthunt.com/products/pushary",
-      "desc": "看看誰對你團隊的人工智慧代理表示同意 討論 |關聯",
-      "title_en": "Pushary for Teams"
+      "title": "Rankfender v3.0",
+      "link": "https://www.producthunt.com/products/rankfender",
+      "desc": "SEO/GEO 作業系統，專為人類和 AI 代理建立關聯",
+      "title_en": "Rankfender v3.0"
     },
     {
-      "title": "活腦 (Living Brain)",
-      "link": "https://www.producthunt.com/products/chatandbuild",
-      "desc": "Interoperable, efficient memory layer for agentic AI Discussion | Link",
-      "title_en": "Living Brain"
+      "title": "特恩斯通 (Turnstone)",
+      "link": "https://www.producthunt.com/products/turnstone",
+      "desc": "Grok Bot 替代方案，在您的 AI 上運行，完全免費 討論 |關聯",
+      "title_en": "Turnstone"
     },
     {
-      "title": "Stitch.ai",
-      "link": "https://www.producthunt.com/products/stitch-ai",
-      "desc": "您的 AI 工作區，用於郵件、日曆、筆記、任務等關聯",
-      "title_en": "Stitch.ai"
+      "title": "小精靈 (Wisp)",
+      "link": "https://www.producthunt.com/products/wisp-9",
+      "desc": "Wisp 是個住在你桌面上的人工智慧小精靈 討論 |關聯",
+      "title_en": "Wisp"
     },
     {
-      "title": "海上 (Maritime)",
-      "link": "https://www.producthunt.com/products/maritime",
-      "desc": "適用於任何 AI 代理的雲端計算機，客製化您的方式關聯",
-      "title_en": "Maritime"
+      "title": "水晶 (crystl)",
+      "link": "https://www.producthunt.com/products/crystl-multitasking-terminal",
+      "desc": "multitasking terminal for AI coding agents, built for macOS Discussion | Link",
+      "title_en": "crystl"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 退出資料中心專案的 NDA",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-      "summary": "繼本週的中期選舉後，選民強烈反對資料中心擴建，OpenAI 今天…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Perplexity 推出了自己的人工智慧工作代理",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-      "summary": "Perplexity 正在透過自己的以工作為中心的人工智慧代理來挑戰 OpenAI 和 Anthropic。這家新創公司全新的始終在線的「隊友…",
-      "source": "The Verge"
-    },
-    {
-      "title": "Claude AI 可以直接插入您的銀行帳戶",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1027652/anthropic-claude-plaid-personal-finance",
-      "summary": "Anthropic 推出了管理個人財務的新方案：讓 Claude 來管理您的個人財務，並推出新的個人財務功能…",
+      "title": "競爭對手 Anthropic 即將 IPO，OpenAI 估值達 1.25 兆美元",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "summary": "據 Bloom 稱，OpenAI 在新一輪融資中目前估值為 1.25 兆美元，該輪融資又籌集了 110 億美元…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "OpenAI 退出資料中心專案的 NDA",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-    "summary": "繼本週的中期選舉後，選民強烈反對資料中心擴建，OpenAI 今天…",
+    "title": "競爭對手 Anthropic 即將 IPO，OpenAI 估值達 1.25 兆美元",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+    "summary": "據 Bloom 稱，OpenAI 在新一輪融資中目前估值為 1.25 兆美元，該輪融資又籌集了 110 億美元…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -16385,6 +16373,107 @@
         "title": "OpenAI 退出資料中心專案的 NDA",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
         "summary": "繼本週的中期選舉後，選民強烈反對資料中心擴建，OpenAI 今天…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-07": {
+      "news": [
+        {
+          "title": "競爭對手 Anthropic 即將 IPO，OpenAI 估值達 1.25 兆美元",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+          "summary": "據 Bloom 稱，OpenAI 在新一輪融資中目前估值為 1.25 兆美元，該輪融資又籌集了 110 億美元…",
+          "source": "The Verge"
+        },
+        {
+          "title": "據報道，中國招募人工智慧高層來監視黃仁勳",
+          "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+          "summary": "根據 Th 報道，中國情報機構招募了 Megaspeed 高層 Alice Huang 來監視 Nvidia 執行長 Jensen Huang。",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧資料中心的所有最新更新",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+          "summary": "大規模的新資料中心是科技公司對人工智慧的希望和夢想的物理基礎。但急於擴張…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta 的 Muse AI 可以為您現在需要的應用程式版本建立自訂“空間”",
+          "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+          "summary": "Meta 現在允許您在 Muse 中建立客製化的、類似應用程式的體驗。這項新功能稱為“空間”，允許…",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧是新的約會破壞者",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
+          "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her …",
+          "source": "The Verge"
+        },
+        {
+          "title": "大型科技公司在 2026 年大選中慘敗",
+          "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+          "summary": "週二，數百萬美國選民前往投票站，以壓倒性多數投票支持民主黨，反對人工智慧。無花果…",
+          "source": "The Verge"
+        },
+        {
+          "title": "How Akai and Moog are embracing vibe-coded mods",
+          "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+          "summary": "inMusic 是 Akai、Moog、Native Instruments 等公司的母公司，決定擁抱改裝社群。我…",
+          "source": "The Verge"
+        },
+        {
+          "title": "亞馬遜將允許你向 Alexa 發送購物清單短信",
+          "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
+          "summary": "亞馬遜正在為 Alexa for Shopping 添加一項新功能，允許客戶透過向 AI 購物發送簡訊來購買商品…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "戶平網站代理 (Tobira Site Agent)",
+          "link": "https://www.producthunt.com/products/tobira-ai",
+          "desc": "Turn your website into an AI agent that sells to AI agents Discussion | Link",
+          "title_en": "Tobira Site Agent"
+        },
+        {
+          "title": "Rankfender v3.0",
+          "link": "https://www.producthunt.com/products/rankfender",
+          "desc": "SEO/GEO 作業系統，專為人類和 AI 代理建立關聯",
+          "title_en": "Rankfender v3.0"
+        },
+        {
+          "title": "特恩斯通 (Turnstone)",
+          "link": "https://www.producthunt.com/products/turnstone",
+          "desc": "Grok Bot 替代方案，在您的 AI 上運行，完全免費 討論 |關聯",
+          "title_en": "Turnstone"
+        },
+        {
+          "title": "小精靈 (Wisp)",
+          "link": "https://www.producthunt.com/products/wisp-9",
+          "desc": "Wisp 是個住在你桌面上的人工智慧小精靈 討論 |關聯",
+          "title_en": "Wisp"
+        },
+        {
+          "title": "水晶 (crystl)",
+          "link": "https://www.producthunt.com/products/crystl-multitasking-terminal",
+          "desc": "multitasking terminal for AI coding agents, built for macOS Discussion | Link",
+          "title_en": "crystl"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "競爭對手 Anthropic 即將 IPO，OpenAI 估值達 1.25 兆美元",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+          "summary": "據 Bloom 稱，OpenAI 在新一輪融資中目前估值為 1.25 兆美元，該輪融資又籌集了 110 億美元…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "競爭對手 Anthropic 即將 IPO，OpenAI 估值達 1.25 兆美元",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+        "summary": "據 Bloom 稱，OpenAI 在新一輪融資中目前估值為 1.25 兆美元，該輪融資又籌集了 110 億美元…",
         "source": "The Verge"
       },
       "steve_ideas": []
