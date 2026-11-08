@@ -1,101 +1,102 @@
 {
-  "updated": "2026-11-07 14:48 HKT",
+  "updated": "2026-11-08 14:54 HKT",
   "news": [
     {
-      "title": "競爭對手 Anthropic 即將 IPO，OpenAI 估值達 1.25 兆美元",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "summary": "據 Bloom 稱，OpenAI 在新一輪融資中目前估值為 1.25 兆美元，該輪融資又籌集了 110 億美元…",
+      "title": "紐約時報烹飪的人工智慧助手救了我的周末雞肉，但差點毀了我的蛋糕",
+      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "summary": "每個工作日晚上 7 點左右，我發現自己站在冰箱前，試圖決定晚餐吃什麼…",
       "source": "The Verge"
     },
     {
-      "title": "據報道，中國招募人工智慧高層來監視黃仁勳",
-      "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-      "summary": "根據 Th 報道，中國情報機構招募了 Megaspeed 高層 Alice Huang 來監視 Nvidia 執行長 Jensen Huang。",
+      "title": "美國允許英偉達向中國空置辦公室出售晶片",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+      "summary": "人們擔心商務部和英偉達都沒有盡職調查...",
       "source": "The Verge"
     },
     {
-      "title": "人工智慧資料中心的所有最新更新",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-      "summary": "大規模的新資料中心是科技公司對人工智慧的希望和夢想的物理基礎。但急於擴張…",
+      "title": "人工智慧打破了網路安全世界。接下來是什麼？",
+      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+      "summary": "今天，我正在與 Cognition 首席安全官、長期網路安全專家 Alex Stamos 討論什麼是…",
       "source": "The Verge"
     },
     {
-      "title": "Meta 的 Muse AI 可以為您現在需要的應用程式版本建立自訂“空間”",
-      "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-      "summary": "Meta 現在允許您在 Muse 中建立客製化的、類似應用程式的體驗。這項新功能稱為“空間”，允許…",
+      "title": "為什麼關於人擇自動化人工智慧開發的新報告令研究人員感到震驚",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "summary": "Anthropic 正在利用 AI 來建立更強大的 AI。而且它似乎與該公司的模型運行得非常好......",
       "source": "The Verge"
     },
     {
-      "title": "人工智慧是新的約會破壞者",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1028609/ai-dating-feelings-doomers-singularity",
-      "summary": "When Irene moved to San Francisco last year, she started using dating apps as a way to meet new people, get to know her …",
-      "source": "The Verge"
+      "title": "中期選舉之後，伊隆馬斯克和資料中心的情況看起來並不樂觀",
+      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "summary": "在股票方面，我們解析了中期選舉對科技業的意義。",
+      "source": "TechCrunch"
     },
     {
-      "title": "大型科技公司在 2026 年大選中慘敗",
-      "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
-      "summary": "週二，數百萬美國選民前往投票站，以壓倒性多數投票支持民主黨，反對人工智慧。無花果…",
-      "source": "The Verge"
-    },
-    {
-      "title": "How Akai and Moog are embracing vibe-coded mods",
-      "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
-      "summary": "inMusic 是 Akai、Moog、Native Instruments 等公司的母公司，決定擁抱改裝社群。我…",
-      "source": "The Verge"
-    },
-    {
-      "title": "亞馬遜將允許你向 Alexa 發送購物清單短信",
-      "link": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders",
-      "summary": "亞馬遜正在為 Alexa for Shopping 添加一項新功能，允許客戶透過向 AI 購物發送簡訊來購買商品…",
-      "source": "The Verge"
+      "title": "根據美國情報備忘錄，Megaspeed 高層被招募來監視 Nvidia 執行長",
+      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+      "summary": "據報道，今年稍早流傳的一份備忘錄聲稱，中國國家安全部招募了一名女性技術人員…",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "戶平網站代理 (Tobira Site Agent)",
-      "link": "https://www.producthunt.com/products/tobira-ai",
-      "desc": "Turn your website into an AI agent that sells to AI agents Discussion | Link",
-      "title_en": "Tobira Site Agent"
+      "title": "Google Omni 1.2 快閃記憶體 (Google Omni 1.2 Flash)",
+      "link": "https://www.producthunt.com/products/google-omni-1-2-flash",
+      "desc": "Gemini Omni 1.2 Flash：15 秒 AI 視頻，每秒 0.07 美元關聯",
+      "title_en": "Google Omni 1.2 Flash"
     },
     {
-      "title": "Rankfender v3.0",
-      "link": "https://www.producthunt.com/products/rankfender",
-      "desc": "SEO/GEO 作業系統，專為人類和 AI 代理建立關聯",
-      "title_en": "Rankfender v3.0"
+      "title": "尋求 (Quest)",
+      "link": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
+      "desc": "您的私人人工智慧顧問，讓您的生活更有意義關聯",
+      "title_en": "Quest"
     },
     {
-      "title": "特恩斯通 (Turnstone)",
-      "link": "https://www.producthunt.com/products/turnstone",
-      "desc": "Grok Bot 替代方案，在您的 AI 上運行，完全免費 討論 |關聯",
-      "title_en": "Turnstone"
+      "title": "ChatGPT 影像 2.6 (ChatGPT Images 2.6)",
+      "link": "https://www.producthunt.com/products/openai",
+      "desc": "Create, edit, and animate images with AI Discussion | Link",
+      "title_en": "ChatGPT Images 2.6"
     },
     {
-      "title": "小精靈 (Wisp)",
-      "link": "https://www.producthunt.com/products/wisp-9",
-      "desc": "Wisp 是個住在你桌面上的人工智慧小精靈 討論 |關聯",
-      "title_en": "Wisp"
+      "title": "GPT-6 網路 (GPT‑6 Cyber)",
+      "link": "https://www.producthunt.com/products/openai",
+      "desc": "OpenAI 的網路模型，為防禦者提供經過審查的存取權限關聯",
+      "title_en": "GPT‑6 Cyber"
     },
     {
-      "title": "水晶 (crystl)",
-      "link": "https://www.producthunt.com/products/crystl-multitasking-terminal",
-      "desc": "multitasking terminal for AI coding agents, built for macOS Discussion | Link",
-      "title_en": "crystl"
+      "title": "桌面版 Instagram 編輯 (Instagram Edits for Desktop)",
+      "link": "https://www.producthunt.com/products/instagram",
+      "desc": "Instagram 的免費桌面影片編輯器與 AI 代理討論 |關聯",
+      "title_en": "Instagram Edits for Desktop"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [],
+  "suniverse_tools": [
+    {
+      "title": "ChatGPT 影像 2.6 (ChatGPT Images 2.6)",
+      "link": "https://www.producthunt.com/products/openai",
+      "desc": "Create, edit, and animate images with AI Discussion | Link",
+      "title_en": "ChatGPT Images 2.6"
+    },
+    {
+      "title": "桌面版 Instagram 編輯 (Instagram Edits for Desktop)",
+      "link": "https://www.producthunt.com/products/instagram",
+      "desc": "Instagram 的免費桌面影片編輯器與 AI 代理討論 |關聯",
+      "title_en": "Instagram Edits for Desktop"
+    }
+  ],
   "major": [
     {
-      "title": "競爭對手 Anthropic 即將 IPO，OpenAI 估值達 1.25 兆美元",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-      "summary": "據 Bloom 稱，OpenAI 在新一輪融資中目前估值為 1.25 兆美元，該輪融資又籌集了 110 億美元…",
+      "title": "為什麼關於人擇自動化人工智慧開發的新報告令研究人員感到震驚",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+      "summary": "Anthropic 正在利用 AI 來建立更強大的 AI。而且它似乎與該公司的模型運行得非常好......",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "競爭對手 Anthropic 即將 IPO，OpenAI 估值達 1.25 兆美元",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-    "summary": "據 Bloom 稱，OpenAI 在新一輪融資中目前估值為 1.25 兆美元，該輪融資又籌集了 110 億美元…",
+    "title": "為什麼關於人擇自動化人工智慧開發的新報告令研究人員感到震驚",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+    "summary": "Anthropic 正在利用 AI 來建立更強大的 AI。而且它似乎與該公司的模型運行得非常好......",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -16474,6 +16475,108 @@
         "title": "競爭對手 Anthropic 即將 IPO，OpenAI 估值達 1.25 兆美元",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
         "summary": "據 Bloom 稱，OpenAI 在新一輪融資中目前估值為 1.25 兆美元，該輪融資又籌集了 110 億美元…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-08": {
+      "news": [
+        {
+          "title": "紐約時報烹飪的人工智慧助手救了我的周末雞肉，但差點毀了我的蛋糕",
+          "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+          "summary": "每個工作日晚上 7 點左右，我發現自己站在冰箱前，試圖決定晚餐吃什麼…",
+          "source": "The Verge"
+        },
+        {
+          "title": "美國允許英偉達向中國空置辦公室出售晶片",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+          "summary": "人們擔心商務部和英偉達都沒有盡職調查...",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧打破了網路安全世界。接下來是什麼？",
+          "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+          "summary": "今天，我正在與 Cognition 首席安全官、長期網路安全專家 Alex Stamos 討論什麼是…",
+          "source": "The Verge"
+        },
+        {
+          "title": "為什麼關於人擇自動化人工智慧開發的新報告令研究人員感到震驚",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "summary": "Anthropic 正在利用 AI 來建立更強大的 AI。而且它似乎與該公司的模型運行得非常好......",
+          "source": "The Verge"
+        },
+        {
+          "title": "中期選舉之後，伊隆馬斯克和資料中心的情況看起來並不樂觀",
+          "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+          "summary": "在股票方面，我們解析了中期選舉對科技業的意義。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "根據美國情報備忘錄，Megaspeed 高層被招募來監視 Nvidia 執行長",
+          "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+          "summary": "據報道，今年稍早流傳的一份備忘錄聲稱，中國國家安全部招募了一名女性技術人員…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Google Omni 1.2 快閃記憶體 (Google Omni 1.2 Flash)",
+          "link": "https://www.producthunt.com/products/google-omni-1-2-flash",
+          "desc": "Gemini Omni 1.2 Flash：15 秒 AI 視頻，每秒 0.07 美元關聯",
+          "title_en": "Google Omni 1.2 Flash"
+        },
+        {
+          "title": "尋求 (Quest)",
+          "link": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
+          "desc": "您的私人人工智慧顧問，讓您的生活更有意義關聯",
+          "title_en": "Quest"
+        },
+        {
+          "title": "ChatGPT 影像 2.6 (ChatGPT Images 2.6)",
+          "link": "https://www.producthunt.com/products/openai",
+          "desc": "Create, edit, and animate images with AI Discussion | Link",
+          "title_en": "ChatGPT Images 2.6"
+        },
+        {
+          "title": "GPT-6 網路 (GPT‑6 Cyber)",
+          "link": "https://www.producthunt.com/products/openai",
+          "desc": "OpenAI 的網路模型，為防禦者提供經過審查的存取權限關聯",
+          "title_en": "GPT‑6 Cyber"
+        },
+        {
+          "title": "桌面版 Instagram 編輯 (Instagram Edits for Desktop)",
+          "link": "https://www.producthunt.com/products/instagram",
+          "desc": "Instagram 的免費桌面影片編輯器與 AI 代理討論 |關聯",
+          "title_en": "Instagram Edits for Desktop"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [
+        {
+          "title": "ChatGPT 影像 2.6 (ChatGPT Images 2.6)",
+          "link": "https://www.producthunt.com/products/openai",
+          "desc": "Create, edit, and animate images with AI Discussion | Link",
+          "title_en": "ChatGPT Images 2.6"
+        },
+        {
+          "title": "桌面版 Instagram 編輯 (Instagram Edits for Desktop)",
+          "link": "https://www.producthunt.com/products/instagram",
+          "desc": "Instagram 的免費桌面影片編輯器與 AI 代理討論 |關聯",
+          "title_en": "Instagram Edits for Desktop"
+        }
+      ],
+      "major": [
+        {
+          "title": "為什麼關於人擇自動化人工智慧開發的新報告令研究人員感到震驚",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+          "summary": "Anthropic 正在利用 AI 來建立更強大的 AI。而且它似乎與該公司的模型運行得非常好......",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "為什麼關於人擇自動化人工智慧開發的新報告令研究人員感到震驚",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+        "summary": "Anthropic 正在利用 AI 來建立更強大的 AI。而且它似乎與該公司的模型運行得非常好......",
         "source": "The Verge"
       },
       "steve_ideas": []
