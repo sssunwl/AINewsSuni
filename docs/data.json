@@ -1,102 +1,82 @@
 {
-  "updated": "2026-11-08 14:54 HKT",
+  "updated": "2026-11-09 15:36 HKT",
   "news": [
     {
-      "title": "紐約時報烹飪的人工智慧助手救了我的周末雞肉，但差點毀了我的蛋糕",
-      "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
-      "summary": "每個工作日晚上 7 點左右，我發現自己站在冰箱前，試圖決定晚餐吃什麼…",
+      "title": "以下是黃仁勳給 Nvidia 的備忘錄全文",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "summary": "週日，英偉達宣布將對執行長黃仁勳 (Jensen Huang) 與愛麗絲黃 (Alice Huang) 的關係展開調查。",
       "source": "The Verge"
     },
     {
-      "title": "美國允許英偉達向中國空置辦公室出售晶片",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
-      "summary": "人們擔心商務部和英偉達都沒有盡職調查...",
+      "title": "英偉達正在調查黃仁勳與中國間諜的關係",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed execu…",
       "source": "The Verge"
     },
     {
-      "title": "人工智慧打破了網路安全世界。接下來是什麼？",
-      "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-      "summary": "今天，我正在與 Cognition 首席安全官、長期網路安全專家 Alex Stamos 討論什麼是…",
+      "title": "蘋果正在競相讓 Siri 變得更代理",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "summary": "彭博社的馬克古爾曼 (Mark Gurman) 表示，執行長約翰特努斯 (John Ternus) 正在向人工智慧沙皇克雷格費德里吉 (Craig Federighi) 施壓，要求其加快 Siri 路線圖並...",
       "source": "The Verge"
     },
     {
-      "title": "為什麼關於人擇自動化人工智慧開發的新報告令研究人員感到震驚",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "summary": "Anthropic 正在利用 AI 來建立更強大的 AI。而且它似乎與該公司的模型運行得非常好......",
+      "title": "貓王和阿姆的權利持有者正在起訴蘇諾",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+      "summary": "Suno 還面臨另外兩起訴訟。一群 Elvis Presley 音樂的權利持有者和一些作品的出版商…",
       "source": "The Verge"
     },
     {
-      "title": "中期選舉之後，伊隆馬斯克和資料中心的情況看起來並不樂觀",
-      "link": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
-      "summary": "在股票方面，我們解析了中期選舉對科技業的意義。",
+      "title": "黃仁勳的飯碗岌岌可危嗎？耶魯大學的 Jeffrey Sonnenfeld 估計“大約是 50-50”",
+      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonn…",
       "source": "TechCrunch"
     },
     {
-      "title": "根據美國情報備忘錄，Megaspeed 高層被招募來監視 Nvidia 執行長",
-      "link": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
-      "summary": "據報道，今年稍早流傳的一份備忘錄聲稱，中國國家安全部招募了一名女性技術人員…",
+      "title": "英偉達將調查執行長黃仁勳與可能的中國間諜的關係",
+      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "summary": "在給公司的備忘錄中，黃承認自己有外遇。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
+      "title": "特工部落 (Agent Clan)",
+      "link": "https://www.producthunt.com/products/agent-clan",
+      "desc": "用手勢命令你的 Claude Code 和 Codex 代理 討論 |關聯",
+      "title_en": "Agent Clan"
+    },
+    {
+      "title": "諾麥克 (NoMac)",
+      "link": "https://www.producthunt.com/products/nomac",
+      "desc": "您的 AI 代理自己的 Mac，按分鐘計費。沒有訂閱討論 |關聯",
+      "title_en": "NoMac"
+    },
+    {
+      "title": "回憶錄 (Memorias)",
+      "link": "https://www.producthunt.com/products/memorias-3",
+      "desc": "An AI biographer that turns your stories into a book Discussion | Link",
+      "title_en": "Memorias"
+    },
+    {
+      "title": "AXL",
+      "link": "https://www.producthunt.com/products/axl-2",
+      "desc": "GTM copilot for AI product founders: 1,200+ actions via MCP Discussion | Link",
+      "title_en": "AXL"
+    },
+    {
       "title": "Google Omni 1.2 快閃記憶體 (Google Omni 1.2 Flash)",
       "link": "https://www.producthunt.com/products/google-omni-1-2-flash",
       "desc": "Gemini Omni 1.2 Flash：15 秒 AI 視頻，每秒 0.07 美元關聯",
       "title_en": "Google Omni 1.2 Flash"
-    },
-    {
-      "title": "尋求 (Quest)",
-      "link": "https://www.producthunt.com/products/quest-d8e9c4e8-cc0d-4b07-baee-e3dbf712c279",
-      "desc": "您的私人人工智慧顧問，讓您的生活更有意義關聯",
-      "title_en": "Quest"
-    },
-    {
-      "title": "ChatGPT 影像 2.6 (ChatGPT Images 2.6)",
-      "link": "https://www.producthunt.com/products/openai",
-      "desc": "Create, edit, and animate images with AI Discussion | Link",
-      "title_en": "ChatGPT Images 2.6"
-    },
-    {
-      "title": "GPT-6 網路 (GPT‑6 Cyber)",
-      "link": "https://www.producthunt.com/products/openai",
-      "desc": "OpenAI 的網路模型，為防禦者提供經過審查的存取權限關聯",
-      "title_en": "GPT‑6 Cyber"
-    },
-    {
-      "title": "桌面版 Instagram 編輯 (Instagram Edits for Desktop)",
-      "link": "https://www.producthunt.com/products/instagram",
-      "desc": "Instagram 的免費桌面影片編輯器與 AI 代理討論 |關聯",
-      "title_en": "Instagram Edits for Desktop"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [
-    {
-      "title": "ChatGPT 影像 2.6 (ChatGPT Images 2.6)",
-      "link": "https://www.producthunt.com/products/openai",
-      "desc": "Create, edit, and animate images with AI Discussion | Link",
-      "title_en": "ChatGPT Images 2.6"
-    },
-    {
-      "title": "桌面版 Instagram 編輯 (Instagram Edits for Desktop)",
-      "link": "https://www.producthunt.com/products/instagram",
-      "desc": "Instagram 的免費桌面影片編輯器與 AI 代理討論 |關聯",
-      "title_en": "Instagram Edits for Desktop"
-    }
-  ],
-  "major": [
-    {
-      "title": "為什麼關於人擇自動化人工智慧開發的新報告令研究人員感到震驚",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-      "summary": "Anthropic 正在利用 AI 來建立更強大的 AI。而且它似乎與該公司的模型運行得非常好......",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_tools": [],
+  "major": [],
   "pick": {
-    "title": "為什麼關於人擇自動化人工智慧開發的新報告令研究人員感到震驚",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
-    "summary": "Anthropic 正在利用 AI 來建立更強大的 AI。而且它似乎與該公司的模型運行得非常好......",
+    "title": "以下是黃仁勳給 Nvidia 的備忘錄全文",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+    "summary": "週日，英偉達宣布將對執行長黃仁勳 (Jensen Huang) 與愛麗絲黃 (Alice Huang) 的關係展開調查。",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -16577,6 +16557,88 @@
         "title": "為什麼關於人擇自動化人工智慧開發的新報告令研究人員感到震驚",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
         "summary": "Anthropic 正在利用 AI 來建立更強大的 AI。而且它似乎與該公司的模型運行得非常好......",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-09": {
+      "news": [
+        {
+          "title": "以下是黃仁勳給 Nvidia 的備忘錄全文",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+          "summary": "週日，英偉達宣布將對執行長黃仁勳 (Jensen Huang) 與愛麗絲黃 (Alice Huang) 的關係展開調查。",
+          "source": "The Verge"
+        },
+        {
+          "title": "英偉達正在調查黃仁勳與中國間諜的關係",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+          "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed execu…",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果正在競相讓 Siri 變得更代理",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+          "summary": "彭博社的馬克古爾曼 (Mark Gurman) 表示，執行長約翰特努斯 (John Ternus) 正在向人工智慧沙皇克雷格費德里吉 (Craig Federighi) 施壓，要求其加快 Siri 路線圖並...",
+          "source": "The Verge"
+        },
+        {
+          "title": "貓王和阿姆的權利持有者正在起訴蘇諾",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+          "summary": "Suno 還面臨另外兩起訴訟。一群 Elvis Presley 音樂的權利持有者和一些作品的出版商…",
+          "source": "The Verge"
+        },
+        {
+          "title": "黃仁勳的飯碗岌岌可危嗎？耶魯大學的 Jeffrey Sonnenfeld 估計“大約是 50-50”",
+          "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+          "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonn…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "英偉達將調查執行長黃仁勳與可能的中國間諜的關係",
+          "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+          "summary": "在給公司的備忘錄中，黃承認自己有外遇。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "特工部落 (Agent Clan)",
+          "link": "https://www.producthunt.com/products/agent-clan",
+          "desc": "用手勢命令你的 Claude Code 和 Codex 代理 討論 |關聯",
+          "title_en": "Agent Clan"
+        },
+        {
+          "title": "諾麥克 (NoMac)",
+          "link": "https://www.producthunt.com/products/nomac",
+          "desc": "您的 AI 代理自己的 Mac，按分鐘計費。沒有訂閱討論 |關聯",
+          "title_en": "NoMac"
+        },
+        {
+          "title": "回憶錄 (Memorias)",
+          "link": "https://www.producthunt.com/products/memorias-3",
+          "desc": "An AI biographer that turns your stories into a book Discussion | Link",
+          "title_en": "Memorias"
+        },
+        {
+          "title": "AXL",
+          "link": "https://www.producthunt.com/products/axl-2",
+          "desc": "GTM copilot for AI product founders: 1,200+ actions via MCP Discussion | Link",
+          "title_en": "AXL"
+        },
+        {
+          "title": "Google Omni 1.2 快閃記憶體 (Google Omni 1.2 Flash)",
+          "link": "https://www.producthunt.com/products/google-omni-1-2-flash",
+          "desc": "Gemini Omni 1.2 Flash：15 秒 AI 視頻，每秒 0.07 美元關聯",
+          "title_en": "Google Omni 1.2 Flash"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [],
+      "pick": {
+        "title": "以下是黃仁勳給 Nvidia 的備忘錄全文",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+        "summary": "週日，英偉達宣布將對執行長黃仁勳 (Jensen Huang) 與愛麗絲黃 (Alice Huang) 的關係展開調查。",
         "source": "The Verge"
       },
       "steve_ideas": []
