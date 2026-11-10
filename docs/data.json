@@ -1,82 +1,114 @@
 {
-  "updated": "2026-11-09 15:36 HKT",
+  "updated": "2026-11-10 15:58 HKT",
   "news": [
     {
-      "title": "以下是黃仁勳給 Nvidia 的備忘錄全文",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-      "summary": "週日，英偉達宣布將對執行長黃仁勳 (Jensen Huang) 與愛麗絲黃 (Alice Huang) 的關係展開調查。",
+      "title": "大衛·埃里森表示人工智慧可能是“現代史上最大的創意解鎖”",
+      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "summary": "在派拉蒙 Skydance 最新的財報電話會議上，執行長大衛·埃里森 (David Ellison) 表示，「很難想像」人工智慧不會有更大的影響力…",
       "source": "The Verge"
     },
     {
-      "title": "英偉達正在調查黃仁勳與中國間諜的關係",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
-      "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed execu…",
+      "title": "中國能從黃仁勳那裡得到什麼？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "summary": "無論如何強調 Nvidia 在當今人工智慧領域的實力都不為過。該公司的晶片是先進的基石…",
       "source": "The Verge"
     },
     {
-      "title": "蘋果正在競相讓 Siri 變得更代理",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-      "summary": "彭博社的馬克古爾曼 (Mark Gurman) 表示，執行長約翰特努斯 (John Ternus) 正在向人工智慧沙皇克雷格費德里吉 (Craig Federighi) 施壓，要求其加快 Siri 路線圖並...",
+      "title": "以下是川普所說的他對黃仁勳的了解",
+      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge o…",
       "source": "The Verge"
     },
     {
-      "title": "貓王和阿姆的權利持有者正在起訴蘇諾",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-      "summary": "Suno 還面臨另外兩起訴訟。一群 Elvis Presley 音樂的權利持有者和一些作品的出版商…",
+      "title": "迄今為止我們所知道的關於針對首席執行官黃仁勳的 Nvidia 間諜醜聞的一切",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "身穿皮夾克的 Nvidia 首席執行官黃仁勳 (Jensen Huang) 承認與 Megaspeed 高管愛麗絲·黃 (Alice Huang) 有染，這引發了…",
       "source": "The Verge"
     },
     {
-      "title": "黃仁勳的飯碗岌岌可危嗎？耶魯大學的 Jeffrey Sonnenfeld 估計“大約是 50-50”",
-      "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-      "summary": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonn…",
-      "source": "TechCrunch"
+      "title": "Apple 的 50 美元 Intelligence 使用套件擴展了對某些 AI 功能的訪問",
+      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "summary": "在 9 月初發布了一篇支援文章，概述了某些 Apple Intelligence 功能的使用限制後，c…",
+      "source": "The Verge"
     },
     {
-      "title": "英偉達將調查執行長黃仁勳與可能的中國間諜的關係",
-      "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-      "summary": "在給公司的備忘錄中，黃承認自己有外遇。",
-      "source": "TechCrunch"
+      "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型號",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "summary": "Anthropic 今天宣布推出兩款新型號：Claude Fable 5.2 和 Claude Mythos 5.2，據說它們的設計目的是…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Instagram 的效果產生器根據人工智慧提示製作新的濾鏡",
+      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "summary": "在上週將其 Edits 應用程式擴展到 macOS 後，Instagram 的下一步是推出這個 Effect Builder，它可以產生…",
+      "source": "The Verge"
+    },
+    {
+      "title": "人工智慧的未來取決於…黃仁勳的性生活？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+      "summary": "我寧願這些人的性生活不關我的事，但我想我們必須談談黃仁勳…",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "特工部落 (Agent Clan)",
-      "link": "https://www.producthunt.com/products/agent-clan",
-      "desc": "用手勢命令你的 Claude Code 和 Codex 代理 討論 |關聯",
-      "title_en": "Agent Clan"
+      "title": "達吉諾人工智慧2.0 (Dageno AI 2.0)",
+      "link": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+      "desc": "了解為什麼 AI 會推薦您的競爭對手而不是您關聯",
+      "title_en": "Dageno AI 2.0"
     },
     {
-      "title": "諾麥克 (NoMac)",
-      "link": "https://www.producthunt.com/products/nomac",
-      "desc": "您的 AI 代理自己的 Mac，按分鐘計費。沒有訂閱討論 |關聯",
-      "title_en": "NoMac"
+      "title": "原型地圖 (ProtoMap)",
+      "link": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2",
+      "desc": "停止浪費 AI 代幣重新發現依賴關係關聯",
+      "title_en": "ProtoMap"
     },
     {
-      "title": "回憶錄 (Memorias)",
-      "link": "https://www.producthunt.com/products/memorias-3",
-      "desc": "An AI biographer that turns your stories into a book Discussion | Link",
-      "title_en": "Memorias"
+      "title": "Arcjet AI 安全模型 (Arcjet AI security models)",
+      "link": "https://www.producthunt.com/products/arcjet",
+      "desc": "一系列針對編碼代理的客製化訓練安全模型關聯",
+      "title_en": "Arcjet AI security models"
     },
     {
-      "title": "AXL",
-      "link": "https://www.producthunt.com/products/axl-2",
-      "desc": "GTM copilot for AI product founders: 1,200+ actions via MCP Discussion | Link",
-      "title_en": "AXL"
+      "title": "弗利克提示 (Flic Cue)",
+      "link": "https://www.producthunt.com/products/flic-cue",
+      "desc": "AI 語音按鈕：按住說話、搖晃取消、開啟 SDK 討論 |關聯",
+      "title_en": "Flic Cue"
     },
     {
-      "title": "Google Omni 1.2 快閃記憶體 (Google Omni 1.2 Flash)",
-      "link": "https://www.producthunt.com/products/google-omni-1-2-flash",
-      "desc": "Gemini Omni 1.2 Flash：15 秒 AI 視頻，每秒 0.07 美元關聯",
-      "title_en": "Google Omni 1.2 Flash"
+      "title": "KIKU地圖 (KIKUmap)",
+      "link": "https://www.producthunt.com/products/kikumap",
+      "desc": "Claude 和 ChatGPT 聊天的心智圖關聯",
+      "title_en": "KIKUmap"
     }
   ],
-  "suniverse_news": [],
+  "suniverse_news": [
+    {
+      "title": "Instagram 的效果產生器根據人工智慧提示製作新的濾鏡",
+      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "summary": "在上週將其 Edits 應用程式擴展到 macOS 後，Instagram 的下一步是推出這個 Effect Builder，它可以產生…",
+      "source": "The Verge"
+    }
+  ],
   "suniverse_tools": [],
-  "major": [],
+  "major": [
+    {
+      "title": "Apple 的 50 美元 Intelligence 使用套件擴展了對某些 AI 功能的訪問",
+      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "summary": "在 9 月初發布了一篇支援文章，概述了某些 Apple Intelligence 功能的使用限制後，c…",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型號",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "summary": "Anthropic 今天宣布推出兩款新型號：Claude Fable 5.2 和 Claude Mythos 5.2，據說它們的設計目的是…",
+      "source": "The Verge"
+    }
+  ],
   "pick": {
-    "title": "以下是黃仁勳給 Nvidia 的備忘錄全文",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
-    "summary": "週日，英偉達宣布將對執行長黃仁勳 (Jensen Huang) 與愛麗絲黃 (Alice Huang) 的關係展開調查。",
+    "title": "Apple 的 50 美元 Intelligence 使用套件擴展了對某些 AI 功能的訪問",
+    "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+    "summary": "在 9 月初發布了一篇支援文章，概述了某些 Apple Intelligence 功能的使用限制後，c…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -16639,6 +16671,120 @@
         "title": "以下是黃仁勳給 Nvidia 的備忘錄全文",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
         "summary": "週日，英偉達宣布將對執行長黃仁勳 (Jensen Huang) 與愛麗絲黃 (Alice Huang) 的關係展開調查。",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-10": {
+      "news": [
+        {
+          "title": "大衛·埃里森表示人工智慧可能是“現代史上最大的創意解鎖”",
+          "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+          "summary": "在派拉蒙 Skydance 最新的財報電話會議上，執行長大衛·埃里森 (David Ellison) 表示，「很難想像」人工智慧不會有更大的影響力…",
+          "source": "The Verge"
+        },
+        {
+          "title": "中國能從黃仁勳那裡得到什麼？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+          "summary": "無論如何強調 Nvidia 在當今人工智慧領域的實力都不為過。該公司的晶片是先進的基石…",
+          "source": "The Verge"
+        },
+        {
+          "title": "以下是川普所說的他對黃仁勳的了解",
+          "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+          "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge o…",
+          "source": "The Verge"
+        },
+        {
+          "title": "迄今為止我們所知道的關於針對首席執行官黃仁勳的 Nvidia 間諜醜聞的一切",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "summary": "身穿皮夾克的 Nvidia 首席執行官黃仁勳 (Jensen Huang) 承認與 Megaspeed 高管愛麗絲·黃 (Alice Huang) 有染，這引發了…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Apple 的 50 美元 Intelligence 使用套件擴展了對某些 AI 功能的訪問",
+          "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+          "summary": "在 9 月初發布了一篇支援文章，概述了某些 Apple Intelligence 功能的使用限制後，c…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型號",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "summary": "Anthropic 今天宣布推出兩款新型號：Claude Fable 5.2 和 Claude Mythos 5.2，據說它們的設計目的是…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Instagram 的效果產生器根據人工智慧提示製作新的濾鏡",
+          "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+          "summary": "在上週將其 Edits 應用程式擴展到 macOS 後，Instagram 的下一步是推出這個 Effect Builder，它可以產生…",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧的未來取決於…黃仁勳的性生活？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
+          "summary": "我寧願這些人的性生活不關我的事，但我想我們必須談談黃仁勳…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "達吉諾人工智慧2.0 (Dageno AI 2.0)",
+          "link": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
+          "desc": "了解為什麼 AI 會推薦您的競爭對手而不是您關聯",
+          "title_en": "Dageno AI 2.0"
+        },
+        {
+          "title": "原型地圖 (ProtoMap)",
+          "link": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2",
+          "desc": "停止浪費 AI 代幣重新發現依賴關係關聯",
+          "title_en": "ProtoMap"
+        },
+        {
+          "title": "Arcjet AI 安全模型 (Arcjet AI security models)",
+          "link": "https://www.producthunt.com/products/arcjet",
+          "desc": "一系列針對編碼代理的客製化訓練安全模型關聯",
+          "title_en": "Arcjet AI security models"
+        },
+        {
+          "title": "弗利克提示 (Flic Cue)",
+          "link": "https://www.producthunt.com/products/flic-cue",
+          "desc": "AI 語音按鈕：按住說話、搖晃取消、開啟 SDK 討論 |關聯",
+          "title_en": "Flic Cue"
+        },
+        {
+          "title": "KIKU地圖 (KIKUmap)",
+          "link": "https://www.producthunt.com/products/kikumap",
+          "desc": "Claude 和 ChatGPT 聊天的心智圖關聯",
+          "title_en": "KIKUmap"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Instagram 的效果產生器根據人工智慧提示製作新的濾鏡",
+          "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+          "summary": "在上週將其 Edits 應用程式擴展到 macOS 後，Instagram 的下一步是推出這個 Effect Builder，它可以產生…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Apple 的 50 美元 Intelligence 使用套件擴展了對某些 AI 功能的訪問",
+          "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+          "summary": "在 9 月初發布了一篇支援文章，概述了某些 Apple Intelligence 功能的使用限制後，c…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型號",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+          "summary": "Anthropic 今天宣布推出兩款新型號：Claude Fable 5.2 和 Claude Mythos 5.2，據說它們的設計目的是…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Apple 的 50 美元 Intelligence 使用套件擴展了對某些 AI 功能的訪問",
+        "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+        "summary": "在 9 月初發布了一篇支援文章，概述了某些 Apple Intelligence 功能的使用限制後，c…",
         "source": "The Verge"
       },
       "steve_ideas": []
