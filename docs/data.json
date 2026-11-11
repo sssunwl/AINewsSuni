@@ -1,114 +1,113 @@
 {
-  "updated": "2026-11-10 15:58 HKT",
+  "updated": "2026-11-11 15:28 HKT",
   "news": [
     {
-      "title": "大衛·埃里森表示人工智慧可能是“現代史上最大的創意解鎖”",
-      "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-      "summary": "在派拉蒙 Skydance 最新的財報電話會議上，執行長大衛·埃里森 (David Ellison) 表示，「很難想像」人工智慧不會有更大的影響力…",
+      "title": "美國正在贏得人工智慧競賽。黃仁勳可能會搞砸",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "summary": "就間諜目標而言，黃仁勳也許是地球上最不令人驚訝的目標之一。 Nvidia 執行長經營一家...",
       "source": "The Verge"
     },
     {
-      "title": "中國能從黃仁勳那裡得到什麼？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-      "summary": "無論如何強調 Nvidia 在當今人工智慧領域的實力都不為過。該公司的晶片是先進的基石…",
+      "title": "ChatGPT 正在獲得經過驗證的人工智慧“業務代理”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "summary": "ChatGPT 將讓您與經過驗證的代表品牌的「業務代理」聊天，以幫助您處理諸如 com...",
       "source": "The Verge"
     },
     {
-      "title": "以下是川普所說的他對黃仁勳的了解",
-      "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge o…",
+      "title": "獨立遊戲社群因 AI 和 Big Walk 而陷入混亂",
+      "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+      "summary": "一些獨立遊戲節（IGF）評審員昨天發表聲明稱，他們不會投票給你的遊戲…",
       "source": "The Verge"
     },
     {
-      "title": "迄今為止我們所知道的關於針對首席執行官黃仁勳的 Nvidia 間諜醜聞的一切",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "summary": "身穿皮夾克的 Nvidia 首席執行官黃仁勳 (Jensen Huang) 承認與 Megaspeed 高管愛麗絲·黃 (Alice Huang) 有染，這引發了…",
+      "title": "Anthropic 現在擁有自己的人工智慧辦公室套件",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clie…",
       "source": "The Verge"
     },
     {
-      "title": "Apple 的 50 美元 Intelligence 使用套件擴展了對某些 AI 功能的訪問",
-      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "summary": "在 9 月初發布了一篇支援文章，概述了某些 Apple Intelligence 功能的使用限制後，c…",
+      "title": "eBay 似乎已經對第三方人工智慧代理商關閉了大門",
+      "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in …",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型號",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "summary": "Anthropic 今天宣布推出兩款新型號：Claude Fable 5.2 和 Claude Mythos 5.2，據說它們的設計目的是…",
+      "title": "谷歌發布具有代理「群」功能的 Gemini 4 Carbon",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "summary": "谷歌將其最新的人工智慧模型 Gemini 4 Carbon 發布給特定群體後，向公眾推出。",
       "source": "The Verge"
     },
     {
-      "title": "Instagram 的效果產生器根據人工智慧提示製作新的濾鏡",
-      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "summary": "在上週將其 Edits 應用程式擴展到 macOS 後，Instagram 的下一步是推出這個 Effect Builder，它可以產生…",
+      "title": "Anthropic 目標 1.4 兆美元 IPO",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+      "summary": "Anthropic 週二證實，其 IPO 可能是有史以來規模最大的 IPO 之一，儘管未達到先前的預期…",
       "source": "The Verge"
     },
     {
-      "title": "人工智慧的未來取決於…黃仁勳的性生活？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-      "summary": "我寧願這些人的性生活不關我的事，但我想我們必須談談黃仁勳…",
+      "title": "Adobe 全力開發代理 AI",
+      "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+      "summary": "Adobe 致力於這樣的理念：聊天機器人和 AI 代理程式可能成為您的下一個設計助手，甚至是自動化…",
       "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "達吉諾人工智慧2.0 (Dageno AI 2.0)",
-      "link": "https://www.producthunt.com/products/agent-powered-geo-by-dageno",
-      "desc": "了解為什麼 AI 會推薦您的競爭對手而不是您關聯",
-      "title_en": "Dageno AI 2.0"
+      "title": "開放式氛圍 (OpenVibe)",
+      "link": "https://www.producthunt.com/products/openvibe-2",
+      "desc": "為您的人工智慧編碼代理提供真實終端的畫布關聯",
+      "title_en": "OpenVibe"
     },
     {
-      "title": "原型地圖 (ProtoMap)",
-      "link": "https://www.producthunt.com/products/hounddog-ai-static-code-scanner-2",
-      "desc": "停止浪費 AI 代幣重新發現依賴關係關聯",
-      "title_en": "ProtoMap"
+      "title": "左旋 (Levo)",
+      "link": "https://www.producthunt.com/products/levo-3",
+      "desc": "您的 AI 代理程式會找到 Mac 上可以安全刪除的內容關聯",
+      "title_en": "Levo"
     },
     {
-      "title": "Arcjet AI 安全模型 (Arcjet AI security models)",
-      "link": "https://www.producthunt.com/products/arcjet",
-      "desc": "一系列針對編碼代理的客製化訓練安全模型關聯",
-      "title_en": "Arcjet AI security models"
+      "title": "馬克西瑪 (Maxma)",
+      "link": "https://www.producthunt.com/products/maxma-2",
+      "desc": "24/7 全天候人工智慧隊友，可擴展您的付費廣告效果 討論 |關聯",
+      "title_en": "Maxma"
     },
     {
-      "title": "弗利克提示 (Flic Cue)",
-      "link": "https://www.producthunt.com/products/flic-cue",
-      "desc": "AI 語音按鈕：按住說話、搖晃取消、開啟 SDK 討論 |關聯",
-      "title_en": "Flic Cue"
+      "title": "歌劇院 (Operum)",
+      "link": "https://www.producthunt.com/products/operum",
+      "desc": "您的人工智慧產品團隊，擁有內建的專家工作流程關聯",
+      "title_en": "Operum"
     },
     {
-      "title": "KIKU地圖 (KIKUmap)",
-      "link": "https://www.producthunt.com/products/kikumap",
-      "desc": "Claude 和 ChatGPT 聊天的心智圖關聯",
-      "title_en": "KIKUmap"
+      "title": "擦拭工藝 (Wipecraft)",
+      "link": "https://www.producthunt.com/products/wipecraft",
+      "desc": "具有裝置上 AI 模式的 Mac 系統資料清理器 討論 |關聯",
+      "title_en": "Wipecraft"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "Instagram 的效果產生器根據人工智慧提示製作新的濾鏡",
-      "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-      "summary": "在上週將其 Edits 應用程式擴展到 macOS 後，Instagram 的下一步是推出這個 Effect Builder，它可以產生…",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Apple 的 50 美元 Intelligence 使用套件擴展了對某些 AI 功能的訪問",
-      "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-      "summary": "在 9 月初發布了一篇支援文章，概述了某些 Apple Intelligence 功能的使用限制後，c…",
+      "title": "ChatGPT 正在獲得經過驗證的人工智慧“業務代理”",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+      "summary": "ChatGPT 將讓您與經過驗證的代表品牌的「業務代理」聊天，以幫助您處理諸如 com...",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 推出全新 Claude Fable 和 Mythos 5.2 型號",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
-      "summary": "Anthropic 今天宣布推出兩款新型號：Claude Fable 5.2 和 Claude Mythos 5.2，據說它們的設計目的是…",
+      "title": "Anthropic 現在擁有自己的人工智慧辦公室套件",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clie…",
+      "source": "The Verge"
+    },
+    {
+      "title": "谷歌發布具有代理「群」功能的 Gemini 4 Carbon",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+      "summary": "谷歌將其最新的人工智慧模型 Gemini 4 Carbon 發布給特定群體後，向公眾推出。",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Apple 的 50 美元 Intelligence 使用套件擴展了對某些 AI 功能的訪問",
-    "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
-    "summary": "在 9 月初發布了一篇支援文章，概述了某些 Apple Intelligence 功能的使用限制後，c…",
+    "title": "ChatGPT 正在獲得經過驗證的人工智慧“業務代理”",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+    "summary": "ChatGPT 將讓您與經過驗證的代表品牌的「業務代理」聊天，以幫助您處理諸如 com...",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -16785,6 +16784,119 @@
         "title": "Apple 的 50 美元 Intelligence 使用套件擴展了對某些 AI 功能的訪問",
         "link": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
         "summary": "在 9 月初發布了一篇支援文章，概述了某些 Apple Intelligence 功能的使用限制後，c…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-11": {
+      "news": [
+        {
+          "title": "美國正在贏得人工智慧競賽。黃仁勳可能會搞砸",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+          "summary": "就間諜目標而言，黃仁勳也許是地球上最不令人驚訝的目標之一。 Nvidia 執行長經營一家...",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT 正在獲得經過驗證的人工智慧“業務代理”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+          "summary": "ChatGPT 將讓您與經過驗證的代表品牌的「業務代理」聊天，以幫助您處理諸如 com...",
+          "source": "The Verge"
+        },
+        {
+          "title": "獨立遊戲社群因 AI 和 Big Walk 而陷入混亂",
+          "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
+          "summary": "一些獨立遊戲節（IGF）評審員昨天發表聲明稱，他們不會投票給你的遊戲…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 現在擁有自己的人工智慧辦公室套件",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+          "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clie…",
+          "source": "The Verge"
+        },
+        {
+          "title": "eBay 似乎已經對第三方人工智慧代理商關閉了大門",
+          "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+          "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in …",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌發布具有代理「群」功能的 Gemini 4 Carbon",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+          "summary": "谷歌將其最新的人工智慧模型 Gemini 4 Carbon 發布給特定群體後，向公眾推出。",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 目標 1.4 兆美元 IPO",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
+          "summary": "Anthropic 週二證實，其 IPO 可能是有史以來規模最大的 IPO 之一，儘管未達到先前的預期…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Adobe 全力開發代理 AI",
+          "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
+          "summary": "Adobe 致力於這樣的理念：聊天機器人和 AI 代理程式可能成為您的下一個設計助手，甚至是自動化…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "開放式氛圍 (OpenVibe)",
+          "link": "https://www.producthunt.com/products/openvibe-2",
+          "desc": "為您的人工智慧編碼代理提供真實終端的畫布關聯",
+          "title_en": "OpenVibe"
+        },
+        {
+          "title": "左旋 (Levo)",
+          "link": "https://www.producthunt.com/products/levo-3",
+          "desc": "您的 AI 代理程式會找到 Mac 上可以安全刪除的內容關聯",
+          "title_en": "Levo"
+        },
+        {
+          "title": "馬克西瑪 (Maxma)",
+          "link": "https://www.producthunt.com/products/maxma-2",
+          "desc": "24/7 全天候人工智慧隊友，可擴展您的付費廣告效果 討論 |關聯",
+          "title_en": "Maxma"
+        },
+        {
+          "title": "歌劇院 (Operum)",
+          "link": "https://www.producthunt.com/products/operum",
+          "desc": "您的人工智慧產品團隊，擁有內建的專家工作流程關聯",
+          "title_en": "Operum"
+        },
+        {
+          "title": "擦拭工藝 (Wipecraft)",
+          "link": "https://www.producthunt.com/products/wipecraft",
+          "desc": "具有裝置上 AI 模式的 Mac 系統資料清理器 討論 |關聯",
+          "title_en": "Wipecraft"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "ChatGPT 正在獲得經過驗證的人工智慧“業務代理”",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+          "summary": "ChatGPT 將讓您與經過驗證的代表品牌的「業務代理」聊天，以幫助您處理諸如 com...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 現在擁有自己的人工智慧辦公室套件",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
+          "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clie…",
+          "source": "The Verge"
+        },
+        {
+          "title": "谷歌發布具有代理「群」功能的 Gemini 4 Carbon",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+          "summary": "谷歌將其最新的人工智慧模型 Gemini 4 Carbon 發布給特定群體後，向公眾推出。",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "ChatGPT 正在獲得經過驗證的人工智慧“業務代理”",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
+        "summary": "ChatGPT 將讓您與經過驗證的代表品牌的「業務代理」聊天，以幫助您處理諸如 com...",
         "source": "The Verge"
       },
       "steve_ideas": []
