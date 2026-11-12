@@ -1,113 +1,121 @@
 {
-  "updated": "2026-11-11 15:28 HKT",
+  "updated": "2026-11-12 15:56 HKT",
   "news": [
     {
-      "title": "美國正在贏得人工智慧競賽。黃仁勳可能會搞砸",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
-      "summary": "就間諜目標而言，黃仁勳也許是地球上最不令人驚訝的目標之一。 Nvidia 執行長經營一家...",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second allege…",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT 正在獲得經過驗證的人工智慧“業務代理”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "summary": "ChatGPT 將讓您與經過驗證的代表品牌的「業務代理」聊天，以幫助您處理諸如 com...",
+      "title": "United won’t let your AI agent book your flight",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns…",
       "source": "The Verge"
     },
     {
-      "title": "獨立遊戲社群因 AI 和 Big Walk 而陷入混亂",
-      "link": "https://www.theverge.com/games/1030994/big-walk-independent-games-festival-igf-ai",
-      "summary": "一些獨立遊戲節（IGF）評審員昨天發表聲明稱，他們不會投票給你的遊戲…",
+      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+      "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you…",
       "source": "The Verge"
     },
     {
-      "title": "Anthropic 現在擁有自己的人工智慧辦公室套件",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clie…",
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different …",
       "source": "The Verge"
     },
     {
-      "title": "eBay 似乎已經對第三方人工智慧代理商關閉了大門",
-      "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-      "summary": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in …",
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental feature…",
       "source": "The Verge"
     },
     {
-      "title": "谷歌發布具有代理「群」功能的 Gemini 4 Carbon",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "summary": "谷歌將其最新的人工智慧模型 Gemini 4 Carbon 發布給特定群體後，向公眾推出。",
-      "source": "The Verge"
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+      "source": "TechCrunch"
     },
     {
-      "title": "Anthropic 目標 1.4 兆美元 IPO",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion",
-      "summary": "Anthropic 週二證實，其 IPO 可能是有史以來規模最大的 IPO 之一，儘管未達到先前的預期…",
-      "source": "The Verge"
+      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI inf…",
+      "source": "TechCrunch"
     },
     {
-      "title": "Adobe 全力開發代理 AI",
-      "link": "https://www.theverge.com/tech/1030593/adobe-max-ai-agents-mcp-firefly-assistant-updates",
-      "summary": "Adobe 致力於這樣的理念：聊天機器人和 AI 代理程式可能成為您的下一個設計助手，甚至是自動化…",
-      "source": "The Verge"
+      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "開放式氛圍 (OpenVibe)",
-      "link": "https://www.producthunt.com/products/openvibe-2",
-      "desc": "為您的人工智慧編碼代理提供真實終端的畫布關聯",
-      "title_en": "OpenVibe"
+      "title": "Muse Ember by Meta",
+      "link": "https://www.producthunt.com/products/meta-ai",
+      "desc": "Meta's low-cost AI model for high-volume agent tasks Discussion | Link",
+      "title_en": "Muse Ember by Meta"
     },
     {
-      "title": "左旋 (Levo)",
-      "link": "https://www.producthunt.com/products/levo-3",
-      "desc": "您的 AI 代理程式會找到 Mac 上可以安全刪除的內容關聯",
-      "title_en": "Levo"
+      "title": "ScroogeFrog AI",
+      "link": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+      "desc": "AI ad fraud detection that protects your marketing budget Discussion | Link",
+      "title_en": "ScroogeFrog AI"
     },
     {
-      "title": "馬克西瑪 (Maxma)",
-      "link": "https://www.producthunt.com/products/maxma-2",
-      "desc": "24/7 全天候人工智慧隊友，可擴展您的付費廣告效果 討論 |關聯",
-      "title_en": "Maxma"
+      "title": "CALL-E",
+      "link": "https://www.producthunt.com/products/call-e",
+      "desc": "Make phone calls with your AI agent (Muse, ChatGPT, Claude) Discussion | Link",
+      "title_en": "CALL-E"
     },
     {
-      "title": "歌劇院 (Operum)",
-      "link": "https://www.producthunt.com/products/operum",
-      "desc": "您的人工智慧產品團隊，擁有內建的專家工作流程關聯",
-      "title_en": "Operum"
+      "title": "bonds chat",
+      "link": "https://www.producthunt.com/products/bonds-2",
+      "desc": "Multiplayer AI that dies if you and your friends flake Discussion | Link",
+      "title_en": "bonds chat"
     },
     {
-      "title": "擦拭工藝 (Wipecraft)",
-      "link": "https://www.producthunt.com/products/wipecraft",
-      "desc": "具有裝置上 AI 模式的 Mac 系統資料清理器 討論 |關聯",
-      "title_en": "Wipecraft"
+      "title": "Relay",
+      "link": "https://www.producthunt.com/products/relaytoai",
+      "desc": "DocSend for AI agents: send and receive docs with context Discussion | Link",
+      "title_en": "Relay"
     }
   ],
-  "suniverse_news": [],
-  "suniverse_tools": [],
+  "suniverse_news": [
+    {
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different …",
+      "source": "The Verge"
+    },
+    {
+      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental feature…",
+      "source": "The Verge"
+    }
+  ],
+  "suniverse_tools": [
+    {
+      "title": "ScroogeFrog AI",
+      "link": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+      "desc": "AI ad fraud detection that protects your marketing budget Discussion | Link",
+      "title_en": "ScroogeFrog AI"
+    }
+  ],
   "major": [
     {
-      "title": "ChatGPT 正在獲得經過驗證的人工智慧“業務代理”",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-      "summary": "ChatGPT 將讓您與經過驗證的代表品牌的「業務代理」聊天，以幫助您處理諸如 com...",
-      "source": "The Verge"
-    },
-    {
-      "title": "Anthropic 現在擁有自己的人工智慧辦公室套件",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030709/anthropic-has-its-own-ai-powered-office-suite-now",
-      "summary": "For years, Anthropic has been known for its focus on enterprise and coding tools that attract high-flying corporate clie…",
-      "source": "The Verge"
-    },
-    {
-      "title": "谷歌發布具有代理「群」功能的 Gemini 4 Carbon",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-      "summary": "谷歌將其最新的人工智慧模型 Gemini 4 Carbon 發布給特定群體後，向公眾推出。",
+      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different …",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "ChatGPT 正在獲得經過驗證的人工智慧“業務代理”",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
-    "summary": "ChatGPT 將讓您與經過驗證的代表品牌的「業務代理」聊天，以幫助您處理諸如 com...",
+    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+    "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+    "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second allege…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -16897,6 +16905,127 @@
         "title": "ChatGPT 正在獲得經過驗證的人工智慧“業務代理”",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1030552/openai-chatgpt-business-agents-hub",
         "summary": "ChatGPT 將讓您與經過驗證的代表品牌的「業務代理」聊天，以幫助您處理諸如 com...",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-12": {
+      "news": [
+        {
+          "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+          "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+          "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second allege…",
+          "source": "The Verge"
+        },
+        {
+          "title": "United won’t let your AI agent book your flight",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+          "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+          "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+          "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+          "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+          "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+          "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental feature…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+          "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+          "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "The unfolding Jensen Huang scandal: a timeline",
+          "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+          "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI inf…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+          "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+          "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "Muse Ember by Meta",
+          "link": "https://www.producthunt.com/products/meta-ai",
+          "desc": "Meta's low-cost AI model for high-volume agent tasks Discussion | Link",
+          "title_en": "Muse Ember by Meta"
+        },
+        {
+          "title": "ScroogeFrog AI",
+          "link": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+          "desc": "AI ad fraud detection that protects your marketing budget Discussion | Link",
+          "title_en": "ScroogeFrog AI"
+        },
+        {
+          "title": "CALL-E",
+          "link": "https://www.producthunt.com/products/call-e",
+          "desc": "Make phone calls with your AI agent (Muse, ChatGPT, Claude) Discussion | Link",
+          "title_en": "CALL-E"
+        },
+        {
+          "title": "bonds chat",
+          "link": "https://www.producthunt.com/products/bonds-2",
+          "desc": "Multiplayer AI that dies if you and your friends flake Discussion | Link",
+          "title_en": "bonds chat"
+        },
+        {
+          "title": "Relay",
+          "link": "https://www.producthunt.com/products/relaytoai",
+          "desc": "DocSend for AI agents: send and receive docs with context Discussion | Link",
+          "title_en": "Relay"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+          "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different …",
+          "source": "The Verge"
+        },
+        {
+          "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
+          "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
+          "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental feature…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [
+        {
+          "title": "ScroogeFrog AI",
+          "link": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
+          "desc": "AI ad fraud detection that protects your marketing budget Discussion | Link",
+          "title_en": "ScroogeFrog AI"
+        }
+      ],
+      "major": [
+        {
+          "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
+          "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different …",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+        "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+        "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second allege…",
         "source": "The Verge"
       },
       "steve_ideas": []
