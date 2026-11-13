@@ -1,121 +1,101 @@
 {
-  "updated": "2026-11-12 15:56 HKT",
+  "updated": "2026-11-13 15:34 HKT",
   "news": [
     {
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-      "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second allege…",
+      "title": "谷歌新的 Gemini 模型更擅長理解複雜問題",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "summary": "Google表示，其新的 Gemini 4 Hydrogen 模型可以為複雜的問題提供更有幫助的答案，包括「問題...",
       "source": "The Verge"
     },
     {
-      "title": "United won’t let your AI agent book your flight",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-      "summary": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns…",
+      "title": "不，人工智慧代理人沒有發現以前未知的瑪雅遺址",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potential…",
       "source": "The Verge"
     },
     {
-      "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-      "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-      "summary": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you…",
+      "title": "哦，Palantir 現在『進步』了，不是嗎？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "summary": "今天我還有其他事情要做，但是亞歷克斯·卡普（Alex Karp）可憐地試圖向左轉，讓我別無選擇，只能…",
       "source": "The Verge"
     },
     {
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different …",
+      "title": "黃仁勳醜聞還沒結束",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+      "summary": "在黃仁勳第二次婚外情的故事曝光之前，我確信黃是刀槍不入的。畢竟，為什麼不…",
       "source": "The Verge"
     },
     {
-      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental feature…",
+      "title": "研究發現人工智慧聊天機器人正在推薦假零售網站",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "summary": "使用人工智慧聊天機器人來研究產品或尋找購買商品的地點的購物者可能會被引向冒名頂替者和其他風險…",
       "source": "The Verge"
     },
     {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
-      "summary": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "source": "TechCrunch"
+      "title": "更多遊戲開發商開始使用生成式人工智慧",
+      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+      "summary": "根據 GDC Festi 的數據，與去年相比，更多電玩開發者在工作中使用生成式 AI 工具…",
+      "source": "The Verge"
     },
     {
-      "title": "The unfolding Jensen Huang scandal: a timeline",
-      "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-      "summary": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI inf…",
-      "source": "TechCrunch"
+      "title": "黃仁勳出局了。中國想從他身上得到什麼？",
+      "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emerg…",
+      "source": "The Verge"
     },
     {
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
-      "summary": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "source": "TechCrunch"
+      "title": "閱讀英偉達關於執行長換屆期間「異常困難時期」的內部電子郵件",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+      "summary": "黃仁勳 (Jensen Huang) 今天早上辭去 Nvidia 執行長一職，該公司是他於 1993 年與他人共同創立的。",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "Muse Ember by Meta",
-      "link": "https://www.producthunt.com/products/meta-ai",
-      "desc": "Meta's low-cost AI model for high-volume agent tasks Discussion | Link",
-      "title_en": "Muse Ember by Meta"
+      "title": "three.dev",
+      "link": "https://www.producthunt.com/products/three-dev",
+      "desc": "了解您的 AI 代理是如何失敗的。在您的用戶之前。討論 |關聯",
+      "title_en": "three.dev"
     },
     {
-      "title": "ScroogeFrog AI",
-      "link": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
-      "desc": "AI ad fraud detection that protects your marketing budget Discussion | Link",
-      "title_en": "ScroogeFrog AI"
+      "title": "Automattic 的 Spacefast (Spacefast by Automattic)",
+      "link": "https://www.producthunt.com/products/spacefast-by-automattic",
+      "desc": "Give your AI agents a place to build, run, and ship Discussion | Link",
+      "title_en": "Spacefast by Automattic"
     },
     {
-      "title": "CALL-E",
-      "link": "https://www.producthunt.com/products/call-e",
-      "desc": "Make phone calls with your AI agent (Muse, ChatGPT, Claude) Discussion | Link",
-      "title_en": "CALL-E"
+      "title": "Mac 版霍伊 (Hoy for Mac)",
+      "link": "https://www.producthunt.com/products/hoy-for-mac",
+      "desc": "對講機遇上 AirDrop 遇上訊息討論 |關聯",
+      "title_en": "Hoy for Mac"
     },
     {
-      "title": "bonds chat",
-      "link": "https://www.producthunt.com/products/bonds-2",
-      "desc": "Multiplayer AI that dies if you and your friends flake Discussion | Link",
-      "title_en": "bonds chat"
+      "title": "Adobe 人工智慧助手 (Adobe AI Assistant)",
+      "link": "https://www.producthunt.com/products/adobe-ai-assistant",
+      "desc": "借助 AI 跨 Adob​​e 應用程式更快地建立和編輯關聯",
+      "title_en": "Adobe AI Assistant"
     },
     {
-      "title": "Relay",
-      "link": "https://www.producthunt.com/products/relaytoai",
-      "desc": "DocSend for AI agents: send and receive docs with context Discussion | Link",
-      "title_en": "Relay"
+      "title": "福斯皮特 (Foxpit)",
+      "link": "https://www.producthunt.com/products/foxpit",
+      "desc": "Run Claude Code, Codex & OpenCode as one AI team Discussion | Link",
+      "title_en": "Foxpit"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different …",
-      "source": "The Verge"
-    },
-    {
-      "title": "Adobe’s AI experiments let you walk around in photos and interview your characters",
-      "link": "https://www.theverge.com/tech/1031505/adobe-max-2026-sneaks-experiments-ai",
-      "summary": "Some of the most impressive tech that Adobe showcases at its annual Max conference each year is the experimental feature…",
-      "source": "The Verge"
-    }
-  ],
-  "suniverse_tools": [
-    {
-      "title": "ScroogeFrog AI",
-      "link": "https://www.producthunt.com/products/scroogefrog-ai-antifraud",
-      "desc": "AI ad fraud detection that protects your marketing budget Discussion | Link",
-      "title_en": "ScroogeFrog AI"
-    }
-  ],
+  "suniverse_news": [],
+  "suniverse_tools": [],
   "major": [
     {
-      "title": "Google’s AlphaGenome 2 zooms in on the cellular roots of disease",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model",
-      "summary": "Researchers at Google DeepMind have unveiled a new AI model designed to unravel how changes in our DNA affect different …",
+      "title": "谷歌新的 Gemini 模型更擅長理解複雜問題",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "summary": "Google表示，其新的 Gemini 4 Hydrogen 模型可以為複雜的問題提供更有幫助的答案，包括「問題...",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-    "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-    "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second allege…",
+    "title": "谷歌新的 Gemini 模型更擅長理解複雜問題",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+    "summary": "Google表示，其新的 Gemini 4 Hydrogen 模型可以為複雜的問題提供更有幫助的答案，包括「問題...",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -17026,6 +17006,107 @@
         "title": "Nvidia is reportedly preparing to fire Jensen Huang",
         "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
         "summary": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second allege…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-13": {
+      "news": [
+        {
+          "title": "谷歌新的 Gemini 模型更擅長理解複雜問題",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+          "summary": "Google表示，其新的 Gemini 4 Hydrogen 模型可以為複雜的問題提供更有幫助的答案，包括「問題...",
+          "source": "The Verge"
+        },
+        {
+          "title": "不，人工智慧代理人沒有發現以前未知的瑪雅遺址",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
+          "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potential…",
+          "source": "The Verge"
+        },
+        {
+          "title": "哦，Palantir 現在『進步』了，不是嗎？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+          "summary": "今天我還有其他事情要做，但是亞歷克斯·卡普（Alex Karp）可憐地試圖向左轉，讓我別無選擇，只能…",
+          "source": "The Verge"
+        },
+        {
+          "title": "黃仁勳醜聞還沒結束",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
+          "summary": "在黃仁勳第二次婚外情的故事曝光之前，我確信黃是刀槍不入的。畢竟，為什麼不…",
+          "source": "The Verge"
+        },
+        {
+          "title": "研究發現人工智慧聊天機器人正在推薦假零售網站",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+          "summary": "使用人工智慧聊天機器人來研究產品或尋找購買商品的地點的購物者可能會被引向冒名頂替者和其他風險…",
+          "source": "The Verge"
+        },
+        {
+          "title": "更多遊戲開發商開始使用生成式人工智慧",
+          "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+          "summary": "根據 GDC Festi 的數據，與去年相比，更多電玩開發者在工作中使用生成式 AI 工具…",
+          "source": "The Verge"
+        },
+        {
+          "title": "黃仁勳出局了。中國想從他身上得到什麼？",
+          "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+          "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emerg…",
+          "source": "The Verge"
+        },
+        {
+          "title": "閱讀英偉達關於執行長換屆期間「異常困難時期」的內部電子郵件",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+          "summary": "黃仁勳 (Jensen Huang) 今天早上辭去 Nvidia 執行長一職，該公司是他於 1993 年與他人共同創立的。",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "three.dev",
+          "link": "https://www.producthunt.com/products/three-dev",
+          "desc": "了解您的 AI 代理是如何失敗的。在您的用戶之前。討論 |關聯",
+          "title_en": "three.dev"
+        },
+        {
+          "title": "Automattic 的 Spacefast (Spacefast by Automattic)",
+          "link": "https://www.producthunt.com/products/spacefast-by-automattic",
+          "desc": "Give your AI agents a place to build, run, and ship Discussion | Link",
+          "title_en": "Spacefast by Automattic"
+        },
+        {
+          "title": "Mac 版霍伊 (Hoy for Mac)",
+          "link": "https://www.producthunt.com/products/hoy-for-mac",
+          "desc": "對講機遇上 AirDrop 遇上訊息討論 |關聯",
+          "title_en": "Hoy for Mac"
+        },
+        {
+          "title": "Adobe 人工智慧助手 (Adobe AI Assistant)",
+          "link": "https://www.producthunt.com/products/adobe-ai-assistant",
+          "desc": "借助 AI 跨 Adob​​e 應用程式更快地建立和編輯關聯",
+          "title_en": "Adobe AI Assistant"
+        },
+        {
+          "title": "福斯皮特 (Foxpit)",
+          "link": "https://www.producthunt.com/products/foxpit",
+          "desc": "Run Claude Code, Codex & OpenCode as one AI team Discussion | Link",
+          "title_en": "Foxpit"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "谷歌新的 Gemini 模型更擅長理解複雜問題",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+          "summary": "Google表示，其新的 Gemini 4 Hydrogen 模型可以為複雜的問題提供更有幫助的答案，包括「問題...",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "谷歌新的 Gemini 模型更擅長理解複雜問題",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+        "summary": "Google表示，其新的 Gemini 4 Hydrogen 模型可以為複雜的問題提供更有幫助的答案，包括「問題...",
         "source": "The Verge"
       },
       "steve_ideas": []
