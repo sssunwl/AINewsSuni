@@ -1,101 +1,107 @@
 {
-  "updated": "2026-11-13 15:34 HKT",
+  "updated": "2026-11-14 15:18 HKT",
   "news": [
     {
-      "title": "谷歌新的 Gemini 模型更擅長理解複雜問題",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "summary": "Google表示，其新的 Gemini 4 Hydrogen 模型可以為複雜的問題提供更有幫助的答案，包括「問題...",
+      "title": "亞馬遜計劃對全球線上購物數據進行索引",
+      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "summary": "亞馬遜計劃為互聯網上任何地方銷售的每種產品建立一個資料庫，甚至包括亞馬遜不銷售的產品…",
       "source": "The Verge"
     },
     {
-      "title": "不，人工智慧代理人沒有發現以前未知的瑪雅遺址",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032125/ai-agents-maya-site-archeology-discovery",
-      "summary": "Armed with a team of AI agents, Google researcher Pietro Miotti claimed earlier this week to have discovered a potential…",
+      "title": "ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "summary": "繼今年稍早推出 Dots AI 代理平台後，OpenAI 又推出了一款針對代理商的錢包。 ChatGPT 牆...",
       "source": "The Verge"
     },
     {
-      "title": "哦，Palantir 現在『進步』了，不是嗎？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "summary": "今天我還有其他事情要做，但是亞歷克斯·卡普（Alex Karp）可憐地試圖向左轉，讓我別無選擇，只能…",
+      "title": "黃仁勳事件真正的利害關係是什麼",
+      "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+      "summary": "圍繞 Nvidia 首席執行官黃仁勳 (Jensen Huang) 的傳奇故事的一部分於週四結束，黃仁勳辭去了在英偉達 (Nvidia) 的職務。",
       "source": "The Verge"
     },
     {
-      "title": "黃仁勳醜聞還沒結束",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling",
-      "summary": "在黃仁勳第二次婚外情的故事曝光之前，我確信黃是刀槍不入的。畢竟，為什麼不…",
+      "title": "Claude的二重奏經紀人有點神經質，但出奇的樂於助人",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "summary": "通常，我測試的產品不會幫助我寫下我的使用體驗。二重奏是不同的。Claude·杜埃特是…",
       "source": "The Verge"
     },
     {
-      "title": "研究發現人工智慧聊天機器人正在推薦假零售網站",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "summary": "使用人工智慧聊天機器人來研究產品或尋找購買商品的地點的購物者可能會被引向冒名頂替者和其他風險…",
+      "title": "來說說黃仁勳的諸多事情吧！",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers abo…",
       "source": "The Verge"
     },
     {
-      "title": "更多遊戲開發商開始使用生成式人工智慧",
-      "link": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "summary": "根據 GDC Festi 的數據，與去年相比，更多電玩開發者在工作中使用生成式 AI 工具…",
-      "source": "The Verge"
+      "title": "創投家和創辦人表示，黃仁勳的離職導致人工智慧新創公司資金出現巨大缺口",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "summary": "英偉達向黃仁勳領導下的人工智慧新創公司投入了數百億美元。沒有他的掌舵，創辦人和創投家正在為…做好準備。",
+      "source": "TechCrunch"
     },
     {
-      "title": "黃仁勳出局了。中國想從他身上得到什麼？",
-      "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "summary": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emerg…",
-      "source": "The Verge"
+      "title": "AI代理新創公司LangChain估值達30億美元",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "summary": "LangChain 目前聲稱其模型和平台無關的代理管理工具 LangSmith 擁有 7,000 名客戶。",
+      "source": "TechCrunch"
     },
     {
-      "title": "閱讀英偉達關於執行長換屆期間「異常困難時期」的內部電子郵件",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
-      "summary": "黃仁勳 (Jensen Huang) 今天早上辭去 Nvidia 執行長一職，該公司是他於 1993 年與他人共同創立的。",
-      "source": "The Verge"
+      "title": "被禁止出口的 Nvidia 晶片是中國最強大的人工智慧模型的背後——呃，詹森！",
+      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "summary": "新研究表明，中國最先進的人工智慧模型是在被禁的英偉達晶片上訓練的。",
+      "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "three.dev",
-      "link": "https://www.producthunt.com/products/three-dev",
-      "desc": "了解您的 AI 代理是如何失敗的。在您的用戶之前。討論 |關聯",
-      "title_en": "three.dev"
+      "title": "伯恩州 (Burnstate)",
+      "link": "https://www.producthunt.com/products/burnstate",
+      "desc": "Claude Code, Codex & Cursor limits, paced in your menu bar Discussion | Link",
+      "title_en": "Burnstate"
     },
     {
-      "title": "Automattic 的 Spacefast (Spacefast by Automattic)",
-      "link": "https://www.producthunt.com/products/spacefast-by-automattic",
-      "desc": "Give your AI agents a place to build, run, and ship Discussion | Link",
-      "title_en": "Spacefast by Automattic"
+      "title": "GA趨勢 (GAtrends)",
+      "link": "https://www.producthunt.com/products/gatrends",
+      "desc": "Telegram、Claude、ChatGPT 討論中的關鍵字出現峰值警報關聯",
+      "title_en": "GAtrends"
     },
     {
-      "title": "Mac 版霍伊 (Hoy for Mac)",
-      "link": "https://www.producthunt.com/products/hoy-for-mac",
-      "desc": "對講機遇上 AirDrop 遇上訊息討論 |關聯",
-      "title_en": "Hoy for Mac"
+      "title": "複製 (Replicate)",
+      "link": "https://www.producthunt.com/products/replicate-10",
+      "desc": "免費將 Webflow/Framer 應用程式轉換為 Claude/Codex 專案關聯",
+      "title_en": "Replicate"
     },
     {
-      "title": "Adobe 人工智慧助手 (Adobe AI Assistant)",
-      "link": "https://www.producthunt.com/products/adobe-ai-assistant",
-      "desc": "借助 AI 跨 Adob​​e 應用程式更快地建立和編輯關聯",
-      "title_en": "Adobe AI Assistant"
+      "title": "簡化人工智慧 (Templify AI)",
+      "link": "https://www.producthunt.com/products/templify",
+      "desc": "適合非編輯人員的強大內容編輯器關聯",
+      "title_en": "Templify AI"
     },
     {
-      "title": "福斯皮特 (Foxpit)",
-      "link": "https://www.producthunt.com/products/foxpit",
-      "desc": "Run Claude Code, Codex & OpenCode as one AI team Discussion | Link",
-      "title_en": "Foxpit"
+      "title": "MCP培訓 (Trainn MCP)",
+      "link": "https://www.producthunt.com/products/trainn",
+      "desc": "透過任何 AI 聊天創建產品影片和課程關聯",
+      "title_en": "Trainn MCP"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "谷歌新的 Gemini 模型更擅長理解複雜問題",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "summary": "Google表示，其新的 Gemini 4 Hydrogen 模型可以為複雜的問題提供更有幫助的答案，包括「問題...",
+      "title": "ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "summary": "繼今年稍早推出 Dots AI 代理平台後，OpenAI 又推出了一款針對代理商的錢包。 ChatGPT 牆...",
+      "source": "The Verge"
+    },
+    {
+      "title": "Claude的二重奏經紀人有點神經質，但出奇的樂於助人",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "summary": "通常，我測試的產品不會幫助我寫下我的使用體驗。二重奏是不同的。Claude·杜埃特是…",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "谷歌新的 Gemini 模型更擅長理解複雜問題",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-    "summary": "Google表示，其新的 Gemini 4 Hydrogen 模型可以為複雜的問題提供更有幫助的答案，包括「問題...",
+    "title": "ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+    "summary": "繼今年稍早推出 Dots AI 代理平台後，OpenAI 又推出了一款針對代理商的錢包。 ChatGPT 牆...",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -17107,6 +17113,113 @@
         "title": "谷歌新的 Gemini 模型更擅長理解複雜問題",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
         "summary": "Google表示，其新的 Gemini 4 Hydrogen 模型可以為複雜的問題提供更有幫助的答案，包括「問題...",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-14": {
+      "news": [
+        {
+          "title": "亞馬遜計劃對全球線上購物數據進行索引",
+          "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+          "summary": "亞馬遜計劃為互聯網上任何地方銷售的每種產品建立一個資料庫，甚至包括亞馬遜不銷售的產品…",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+          "summary": "繼今年稍早推出 Dots AI 代理平台後，OpenAI 又推出了一款針對代理商的錢包。 ChatGPT 牆...",
+          "source": "The Verge"
+        },
+        {
+          "title": "黃仁勳事件真正的利害關係是什麼",
+          "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
+          "summary": "圍繞 Nvidia 首席執行官黃仁勳 (Jensen Huang) 的傳奇故事的一部分於週四結束，黃仁勳辭去了在英偉達 (Nvidia) 的職務。",
+          "source": "The Verge"
+        },
+        {
+          "title": "Claude的二重奏經紀人有點神經質，但出奇的樂於助人",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+          "summary": "通常，我測試的產品不會幫助我寫下我的使用體驗。二重奏是不同的。Claude·杜埃特是…",
+          "source": "The Verge"
+        },
+        {
+          "title": "來說說黃仁勳的諸多事情吧！",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+          "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers abo…",
+          "source": "The Verge"
+        },
+        {
+          "title": "創投家和創辦人表示，黃仁勳的離職導致人工智慧新創公司資金出現巨大缺口",
+          "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "summary": "英偉達向黃仁勳領導下的人工智慧新創公司投入了數百億美元。沒有他的掌舵，創辦人和創投家正在為…做好準備。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "AI代理新創公司LangChain估值達30億美元",
+          "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "summary": "LangChain 目前聲稱其模型和平台無關的代理管理工具 LangSmith 擁有 7,000 名客戶。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "被禁止出口的 Nvidia 晶片是中國最強大的人工智慧模型的背後——呃，詹森！",
+          "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+          "summary": "新研究表明，中國最先進的人工智慧模型是在被禁的英偉達晶片上訓練的。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "伯恩州 (Burnstate)",
+          "link": "https://www.producthunt.com/products/burnstate",
+          "desc": "Claude Code, Codex & Cursor limits, paced in your menu bar Discussion | Link",
+          "title_en": "Burnstate"
+        },
+        {
+          "title": "GA趨勢 (GAtrends)",
+          "link": "https://www.producthunt.com/products/gatrends",
+          "desc": "Telegram、Claude、ChatGPT 討論中的關鍵字出現峰值警報關聯",
+          "title_en": "GAtrends"
+        },
+        {
+          "title": "複製 (Replicate)",
+          "link": "https://www.producthunt.com/products/replicate-10",
+          "desc": "免費將 Webflow/Framer 應用程式轉換為 Claude/Codex 專案關聯",
+          "title_en": "Replicate"
+        },
+        {
+          "title": "簡化人工智慧 (Templify AI)",
+          "link": "https://www.producthunt.com/products/templify",
+          "desc": "適合非編輯人員的強大內容編輯器關聯",
+          "title_en": "Templify AI"
+        },
+        {
+          "title": "MCP培訓 (Trainn MCP)",
+          "link": "https://www.producthunt.com/products/trainn",
+          "desc": "透過任何 AI 聊天創建產品影片和課程關聯",
+          "title_en": "Trainn MCP"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+          "summary": "繼今年稍早推出 Dots AI 代理平台後，OpenAI 又推出了一款針對代理商的錢包。 ChatGPT 牆...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Claude的二重奏經紀人有點神經質，但出奇的樂於助人",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+          "summary": "通常，我測試的產品不會幫助我寫下我的使用體驗。二重奏是不同的。Claude·杜埃特是…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+        "summary": "繼今年稍早推出 Dots AI 代理平台後，OpenAI 又推出了一款針對代理商的錢包。 ChatGPT 牆...",
         "source": "The Verge"
       },
       "steve_ideas": []
