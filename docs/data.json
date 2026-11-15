@@ -1,107 +1,95 @@
 {
-  "updated": "2026-11-14 15:18 HKT",
+  "updated": "2026-11-15 15:30 HKT",
   "news": [
     {
-      "title": "亞馬遜計劃對全球線上購物數據進行索引",
-      "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
-      "summary": "亞馬遜計劃為互聯網上任何地方銷售的每種產品建立一個資料庫，甚至包括亞馬遜不銷售的產品…",
+      "title": "解僱薩姆·奧爾特曼 (Sam Altman) 的 OpenAI 董事會成員表示，我們仍然不能信任人工智慧執行長",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "summary": "今天，我正在與喬治大學安全與新興技術中心執行董事海倫·托納（Helen Toner）交談…",
       "source": "The Verge"
     },
     {
-      "title": "ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "summary": "繼今年稍早推出 Dots AI 代理平台後，OpenAI 又推出了一款針對代理商的錢包。 ChatGPT 牆...",
+      "title": "黃仁勳與富有遠見的表演者創辦人CEO的衰落",
+      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+      "summary": "2025 年 1 月 6 日，Nvidia 執行長黃仁勳終於迎來了他的搖滾明星時刻。他高舉雙手，大步走上舞台…",
       "source": "The Verge"
     },
     {
-      "title": "黃仁勳事件真正的利害關係是什麼",
-      "link": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
-      "summary": "圍繞 Nvidia 首席執行官黃仁勳 (Jensen Huang) 的傳奇故事的一部分於週四結束，黃仁勳辭去了在英偉達 (Nvidia) 的職務。",
-      "source": "The Verge"
-    },
-    {
-      "title": "Claude的二重奏經紀人有點神經質，但出奇的樂於助人",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "summary": "通常，我測試的產品不會幫助我寫下我的使用體驗。二重奏是不同的。Claude·杜埃特是…",
-      "source": "The Verge"
-    },
-    {
-      "title": "來說說黃仁勳的諸多事情吧！",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
-      "summary": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers abo…",
-      "source": "The Verge"
-    },
-    {
-      "title": "創投家和創辦人表示，黃仁勳的離職導致人工智慧新創公司資金出現巨大缺口",
-      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
-      "summary": "英偉達向黃仁勳領導下的人工智慧新創公司投入了數百億美元。沒有他的掌舵，創辦人和創投家正在為…做好準備。",
+      "title": "Nvidia 的安全團隊在哪裡？",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "summary": "Nvidia 的安全主管於 8 月悄悄離職，現在執行長黃仁勳因人際關係問題辭職，我…",
       "source": "TechCrunch"
     },
     {
-      "title": "AI代理新創公司LangChain估值達30億美元",
-      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-      "summary": "LangChain 目前聲稱其模型和平台無關的代理管理工具 LangSmith 擁有 7,000 名客戶。",
+      "title": "馬斯克 (Elon Musk) 和其他科技高管簽署請願書，呼籲 Nvidia 恢復黃仁勳 (Jensen Huang) 的職位",
+      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "summary": "截至週六下午，請願書已吸引超過 115,000 個簽名。",
       "source": "TechCrunch"
     },
     {
-      "title": "被禁止出口的 Nvidia 晶片是中國最強大的人工智慧模型的背後——呃，詹森！",
-      "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
-      "summary": "新研究表明，中國最先進的人工智慧模型是在被禁的英偉達晶片上訓練的。",
+      "title": "人工智慧墓地：未成功的項目和新創公司的清單",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "亞洲各國政府對英偉達執行長黃仁勳的退出做出反應",
+      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "summary": "一些政府已採取行動確認晶片供應承諾，而另一些政府則正在監測對當地項目或…的影響。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "伯恩州 (Burnstate)",
-      "link": "https://www.producthunt.com/products/burnstate",
-      "desc": "Claude Code, Codex & Cursor limits, paced in your menu bar Discussion | Link",
-      "title_en": "Burnstate"
+      "title": "立即招聘 (HiringNow)",
+      "link": "https://www.producthunt.com/products/hiringnow",
+      "desc": "人工智慧求職代理可以先於其他人找到並申請工作。討論 |關聯",
+      "title_en": "HiringNow"
     },
     {
-      "title": "GA趨勢 (GAtrends)",
-      "link": "https://www.producthunt.com/products/gatrends",
-      "desc": "Telegram、Claude、ChatGPT 討論中的關鍵字出現峰值警報關聯",
-      "title_en": "GAtrends"
+      "title": "雷 (Thunder)",
+      "link": "https://www.producthunt.com/products/thunder-3",
+      "desc": "一個超快、持久、鍵值 AI 工作負載資料庫關聯",
+      "title_en": "Thunder"
     },
     {
-      "title": "複製 (Replicate)",
-      "link": "https://www.producthunt.com/products/replicate-10",
-      "desc": "免費將 Webflow/Framer 應用程式轉換為 Claude/Codex 專案關聯",
-      "title_en": "Replicate"
+      "title": "前言 (Antelog)",
+      "link": "https://www.producthunt.com/products/antelog",
+      "desc": "阻止人工智慧編碼代理洩漏或破壞您的資料關聯",
+      "title_en": "Antelog"
     },
     {
-      "title": "簡化人工智慧 (Templify AI)",
-      "link": "https://www.producthunt.com/products/templify",
-      "desc": "適合非編輯人員的強大內容編輯器關聯",
-      "title_en": "Templify AI"
+      "title": "程式碼網格 (CodeMesh)",
+      "link": "https://www.producthunt.com/products/codemesh-2",
+      "desc": "將 AI 編碼成本降低 90% 討論 |關聯",
+      "title_en": "CodeMesh"
     },
     {
-      "title": "MCP培訓 (Trainn MCP)",
-      "link": "https://www.producthunt.com/products/trainn",
-      "desc": "透過任何 AI 聊天創建產品影片和課程關聯",
-      "title_en": "Trainn MCP"
+      "title": "可可努特使用者介面 (Kokonut UI)",
+      "link": "https://www.producthunt.com/products/kokonutui",
+      "desc": "適用於 AI 代理程式的開源 UI 元件關聯",
+      "title_en": "Kokonut UI"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-      "summary": "繼今年稍早推出 Dots AI 代理平台後，OpenAI 又推出了一款針對代理商的錢包。 ChatGPT 牆...",
+      "title": "解僱薩姆·奧爾特曼 (Sam Altman) 的 OpenAI 董事會成員表示，我們仍然不能信任人工智慧執行長",
+      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+      "summary": "今天，我正在與喬治大學安全與新興技術中心執行董事海倫·托納（Helen Toner）交談…",
       "source": "The Verge"
     },
     {
-      "title": "Claude的二重奏經紀人有點神經質，但出奇的樂於助人",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
-      "summary": "通常，我測試的產品不會幫助我寫下我的使用體驗。二重奏是不同的。Claude·杜埃特是…",
-      "source": "The Verge"
+      "title": "人工智慧墓地：未成功的項目和新創公司的清單",
+      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
-    "summary": "繼今年稍早推出 Dots AI 代理平台後，OpenAI 又推出了一款針對代理商的錢包。 ChatGPT 牆...",
+    "title": "解僱薩姆·奧爾特曼 (Sam Altman) 的 OpenAI 董事會成員表示，我們仍然不能信任人工智慧執行長",
+    "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+    "summary": "今天，我正在與喬治大學安全與新興技術中心執行董事海倫·托納（Helen Toner）交談…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -17220,6 +17208,101 @@
         "title": "ChatGPT 錢包可讓 OpenAI 的 Dots 代理為您購買",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
         "summary": "繼今年稍早推出 Dots AI 代理平台後，OpenAI 又推出了一款針對代理商的錢包。 ChatGPT 牆...",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-15": {
+      "news": [
+        {
+          "title": "解僱薩姆·奧爾特曼 (Sam Altman) 的 OpenAI 董事會成員表示，我們仍然不能信任人工智慧執行長",
+          "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "summary": "今天，我正在與喬治大學安全與新興技術中心執行董事海倫·托納（Helen Toner）交談…",
+          "source": "The Verge"
+        },
+        {
+          "title": "黃仁勳與富有遠見的表演者創辦人CEO的衰落",
+          "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+          "summary": "2025 年 1 月 6 日，Nvidia 執行長黃仁勳終於迎來了他的搖滾明星時刻。他高舉雙手，大步走上舞台…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Nvidia 的安全團隊在哪裡？",
+          "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+          "summary": "Nvidia 的安全主管於 8 月悄悄離職，現在執行長黃仁勳因人際關係問題辭職，我…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "馬斯克 (Elon Musk) 和其他科技高管簽署請願書，呼籲 Nvidia 恢復黃仁勳 (Jensen Huang) 的職位",
+          "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+          "summary": "截至週六下午，請願書已吸引超過 115,000 個簽名。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "人工智慧墓地：未成功的項目和新創公司的清單",
+          "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "亞洲各國政府對英偉達執行長黃仁勳的退出做出反應",
+          "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+          "summary": "一些政府已採取行動確認晶片供應承諾，而另一些政府則正在監測對當地項目或…的影響。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "立即招聘 (HiringNow)",
+          "link": "https://www.producthunt.com/products/hiringnow",
+          "desc": "人工智慧求職代理可以先於其他人找到並申請工作。討論 |關聯",
+          "title_en": "HiringNow"
+        },
+        {
+          "title": "雷 (Thunder)",
+          "link": "https://www.producthunt.com/products/thunder-3",
+          "desc": "一個超快、持久、鍵值 AI 工作負載資料庫關聯",
+          "title_en": "Thunder"
+        },
+        {
+          "title": "前言 (Antelog)",
+          "link": "https://www.producthunt.com/products/antelog",
+          "desc": "阻止人工智慧編碼代理洩漏或破壞您的資料關聯",
+          "title_en": "Antelog"
+        },
+        {
+          "title": "程式碼網格 (CodeMesh)",
+          "link": "https://www.producthunt.com/products/codemesh-2",
+          "desc": "將 AI 編碼成本降低 90% 討論 |關聯",
+          "title_en": "CodeMesh"
+        },
+        {
+          "title": "可可努特使用者介面 (Kokonut UI)",
+          "link": "https://www.producthunt.com/products/kokonutui",
+          "desc": "適用於 AI 代理程式的開源 UI 元件關聯",
+          "title_en": "Kokonut UI"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "解僱薩姆·奧爾特曼 (Sam Altman) 的 OpenAI 董事會成員表示，我們仍然不能信任人工智慧執行長",
+          "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+          "summary": "今天，我正在與喬治大學安全與新興技術中心執行董事海倫·托納（Helen Toner）交談…",
+          "source": "The Verge"
+        },
+        {
+          "title": "人工智慧墓地：未成功的項目和新創公司的清單",
+          "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "解僱薩姆·奧爾特曼 (Sam Altman) 的 OpenAI 董事會成員表示，我們仍然不能信任人工智慧執行長",
+        "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+        "summary": "今天，我正在與喬治大學安全與新興技術中心執行董事海倫·托納（Helen Toner）交談…",
         "source": "The Verge"
       },
       "steve_ideas": []
