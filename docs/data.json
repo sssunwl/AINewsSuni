@@ -1,95 +1,101 @@
 {
-  "updated": "2026-11-15 15:30 HKT",
+  "updated": "2026-11-16 15:36 HKT",
   "news": [
     {
-      "title": "解僱薩姆·奧爾特曼 (Sam Altman) 的 OpenAI 董事會成員表示，我們仍然不能信任人工智慧執行長",
-      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "summary": "今天，我正在與喬治大學安全與新興技術中心執行董事海倫·托納（Helen Toner）交談…",
+      "title": "蘋果的新研究旨在提高人工智慧健康工具的有效性",
+      "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "summary": "蘋果今天宣布了一項新研究，旨在更好地了解人們如何與對話式人工智慧健康互動…",
       "source": "The Verge"
     },
     {
-      "title": "黃仁勳與富有遠見的表演者創辦人CEO的衰落",
-      "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
-      "summary": "2025 年 1 月 6 日，Nvidia 執行長黃仁勳終於迎來了他的搖滾明星時刻。他高舉雙手，大步走上舞台…",
+      "title": "黃仁勳可能正在策劃回歸以及更多最新的 Nvidia 戲劇",
+      "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+      "summary": "圍繞著英偉達聯合創始人兼前首席執行官黃仁勳的戲劇正在迅速演變。我們的最新版本的後退n…",
       "source": "The Verge"
     },
     {
-      "title": "Nvidia 的安全團隊在哪裡？",
-      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-      "summary": "Nvidia 的安全主管於 8 月悄悄離職，現在執行長黃仁勳因人際關係問題辭職，我…",
+      "title": "在英偉達間諜醜聞後，國會希望收緊人工智慧晶片的出口規定",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+      "summary": "不出所料，在涉及英偉達前首席執行官黃仁勳和一名涉嫌中國間諜的醜聞之後，國會…",
+      "source": "The Verge"
+    },
+    {
+      "title": "黃仁勳亂七八糟的日子概述",
+      "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+      "summary": "這是《The Stepback》，一份每週簡訊，詳細介紹了科技界的重要故事。有关黄仁勋的更多信息……",
+      "source": "The Verge"
+    },
+    {
+      "title": "蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "summary": "蘋果的新研究應用程式將回答日常醫療問題",
       "source": "TechCrunch"
     },
     {
-      "title": "馬斯克 (Elon Musk) 和其他科技高管簽署請願書，呼籲 Nvidia 恢復黃仁勳 (Jensen Huang) 的職位",
-      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "summary": "截至週六下午，請願書已吸引超過 115,000 個簽名。",
+      "title": "印度晶片新創公司 Bharat Semi 獲得 2,400 萬美元種子輪融資，著眼於全球人工智慧感測器市場",
+      "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+      "summary": "Bharat Semi 表示，其人工智慧感測器技術已獲得包括 General Atomic 在內的公司的設計勝利…",
       "source": "TechCrunch"
     },
     {
-      "title": "人工智慧墓地：未成功的項目和新創公司的清單",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
+      "title": "黃仁勳的壞消息對人工智慧產業也是壞消息嗎？",
+      "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+      "summary": "“Jensen 就是 Nvidia，對吧？而且經濟的大部分發展都依賴 Nvidia。”",
       "source": "TechCrunch"
     },
     {
-      "title": "亞洲各國政府對英偉達執行長黃仁勳的退出做出反應",
-      "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-      "summary": "一些政府已採取行動確認晶片供應承諾，而另一些政府則正在監測對當地項目或…的影響。",
+      "title": "SNL 聚集所有科技大亨，上一堂關於約會和間諜活動的課",
+      "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+      "summary": "雖然尷尬、令人毛骨悚然的科技高管已成為《週六夜現場》中反覆出現的主題，但本週的這一集給了…",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "立即招聘 (HiringNow)",
-      "link": "https://www.producthunt.com/products/hiringnow",
-      "desc": "人工智慧求職代理可以先於其他人找到並申請工作。討論 |關聯",
-      "title_en": "HiringNow"
+      "title": "埃邁勒 (Emayler)",
+      "link": "https://www.producthunt.com/products/emayler",
+      "desc": "在您的網域上自訂電子郵件，消除令人頭痛的問題關聯",
+      "title_en": "Emayler"
     },
     {
-      "title": "雷 (Thunder)",
-      "link": "https://www.producthunt.com/products/thunder-3",
-      "desc": "一個超快、持久、鍵值 AI 工作負載資料庫關聯",
-      "title_en": "Thunder"
+      "title": "弗雷瓦納多人遊戲 (Frevana Multiplayer)",
+      "link": "https://www.producthunt.com/products/frevana-2",
+      "desc": "人工智慧可與您的團隊一起發展您的業務關聯",
+      "title_en": "Frevana Multiplayer"
     },
     {
-      "title": "前言 (Antelog)",
-      "link": "https://www.producthunt.com/products/antelog",
-      "desc": "阻止人工智慧編碼代理洩漏或破壞您的資料關聯",
-      "title_en": "Antelog"
+      "title": "像素辦公室 (Pixel Office)",
+      "link": "https://www.producthunt.com/products/pixel-office-3",
+      "desc": "在像素藝術辦公室管理一支人工智慧代理團隊關聯",
+      "title_en": "Pixel Office"
     },
     {
-      "title": "程式碼網格 (CodeMesh)",
-      "link": "https://www.producthunt.com/products/codemesh-2",
-      "desc": "將 AI 編碼成本降低 90% 討論 |關聯",
-      "title_en": "CodeMesh"
+      "title": "代理畫布 (Agentic Canvas)",
+      "link": "https://www.producthunt.com/products/agentgrid-io",
+      "desc": "Free Agentic Design Canvas - 與 AI 合作的視覺方式討論 |關聯",
+      "title_en": "Agentic Canvas"
     },
     {
-      "title": "可可努特使用者介面 (Kokonut UI)",
-      "link": "https://www.producthunt.com/products/kokonutui",
-      "desc": "適用於 AI 代理程式的開源 UI 元件關聯",
-      "title_en": "Kokonut UI"
+      "title": "塔林 (Talyn)",
+      "link": "https://www.producthunt.com/products/talyn",
+      "desc": "Run Claude Code and Codex in parallel cloud sandboxes Discussion | Link",
+      "title_en": "Talyn"
     }
   ],
   "suniverse_news": [],
-  "suniverse_tools": [],
-  "major": [
+  "suniverse_tools": [
     {
-      "title": "解僱薩姆·奧爾特曼 (Sam Altman) 的 OpenAI 董事會成員表示，我們仍然不能信任人工智慧執行長",
-      "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-      "summary": "今天，我正在與喬治大學安全與新興技術中心執行董事海倫·托納（Helen Toner）交談…",
-      "source": "The Verge"
-    },
-    {
-      "title": "人工智慧墓地：未成功的項目和新創公司的清單",
-      "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-      "summary": "從蘋果公司一再推遲 Siri AI 到 OpenAI 混亂的「超級應用程式」發布，以下是關閉的人工智慧專案…",
-      "source": "TechCrunch"
+      "title": "代理畫布 (Agentic Canvas)",
+      "link": "https://www.producthunt.com/products/agentgrid-io",
+      "desc": "Free Agentic Design Canvas - 與 AI 合作的視覺方式討論 |關聯",
+      "title_en": "Agentic Canvas"
     }
   ],
+  "major": [],
   "pick": {
-    "title": "解僱薩姆·奧爾特曼 (Sam Altman) 的 OpenAI 董事會成員表示，我們仍然不能信任人工智慧執行長",
-    "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-    "summary": "今天，我正在與喬治大學安全與新興技術中心執行董事海倫·托納（Helen Toner）交談…",
+    "title": "蘋果的新研究旨在提高人工智慧健康工具的有效性",
+    "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+    "summary": "蘋果今天宣布了一項新研究，旨在更好地了解人們如何與對話式人工智慧健康互動…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -17303,6 +17309,107 @@
         "title": "解僱薩姆·奧爾特曼 (Sam Altman) 的 OpenAI 董事會成員表示，我們仍然不能信任人工智慧執行長",
         "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
         "summary": "今天，我正在與喬治大學安全與新興技術中心執行董事海倫·托納（Helen Toner）交談…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-16": {
+      "news": [
+        {
+          "title": "蘋果的新研究旨在提高人工智慧健康工具的有效性",
+          "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+          "summary": "蘋果今天宣布了一項新研究，旨在更好地了解人們如何與對話式人工智慧健康互動…",
+          "source": "The Verge"
+        },
+        {
+          "title": "黃仁勳可能正在策劃回歸以及更多最新的 Nvidia 戲劇",
+          "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
+          "summary": "圍繞著英偉達聯合創始人兼前首席執行官黃仁勳的戲劇正在迅速演變。我們的最新版本的後退n…",
+          "source": "The Verge"
+        },
+        {
+          "title": "在英偉達間諜醜聞後，國會希望收緊人工智慧晶片的出口規定",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+          "summary": "不出所料，在涉及英偉達前首席執行官黃仁勳和一名涉嫌中國間諜的醜聞之後，國會…",
+          "source": "The Verge"
+        },
+        {
+          "title": "黃仁勳亂七八糟的日子概述",
+          "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+          "summary": "這是《The Stepback》，一份每週簡訊，詳細介紹了科技界的重要故事。有关黄仁勋的更多信息……",
+          "source": "The Verge"
+        },
+        {
+          "title": "蘋果推出新應用程式來研究人們如何利用人工智慧促進健康",
+          "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+          "summary": "蘋果的新研究應用程式將回答日常醫療問題",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "印度晶片新創公司 Bharat Semi 獲得 2,400 萬美元種子輪融資，著眼於全球人工智慧感測器市場",
+          "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+          "summary": "Bharat Semi 表示，其人工智慧感測器技術已獲得包括 General Atomic 在內的公司的設計勝利…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "黃仁勳的壞消息對人工智慧產業也是壞消息嗎？",
+          "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+          "summary": "“Jensen 就是 Nvidia，對吧？而且經濟的大部分發展都依賴 Nvidia。”",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "SNL 聚集所有科技大亨，上一堂關於約會和間諜活動的課",
+          "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+          "summary": "雖然尷尬、令人毛骨悚然的科技高管已成為《週六夜現場》中反覆出現的主題，但本週的這一集給了…",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "埃邁勒 (Emayler)",
+          "link": "https://www.producthunt.com/products/emayler",
+          "desc": "在您的網域上自訂電子郵件，消除令人頭痛的問題關聯",
+          "title_en": "Emayler"
+        },
+        {
+          "title": "弗雷瓦納多人遊戲 (Frevana Multiplayer)",
+          "link": "https://www.producthunt.com/products/frevana-2",
+          "desc": "人工智慧可與您的團隊一起發展您的業務關聯",
+          "title_en": "Frevana Multiplayer"
+        },
+        {
+          "title": "像素辦公室 (Pixel Office)",
+          "link": "https://www.producthunt.com/products/pixel-office-3",
+          "desc": "在像素藝術辦公室管理一支人工智慧代理團隊關聯",
+          "title_en": "Pixel Office"
+        },
+        {
+          "title": "代理畫布 (Agentic Canvas)",
+          "link": "https://www.producthunt.com/products/agentgrid-io",
+          "desc": "Free Agentic Design Canvas - 與 AI 合作的視覺方式討論 |關聯",
+          "title_en": "Agentic Canvas"
+        },
+        {
+          "title": "塔林 (Talyn)",
+          "link": "https://www.producthunt.com/products/talyn",
+          "desc": "Run Claude Code and Codex in parallel cloud sandboxes Discussion | Link",
+          "title_en": "Talyn"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [
+        {
+          "title": "代理畫布 (Agentic Canvas)",
+          "link": "https://www.producthunt.com/products/agentgrid-io",
+          "desc": "Free Agentic Design Canvas - 與 AI 合作的視覺方式討論 |關聯",
+          "title_en": "Agentic Canvas"
+        }
+      ],
+      "major": [],
+      "pick": {
+        "title": "蘋果的新研究旨在提高人工智慧健康工具的有效性",
+        "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+        "summary": "蘋果今天宣布了一項新研究，旨在更好地了解人們如何與對話式人工智慧健康互動…",
         "source": "The Verge"
       },
       "steve_ideas": []
