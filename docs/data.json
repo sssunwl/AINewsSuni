@@ -1,108 +1,101 @@
 {
-  "updated": "2026-11-18 16:10 HKT",
+  "updated": "2026-11-19 16:21 HKT",
   "news": [
     {
-      "title": "薩蒂亞·納德拉 (Satya Nadella) 表示，他現在已經被 AGI 佔據了",
-      "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-      "summary": "微軟執行長薩蒂亞·納德拉 (Satya Nadella) 表示，他對 AGI 著迷，至少在人工智慧如何為世界帶來驚人的改變方面是如此…",
+      "title": "美國最大的學區考慮放棄 Google 搜索",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "summary": "在Google表示將禁用 Se 後，紐約、洛杉磯和芝加哥的學校正在考慮Google的替代品。",
       "source": "The Verge"
     },
     {
-      "title": "英偉達第三季財報達到預期目標，卻沒有提及整個黃仁勳事件",
-      "link": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
-      "summary": "Nvidia 臨時執行長 Colette Kress 週二宣布了該公司第三季收益，但最初沒有提及前執行長…",
+      "title": "川普最新的土地是菲律賓的人工智慧中心",
+      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, acco…",
       "source": "The Verge"
     },
     {
-      "title": "就連山姆·奧爾特曼 (Sam Altman) 也無法倖免於 Instagram 上的人工智慧深度偽造",
-      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-      "summary": "Instagram 上充斥著發布深度造假內容的人，其中包括最近來自 Meta 最著名的執行官之一的內容…",
+      "title": "Nvidia 的崛起，視覺化",
+      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+      "summary": "如果有人每秒鐘給你 8,300 美元，你會怎麼做？這就是英偉達現在的純利潤。到......的時候 …",
       "source": "The Verge"
     },
     {
-      "title": "谷歌的 Spark AI 代理變成了「任務」——現在它是免費的",
-      "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-      "summary": "谷歌正在將其 Spark AI 代理重新命名為“Tasks”並免費使用。该功能由 Google 提供支持……",
+      "title": "科技訴訟定義為 2026 年——立法者希望更多",
+      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+      "summary": "只剩下幾週時間了，立法者正試圖在年底前通過針對網路傷害受害者的新保護措施…",
       "source": "The Verge"
     },
     {
-      "title": "美國司法部表示正在調查 Megaspeed",
-      "link": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
-      "summary": "司法部和商務部表示，他們正在調查總部位於新加坡的資料中心公司 Megaspeed…",
+      "title": "如果沒有人工智慧的糖爹來掌管，英偉達會是什麼樣子？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+      "summary": "如果光榮的人工智慧革命完全取決於一個人的福祉，那麼人工智慧可能不像我那麼強大…",
       "source": "The Verge"
     },
     {
-      "title": "黃仁勳表示他願意重新擔任 Nvidia 首席執行官",
-      "link": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
-      "summary": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of direct…",
+      "title": "迪士尼的新星球大戰電子動畫使用人工智慧與客人互動",
+      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+      "summary": "儘管迪士尼樂園中的電子動畫角色已經變得先進且栩栩如生，但它們通常要么堅持預先設定…",
       "source": "The Verge"
     },
     {
-      "title": "Nvidia 的新創公司股份激增至 $65B，但黃仁勳的退出使未來的交易受到質疑",
-      "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-      "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggress…",
-      "source": "TechCrunch"
+      "title": "還記得前沿人工智慧暫停嗎？晶片公司也沒有",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "summary": "今年夏天，OpenAI 暫停了其最大規模的前沿訓練計劃，因為其 AI 代理意外入侵了 Hugging Fac…",
+      "source": "The Verge"
     },
     {
-      "title": "英偉達承諾目前收入將繼續飆升",
-      "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-      "summary": "儘管在名譽掃地的創始人兼首席執行官黃仁勳離職後，英偉達陷入了混亂，但該公司預計…",
-      "source": "TechCrunch"
+      "title": "威爾·賴特的下一款遊戲將使用人工智慧來繪製你的記憶",
+      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+      "summary": "威爾·賴特 (Will Wright) 是《模擬城市》(SimCity) 和《模擬市民》(The Sims) 等傳奇系列的創造者，他正在開發一款新遊戲 - 而且它是基於...",
+      "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "可以適應 (canfit)",
-      "link": "https://www.producthunt.com/products/canfit",
-      "desc": "運行本地法學碩士和應用程式的人的頂級命令關聯",
-      "title_en": "canfit"
+      "title": "可透過 Context.dev 豐富 (Enrichable by Context.dev)",
+      "link": "https://www.producthunt.com/products/context-dev",
+      "desc": "用於豐富資料的開源 AI 電子表格討論 |關聯",
+      "title_en": "Enrichable by Context.dev"
     },
     {
-      "title": "推廣阿凡達人力資源套件 (Pitch Avatar HR Suite)",
-      "link": "https://www.producthunt.com/products/pitchavatar",
-      "desc": "使用對話式 AI 化身進行入職、培訓和交流 討論 |關聯",
-      "title_en": "Pitch Avatar HR Suite"
+      "title": "雷索拉IO (Rezora IO)",
+      "link": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
+      "desc": "Shopify 的 AI 語音代理：10 分鐘內上線 討論 |關聯",
+      "title_en": "Rezora IO"
     },
     {
-      "title": "燈塔 (Beacon)",
-      "link": "https://www.producthunt.com/products/beacon-26",
-      "desc": "Give your AI agent the browser you're already signed into Discussion | Link",
-      "title_en": "Beacon"
+      "title": "阿德賽德 (Adside)",
+      "link": "https://www.producthunt.com/products/adside",
+      "desc": "專門的人工智慧代理團隊為您管理付費廣告關聯",
+      "title_en": "Adside"
     },
     {
-      "title": "裝配AI-STT-3.7 (AssemblyAI-STT-3.7)",
-      "link": "https://www.producthunt.com/products/assemblyai",
-      "desc": "用於即時通話、語音代理和錄音的語音轉文字關聯",
-      "title_en": "AssemblyAI-STT-3.7"
+      "title": "海根阿凡達 6 (HeyGen Avatar 6)",
+      "link": "https://www.producthunt.com/products/heygen",
+      "desc": "看起來像你的人工智慧頭像模型討論|關聯",
+      "title_en": "HeyGen Avatar 6"
     },
     {
-      "title": "人工智慧畫布 (AI Canvas)",
-      "link": "https://www.producthunt.com/products/ai-canvas-2",
-      "desc": "A design system for AI agents to design badass interfaces Discussion | Link",
-      "title_en": "AI Canvas"
+      "title": "Room AI",
+      "link": "https://www.producthunt.com/products/room-ai-2",
+      "desc": "像設計師一樣與它交談。你的房間，一次換一個 討論 |關聯",
+      "title_en": "Room AI"
     }
   ],
-  "suniverse_news": [
+  "suniverse_news": [],
+  "suniverse_tools": [],
+  "major": [
     {
-      "title": "就連山姆·奧爾特曼 (Sam Altman) 也無法倖免於 Instagram 上的人工智慧深度偽造",
-      "link": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
-      "summary": "Instagram 上充斥著發布深度造假內容的人，其中包括最近來自 Meta 最著名的執行官之一的內容…",
+      "title": "還記得前沿人工智慧暫停嗎？晶片公司也沒有",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+      "summary": "今年夏天，OpenAI 暫停了其最大規模的前沿訓練計劃，因為其 AI 代理意外入侵了 Hugging Fac…",
       "source": "The Verge"
     }
   ],
-  "suniverse_tools": [
-    {
-      "title": "人工智慧畫布 (AI Canvas)",
-      "link": "https://www.producthunt.com/products/ai-canvas-2",
-      "desc": "A design system for AI agents to design badass interfaces Discussion | Link",
-      "title_en": "AI Canvas"
-    }
-  ],
-  "major": [],
   "pick": {
-    "title": "薩蒂亞·納德拉 (Satya Nadella) 表示，他現在已經被 AGI 佔據了",
-    "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
-    "summary": "微軟執行長薩蒂亞·納德拉 (Satya Nadella) 表示，他對 AGI 著迷，至少在人工智慧如何為世界帶來驚人的改變方面是如此…",
+    "title": "還記得前沿人工智慧暫停嗎？晶片公司也沒有",
+    "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+    "summary": "今年夏天，OpenAI 暫停了其最大規模的前沿訓練計劃，因為其 AI 代理意外入侵了 Hugging Fac…",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -17638,6 +17631,107 @@
         "title": "薩蒂亞·納德拉 (Satya Nadella) 表示，他現在已經被 AGI 佔據了",
         "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
         "summary": "微軟執行長薩蒂亞·納德拉 (Satya Nadella) 表示，他對 AGI 著迷，至少在人工智慧如何為世界帶來驚人的改變方面是如此…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-19": {
+      "news": [
+        {
+          "title": "美國最大的學區考慮放棄 Google 搜索",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+          "summary": "在Google表示將禁用 Se 後，紐約、洛杉磯和芝加哥的學校正在考慮Google的替代品。",
+          "source": "The Verge"
+        },
+        {
+          "title": "川普最新的土地是菲律賓的人工智慧中心",
+          "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+          "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, acco…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Nvidia 的崛起，視覺化",
+          "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+          "summary": "如果有人每秒鐘給你 8,300 美元，你會怎麼做？這就是英偉達現在的純利潤。到......的時候 …",
+          "source": "The Verge"
+        },
+        {
+          "title": "科技訴訟定義為 2026 年——立法者希望更多",
+          "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
+          "summary": "只剩下幾週時間了，立法者正試圖在年底前通過針對網路傷害受害者的新保護措施…",
+          "source": "The Verge"
+        },
+        {
+          "title": "如果沒有人工智慧的糖爹來掌管，英偉達會是什麼樣子？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
+          "summary": "如果光榮的人工智慧革命完全取決於一個人的福祉，那麼人工智慧可能不像我那麼強大…",
+          "source": "The Verge"
+        },
+        {
+          "title": "迪士尼的新星球大戰電子動畫使用人工智慧與客人互動",
+          "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
+          "summary": "儘管迪士尼樂園中的電子動畫角色已經變得先進且栩栩如生，但它們通常要么堅持預先設定…",
+          "source": "The Verge"
+        },
+        {
+          "title": "還記得前沿人工智慧暫停嗎？晶片公司也沒有",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+          "summary": "今年夏天，OpenAI 暫停了其最大規模的前沿訓練計劃，因為其 AI 代理意外入侵了 Hugging Fac…",
+          "source": "The Verge"
+        },
+        {
+          "title": "威爾·賴特的下一款遊戲將使用人工智慧來繪製你的記憶",
+          "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
+          "summary": "威爾·賴特 (Will Wright) 是《模擬城市》(SimCity) 和《模擬市民》(The Sims) 等傳奇系列的創造者，他正在開發一款新遊戲 - 而且它是基於...",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "可透過 Context.dev 豐富 (Enrichable by Context.dev)",
+          "link": "https://www.producthunt.com/products/context-dev",
+          "desc": "用於豐富資料的開源 AI 電子表格討論 |關聯",
+          "title_en": "Enrichable by Context.dev"
+        },
+        {
+          "title": "雷索拉IO (Rezora IO)",
+          "link": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
+          "desc": "Shopify 的 AI 語音代理：10 分鐘內上線 討論 |關聯",
+          "title_en": "Rezora IO"
+        },
+        {
+          "title": "阿德賽德 (Adside)",
+          "link": "https://www.producthunt.com/products/adside",
+          "desc": "專門的人工智慧代理團隊為您管理付費廣告關聯",
+          "title_en": "Adside"
+        },
+        {
+          "title": "海根阿凡達 6 (HeyGen Avatar 6)",
+          "link": "https://www.producthunt.com/products/heygen",
+          "desc": "看起來像你的人工智慧頭像模型討論|關聯",
+          "title_en": "HeyGen Avatar 6"
+        },
+        {
+          "title": "Room AI",
+          "link": "https://www.producthunt.com/products/room-ai-2",
+          "desc": "像設計師一樣與它交談。你的房間，一次換一個 討論 |關聯",
+          "title_en": "Room AI"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "還記得前沿人工智慧暫停嗎？晶片公司也沒有",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+          "summary": "今年夏天，OpenAI 暫停了其最大規模的前沿訓練計劃，因為其 AI 代理意外入侵了 Hugging Fac…",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "還記得前沿人工智慧暫停嗎？晶片公司也沒有",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
+        "summary": "今年夏天，OpenAI 暫停了其最大規模的前沿訓練計劃，因為其 AI 代理意外入侵了 Hugging Fac…",
         "source": "The Verge"
       },
       "steve_ideas": []
