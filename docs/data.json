@@ -1,101 +1,113 @@
 {
-  "updated": "2026-11-19 16:21 HKT",
+  "updated": "2026-11-20 16:01 HKT",
   "news": [
     {
-      "title": "美國最大的學區考慮放棄 Google 搜索",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-      "summary": "在Google表示將禁用 Se 後，紐約、洛杉磯和芝加哥的學校正在考慮Google的替代品。",
+      "title": "蘋果正在招募工程師來建立自己的人工智慧代理",
+      "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "summary": "蘋果正在開發自己的人工智慧代理，它可以為你執行一系列任務，包括瀏覽網頁、處理雜技…",
       "source": "The Verge"
     },
     {
-      "title": "川普最新的土地是菲律賓的人工智慧中心",
-      "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-      "summary": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, acco…",
+      "title": "英偉達近期股價波動簡史",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+      "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company'…",
       "source": "The Verge"
     },
     {
-      "title": "Nvidia 的崛起，視覺化",
-      "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-      "summary": "如果有人每秒鐘給你 8,300 美元，你會怎麼做？這就是英偉達現在的純利潤。到......的時候 …",
+      "title": "Meta 的 Muse Charm 可能售價 300 美元",
+      "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+      "summary": "Meta 計劃為 Muse Charm 定價，這是一個帶有螢幕的小工具，可以讓你與你的 Muse AI 代理聊天，價格為 $...",
       "source": "The Verge"
     },
     {
-      "title": "科技訴訟定義為 2026 年——立法者希望更多",
-      "link": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act",
-      "summary": "只剩下幾週時間了，立法者正試圖在年底前通過針對網路傷害受害者的新保護措施…",
+      "title": "Google將人工智慧聊天放在主頁上",
+      "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+      "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein,…",
       "source": "The Verge"
     },
     {
-      "title": "如果沒有人工智慧的糖爹來掌管，英偉達會是什麼樣子？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-      "summary": "如果光榮的人工智慧革命完全取決於一個人的福祉，那麼人工智慧可能不像我那麼強大…",
+      "title": "Mac 上的 Gemini 現在可以使用您的計算機",
+      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "summary": "適用於 macOS 的 Google Gemini 應用程式現在可以在電腦上使用，這意味著它可以幫助您「在本地完成多步驟任務...",
       "source": "The Verge"
     },
     {
-      "title": "迪士尼的新星球大戰電子動畫使用人工智慧與客人互動",
-      "link": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai",
-      "summary": "儘管迪士尼樂園中的電子動畫角色已經變得先進且栩栩如生，但它們通常要么堅持預先設定…",
+      "title": "Anthropic 開始在華爾街交易",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "summary": "Anthropic已正式上市。它開始在納斯達克交易，股票代碼為“ANT”，每股價格為 111.50 美元，…",
       "source": "The Verge"
     },
     {
-      "title": "還記得前沿人工智慧暫停嗎？晶片公司也沒有",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "summary": "今年夏天，OpenAI 暫停了其最大規模的前沿訓練計劃，因為其 AI 代理意外入侵了 Hugging Fac…",
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "summary": "ChatGPT 現在可以透過即時聽寫功能更快地從麥克風接收音訊提示，該功能可以在您...",
       "source": "The Verge"
     },
     {
-      "title": "威爾·賴特的下一款遊戲將使用人工智慧來繪製你的記憶",
-      "link": "https://www.theverge.com/games/1036140/will-wright-mymems-ai-game-interview",
-      "summary": "威爾·賴特 (Will Wright) 是《模擬城市》(SimCity) 和《模擬市民》(The Sims) 等傳奇系列的創造者，他正在開發一款新遊戲 - 而且它是基於...",
+      "title": "有史以來最大的 IPO，Anthropic 的「好人」聲譽岌岌可危",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+      "summary": "今天是 Anthropic 的新開始：籌備多年的 IPO，擊敗 SpaceX 成為有史以來最有價值的股票，哈…",
       "source": "The Verge"
     }
   ],
   "tools": [
     {
-      "title": "可透過 Context.dev 豐富 (Enrichable by Context.dev)",
-      "link": "https://www.producthunt.com/products/context-dev",
-      "desc": "用於豐富資料的開源 AI 電子表格討論 |關聯",
-      "title_en": "Enrichable by Context.dev"
+      "title": "康維薩福萊克斯 (Conversaflex)",
+      "link": "https://www.producthunt.com/products/conversaflex",
+      "desc": "AI speaking practice for multilingual teams Discussion | Link",
+      "title_en": "Conversaflex"
     },
     {
-      "title": "雷索拉IO (Rezora IO)",
-      "link": "https://www.producthunt.com/products/rezora-io-ai-calling-assistant",
-      "desc": "Shopify 的 AI 語音代理：10 分鐘內上線 討論 |關聯",
-      "title_en": "Rezora IO"
+      "title": "DMARC脈衝 (DMARC Pulse)",
+      "link": "https://www.producthunt.com/products/dmarc-pulse",
+      "desc": "找出誰用您的網域發送電子郵件 討論 |關聯",
+      "title_en": "DMARC Pulse"
     },
     {
-      "title": "阿德賽德 (Adside)",
-      "link": "https://www.producthunt.com/products/adside",
-      "desc": "專門的人工智慧代理團隊為您管理付費廣告關聯",
-      "title_en": "Adside"
+      "title": "特洛 (Telo)",
+      "link": "https://www.producthunt.com/products/telo-2",
+      "desc": "ChatGPT 和 Claude 中的 Apple Health 在任何國家/地區 討論 |關聯",
+      "title_en": "Telo"
     },
     {
-      "title": "海根阿凡達 6 (HeyGen Avatar 6)",
-      "link": "https://www.producthunt.com/products/heygen",
-      "desc": "看起來像你的人工智慧頭像模型討論|關聯",
-      "title_en": "HeyGen Avatar 6"
+      "title": "人工智慧網關 (AI Gateway)",
+      "link": "https://www.producthunt.com/products/ai-gateway-6",
+      "desc": "Manage your company's AI from one place Discussion | Link",
+      "title_en": "AI Gateway"
     },
     {
-      "title": "Room AI",
-      "link": "https://www.producthunt.com/products/room-ai-2",
-      "desc": "像設計師一樣與它交談。你的房間，一次換一個 討論 |關聯",
-      "title_en": "Room AI"
+      "title": "人工智慧通話 (AI Call)",
+      "link": "https://www.producthunt.com/products/ai-call",
+      "desc": "一個可以接聽並撥打您的業務電話的人工智慧關聯",
+      "title_en": "AI Call"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "還記得前沿人工智慧暫停嗎？晶片公司也沒有",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-      "summary": "今年夏天，OpenAI 暫停了其最大規模的前沿訓練計劃，因為其 AI 代理意外入侵了 Hugging Fac…",
+      "title": "Mac 上的 Gemini 現在可以使用您的計算機",
+      "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+      "summary": "適用於 macOS 的 Google Gemini 應用程式現在可以在電腦上使用，這意味著它可以幫助您「在本地完成多步驟任務...",
+      "source": "The Verge"
+    },
+    {
+      "title": "Anthropic 開始在華爾街交易",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+      "summary": "Anthropic已正式上市。它開始在納斯達克交易，股票代碼為“ANT”，每股價格為 111.50 美元，…",
+      "source": "The Verge"
+    },
+    {
+      "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+      "summary": "ChatGPT 現在可以透過即時聽寫功能更快地從麥克風接收音訊提示，該功能可以在您...",
       "source": "The Verge"
     }
   ],
   "pick": {
-    "title": "還記得前沿人工智慧暫停嗎？晶片公司也沒有",
-    "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
-    "summary": "今年夏天，OpenAI 暫停了其最大規模的前沿訓練計劃，因為其 AI 代理意外入侵了 Hugging Fac…",
+    "title": "Mac 上的 Gemini 現在可以使用您的計算機",
+    "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+    "summary": "適用於 macOS 的 Google Gemini 應用程式現在可以在電腦上使用，這意味著它可以幫助您「在本地完成多步驟任務...",
     "source": "The Verge"
   },
   "steve_ideas": [],
@@ -17732,6 +17744,119 @@
         "title": "還記得前沿人工智慧暫停嗎？晶片公司也沒有",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1036549/nvidia-amd-earnings-fall-2026-chips-pause-frontier-models",
         "summary": "今年夏天，OpenAI 暫停了其最大規模的前沿訓練計劃，因為其 AI 代理意外入侵了 Hugging Fac…",
+        "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-20": {
+      "news": [
+        {
+          "title": "蘋果正在招募工程師來建立自己的人工智慧代理",
+          "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+          "summary": "蘋果正在開發自己的人工智慧代理，它可以為你執行一系列任務，包括瀏覽網頁、處理雜技…",
+          "source": "The Verge"
+        },
+        {
+          "title": "英偉達近期股價波動簡史",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+          "summary": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company'…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Meta 的 Muse Charm 可能售價 300 美元",
+          "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+          "summary": "Meta 計劃為 Muse Charm 定價，這是一個帶有螢幕的小工具，可以讓你與你的 Muse AI 代理聊天，價格為 $...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Google將人工智慧聊天放在主頁上",
+          "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+          "summary": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein,…",
+          "source": "The Verge"
+        },
+        {
+          "title": "Mac 上的 Gemini 現在可以使用您的計算機",
+          "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+          "summary": "適用於 macOS 的 Google Gemini 應用程式現在可以在電腦上使用，這意味著它可以幫助您「在本地完成多步驟任務...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 開始在華爾街交易",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+          "summary": "Anthropic已正式上市。它開始在納斯達克交易，股票代碼為“ANT”，每股價格為 111.50 美元，…",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+          "summary": "ChatGPT 現在可以透過即時聽寫功能更快地從麥克風接收音訊提示，該功能可以在您...",
+          "source": "The Verge"
+        },
+        {
+          "title": "有史以來最大的 IPO，Anthropic 的「好人」聲譽岌岌可危",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1037459/anthropic-ipo-safe-ai-reputation-power-structure",
+          "summary": "今天是 Anthropic 的新開始：籌備多年的 IPO，擊敗 SpaceX 成為有史以來最有價值的股票，哈…",
+          "source": "The Verge"
+        }
+      ],
+      "tools": [
+        {
+          "title": "康維薩福萊克斯 (Conversaflex)",
+          "link": "https://www.producthunt.com/products/conversaflex",
+          "desc": "AI speaking practice for multilingual teams Discussion | Link",
+          "title_en": "Conversaflex"
+        },
+        {
+          "title": "DMARC脈衝 (DMARC Pulse)",
+          "link": "https://www.producthunt.com/products/dmarc-pulse",
+          "desc": "找出誰用您的網域發送電子郵件 討論 |關聯",
+          "title_en": "DMARC Pulse"
+        },
+        {
+          "title": "特洛 (Telo)",
+          "link": "https://www.producthunt.com/products/telo-2",
+          "desc": "ChatGPT 和 Claude 中的 Apple Health 在任何國家/地區 討論 |關聯",
+          "title_en": "Telo"
+        },
+        {
+          "title": "人工智慧網關 (AI Gateway)",
+          "link": "https://www.producthunt.com/products/ai-gateway-6",
+          "desc": "Manage your company's AI from one place Discussion | Link",
+          "title_en": "AI Gateway"
+        },
+        {
+          "title": "人工智慧通話 (AI Call)",
+          "link": "https://www.producthunt.com/products/ai-call",
+          "desc": "一個可以接聽並撥打您的業務電話的人工智慧關聯",
+          "title_en": "AI Call"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Mac 上的 Gemini 現在可以使用您的計算機",
+          "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+          "summary": "適用於 macOS 的 Google Gemini 應用程式現在可以在電腦上使用，這意味著它可以幫助您「在本地完成多步驟任務...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Anthropic 開始在華爾街交易",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1035384/anthropic-ipo-trading-nasdaq",
+          "summary": "Anthropic已正式上市。它開始在納斯達克交易，股票代碼為“ANT”，每股價格為 111.50 美元，…",
+          "source": "The Verge"
+        },
+        {
+          "title": "ChatGPT can transcribe as you speak now with Live Dictation",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1037634/openai-chatgpt-live-dictation",
+          "summary": "ChatGPT 現在可以透過即時聽寫功能更快地從麥克風接收音訊提示，該功能可以在您...",
+          "source": "The Verge"
+        }
+      ],
+      "pick": {
+        "title": "Mac 上的 Gemini 現在可以使用您的計算機",
+        "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+        "summary": "適用於 macOS 的 Google Gemini 應用程式現在可以在電腦上使用，這意味著它可以幫助您「在本地完成多步驟任務...",
         "source": "The Verge"
       },
       "steve_ideas": []
