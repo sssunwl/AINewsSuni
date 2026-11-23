@@ -1,96 +1,96 @@
 {
-  "updated": "2026-11-22 15:44 HKT",
+  "updated": "2026-11-23 16:32 HKT",
   "news": [
     {
-      "title": "聯合國未能就「殺手機器人」監管規則達成一致",
-      "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "summary": "本週在日內瓦舉行的聯合國外交官會議的議程項目之一是製定有關使用…的規則。",
+      "title": "我們還沒有看到最後一次重大技術中斷",
+      "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "summary": "在過去一周左右的時間裡，我們看到美國聯邦航空局 (FAA) 在全國範圍內停運，Outlook 發生了多天的中斷，導致整個公司…",
       "source": "The Verge"
     },
     {
-      "title": "Can Anthropic afford to put safety first?",
-      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final ep…",
+      "title": "《以撒的結合》開發商從 Repentance Plus 中刪除了 AI 音樂",
+      "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "summary": "《以撒的結合：懺悔 Plus》被發現後，最近幾天在 Steam 上遭到了評論轟炸…",
       "source": "The Verge"
     },
     {
-      "title": "Chess.com 的下一步是建立從麻將到數獨等經典遊戲的新中心",
-      "link": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "summary": "Chess.com 已準備好超越國際象棋領域。今年早些時候推出了無賭博撲克網站 Gambit 後，…",
+      "title": "振動編碼革命即將席捲所有電子設備",
+      "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "summary": "這是《The Stepback》，一份每週簡訊，詳細介紹了科技界的重要故事。有關氛圍的更多資訊...",
       "source": "The Verge"
     },
     {
-      "title": "Signal 限制行動螢幕截圖，因為它面臨人工智慧監控的“生存威脅”",
-      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "summary": "Signal 限制了用戶在 Android 和 iOS 應用程式中截取螢幕截圖的能力。",
+      "title": "Notable Capital、GIC 和 Baillie Gifford 如何在 Anthropic 首次公開募股前大舉押注",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary": "三位重要支持者分享了他們在 Anthropic 上投入數十億美元的信念的原因。",
       "source": "TechCrunch"
     },
     {
-      "title": "兩個 Nvidia 的故事",
-      "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "summary": "我們得到了英偉達的兩張截然不同的圖片——該公司最新的盈利報告與科技高管的大聲呼籲…",
+      "title": "OpenAI首席科學家對如何限制AI發展有思考",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary": "要確定人工智慧開發的速度限制，您需要就如何衡量速度達成一致。",
       "source": "TechCrunch"
     },
     {
-      "title": "以下是可以存在於您的簡訊中的頂級人工智慧代理",
-      "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-      "summary": "我們創建了一份最著名的人工智慧代理列表，這些代理可以存在於您的短信中，從一般助理到代理…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "向這家微劇新創公司出售人工智慧版本的臉會是好萊塢的未來嗎？",
-      "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "summary": "一名演員將自己的臉授權給一家微劇新創公司——這一趨勢在中國已經很流行。專家質疑…",
+      "title": "為什麼資料中心成為大型科技公司抵制的中心",
+      "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "記者帕里斯·馬克思拆開他的新書《超大規模》。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "更改聯絡人 (AlterContacts)",
-      "link": "https://www.producthunt.com/products/alter-contacts-ai-client-relationships",
-      "desc": "超前思考與超前行動的 AI 客戶關係助理 討論 |關聯",
-      "title_en": "AlterContacts"
+      "title": "自然基金網站 (naturefunding.org)",
+      "link": "https://www.producthunt.com/products/naturefunding-org",
+      "desc": "對自然項目的贈款，根據資助者頁面進行檢查關聯",
+      "title_en": "naturefunding.org"
     },
     {
-      "title": "縫合環 (Stitch Loop)",
-      "link": "https://www.producthunt.com/products/stitch-loop",
-      "desc": "谷歌的人工智慧代理可以修復並監視指標關聯",
-      "title_en": "Stitch Loop"
+      "title": "精實行動 (LeanTake)",
+      "link": "https://www.producthunt.com/products/leantake",
+      "desc": "4.1 MB 原生 Mac 螢幕錄影機 — 零導出等待關聯",
+      "title_en": "LeanTake"
     },
     {
-      "title": "宣傳 (Publicit)",
-      "link": "https://www.producthunt.com/products/publicit",
-      "desc": "面向行銷人員和人工智慧代理商的全通路廣告基礎設施關聯",
-      "title_en": "Publicit"
+      "title": "普蘭戈 (Plango)",
+      "link": "https://www.producthunt.com/products/plango",
+      "desc": "Plango 讓您的人工智慧代理商安全地整夜工作關聯",
+      "title_en": "Plango"
     },
     {
-      "title": "等待饋送 (WaitFeed)",
-      "link": "https://www.producthunt.com/products/waitfeed-2",
-      "desc": "技術提要內代理等待時間討論 |關聯",
-      "title_en": "WaitFeed"
+      "title": "阿什瓦 (Ashwa)",
+      "link": "https://www.producthunt.com/products/ashwa",
+      "desc": "你的人工智慧伴侶永遠不會忘記你所說的話 討論 |關聯",
+      "title_en": "Ashwa"
     },
     {
-      "title": "AI上下文流MCP (AI Context Flow MCP)",
-      "link": "https://www.producthunt.com/products/ai-context-flow",
-      "desc": "您控制的內存，同步到每個代理、工具和團隊關聯",
-      "title_en": "AI Context Flow MCP"
+      "title": "高斯個人學習代理 (Gauth Personal Study Agent)",
+      "link": "https://www.producthunt.com/products/gauth-ai-course",
+      "desc": "一個人工智慧學習代理，可以記住你在哪裡遇到困難關聯",
+      "title_en": "Gauth Personal Study Agent"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "Can Anthropic afford to put safety first?",
-      "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-      "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final ep…",
-      "source": "The Verge"
+      "title": "Notable Capital、GIC 和 Baillie Gifford 如何在 Anthropic 首次公開募股前大舉押注",
+      "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary": "三位重要支持者分享了他們在 Anthropic 上投入數十億美元的信念的原因。",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "OpenAI首席科學家對如何限制AI發展有思考",
+      "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary": "要確定人工智慧開發的速度限制，您需要就如何衡量速度達成一致。",
+      "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "Can Anthropic afford to put safety first?",
-    "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-    "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final ep…",
-    "source": "The Verge"
+    "title": "Notable Capital、GIC 和 Baillie Gifford 如何在 Anthropic 首次公開募股前大舉押注",
+    "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+    "summary": "三位重要支持者分享了他們在 Anthropic 上投入數十億美元的信念的原因。",
+    "source": "TechCrunch"
   },
   "steve_ideas": [],
   "history": {
@@ -18042,6 +18042,101 @@
         "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
         "summary": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final ep…",
         "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-23": {
+      "news": [
+        {
+          "title": "我們還沒有看到最後一次重大技術中斷",
+          "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+          "summary": "在過去一周左右的時間裡，我們看到美國聯邦航空局 (FAA) 在全國範圍內停運，Outlook 發生了多天的中斷，導致整個公司…",
+          "source": "The Verge"
+        },
+        {
+          "title": "《以撒的結合》開發商從 Repentance Plus 中刪除了 AI 音樂",
+          "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+          "summary": "《以撒的結合：懺悔 Plus》被發現後，最近幾天在 Steam 上遭到了評論轟炸…",
+          "source": "The Verge"
+        },
+        {
+          "title": "振動編碼革命即將席捲所有電子設備",
+          "link": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+          "summary": "這是《The Stepback》，一份每週簡訊，詳細介紹了科技界的重要故事。有關氛圍的更多資訊...",
+          "source": "The Verge"
+        },
+        {
+          "title": "Notable Capital、GIC 和 Baillie Gifford 如何在 Anthropic 首次公開募股前大舉押注",
+          "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+          "summary": "三位重要支持者分享了他們在 Anthropic 上投入數十億美元的信念的原因。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI首席科學家對如何限制AI發展有思考",
+          "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "summary": "要確定人工智慧開發的速度限制，您需要就如何衡量速度達成一致。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "為什麼資料中心成為大型科技公司抵制的中心",
+          "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+          "summary": "記者帕里斯·馬克思拆開他的新書《超大規模》。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "自然基金網站 (naturefunding.org)",
+          "link": "https://www.producthunt.com/products/naturefunding-org",
+          "desc": "對自然項目的贈款，根據資助者頁面進行檢查關聯",
+          "title_en": "naturefunding.org"
+        },
+        {
+          "title": "精實行動 (LeanTake)",
+          "link": "https://www.producthunt.com/products/leantake",
+          "desc": "4.1 MB 原生 Mac 螢幕錄影機 — 零導出等待關聯",
+          "title_en": "LeanTake"
+        },
+        {
+          "title": "普蘭戈 (Plango)",
+          "link": "https://www.producthunt.com/products/plango",
+          "desc": "Plango 讓您的人工智慧代理商安全地整夜工作關聯",
+          "title_en": "Plango"
+        },
+        {
+          "title": "阿什瓦 (Ashwa)",
+          "link": "https://www.producthunt.com/products/ashwa",
+          "desc": "你的人工智慧伴侶永遠不會忘記你所說的話 討論 |關聯",
+          "title_en": "Ashwa"
+        },
+        {
+          "title": "高斯個人學習代理 (Gauth Personal Study Agent)",
+          "link": "https://www.producthunt.com/products/gauth-ai-course",
+          "desc": "一個人工智慧學習代理，可以記住你在哪裡遇到困難關聯",
+          "title_en": "Gauth Personal Study Agent"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Notable Capital、GIC 和 Baillie Gifford 如何在 Anthropic 首次公開募股前大舉押注",
+          "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+          "summary": "三位重要支持者分享了他們在 Anthropic 上投入數十億美元的信念的原因。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI首席科學家對如何限制AI發展有思考",
+          "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+          "summary": "要確定人工智慧開發的速度限制，您需要就如何衡量速度達成一致。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Notable Capital、GIC 和 Baillie Gifford 如何在 Anthropic 首次公開募股前大舉押注",
+        "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+        "summary": "三位重要支持者分享了他們在 Anthropic 上投入數十億美元的信念的原因。",
+        "source": "TechCrunch"
       },
       "steve_ideas": []
     }
