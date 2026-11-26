@@ -1,108 +1,109 @@
 {
-  "updated": "2026-11-25 17:29 HKT",
+  "updated": "2026-11-26 17:07 HKT",
   "news": [
     {
-      "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
-      "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-      "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting …",
+      "title": "谷歌的客製化人工智慧影片來源專利描繪了娛樂業未來的黯淡景象",
+      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized…",
       "source": "The Verge"
     },
     {
-      "title": "David Fincher is being dragged for suspected use of AI in his latest film",
-      "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
-      "summary": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of…",
+      "title": "FCC 批准 SpaceX 將多達 100 萬顆資料中心衛星送入太空的計劃",
+      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+      "summary": "在周三的一份聲明中，FCC 表示已授權 SpaceX 部署多達 100 萬顆配備 AI 晶片的衛星…",
       "source": "The Verge"
     },
     {
-      "title": "Tidal will start banning AI-generated music next month",
-      "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
-      "summary": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 …",
+      "title": "沒有什麼可以全面展示其人工智慧耳機和充電盒",
+      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+      "summary": "在 12 月 8 日發布之前，沒有什麼可以更詳細地展示其即將推出的 AI 耳機。耳朵…",
       "source": "The Verge"
     },
     {
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia i…",
+      "title": "據報道，亞馬遜正在商談終止 Muse AI 購物街區",
+      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+      "summary": "據《堡壘》報道，亞馬遜已就讓 Meta 的 Muse AI 代理在其線上市場上購物進行了談判。",
       "source": "The Verge"
     },
     {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features i…",
+      "title": "Vivi 編碼是否已使開源成為合成器的新常態？",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear…",
       "source": "The Verge"
     },
     {
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-      "summary": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia'…",
+      "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
+      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "summary": "信用評等機構可能會將英偉達的信用評等下調至第四高評級AA-。",
       "source": "TechCrunch"
     },
     {
-      "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-      "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-      "summary": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "title": "OpenAI 表示，隨著 Chat 和 Work 的合併，ChatGPT 的大量使用者可能會更快達到極限",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI 將在 ChatGPT 中引入單一使用計量表，因為它結合了聊天和工作體驗。",
       "source": "TechCrunch"
     },
     {
-      "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-      "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-      "summary": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+      "title": "黃仁勳違反了英偉達的行為準則，他的員工可能不會忘記",
+      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+      "summary": "大多數行為準則都是企業文化的反映。就英偉達而言，這可能會產生後果。",
       "source": "TechCrunch"
     }
   ],
   "tools": [
     {
-      "title": "Homa IR Test",
-      "link": "https://www.producthunt.com/products/homa-ir-test",
-      "desc": "heath is main things Discussion | Link",
-      "title_en": "Homa IR Test"
+      "title": "奧坦特 (Ottante)",
+      "link": "https://www.producthunt.com/products/ottante",
+      "desc": "直接在 Mac 上檢查 AI 代理程式所做的工作關聯",
+      "title_en": "Ottante"
     },
     {
-      "title": "Airbot",
-      "link": "https://www.producthunt.com/products/airbots",
-      "desc": "The AI chief of staff that texts you first Discussion | Link",
-      "title_en": "Airbot"
+      "title": "弗拉 (Flurra)",
+      "link": "https://www.producthunt.com/products/flurra",
+      "desc": "請 Claude 或 ChatGPT 編輯您的影片 討論 |關聯",
+      "title_en": "Flurra"
     },
     {
-      "title": "Hai",
-      "link": "https://www.producthunt.com/products/hai-4",
-      "desc": "Your AI assistant that actually makes the phone call Discussion | Link",
-      "title_en": "Hai"
+      "title": "超幀 (Superframes)",
+      "link": "https://www.producthunt.com/products/superframes-ai-video-editor",
+      "desc": "介紹一位 AI 導演來編輯整個影片 討論 |關聯",
+      "title_en": "Superframes"
     },
     {
-      "title": "Canva MCP",
-      "link": "https://www.producthunt.com/products/canva",
-      "desc": "Turn any AI agent into a creative powerhouse Discussion | Link",
-      "title_en": "Canva MCP"
+      "title": "中心 (Hub)",
+      "link": "https://www.producthunt.com/products/hub-20",
+      "desc": "執行 100 個 Claude Code 或 Codex 會話，例如 5 次討論 |關聯",
+      "title_en": "Hub"
     },
     {
-      "title": "3way.Social MCP",
-      "link": "https://www.producthunt.com/products/3way-social",
-      "desc": "Ask your AI to find link partners. You approve the deals. Discussion | Link",
-      "title_en": "3way.Social MCP"
+      "title": "惠普辦公桌 (WhipDesk)",
+      "link": "https://www.producthunt.com/products/whipdesk",
+      "desc": "從您的手機控制人工智慧編碼代理 討論 |關聯",
+      "title_en": "WhipDesk"
     }
   ],
   "suniverse_news": [
     {
-      "title": "Jensen Huang deepfakes are the hot new AI slop",
-      "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
-      "summary": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia i…",
-      "source": "The Verge"
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "summary": "The New York Times is asking freelance photographers not to use the newest version of Adobe Photoshop because features i…",
+      "title": "谷歌的客製化人工智慧影片來源專利描繪了娛樂業未來的黯淡景象",
+      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized…",
       "source": "The Verge"
     }
   ],
   "suniverse_tools": [],
-  "major": [],
+  "major": [
+    {
+      "title": "OpenAI 表示，隨著 Chat 和 Work 的合併，ChatGPT 的大量使用者可能會更快達到極限",
+      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+      "summary": "OpenAI 將在 ChatGPT 中引入單一使用計量表，因為它結合了聊天和工作體驗。",
+      "source": "TechCrunch"
+    }
+  ],
   "pick": {
-    "title": "Jensen Huang reportedly tells Nvidia staff it&#8217;s ‘not true’ Trump got him rehired",
-    "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
-    "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting …",
-    "source": "The Verge"
+    "title": "OpenAI 表示，隨著 Chat 和 Work 的合併，ChatGPT 的大量使用者可能會更快達到極限",
+    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+    "summary": "OpenAI 將在 ChatGPT 中引入單一使用計量表，因為它結合了聊天和工作體驗。",
+    "source": "TechCrunch"
   },
   "steve_ideas": [],
   "history": {
@@ -18363,6 +18364,114 @@
         "link": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
         "summary": "Nvidia CEO Jensen Huang apologized to staff during his first all-hands since returning to the company, while attempting …",
         "source": "The Verge"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-26": {
+      "news": [
+        {
+          "title": "谷歌的客製化人工智慧影片來源專利描繪了娛樂業未來的黯淡景象",
+          "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+          "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized…",
+          "source": "The Verge"
+        },
+        {
+          "title": "FCC 批准 SpaceX 將多達 100 萬顆資料中心衛星送入太空的計劃",
+          "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
+          "summary": "在周三的一份聲明中，FCC 表示已授權 SpaceX 部署多達 100 萬顆配備 AI 晶片的衛星…",
+          "source": "The Verge"
+        },
+        {
+          "title": "沒有什麼可以全面展示其人工智慧耳機和充電盒",
+          "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
+          "summary": "在 12 月 8 日發布之前，沒有什麼可以更詳細地展示其即將推出的 AI 耳機。耳朵…",
+          "source": "The Verge"
+        },
+        {
+          "title": "據報道，亞馬遜正在商談終止 Muse AI 購物街區",
+          "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
+          "summary": "據《堡壘》報道，亞馬遜已就讓 Meta 的 Muse AI 代理在其線上市場上購物進行了談判。",
+          "source": "The Verge"
+        },
+        {
+          "title": "Vivi 編碼是否已使開源成為合成器的新常態？",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
+          "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear…",
+          "source": "The Verge"
+        },
+        {
+          "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
+          "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+          "summary": "信用評等機構可能會將英偉達的信用評等下調至第四高評級AA-。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "OpenAI 表示，隨著 Chat 和 Work 的合併，ChatGPT 的大量使用者可能會更快達到極限",
+          "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "summary": "OpenAI 將在 ChatGPT 中引入單一使用計量表，因為它結合了聊天和工作體驗。",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "黃仁勳違反了英偉達的行為準則，他的員工可能不會忘記",
+          "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+          "summary": "大多數行為準則都是企業文化的反映。就英偉達而言，這可能會產生後果。",
+          "source": "TechCrunch"
+        }
+      ],
+      "tools": [
+        {
+          "title": "奧坦特 (Ottante)",
+          "link": "https://www.producthunt.com/products/ottante",
+          "desc": "直接在 Mac 上檢查 AI 代理程式所做的工作關聯",
+          "title_en": "Ottante"
+        },
+        {
+          "title": "弗拉 (Flurra)",
+          "link": "https://www.producthunt.com/products/flurra",
+          "desc": "請 Claude 或 ChatGPT 編輯您的影片 討論 |關聯",
+          "title_en": "Flurra"
+        },
+        {
+          "title": "超幀 (Superframes)",
+          "link": "https://www.producthunt.com/products/superframes-ai-video-editor",
+          "desc": "介紹一位 AI 導演來編輯整個影片 討論 |關聯",
+          "title_en": "Superframes"
+        },
+        {
+          "title": "中心 (Hub)",
+          "link": "https://www.producthunt.com/products/hub-20",
+          "desc": "執行 100 個 Claude Code 或 Codex 會話，例如 5 次討論 |關聯",
+          "title_en": "Hub"
+        },
+        {
+          "title": "惠普辦公桌 (WhipDesk)",
+          "link": "https://www.producthunt.com/products/whipdesk",
+          "desc": "從您的手機控制人工智慧編碼代理 討論 |關聯",
+          "title_en": "WhipDesk"
+        }
+      ],
+      "suniverse_news": [
+        {
+          "title": "谷歌的客製化人工智慧影片來源專利描繪了娛樂業未來的黯淡景象",
+          "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+          "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized…",
+          "source": "The Verge"
+        }
+      ],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "OpenAI 表示，隨著 Chat 和 Work 的合併，ChatGPT 的大量使用者可能會更快達到極限",
+          "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+          "summary": "OpenAI 將在 ChatGPT 中引入單一使用計量表，因為它結合了聊天和工作體驗。",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "OpenAI 表示，隨著 Chat 和 Work 的合併，ChatGPT 的大量使用者可能會更快達到極限",
+        "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "summary": "OpenAI 將在 ChatGPT 中引入單一使用計量表，因為它結合了聊天和工作體驗。",
+        "source": "TechCrunch"
       },
       "steve_ideas": []
     }
