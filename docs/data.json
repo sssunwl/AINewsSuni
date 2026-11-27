@@ -1,108 +1,83 @@
 {
-  "updated": "2026-11-26 17:07 HKT",
+  "updated": "2026-11-27 17:23 HKT",
   "news": [
     {
-      "title": "谷歌的客製化人工智慧影片來源專利描繪了娛樂業未來的黯淡景象",
-      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized…",
+      "title": "42 個州的 AG 正試圖阻止 Character.AI 出售用戶的聊天內容",
+      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "summary": "由 42 名州總檢察長組成的聯盟正試圖阻止 Character.AI 在 C...",
       "source": "The Verge"
     },
     {
-      "title": "FCC 批准 SpaceX 將多達 100 萬顆資料中心衛星送入太空的計劃",
-      "link": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers",
-      "summary": "在周三的一份聲明中，FCC 表示已授權 SpaceX 部署多達 100 萬顆配備 AI 晶片的衛星…",
-      "source": "The Verge"
-    },
-    {
-      "title": "沒有什麼可以全面展示其人工智慧耳機和充電盒",
-      "link": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal",
-      "summary": "在 12 月 8 日發布之前，沒有什麼可以更詳細地展示其即將推出的 AI 耳機。耳朵…",
-      "source": "The Verge"
-    },
-    {
-      "title": "據報道，亞馬遜正在商談終止 Muse AI 購物街區",
-      "link": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions",
-      "summary": "據《堡壘》報道，亞馬遜已就讓 Meta 的 Muse AI 代理在其線上市場上購物進行了談判。",
-      "source": "The Verge"
-    },
-    {
-      "title": "Vivi 編碼是否已使開源成為合成器的新常態？",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/1040081/vibe-coding-open-source-music-firmware",
-      "summary": "The emergence of powerful vibe-coding agents and tools like Reverse Engineer Anything has caused chaos in the music gear…",
-      "source": "The Verge"
-    },
-    {
-      "title": "標準普爾考慮因治理和「關鍵人物」風險而下調英偉達信用評級",
-      "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
-      "summary": "信用評等機構可能會將英偉達的信用評等下調至第四高評級AA-。",
+      "title": "英偉達暫停向東南亞供應晶片",
+      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "summary": "英偉達已通知製造合作夥伴暫停向馬來西亞、新加坡、泰國和印尼運送伺服器，因為美國…",
       "source": "TechCrunch"
     },
     {
-      "title": "OpenAI 表示，隨著 Chat 和 Work 的合併，ChatGPT 的大量使用者可能會更快達到極限",
-      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "summary": "OpenAI 將在 ChatGPT 中引入單一使用計量表，因為它結合了聊天和工作體驗。",
+      "title": "Grand Theft Auto VI 證明了為什麼效率不是一種美德",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "summary": "在 Anthropic 進入公開市場的同一天，一款精心設計的人類電子遊戲成為最成功的遊戲之一…",
       "source": "TechCrunch"
     },
     {
-      "title": "黃仁勳違反了英偉達的行為準則，他的員工可能不會忘記",
-      "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
-      "summary": "大多數行為準則都是企業文化的反映。就英偉達而言，這可能會產生後果。",
-      "source": "TechCrunch"
+      "title": "下載：更好的仿生手和人工智慧的天然氣熱潮",
+      "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+      "summary": "這是今天的《下載》版本，這是我們的工作日通訊，每天提供世界上正在發生的事情…",
+      "source": "MIT Tech"
+    },
+    {
+      "title": "The next generation of bionic hands is here—and they can feel",
+      "link": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+      "summary": "阿維戴維森在青少年時期失去了左手。從那時起，他就裝了一些義肢。但他的最新作品卻有所不同…",
+      "source": "MIT Tech"
     }
   ],
   "tools": [
     {
-      "title": "奧坦特 (Ottante)",
-      "link": "https://www.producthunt.com/products/ottante",
-      "desc": "直接在 Mac 上檢查 AI 代理程式所做的工作關聯",
-      "title_en": "Ottante"
+      "title": "存款人工智慧 (Depost AI)",
+      "link": "https://www.producthunt.com/products/depost-ai",
+      "desc": "LinkedIn AI 代理可以了解什麼對您的品牌有效關聯",
+      "title_en": "Depost AI"
     },
     {
-      "title": "弗拉 (Flurra)",
-      "link": "https://www.producthunt.com/products/flurra",
-      "desc": "請 Claude 或 ChatGPT 編輯您的影片 討論 |關聯",
-      "title_en": "Flurra"
+      "title": "Prosed AI 2.0 + MCP",
+      "link": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "desc": "貴公司的話，彙編成書 討論|關聯",
+      "title_en": "Prosed AI 2.0 + MCP"
     },
     {
-      "title": "超幀 (Superframes)",
-      "link": "https://www.producthunt.com/products/superframes-ai-video-editor",
-      "desc": "介紹一位 AI 導演來編輯整個影片 討論 |關聯",
-      "title_en": "Superframes"
+      "title": "殺戮 (slay)",
+      "link": "https://www.producthunt.com/products/slay-3",
+      "desc": "AI composition guide camera app for iPhone Discussion | Link",
+      "title_en": "slay"
     },
     {
-      "title": "中心 (Hub)",
-      "link": "https://www.producthunt.com/products/hub-20",
-      "desc": "執行 100 個 Claude Code 或 Codex 會話，例如 5 次討論 |關聯",
-      "title_en": "Hub"
+      "title": "伍莫爾 (Woomool)",
+      "link": "https://www.producthunt.com/products/woomool",
+      "desc": "AI Canvas 讓思維變得有形 討論 |關聯",
+      "title_en": "Woomool"
     },
     {
-      "title": "惠普辦公桌 (WhipDesk)",
-      "link": "https://www.producthunt.com/products/whipdesk",
-      "desc": "從您的手機控制人工智慧編碼代理 討論 |關聯",
-      "title_en": "WhipDesk"
+      "title": "倍倍體 (Ploid)",
+      "link": "https://www.producthunt.com/products/ploid",
+      "desc": "人們在 2B+ 檔案中搜尋 AI 代理關聯",
+      "title_en": "Ploid"
     }
   ],
-  "suniverse_news": [
-    {
-      "title": "谷歌的客製化人工智慧影片來源專利描繪了娛樂業未來的黯淡景象",
-      "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-      "summary": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized…",
-      "source": "The Verge"
-    }
-  ],
+  "suniverse_news": [],
   "suniverse_tools": [],
   "major": [
     {
-      "title": "OpenAI 表示，隨著 Chat 和 Work 的合併，ChatGPT 的大量使用者可能會更快達到極限",
-      "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-      "summary": "OpenAI 將在 ChatGPT 中引入單一使用計量表，因為它結合了聊天和工作體驗。",
+      "title": "Grand Theft Auto VI 證明了為什麼效率不是一種美德",
+      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "summary": "在 Anthropic 進入公開市場的同一天，一款精心設計的人類電子遊戲成為最成功的遊戲之一…",
       "source": "TechCrunch"
     }
   ],
   "pick": {
-    "title": "OpenAI 表示，隨著 Chat 和 Work 的合併，ChatGPT 的大量使用者可能會更快達到極限",
-    "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
-    "summary": "OpenAI 將在 ChatGPT 中引入單一使用計量表，因為它結合了聊天和工作體驗。",
+    "title": "Grand Theft Auto VI 證明了為什麼效率不是一種美德",
+    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+    "summary": "在 Anthropic 進入公開市場的同一天，一款精心設計的人類電子遊戲成為最成功的遊戲之一…",
     "source": "TechCrunch"
   },
   "steve_ideas": [],
@@ -18471,6 +18446,89 @@
         "title": "OpenAI 表示，隨著 Chat 和 Work 的合併，ChatGPT 的大量使用者可能會更快達到極限",
         "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
         "summary": "OpenAI 將在 ChatGPT 中引入單一使用計量表，因為它結合了聊天和工作體驗。",
+        "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-27": {
+      "news": [
+        {
+          "title": "42 個州的 AG 正試圖阻止 Character.AI 出售用戶的聊天內容",
+          "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+          "summary": "由 42 名州總檢察長組成的聯盟正試圖阻止 Character.AI 在 C...",
+          "source": "The Verge"
+        },
+        {
+          "title": "英偉達暫停向東南亞供應晶片",
+          "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+          "summary": "英偉達已通知製造合作夥伴暫停向馬來西亞、新加坡、泰國和印尼運送伺服器，因為美國…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "Grand Theft Auto VI 證明了為什麼效率不是一種美德",
+          "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+          "summary": "在 Anthropic 進入公開市場的同一天，一款精心設計的人類電子遊戲成為最成功的遊戲之一…",
+          "source": "TechCrunch"
+        },
+        {
+          "title": "下載：更好的仿生手和人工智慧的天然氣熱潮",
+          "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
+          "summary": "這是今天的《下載》版本，這是我們的工作日通訊，每天提供世界上正在發生的事情…",
+          "source": "MIT Tech"
+        },
+        {
+          "title": "The next generation of bionic hands is here—and they can feel",
+          "link": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
+          "summary": "阿維戴維森在青少年時期失去了左手。從那時起，他就裝了一些義肢。但他的最新作品卻有所不同…",
+          "source": "MIT Tech"
+        }
+      ],
+      "tools": [
+        {
+          "title": "存款人工智慧 (Depost AI)",
+          "link": "https://www.producthunt.com/products/depost-ai",
+          "desc": "LinkedIn AI 代理可以了解什麼對您的品牌有效關聯",
+          "title_en": "Depost AI"
+        },
+        {
+          "title": "Prosed AI 2.0 + MCP",
+          "link": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+          "desc": "貴公司的話，彙編成書 討論|關聯",
+          "title_en": "Prosed AI 2.0 + MCP"
+        },
+        {
+          "title": "殺戮 (slay)",
+          "link": "https://www.producthunt.com/products/slay-3",
+          "desc": "AI composition guide camera app for iPhone Discussion | Link",
+          "title_en": "slay"
+        },
+        {
+          "title": "伍莫爾 (Woomool)",
+          "link": "https://www.producthunt.com/products/woomool",
+          "desc": "AI Canvas 讓思維變得有形 討論 |關聯",
+          "title_en": "Woomool"
+        },
+        {
+          "title": "倍倍體 (Ploid)",
+          "link": "https://www.producthunt.com/products/ploid",
+          "desc": "人們在 2B+ 檔案中搜尋 AI 代理關聯",
+          "title_en": "Ploid"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [
+        {
+          "title": "Grand Theft Auto VI 證明了為什麼效率不是一種美德",
+          "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+          "summary": "在 Anthropic 進入公開市場的同一天，一款精心設計的人類電子遊戲成為最成功的遊戲之一…",
+          "source": "TechCrunch"
+        }
+      ],
+      "pick": {
+        "title": "Grand Theft Auto VI 證明了為什麼效率不是一種美德",
+        "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+        "summary": "在 Anthropic 進入公開市場的同一天，一款精心設計的人類電子遊戲成為最成功的遊戲之一…",
         "source": "TechCrunch"
       },
       "steve_ideas": []
