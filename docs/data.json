@@ -1,84 +1,71 @@
 {
-  "updated": "2026-11-27 17:23 HKT",
+  "updated": "2026-11-28 16:39 HKT",
   "news": [
     {
-      "title": "42 個州的 AG 正試圖阻止 Character.AI 出售用戶的聊天內容",
-      "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-      "summary": "由 42 名州總檢察長組成的聯盟正試圖阻止 Character.AI 在 C...",
+      "title": "Android 的 DIY 小部件帶有一點氛圍編碼的樂趣",
+      "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+      "summary": "除了處理我的日曆之外，我還想讓人工智慧做一件事：告訴我我是否會錯過公車。我需要什麼…",
       "source": "The Verge"
     },
     {
-      "title": "英偉達暫停向東南亞供應晶片",
-      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "summary": "英偉達已通知製造合作夥伴暫停向馬來西亞、新加坡、泰國和印尼運送伺服器，因為美國…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Grand Theft Auto VI 證明了為什麼效率不是一種美德",
-      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-      "summary": "在 Anthropic 進入公開市場的同一天，一款精心設計的人類電子遊戲成為最成功的遊戲之一…",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "下載：更好的仿生手和人工智慧的天然氣熱潮",
-      "link": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom/",
-      "summary": "這是今天的《下載》版本，這是我們的工作日通訊，每天提供世界上正在發生的事情…",
+      "title": "下載：35 歲以下創新者提名已開放，仿生學之窗進入心靈",
+      "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+      "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
       "source": "MIT Tech"
     },
     {
-      "title": "The next generation of bionic hands is here—and they can feel",
-      "link": "https://www.technologyreview.com/2026/11/26/1149923/the-next-generation-of-bionic-hands-is-here-and-they-can-feel/",
-      "summary": "阿維戴維森在青少年時期失去了左手。從那時起，他就裝了一些義肢。但他的最新作品卻有所不同…",
+      "title": "我們的 2027 年 35 歲以下創新者競賽現已開放",
+      "link": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+      "summary": "每年，《麻省理工科技評論》的編輯都會選出 35 位世界頂尖的年輕科學家、企業家和發明家…",
+      "source": "MIT Tech"
+    },
+    {
+      "title": "尖端義肢如何幫助探索人類思維",
+      "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+      "summary": "在過去的幾周里，我一直在與亞歷山大（阿維）戴維森交談。 Avi 有很多值得注意的事情。 ……",
       "source": "MIT Tech"
     }
   ],
   "tools": [
     {
-      "title": "存款人工智慧 (Depost AI)",
-      "link": "https://www.producthunt.com/products/depost-ai",
-      "desc": "LinkedIn AI 代理可以了解什麼對您的品牌有效關聯",
-      "title_en": "Depost AI"
+      "title": "空調室 (airoom)",
+      "link": "https://www.producthunt.com/products/airoom",
+      "desc": "為您的 Claude Code 代理提供的開源控制室關聯",
+      "title_en": "airoom"
     },
     {
-      "title": "Prosed AI 2.0 + MCP",
-      "link": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "desc": "貴公司的話，彙編成書 討論|關聯",
-      "title_en": "Prosed AI 2.0 + MCP"
+      "title": "腸道檢查 (gutcheck)",
+      "link": "https://www.producthunt.com/products/gutcheck-2",
+      "desc": "Check your gut against the internet, inside Claude Code Discussion | Link",
+      "title_en": "gutcheck"
     },
     {
-      "title": "殺戮 (slay)",
-      "link": "https://www.producthunt.com/products/slay-3",
-      "desc": "AI composition guide camera app for iPhone Discussion | Link",
-      "title_en": "slay"
+      "title": "保留智商 (RetainIQ)",
+      "link": "https://www.producthunt.com/products/retainiq-2",
+      "desc": "了解哪些客戶需要關注、原因以及下一步該做什麼 討論 |關聯",
+      "title_en": "RetainIQ"
     },
     {
-      "title": "伍莫爾 (Woomool)",
-      "link": "https://www.producthunt.com/products/woomool",
-      "desc": "AI Canvas 讓思維變得有形 討論 |關聯",
-      "title_en": "Woomool"
+      "title": "堆疊追蹤 (Stacktrace)",
+      "link": "https://www.producthunt.com/products/stacktrace",
+      "desc": "AI 代理的即時轉向和護欄討論 |關聯",
+      "title_en": "Stacktrace"
     },
     {
-      "title": "倍倍體 (Ploid)",
-      "link": "https://www.producthunt.com/products/ploid",
-      "desc": "人們在 2B+ 檔案中搜尋 AI 代理關聯",
-      "title_en": "Ploid"
+      "title": "星火人工智慧 (Spark AI)",
+      "link": "https://www.producthunt.com/products/spark-ai-7",
+      "desc": "AI-native permitting & diligence services for data centers Discussion | Link",
+      "title_en": "Spark AI"
     }
   ],
   "suniverse_news": [],
   "suniverse_tools": [],
-  "major": [
-    {
-      "title": "Grand Theft Auto VI 證明了為什麼效率不是一種美德",
-      "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-      "summary": "在 Anthropic 進入公開市場的同一天，一款精心設計的人類電子遊戲成為最成功的遊戲之一…",
-      "source": "TechCrunch"
-    }
-  ],
+  "major": [],
   "pick": {
-    "title": "Grand Theft Auto VI 證明了為什麼效率不是一種美德",
-    "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-    "summary": "在 Anthropic 進入公開市場的同一天，一款精心設計的人類電子遊戲成為最成功的遊戲之一…",
-    "source": "TechCrunch"
+    "title": "Android 的 DIY 小部件帶有一點氛圍編碼的樂趣",
+    "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+    "summary": "除了處理我的日曆之外，我還想讓人工智慧做一件事：告訴我我是否會錯過公車。我需要什麼…",
+    "source": "The Verge"
   },
   "steve_ideas": [],
   "history": {
@@ -18530,6 +18517,76 @@
         "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
         "summary": "在 Anthropic 進入公開市場的同一天，一款精心設計的人類電子遊戲成為最成功的遊戲之一…",
         "source": "TechCrunch"
+      },
+      "steve_ideas": []
+    },
+    "2026-11-28": {
+      "news": [
+        {
+          "title": "Android 的 DIY 小部件帶有一點氛圍編碼的樂趣",
+          "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+          "summary": "除了處理我的日曆之外，我還想讓人工智慧做一件事：告訴我我是否會錯過公車。我需要什麼…",
+          "source": "The Verge"
+        },
+        {
+          "title": "下載：35 歲以下創新者提名已開放，仿生學之窗進入心靈",
+          "link": "https://www.technologyreview.com/2026/11/27/1149960/the-download-the-download-innovators-under-35-nominations-bionic-hand/",
+          "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the wor…",
+          "source": "MIT Tech"
+        },
+        {
+          "title": "我們的 2027 年 35 歲以下創新者競賽現已開放",
+          "link": "https://www.technologyreview.com/2026/11/27/1149857/2027-innovators-under-35-competition-nominate/",
+          "summary": "每年，《麻省理工科技評論》的編輯都會選出 35 位世界頂尖的年輕科學家、企業家和發明家…",
+          "source": "MIT Tech"
+        },
+        {
+          "title": "尖端義肢如何幫助探索人類思維",
+          "link": "https://www.technologyreview.com/2026/11/27/1149946/cutting-edge-prosthetics-allow-researchers-to-probe-the-human-mind/",
+          "summary": "在過去的幾周里，我一直在與亞歷山大（阿維）戴維森交談。 Avi 有很多值得注意的事情。 ……",
+          "source": "MIT Tech"
+        }
+      ],
+      "tools": [
+        {
+          "title": "空調室 (airoom)",
+          "link": "https://www.producthunt.com/products/airoom",
+          "desc": "為您的 Claude Code 代理提供的開源控制室關聯",
+          "title_en": "airoom"
+        },
+        {
+          "title": "腸道檢查 (gutcheck)",
+          "link": "https://www.producthunt.com/products/gutcheck-2",
+          "desc": "Check your gut against the internet, inside Claude Code Discussion | Link",
+          "title_en": "gutcheck"
+        },
+        {
+          "title": "保留智商 (RetainIQ)",
+          "link": "https://www.producthunt.com/products/retainiq-2",
+          "desc": "了解哪些客戶需要關注、原因以及下一步該做什麼 討論 |關聯",
+          "title_en": "RetainIQ"
+        },
+        {
+          "title": "堆疊追蹤 (Stacktrace)",
+          "link": "https://www.producthunt.com/products/stacktrace",
+          "desc": "AI 代理的即時轉向和護欄討論 |關聯",
+          "title_en": "Stacktrace"
+        },
+        {
+          "title": "星火人工智慧 (Spark AI)",
+          "link": "https://www.producthunt.com/products/spark-ai-7",
+          "desc": "AI-native permitting & diligence services for data centers Discussion | Link",
+          "title_en": "Spark AI"
+        }
+      ],
+      "suniverse_news": [],
+      "suniverse_tools": [],
+      "major": [],
+      "pick": {
+        "title": "Android 的 DIY 小部件帶有一點氛圍編碼的樂趣",
+        "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+        "summary": "除了處理我的日曆之外，我還想讓人工智慧做一件事：告訴我我是否會錯過公車。我需要什麼…",
+        "source": "The Verge"
       },
       "steve_ideas": []
     }
